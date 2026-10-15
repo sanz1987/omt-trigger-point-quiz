@@ -1,0 +1,4016 @@
+{
+ "muscles": [
+  {
+   "id": "utrap",
+   "name": "Upper trapezius",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "mtrap",
+   "name": "Middle trapezius",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "ltrap",
+   "name": "Lower trapezius",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "levator",
+   "name": "Levator scapulae",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "splcap",
+   "name": "Splenius capitis",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "splcer",
+   "name": "Splenius cervicis",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "scm",
+   "name": "Sternocleidomastoid",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "rhmaj",
+   "name": "Rhomboid major",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "rhmin",
+   "name": "Rhomboid minor",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "serant",
+   "name": "Serratus anterior",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "pecmaj",
+   "name": "Pectoralis major",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "pecmin",
+   "name": "Pectoralis minor",
+   "region": "Neck & shoulder girdle"
+  },
+  {
+   "id": "deltoid",
+   "name": "Deltoid",
+   "region": "Shoulder & arm"
+  },
+  {
+   "id": "supra",
+   "name": "Supraspinatus",
+   "region": "Shoulder & arm"
+  },
+  {
+   "id": "infra",
+   "name": "Infraspinatus",
+   "region": "Shoulder & arm"
+  },
+  {
+   "id": "tmin",
+   "name": "Teres minor",
+   "region": "Shoulder & arm"
+  },
+  {
+   "id": "subscap",
+   "name": "Subscapularis",
+   "region": "Shoulder & arm"
+  },
+  {
+   "id": "biceps",
+   "name": "Biceps brachii",
+   "region": "Shoulder & arm"
+  },
+  {
+   "id": "brach",
+   "name": "Brachialis",
+   "region": "Shoulder & arm"
+  },
+  {
+   "id": "corbr",
+   "name": "Coracobrachialis",
+   "region": "Shoulder & arm"
+  },
+  {
+   "id": "triceps",
+   "name": "Triceps brachii",
+   "region": "Shoulder & arm"
+  },
+  {
+   "id": "brrad",
+   "name": "Brachioradialis",
+   "region": "Forearm"
+  },
+  {
+   "id": "ecrb",
+   "name": "Extensor carpi radialis brevis",
+   "region": "Forearm"
+  },
+  {
+   "id": "ecu",
+   "name": "Extensor carpi ulnaris",
+   "region": "Forearm"
+  },
+  {
+   "id": "ecrl",
+   "name": "Extensor carpi radialis longus",
+   "region": "Forearm"
+  },
+  {
+   "id": "fcr",
+   "name": "Flexor carpi radialis",
+   "region": "Forearm"
+  },
+  {
+   "id": "fcu",
+   "name": "Flexor carpi ulnaris",
+   "region": "Forearm"
+  },
+  {
+   "id": "ql",
+   "name": "Quadratus lumborum",
+   "region": "Lumbar & hip"
+  },
+  {
+   "id": "psoas",
+   "name": "Psoas major",
+   "region": "Lumbar & hip"
+  },
+  {
+   "id": "iliacus",
+   "name": "Iliacus",
+   "region": "Lumbar & hip"
+  },
+  {
+   "id": "gmed",
+   "name": "Gluteus medius",
+   "region": "Lumbar & hip"
+  },
+  {
+   "id": "gmin",
+   "name": "Gluteus minimus",
+   "region": "Lumbar & hip"
+  },
+  {
+   "id": "gmax",
+   "name": "Gluteus maximus",
+   "region": "Lumbar & hip"
+  },
+  {
+   "id": "tfl",
+   "name": "Tensor fasciae latae",
+   "region": "Lumbar & hip"
+  },
+  {
+   "id": "pirif",
+   "name": "Piriformis",
+   "region": "Lumbar & hip"
+  },
+  {
+   "id": "bf",
+   "name": "Biceps femoris",
+   "region": "Thigh"
+  },
+  {
+   "id": "st",
+   "name": "Semitendinosus",
+   "region": "Thigh"
+  },
+  {
+   "id": "sm",
+   "name": "Semimembranosus",
+   "region": "Thigh"
+  },
+  {
+   "id": "amag",
+   "name": "Adductor magnus",
+   "region": "Thigh"
+  },
+  {
+   "id": "alon",
+   "name": "Adductor longus",
+   "region": "Thigh"
+  },
+  {
+   "id": "abrev",
+   "name": "Adductor brevis",
+   "region": "Thigh"
+  },
+  {
+   "id": "rf",
+   "name": "Rectus femoris",
+   "region": "Thigh"
+  },
+  {
+   "id": "vl",
+   "name": "Vastus lateralis",
+   "region": "Thigh"
+  },
+  {
+   "id": "vm",
+   "name": "Vastus medialis",
+   "region": "Thigh"
+  },
+  {
+   "id": "vi",
+   "name": "Vastus intermedius",
+   "region": "Thigh"
+  },
+  {
+   "id": "gastroc",
+   "name": "Gastrocnemius",
+   "region": "Leg"
+  },
+  {
+   "id": "soleus",
+   "name": "Soleus",
+   "region": "Leg"
+  },
+  {
+   "id": "tibpost",
+   "name": "Tibialis posterior",
+   "region": "Leg"
+  },
+  {
+   "id": "tibant",
+   "name": "Tibialis anterior",
+   "region": "Leg"
+  },
+  {
+   "id": "fl",
+   "name": "Fibularis longus",
+   "region": "Leg"
+  },
+  {
+   "id": "fb",
+   "name": "Fibularis brevis",
+   "region": "Leg"
+  },
+  {
+   "id": "ft",
+   "name": "Fibularis tertius",
+   "region": "Leg"
+  }
+ ],
+ "questions": [
+  {
+   "muscle": "utrap",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Upper trapezius?",
+   "options": [
+    "External occipital protuberance, medial superior nuchal line and nuchal ligament",
+    "Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis",
+    "External surfaces of ribs 1–8 (or 9)",
+    "Ribs 3–5 near their costal cartilages"
+   ],
+   "answer": 0,
+   "explanation": "Upper trapezius — O: External occipital protuberance, medial superior nuchal line and nuchal ligament. I: Lateral third of the clavicle. A: Scapular elevation and upward rotation; ipsilateral neck side-bending and contralateral rotation.",
+   "id": 0
+  },
+  {
+   "muscle": "utrap",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Upper trapezius insert?",
+   "options": [
+    "Lateral third of the clavicle",
+    "Posterior tubercles of the transverse processes of C1–C3",
+    "Coracoid process of the scapula",
+    "Costal (anterior) surface of the medial border of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Upper trapezius — O: External occipital protuberance, medial superior nuchal line and nuchal ligament. I: Lateral third of the clavicle. A: Scapular elevation and upward rotation; ipsilateral neck side-bending and contralateral rotation.",
+   "id": 1
+  },
+  {
+   "muscle": "utrap",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Upper trapezius?",
+   "options": [
+    "Scapular elevation and upward rotation; ipsilateral neck side-bending and contralateral rotation",
+    "Scapular protraction and upward rotation; holds the scapula against the thoracic wall",
+    "Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration",
+    "Bilateral: neck extension; unilateral: ipsilateral neck rotation and side-bending"
+   ],
+   "answer": 0,
+   "explanation": "Upper trapezius — O: External occipital protuberance, medial superior nuchal line and nuchal ligament. I: Lateral third of the clavicle. A: Scapular elevation and upward rotation; ipsilateral neck side-bending and contralateral rotation.",
+   "id": 2
+  },
+  {
+   "muscle": "utrap",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Lateral third of the clavicle?",
+   "options": [
+    "Upper trapezius",
+    "Splenius cervicis",
+    "Serratus anterior",
+    "Pectoralis major"
+   ],
+   "answer": 0,
+   "explanation": "Upper trapezius — O: External occipital protuberance, medial superior nuchal line and nuchal ligament. I: Lateral third of the clavicle. A: Scapular elevation and upward rotation; ipsilateral neck side-bending and contralateral rotation.",
+   "id": 3
+  },
+  {
+   "muscle": "utrap",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: External occipital protuberance, medial superior nuchal line and nuchal ligament?",
+   "options": [
+    "Upper trapezius",
+    "Pectoralis minor",
+    "Splenius cervicis",
+    "Pectoralis major"
+   ],
+   "answer": 0,
+   "explanation": "Upper trapezius — O: External occipital protuberance, medial superior nuchal line and nuchal ligament. I: Lateral third of the clavicle. A: Scapular elevation and upward rotation; ipsilateral neck side-bending and contralateral rotation.",
+   "id": 4
+  },
+  {
+   "muscle": "mtrap",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Middle trapezius?",
+   "options": [
+    "Spinous processes and supraspinous ligaments of C7–T3",
+    "External surfaces of ribs 1–8 (or 9)",
+    "Ribs 3–5 near their costal cartilages",
+    "Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis"
+   ],
+   "answer": 0,
+   "explanation": "Middle trapezius — O: Spinous processes and supraspinous ligaments of C7–T3. I: Medial acromion and superior crest of the scapular spine. A: Scapular retraction (medial glide).",
+   "id": 5
+  },
+  {
+   "muscle": "mtrap",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Middle trapezius insert?",
+   "options": [
+    "Medial acromion and superior crest of the scapular spine",
+    "Lateral surface of the mastoid process and lateral half of the superior nuchal line",
+    "Coracoid process of the scapula",
+    "Costal (anterior) surface of the medial border of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Middle trapezius — O: Spinous processes and supraspinous ligaments of C7–T3. I: Medial acromion and superior crest of the scapular spine. A: Scapular retraction (medial glide).",
+   "id": 6
+  },
+  {
+   "muscle": "mtrap",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Middle trapezius?",
+   "options": [
+    "Scapular retraction (medial glide)",
+    "Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration",
+    "Shoulder adduction, medial rotation and flexion",
+    "Scapular protraction and upward rotation; holds the scapula against the thoracic wall"
+   ],
+   "answer": 0,
+   "explanation": "Middle trapezius — O: Spinous processes and supraspinous ligaments of C7–T3. I: Medial acromion and superior crest of the scapular spine. A: Scapular retraction (medial glide).",
+   "id": 7
+  },
+  {
+   "muscle": "mtrap",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Medial acromion and superior crest of the scapular spine?",
+   "options": [
+    "Middle trapezius",
+    "Levator scapulae",
+    "Pectoralis minor",
+    "Serratus anterior"
+   ],
+   "answer": 0,
+   "explanation": "Middle trapezius — O: Spinous processes and supraspinous ligaments of C7–T3. I: Medial acromion and superior crest of the scapular spine. A: Scapular retraction (medial glide).",
+   "id": 8
+  },
+  {
+   "muscle": "mtrap",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Spinous processes and supraspinous ligaments of C7–T3?",
+   "options": [
+    "Middle trapezius",
+    "Sternocleidomastoid",
+    "Serratus anterior",
+    "Pectoralis major"
+   ],
+   "answer": 0,
+   "explanation": "Middle trapezius — O: Spinous processes and supraspinous ligaments of C7–T3. I: Medial acromion and superior crest of the scapular spine. A: Scapular retraction (medial glide).",
+   "id": 9
+  },
+  {
+   "muscle": "ltrap",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Lower trapezius?",
+   "options": [
+    "Spinous processes and supraspinous ligaments of T4–T12",
+    "Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head)",
+    "External surfaces of ribs 1–8 (or 9)",
+    "Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis"
+   ],
+   "answer": 0,
+   "explanation": "Lower trapezius — O: Spinous processes and supraspinous ligaments of T4–T12. I: Medial end (root) of the scapular spine. A: Scapular depression and upward rotation (inferomedial glide).",
+   "id": 10
+  },
+  {
+   "muscle": "ltrap",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Lower trapezius insert?",
+   "options": [
+    "Medial end (root) of the scapular spine",
+    "Coracoid process of the scapula",
+    "Lateral surface of the mastoid process and lateral half of the superior nuchal line",
+    "Medial border of the scapula at the root of the spine"
+   ],
+   "answer": 0,
+   "explanation": "Lower trapezius — O: Spinous processes and supraspinous ligaments of T4–T12. I: Medial end (root) of the scapular spine. A: Scapular depression and upward rotation (inferomedial glide).",
+   "id": 11
+  },
+  {
+   "muscle": "ltrap",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Lower trapezius?",
+   "options": [
+    "Scapular depression and upward rotation (inferomedial glide)",
+    "Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending",
+    "Scapular retraction, elevation and downward rotation",
+    "Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration"
+   ],
+   "answer": 0,
+   "explanation": "Lower trapezius — O: Spinous processes and supraspinous ligaments of T4–T12. I: Medial end (root) of the scapular spine. A: Scapular depression and upward rotation (inferomedial glide).",
+   "id": 12
+  },
+  {
+   "muscle": "ltrap",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Medial end (root) of the scapular spine?",
+   "options": [
+    "Lower trapezius",
+    "Levator scapulae",
+    "Splenius capitis",
+    "Sternocleidomastoid"
+   ],
+   "answer": 0,
+   "explanation": "Lower trapezius — O: Spinous processes and supraspinous ligaments of T4–T12. I: Medial end (root) of the scapular spine. A: Scapular depression and upward rotation (inferomedial glide).",
+   "id": 13
+  },
+  {
+   "muscle": "ltrap",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Spinous processes and supraspinous ligaments of T4–T12?",
+   "options": [
+    "Lower trapezius",
+    "Sternocleidomastoid",
+    "Splenius capitis",
+    "Levator scapulae"
+   ],
+   "answer": 0,
+   "explanation": "Lower trapezius — O: Spinous processes and supraspinous ligaments of T4–T12. I: Medial end (root) of the scapular spine. A: Scapular depression and upward rotation (inferomedial glide).",
+   "id": 14
+  },
+  {
+   "muscle": "levator",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Levator scapulae?",
+   "options": [
+    "Transverse processes of C1–C4",
+    "External surfaces of ribs 1–8 (or 9)",
+    "Spinous processes and supraspinous ligaments of C7–T3",
+    "Spinous processes and supraspinous ligaments of T4–T12"
+   ],
+   "answer": 0,
+   "explanation": "Levator scapulae — O: Transverse processes of C1–C4. I: Medial border of the scapula, from superior angle to root of the spine. A: Scapular elevation and downward rotation.",
+   "id": 15
+  },
+  {
+   "muscle": "levator",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Levator scapulae insert?",
+   "options": [
+    "Medial border of the scapula, from superior angle to root of the spine",
+    "Lateral surface of the mastoid process and lateral half of the superior nuchal line",
+    "Lateral lip of the intertubercular (bicipital) groove of the humerus",
+    "Mastoid process and lateral third of the superior nuchal line"
+   ],
+   "answer": 0,
+   "explanation": "Levator scapulae — O: Transverse processes of C1–C4. I: Medial border of the scapula, from superior angle to root of the spine. A: Scapular elevation and downward rotation.",
+   "id": 16
+  },
+  {
+   "muscle": "levator",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Levator scapulae?",
+   "options": [
+    "Scapular elevation and downward rotation",
+    "Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending",
+    "Scapular retraction (medial glide)",
+    "Scapular depression and upward rotation (inferomedial glide)"
+   ],
+   "answer": 0,
+   "explanation": "Levator scapulae — O: Transverse processes of C1–C4. I: Medial border of the scapula, from superior angle to root of the spine. A: Scapular elevation and downward rotation.",
+   "id": 17
+  },
+  {
+   "muscle": "levator",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Medial border of the scapula, from superior angle to root of the spine?",
+   "options": [
+    "Levator scapulae",
+    "Middle trapezius",
+    "Pectoralis minor",
+    "Lower trapezius"
+   ],
+   "answer": 0,
+   "explanation": "Levator scapulae — O: Transverse processes of C1–C4. I: Medial border of the scapula, from superior angle to root of the spine. A: Scapular elevation and downward rotation.",
+   "id": 18
+  },
+  {
+   "muscle": "levator",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Transverse processes of C1–C4?",
+   "options": [
+    "Levator scapulae",
+    "Middle trapezius",
+    "Pectoralis major",
+    "Lower trapezius"
+   ],
+   "answer": 0,
+   "explanation": "Levator scapulae — O: Transverse processes of C1–C4. I: Medial border of the scapula, from superior angle to root of the spine. A: Scapular elevation and downward rotation.",
+   "id": 19
+  },
+  {
+   "muscle": "splcap",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Splenius capitis?",
+   "options": [
+    "Lower nuchal ligament and spinous processes of C7–T3",
+    "Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis",
+    "External surfaces of ribs 1–8 (or 9)",
+    "Spinous processes and supraspinous ligaments of T4–T12"
+   ],
+   "answer": 0,
+   "explanation": "Splenius capitis — O: Lower nuchal ligament and spinous processes of C7–T3. I: Mastoid process and lateral third of the superior nuchal line. A: Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending.",
+   "id": 20
+  },
+  {
+   "muscle": "splcap",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Splenius capitis insert?",
+   "options": [
+    "Mastoid process and lateral third of the superior nuchal line",
+    "Coracoid process of the scapula",
+    "Medial end (root) of the scapular spine",
+    "Medial border of the scapula, from superior angle to root of the spine"
+   ],
+   "answer": 0,
+   "explanation": "Splenius capitis — O: Lower nuchal ligament and spinous processes of C7–T3. I: Mastoid process and lateral third of the superior nuchal line. A: Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending.",
+   "id": 21
+  },
+  {
+   "muscle": "splcap",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Splenius capitis?",
+   "options": [
+    "Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending",
+    "Scapular protraction and upward rotation; holds the scapula against the thoracic wall",
+    "Shoulder adduction, medial rotation and flexion",
+    "Scapular elevation and downward rotation"
+   ],
+   "answer": 0,
+   "explanation": "Splenius capitis — O: Lower nuchal ligament and spinous processes of C7–T3. I: Mastoid process and lateral third of the superior nuchal line. A: Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending.",
+   "id": 22
+  },
+  {
+   "muscle": "splcap",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Mastoid process and lateral third of the superior nuchal line?",
+   "options": [
+    "Splenius capitis",
+    "Levator scapulae",
+    "Serratus anterior",
+    "Pectoralis minor"
+   ],
+   "answer": 0,
+   "explanation": "Splenius capitis — O: Lower nuchal ligament and spinous processes of C7–T3. I: Mastoid process and lateral third of the superior nuchal line. A: Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending.",
+   "id": 23
+  },
+  {
+   "muscle": "splcap",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Lower nuchal ligament and spinous processes of C7–T3?",
+   "options": [
+    "Splenius capitis",
+    "Levator scapulae",
+    "Pectoralis minor",
+    "Lower trapezius"
+   ],
+   "answer": 0,
+   "explanation": "Splenius capitis — O: Lower nuchal ligament and spinous processes of C7–T3. I: Mastoid process and lateral third of the superior nuchal line. A: Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending.",
+   "id": 24
+  },
+  {
+   "muscle": "splcer",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Splenius cervicis?",
+   "options": [
+    "Spinous processes of T3–T6",
+    "External occipital protuberance, medial superior nuchal line and nuchal ligament",
+    "Ribs 3–5 near their costal cartilages",
+    "Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head)"
+   ],
+   "answer": 0,
+   "explanation": "Splenius cervicis — O: Spinous processes of T3–T6. I: Posterior tubercles of the transverse processes of C1–C3. A: Bilateral: neck extension; unilateral: ipsilateral neck rotation and side-bending.",
+   "id": 25
+  },
+  {
+   "muscle": "splcer",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Splenius cervicis insert?",
+   "options": [
+    "Posterior tubercles of the transverse processes of C1–C3",
+    "Medial border of the scapula at the root of the spine",
+    "Coracoid process of the scapula",
+    "Lateral third of the clavicle"
+   ],
+   "answer": 0,
+   "explanation": "Splenius cervicis — O: Spinous processes of T3–T6. I: Posterior tubercles of the transverse processes of C1–C3. A: Bilateral: neck extension; unilateral: ipsilateral neck rotation and side-bending.",
+   "id": 26
+  },
+  {
+   "muscle": "splcer",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Splenius cervicis?",
+   "options": [
+    "Bilateral: neck extension; unilateral: ipsilateral neck rotation and side-bending",
+    "Scapular protraction and upward rotation; holds the scapula against the thoracic wall",
+    "Scapular elevation and upward rotation; ipsilateral neck side-bending and contralateral rotation",
+    "Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration"
+   ],
+   "answer": 0,
+   "explanation": "Splenius cervicis — O: Spinous processes of T3–T6. I: Posterior tubercles of the transverse processes of C1–C3. A: Bilateral: neck extension; unilateral: ipsilateral neck rotation and side-bending.",
+   "id": 27
+  },
+  {
+   "muscle": "splcer",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Posterior tubercles of the transverse processes of C1–C3?",
+   "options": [
+    "Splenius cervicis",
+    "Serratus anterior",
+    "Pectoralis major",
+    "Sternocleidomastoid"
+   ],
+   "answer": 0,
+   "explanation": "Splenius cervicis — O: Spinous processes of T3–T6. I: Posterior tubercles of the transverse processes of C1–C3. A: Bilateral: neck extension; unilateral: ipsilateral neck rotation and side-bending.",
+   "id": 28
+  },
+  {
+   "muscle": "splcer",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Spinous processes of T3–T6?",
+   "options": [
+    "Splenius cervicis",
+    "Pectoralis major",
+    "Sternocleidomastoid",
+    "Rhomboid minor"
+   ],
+   "answer": 0,
+   "explanation": "Splenius cervicis — O: Spinous processes of T3–T6. I: Posterior tubercles of the transverse processes of C1–C3. A: Bilateral: neck extension; unilateral: ipsilateral neck rotation and side-bending.",
+   "id": 29
+  },
+  {
+   "muscle": "scm",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Sternocleidomastoid?",
+   "options": [
+    "Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head)",
+    "Spinous processes of T3–T6",
+    "Lower nuchal ligament and spinous processes of C7–T1",
+    "Spinous processes and supraspinous ligaments of C7–T3"
+   ],
+   "answer": 0,
+   "explanation": "Sternocleidomastoid — O: Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head). I: Lateral surface of the mastoid process and lateral half of the superior nuchal line. A: Unilateral: ipsilateral side-bending and contralateral rotation; bilateral: neck flexion, accessory inspiration.",
+   "id": 30
+  },
+  {
+   "muscle": "scm",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Sternocleidomastoid insert?",
+   "options": [
+    "Lateral surface of the mastoid process and lateral half of the superior nuchal line",
+    "Posterior tubercles of the transverse processes of C1–C3",
+    "Medial border of the scapula, from root of the spine to the inferior angle",
+    "Medial border of the scapula at the root of the spine"
+   ],
+   "answer": 0,
+   "explanation": "Sternocleidomastoid — O: Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head). I: Lateral surface of the mastoid process and lateral half of the superior nuchal line. A: Unilateral: ipsilateral side-bending and contralateral rotation; bilateral: neck flexion, accessory inspiration.",
+   "id": 31
+  },
+  {
+   "muscle": "scm",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Sternocleidomastoid?",
+   "options": [
+    "Unilateral: ipsilateral side-bending and contralateral rotation; bilateral: neck flexion, accessory inspiration",
+    "Bilateral: neck extension; unilateral: ipsilateral neck rotation and side-bending",
+    "Shoulder adduction, medial rotation and flexion",
+    "Scapular retraction, elevation and downward rotation"
+   ],
+   "answer": 0,
+   "explanation": "Sternocleidomastoid — O: Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head). I: Lateral surface of the mastoid process and lateral half of the superior nuchal line. A: Unilateral: ipsilateral side-bending and contralateral rotation; bilateral: neck flexion, accessory inspiration.",
+   "id": 32
+  },
+  {
+   "muscle": "scm",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Lateral surface of the mastoid process and lateral half of the superior nuchal line?",
+   "options": [
+    "Sternocleidomastoid",
+    "Pectoralis major",
+    "Splenius cervicis",
+    "Serratus anterior"
+   ],
+   "answer": 0,
+   "explanation": "Sternocleidomastoid — O: Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head). I: Lateral surface of the mastoid process and lateral half of the superior nuchal line. A: Unilateral: ipsilateral side-bending and contralateral rotation; bilateral: neck flexion, accessory inspiration.",
+   "id": 33
+  },
+  {
+   "muscle": "scm",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head)?",
+   "options": [
+    "Sternocleidomastoid",
+    "Serratus anterior",
+    "Lower trapezius",
+    "Splenius cervicis"
+   ],
+   "answer": 0,
+   "explanation": "Sternocleidomastoid — O: Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head). I: Lateral surface of the mastoid process and lateral half of the superior nuchal line. A: Unilateral: ipsilateral side-bending and contralateral rotation; bilateral: neck flexion, accessory inspiration.",
+   "id": 34
+  },
+  {
+   "muscle": "rhmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Rhomboid major?",
+   "options": [
+    "Spinous processes of T2–T5",
+    "Ribs 3–5 near their costal cartilages",
+    "External surfaces of ribs 1–8 (or 9)",
+    "Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head)"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid major — O: Spinous processes of T2–T5. I: Medial border of the scapula, from root of the spine to the inferior angle. A: Scapular retraction, elevation and downward rotation.",
+   "id": 35
+  },
+  {
+   "muscle": "rhmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Rhomboid major insert?",
+   "options": [
+    "Medial border of the scapula, from root of the spine to the inferior angle",
+    "Lateral lip of the intertubercular (bicipital) groove of the humerus",
+    "Costal (anterior) surface of the medial border of the scapula",
+    "Coracoid process of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid major — O: Spinous processes of T2–T5. I: Medial border of the scapula, from root of the spine to the inferior angle. A: Scapular retraction, elevation and downward rotation.",
+   "id": 36
+  },
+  {
+   "muscle": "rhmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Rhomboid major?",
+   "options": [
+    "Scapular retraction, elevation and downward rotation",
+    "Unilateral: ipsilateral side-bending and contralateral rotation; bilateral: neck flexion, accessory inspiration",
+    "Scapular protraction and upward rotation; holds the scapula against the thoracic wall",
+    "Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid major — O: Spinous processes of T2–T5. I: Medial border of the scapula, from root of the spine to the inferior angle. A: Scapular retraction, elevation and downward rotation.",
+   "id": 37
+  },
+  {
+   "muscle": "rhmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Medial border of the scapula, from root of the spine to the inferior angle?",
+   "options": [
+    "Rhomboid major",
+    "Sternocleidomastoid",
+    "Pectoralis major",
+    "Pectoralis minor"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid major — O: Spinous processes of T2–T5. I: Medial border of the scapula, from root of the spine to the inferior angle. A: Scapular retraction, elevation and downward rotation.",
+   "id": 38
+  },
+  {
+   "muscle": "rhmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Spinous processes of T2–T5?",
+   "options": [
+    "Rhomboid major",
+    "Pectoralis minor",
+    "Pectoralis major",
+    "Sternocleidomastoid"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid major — O: Spinous processes of T2–T5. I: Medial border of the scapula, from root of the spine to the inferior angle. A: Scapular retraction, elevation and downward rotation.",
+   "id": 39
+  },
+  {
+   "muscle": "rhmin",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Rhomboid minor?",
+   "options": [
+    "Lower nuchal ligament and spinous processes of C7–T1",
+    "Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head)",
+    "External surfaces of ribs 1–8 (or 9)",
+    "Spinous processes of T3–T6"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid minor — O: Lower nuchal ligament and spinous processes of C7–T1. I: Medial border of the scapula at the root of the spine. A: Scapular retraction, elevation and downward rotation.",
+   "id": 40
+  },
+  {
+   "muscle": "rhmin",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Rhomboid minor insert?",
+   "options": [
+    "Medial border of the scapula at the root of the spine",
+    "Posterior tubercles of the transverse processes of C1–C3",
+    "Costal (anterior) surface of the medial border of the scapula",
+    "Lateral lip of the intertubercular (bicipital) groove of the humerus"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid minor — O: Lower nuchal ligament and spinous processes of C7–T1. I: Medial border of the scapula at the root of the spine. A: Scapular retraction, elevation and downward rotation.",
+   "id": 41
+  },
+  {
+   "muscle": "rhmin",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Rhomboid minor?",
+   "options": [
+    "Scapular retraction, elevation and downward rotation",
+    "Shoulder adduction, medial rotation and flexion",
+    "Bilateral: neck extension; unilateral: ipsilateral neck rotation and side-bending",
+    "Unilateral: ipsilateral side-bending and contralateral rotation; bilateral: neck flexion, accessory inspiration"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid minor — O: Lower nuchal ligament and spinous processes of C7–T1. I: Medial border of the scapula at the root of the spine. A: Scapular retraction, elevation and downward rotation.",
+   "id": 42
+  },
+  {
+   "muscle": "rhmin",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Medial border of the scapula at the root of the spine?",
+   "options": [
+    "Rhomboid minor",
+    "Serratus anterior",
+    "Splenius cervicis",
+    "Pectoralis major"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid minor — O: Lower nuchal ligament and spinous processes of C7–T1. I: Medial border of the scapula at the root of the spine. A: Scapular retraction, elevation and downward rotation.",
+   "id": 43
+  },
+  {
+   "muscle": "rhmin",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Lower nuchal ligament and spinous processes of C7–T1?",
+   "options": [
+    "Rhomboid minor",
+    "Pectoralis major",
+    "Lower trapezius",
+    "Splenius cervicis"
+   ],
+   "answer": 0,
+   "explanation": "Rhomboid minor — O: Lower nuchal ligament and spinous processes of C7–T1. I: Medial border of the scapula at the root of the spine. A: Scapular retraction, elevation and downward rotation.",
+   "id": 44
+  },
+  {
+   "muscle": "serant",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Serratus anterior?",
+   "options": [
+    "External surfaces of ribs 1–8 (or 9)",
+    "Spinous processes of T3–T6",
+    "Spinous processes and supraspinous ligaments of C7–T3",
+    "Transverse processes of C1–C4"
+   ],
+   "answer": 0,
+   "explanation": "Serratus anterior — O: External surfaces of ribs 1–8 (or 9). I: Costal (anterior) surface of the medial border of the scapula. A: Scapular protraction and upward rotation; holds the scapula against the thoracic wall.",
+   "id": 45
+  },
+  {
+   "muscle": "serant",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Serratus anterior insert?",
+   "options": [
+    "Costal (anterior) surface of the medial border of the scapula",
+    "Lateral surface of the mastoid process and lateral half of the superior nuchal line",
+    "Medial border of the scapula, from superior angle to root of the spine",
+    "Medial acromion and superior crest of the scapular spine"
+   ],
+   "answer": 0,
+   "explanation": "Serratus anterior — O: External surfaces of ribs 1–8 (or 9). I: Costal (anterior) surface of the medial border of the scapula. A: Scapular protraction and upward rotation; holds the scapula against the thoracic wall.",
+   "id": 46
+  },
+  {
+   "muscle": "serant",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Serratus anterior?",
+   "options": [
+    "Scapular protraction and upward rotation; holds the scapula against the thoracic wall",
+    "Shoulder adduction, medial rotation and flexion",
+    "Scapular elevation and downward rotation",
+    "Scapular elevation and upward rotation; ipsilateral neck side-bending and contralateral rotation"
+   ],
+   "answer": 0,
+   "explanation": "Serratus anterior — O: External surfaces of ribs 1–8 (or 9). I: Costal (anterior) surface of the medial border of the scapula. A: Scapular protraction and upward rotation; holds the scapula against the thoracic wall.",
+   "id": 47
+  },
+  {
+   "muscle": "serant",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Costal (anterior) surface of the medial border of the scapula?",
+   "options": [
+    "Serratus anterior",
+    "Splenius capitis",
+    "Sternocleidomastoid",
+    "Pectoralis major"
+   ],
+   "answer": 0,
+   "explanation": "Serratus anterior — O: External surfaces of ribs 1–8 (or 9). I: Costal (anterior) surface of the medial border of the scapula. A: Scapular protraction and upward rotation; holds the scapula against the thoracic wall.",
+   "id": 48
+  },
+  {
+   "muscle": "serant",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: External surfaces of ribs 1–8 (or 9)?",
+   "options": [
+    "Serratus anterior",
+    "Splenius capitis",
+    "Upper trapezius",
+    "Pectoralis major"
+   ],
+   "answer": 0,
+   "explanation": "Serratus anterior — O: External surfaces of ribs 1–8 (or 9). I: Costal (anterior) surface of the medial border of the scapula. A: Scapular protraction and upward rotation; holds the scapula against the thoracic wall.",
+   "id": 49
+  },
+  {
+   "muscle": "pecmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Pectoralis major?",
+   "options": [
+    "Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis",
+    "External occipital protuberance, medial superior nuchal line and nuchal ligament",
+    "Spinous processes of T3–T6",
+    "Transverse processes of C1–C4"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis major — O: Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis. I: Lateral lip of the intertubercular (bicipital) groove of the humerus. A: Shoulder adduction, medial rotation and flexion.",
+   "id": 50
+  },
+  {
+   "muscle": "pecmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Pectoralis major insert?",
+   "options": [
+    "Lateral lip of the intertubercular (bicipital) groove of the humerus",
+    "Costal (anterior) surface of the medial border of the scapula",
+    "Medial end (root) of the scapular spine",
+    "Mastoid process and lateral third of the superior nuchal line"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis major — O: Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis. I: Lateral lip of the intertubercular (bicipital) groove of the humerus. A: Shoulder adduction, medial rotation and flexion.",
+   "id": 51
+  },
+  {
+   "muscle": "pecmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Pectoralis major?",
+   "options": [
+    "Shoulder adduction, medial rotation and flexion",
+    "Scapular elevation and downward rotation",
+    "Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending",
+    "Scapular elevation and upward rotation; ipsilateral neck side-bending and contralateral rotation"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis major — O: Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis. I: Lateral lip of the intertubercular (bicipital) groove of the humerus. A: Shoulder adduction, medial rotation and flexion.",
+   "id": 52
+  },
+  {
+   "muscle": "pecmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Lateral lip of the intertubercular (bicipital) groove of the humerus?",
+   "options": [
+    "Pectoralis major",
+    "Middle trapezius",
+    "Serratus anterior",
+    "Sternocleidomastoid"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis major — O: Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis. I: Lateral lip of the intertubercular (bicipital) groove of the humerus. A: Shoulder adduction, medial rotation and flexion.",
+   "id": 53
+  },
+  {
+   "muscle": "pecmaj",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis?",
+   "options": [
+    "Pectoralis major",
+    "Serratus anterior",
+    "Levator scapulae",
+    "Rhomboid major"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis major — O: Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis. I: Lateral lip of the intertubercular (bicipital) groove of the humerus. A: Shoulder adduction, medial rotation and flexion.",
+   "id": 54
+  },
+  {
+   "muscle": "pecmin",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "What is the origin of Pectoralis minor?",
+   "options": [
+    "Ribs 3–5 near their costal cartilages",
+    "External occipital protuberance, medial superior nuchal line and nuchal ligament",
+    "Spinous processes and supraspinous ligaments of T4–T12",
+    "Medial half of clavicle, sternum, upper 6 costal cartilages and external oblique aponeurosis"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis minor — O: Ribs 3–5 near their costal cartilages. I: Coracoid process of the scapula. A: Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration.",
+   "id": 55
+  },
+  {
+   "muscle": "pecmin",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Where does Pectoralis minor insert?",
+   "options": [
+    "Coracoid process of the scapula",
+    "Lateral surface of the mastoid process and lateral half of the superior nuchal line",
+    "Mastoid process and lateral third of the superior nuchal line",
+    "Medial acromion and superior crest of the scapular spine"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis minor — O: Ribs 3–5 near their costal cartilages. I: Coracoid process of the scapula. A: Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration.",
+   "id": 56
+  },
+  {
+   "muscle": "pecmin",
+   "region": "Neck & shoulder girdle",
+   "type": "action",
+   "q": "What is the main action of Pectoralis minor?",
+   "options": [
+    "Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration",
+    "Scapular retraction, elevation and downward rotation",
+    "Scapular retraction (medial glide)",
+    "Scapular depression and upward rotation (inferomedial glide)"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis minor — O: Ribs 3–5 near their costal cartilages. I: Coracoid process of the scapula. A: Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration.",
+   "id": 57
+  },
+  {
+   "muscle": "pecmin",
+   "region": "Neck & shoulder girdle",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Coracoid process of the scapula?",
+   "options": [
+    "Pectoralis minor",
+    "Upper trapezius",
+    "Rhomboid major",
+    "Sternocleidomastoid"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis minor — O: Ribs 3–5 near their costal cartilages. I: Coracoid process of the scapula. A: Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration.",
+   "id": 58
+  },
+  {
+   "muscle": "pecmin",
+   "region": "Neck & shoulder girdle",
+   "type": "origin",
+   "q": "Which muscle originates from: Ribs 3–5 near their costal cartilages?",
+   "options": [
+    "Pectoralis minor",
+    "Levator scapulae",
+    "Lower trapezius",
+    "Sternocleidomastoid"
+   ],
+   "answer": 0,
+   "explanation": "Pectoralis minor — O: Ribs 3–5 near their costal cartilages. I: Coracoid process of the scapula. A: Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration.",
+   "id": 59
+  },
+  {
+   "muscle": "deltoid",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "What is the origin of Deltoid?",
+   "options": [
+    "Lateral third of the clavicle, acromion and spine of the scapula",
+    "Infraspinous fossa of the scapula",
+    "Short head: tip of the coracoid process; long head: supraglenoid tubercle",
+    "Distal half of the anterior humerus"
+   ],
+   "answer": 0,
+   "explanation": "Deltoid — O: Lateral third of the clavicle, acromion and spine of the scapula. I: Deltoid tuberosity of the humerus. A: Anterior: flexion & medial rotation; middle: abduction; posterior: extension & lateral rotation of the shoulder.",
+   "id": 60
+  },
+  {
+   "muscle": "deltoid",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Where does Deltoid insert?",
+   "options": [
+    "Deltoid tuberosity of the humerus",
+    "Coronoid process and tuberosity of the ulna",
+    "Medial surface of the humerus, middle third",
+    "Lesser tubercle of the humerus"
+   ],
+   "answer": 0,
+   "explanation": "Deltoid — O: Lateral third of the clavicle, acromion and spine of the scapula. I: Deltoid tuberosity of the humerus. A: Anterior: flexion & medial rotation; middle: abduction; posterior: extension & lateral rotation of the shoulder.",
+   "id": 61
+  },
+  {
+   "muscle": "deltoid",
+   "region": "Shoulder & arm",
+   "type": "action",
+   "q": "What is the main action of Deltoid?",
+   "options": [
+    "Anterior: flexion & medial rotation; middle: abduction; posterior: extension & lateral rotation of the shoulder",
+    "Shoulder flexion and adduction",
+    "Shoulder lateral rotation; stabilises the humeral head",
+    "Shoulder medial rotation; stabilises the humeral head"
+   ],
+   "answer": 0,
+   "explanation": "Deltoid — O: Lateral third of the clavicle, acromion and spine of the scapula. I: Deltoid tuberosity of the humerus. A: Anterior: flexion & medial rotation; middle: abduction; posterior: extension & lateral rotation of the shoulder.",
+   "id": 62
+  },
+  {
+   "muscle": "deltoid",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Deltoid tuberosity of the humerus?",
+   "options": [
+    "Deltoid",
+    "Subscapularis",
+    "Brachialis",
+    "Teres minor"
+   ],
+   "answer": 0,
+   "explanation": "Deltoid — O: Lateral third of the clavicle, acromion and spine of the scapula. I: Deltoid tuberosity of the humerus. A: Anterior: flexion & medial rotation; middle: abduction; posterior: extension & lateral rotation of the shoulder.",
+   "id": 63
+  },
+  {
+   "muscle": "deltoid",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "Which muscle originates from: Lateral third of the clavicle, acromion and spine of the scapula?",
+   "options": [
+    "Deltoid",
+    "Brachialis",
+    "Triceps brachii",
+    "Coracobrachialis"
+   ],
+   "answer": 0,
+   "explanation": "Deltoid — O: Lateral third of the clavicle, acromion and spine of the scapula. I: Deltoid tuberosity of the humerus. A: Anterior: flexion & medial rotation; middle: abduction; posterior: extension & lateral rotation of the shoulder.",
+   "id": 64
+  },
+  {
+   "muscle": "supra",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "What is the origin of Supraspinatus?",
+   "options": [
+    "Supraspinous fossa of the scapula",
+    "Upper two-thirds of the lateral border of the scapula",
+    "Distal half of the anterior humerus",
+    "Infraspinous fossa of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Supraspinatus — O: Supraspinous fossa of the scapula. I: Superior facet of the greater tubercle of the humerus. A: Initiates shoulder abduction (first ~15°); stabilises the humeral head.",
+   "id": 65
+  },
+  {
+   "muscle": "supra",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Where does Supraspinatus insert?",
+   "options": [
+    "Superior facet of the greater tubercle of the humerus",
+    "Inferior facet of the greater tubercle of the humerus",
+    "Medial surface of the humerus, middle third",
+    "Coronoid process and tuberosity of the ulna"
+   ],
+   "answer": 0,
+   "explanation": "Supraspinatus — O: Supraspinous fossa of the scapula. I: Superior facet of the greater tubercle of the humerus. A: Initiates shoulder abduction (first ~15°); stabilises the humeral head.",
+   "id": 66
+  },
+  {
+   "muscle": "supra",
+   "region": "Shoulder & arm",
+   "type": "action",
+   "q": "What is the main action of Supraspinatus?",
+   "options": [
+    "Initiates shoulder abduction (first ~15°); stabilises the humeral head",
+    "Elbow extension (long head also extends the shoulder)",
+    "Shoulder lateral rotation; stabilises the humeral head",
+    "Shoulder medial rotation; stabilises the humeral head"
+   ],
+   "answer": 0,
+   "explanation": "Supraspinatus — O: Supraspinous fossa of the scapula. I: Superior facet of the greater tubercle of the humerus. A: Initiates shoulder abduction (first ~15°); stabilises the humeral head.",
+   "id": 67
+  },
+  {
+   "muscle": "supra",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Superior facet of the greater tubercle of the humerus?",
+   "options": [
+    "Supraspinatus",
+    "Subscapularis",
+    "Biceps brachii",
+    "Teres minor"
+   ],
+   "answer": 0,
+   "explanation": "Supraspinatus — O: Supraspinous fossa of the scapula. I: Superior facet of the greater tubercle of the humerus. A: Initiates shoulder abduction (first ~15°); stabilises the humeral head.",
+   "id": 68
+  },
+  {
+   "muscle": "supra",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "Which muscle originates from: Supraspinous fossa of the scapula?",
+   "options": [
+    "Supraspinatus",
+    "Infraspinatus",
+    "Teres minor",
+    "Triceps brachii"
+   ],
+   "answer": 0,
+   "explanation": "Supraspinatus — O: Supraspinous fossa of the scapula. I: Superior facet of the greater tubercle of the humerus. A: Initiates shoulder abduction (first ~15°); stabilises the humeral head.",
+   "id": 69
+  },
+  {
+   "muscle": "infra",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "What is the origin of Infraspinatus?",
+   "options": [
+    "Infraspinous fossa of the scapula",
+    "Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus",
+    "Short head: tip of the coracoid process; long head: supraglenoid tubercle",
+    "Supraspinous fossa of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Infraspinatus — O: Infraspinous fossa of the scapula. I: Middle facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 70
+  },
+  {
+   "muscle": "infra",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Where does Infraspinatus insert?",
+   "options": [
+    "Middle facet of the greater tubercle of the humerus",
+    "Coronoid process and tuberosity of the ulna",
+    "Medial surface of the humerus, middle third",
+    "Superior facet of the greater tubercle of the humerus"
+   ],
+   "answer": 0,
+   "explanation": "Infraspinatus — O: Infraspinous fossa of the scapula. I: Middle facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 71
+  },
+  {
+   "muscle": "infra",
+   "region": "Shoulder & arm",
+   "type": "action",
+   "q": "What is the main action of Infraspinatus?",
+   "options": [
+    "Shoulder lateral rotation; stabilises the humeral head",
+    "Anterior: flexion & medial rotation; middle: abduction; posterior: extension & lateral rotation of the shoulder",
+    "Shoulder flexion and adduction",
+    "Elbow extension (long head also extends the shoulder)"
+   ],
+   "answer": 0,
+   "explanation": "Infraspinatus — O: Infraspinous fossa of the scapula. I: Middle facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 72
+  },
+  {
+   "muscle": "infra",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Middle facet of the greater tubercle of the humerus?",
+   "options": [
+    "Infraspinatus",
+    "Subscapularis",
+    "Coracobrachialis",
+    "Brachialis"
+   ],
+   "answer": 0,
+   "explanation": "Infraspinatus — O: Infraspinous fossa of the scapula. I: Middle facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 73
+  },
+  {
+   "muscle": "infra",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "Which muscle originates from: Infraspinous fossa of the scapula?",
+   "options": [
+    "Infraspinatus",
+    "Brachialis",
+    "Subscapularis",
+    "Coracobrachialis"
+   ],
+   "answer": 0,
+   "explanation": "Infraspinatus — O: Infraspinous fossa of the scapula. I: Middle facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 74
+  },
+  {
+   "muscle": "tmin",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "What is the origin of Teres minor?",
+   "options": [
+    "Upper two-thirds of the lateral border of the scapula",
+    "Supraspinous fossa of the scapula",
+    "Short head: tip of the coracoid process; long head: supraglenoid tubercle",
+    "Distal half of the anterior humerus"
+   ],
+   "answer": 0,
+   "explanation": "Teres minor — O: Upper two-thirds of the lateral border of the scapula. I: Inferior facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 75
+  },
+  {
+   "muscle": "tmin",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Where does Teres minor insert?",
+   "options": [
+    "Inferior facet of the greater tubercle of the humerus",
+    "Superior facet of the greater tubercle of the humerus",
+    "Radial tuberosity and bicipital aponeurosis",
+    "Coronoid process and tuberosity of the ulna"
+   ],
+   "answer": 0,
+   "explanation": "Teres minor — O: Upper two-thirds of the lateral border of the scapula. I: Inferior facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 76
+  },
+  {
+   "muscle": "tmin",
+   "region": "Shoulder & arm",
+   "type": "action",
+   "q": "What is the main action of Teres minor?",
+   "options": [
+    "Shoulder lateral rotation; stabilises the humeral head",
+    "Initiates shoulder abduction (first ~15°); stabilises the humeral head",
+    "Shoulder flexion and adduction",
+    "Elbow flexion and forearm supination (assists shoulder flexion)"
+   ],
+   "answer": 0,
+   "explanation": "Teres minor — O: Upper two-thirds of the lateral border of the scapula. I: Inferior facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 77
+  },
+  {
+   "muscle": "tmin",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Inferior facet of the greater tubercle of the humerus?",
+   "options": [
+    "Teres minor",
+    "Biceps brachii",
+    "Subscapularis",
+    "Coracobrachialis"
+   ],
+   "answer": 0,
+   "explanation": "Teres minor — O: Upper two-thirds of the lateral border of the scapula. I: Inferior facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 78
+  },
+  {
+   "muscle": "tmin",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "Which muscle originates from: Upper two-thirds of the lateral border of the scapula?",
+   "options": [
+    "Teres minor",
+    "Coracobrachialis",
+    "Subscapularis",
+    "Deltoid"
+   ],
+   "answer": 0,
+   "explanation": "Teres minor — O: Upper two-thirds of the lateral border of the scapula. I: Inferior facet of the greater tubercle of the humerus. A: Shoulder lateral rotation; stabilises the humeral head.",
+   "id": 79
+  },
+  {
+   "muscle": "subscap",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "What is the origin of Subscapularis?",
+   "options": [
+    "Subscapular fossa of the scapula",
+    "Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus",
+    "Distal half of the anterior humerus",
+    "Upper two-thirds of the lateral border of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Subscapularis — O: Subscapular fossa of the scapula. I: Lesser tubercle of the humerus. A: Shoulder medial rotation; stabilises the humeral head.",
+   "id": 80
+  },
+  {
+   "muscle": "subscap",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Where does Subscapularis insert?",
+   "options": [
+    "Lesser tubercle of the humerus",
+    "Middle facet of the greater tubercle of the humerus",
+    "Superior facet of the greater tubercle of the humerus",
+    "Inferior facet of the greater tubercle of the humerus"
+   ],
+   "answer": 0,
+   "explanation": "Subscapularis — O: Subscapular fossa of the scapula. I: Lesser tubercle of the humerus. A: Shoulder medial rotation; stabilises the humeral head.",
+   "id": 81
+  },
+  {
+   "muscle": "subscap",
+   "region": "Shoulder & arm",
+   "type": "action",
+   "q": "What is the main action of Subscapularis?",
+   "options": [
+    "Shoulder medial rotation; stabilises the humeral head",
+    "Anterior: flexion & medial rotation; middle: abduction; posterior: extension & lateral rotation of the shoulder",
+    "Initiates shoulder abduction (first ~15°); stabilises the humeral head",
+    "Elbow flexion and forearm supination (assists shoulder flexion)"
+   ],
+   "answer": 0,
+   "explanation": "Subscapularis — O: Subscapular fossa of the scapula. I: Lesser tubercle of the humerus. A: Shoulder medial rotation; stabilises the humeral head.",
+   "id": 82
+  },
+  {
+   "muscle": "subscap",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Lesser tubercle of the humerus?",
+   "options": [
+    "Subscapularis",
+    "Teres minor",
+    "Triceps brachii",
+    "Coracobrachialis"
+   ],
+   "answer": 0,
+   "explanation": "Subscapularis — O: Subscapular fossa of the scapula. I: Lesser tubercle of the humerus. A: Shoulder medial rotation; stabilises the humeral head.",
+   "id": 83
+  },
+  {
+   "muscle": "subscap",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "Which muscle originates from: Subscapular fossa of the scapula?",
+   "options": [
+    "Subscapularis",
+    "Biceps brachii",
+    "Teres minor",
+    "Deltoid"
+   ],
+   "answer": 0,
+   "explanation": "Subscapularis — O: Subscapular fossa of the scapula. I: Lesser tubercle of the humerus. A: Shoulder medial rotation; stabilises the humeral head.",
+   "id": 84
+  },
+  {
+   "muscle": "biceps",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "What is the origin of Biceps brachii?",
+   "options": [
+    "Short head: tip of the coracoid process; long head: supraglenoid tubercle",
+    "Lateral third of the clavicle, acromion and spine of the scapula",
+    "Infraspinous fossa of the scapula",
+    "Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus"
+   ],
+   "answer": 0,
+   "explanation": "Biceps brachii — O: Short head: tip of the coracoid process; long head: supraglenoid tubercle. I: Radial tuberosity and bicipital aponeurosis. A: Elbow flexion and forearm supination (assists shoulder flexion).",
+   "id": 85
+  },
+  {
+   "muscle": "biceps",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Where does Biceps brachii insert?",
+   "options": [
+    "Radial tuberosity and bicipital aponeurosis",
+    "Olecranon process of the ulna",
+    "Lesser tubercle of the humerus",
+    "Inferior facet of the greater tubercle of the humerus"
+   ],
+   "answer": 0,
+   "explanation": "Biceps brachii — O: Short head: tip of the coracoid process; long head: supraglenoid tubercle. I: Radial tuberosity and bicipital aponeurosis. A: Elbow flexion and forearm supination (assists shoulder flexion).",
+   "id": 86
+  },
+  {
+   "muscle": "biceps",
+   "region": "Shoulder & arm",
+   "type": "action",
+   "q": "What is the main action of Biceps brachii?",
+   "options": [
+    "Elbow flexion and forearm supination (assists shoulder flexion)",
+    "Elbow extension (long head also extends the shoulder)",
+    "Shoulder medial rotation; stabilises the humeral head",
+    "Shoulder lateral rotation; stabilises the humeral head"
+   ],
+   "answer": 0,
+   "explanation": "Biceps brachii — O: Short head: tip of the coracoid process; long head: supraglenoid tubercle. I: Radial tuberosity and bicipital aponeurosis. A: Elbow flexion and forearm supination (assists shoulder flexion).",
+   "id": 87
+  },
+  {
+   "muscle": "biceps",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Radial tuberosity and bicipital aponeurosis?",
+   "options": [
+    "Biceps brachii",
+    "Teres minor",
+    "Triceps brachii",
+    "Supraspinatus"
+   ],
+   "answer": 0,
+   "explanation": "Biceps brachii — O: Short head: tip of the coracoid process; long head: supraglenoid tubercle. I: Radial tuberosity and bicipital aponeurosis. A: Elbow flexion and forearm supination (assists shoulder flexion).",
+   "id": 88
+  },
+  {
+   "muscle": "biceps",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "Which muscle originates from: Short head: tip of the coracoid process; long head: supraglenoid tubercle?",
+   "options": [
+    "Biceps brachii",
+    "Teres minor",
+    "Subscapularis",
+    "Infraspinatus"
+   ],
+   "answer": 0,
+   "explanation": "Biceps brachii — O: Short head: tip of the coracoid process; long head: supraglenoid tubercle. I: Radial tuberosity and bicipital aponeurosis. A: Elbow flexion and forearm supination (assists shoulder flexion).",
+   "id": 89
+  },
+  {
+   "muscle": "brach",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "What is the origin of Brachialis?",
+   "options": [
+    "Distal half of the anterior humerus",
+    "Subscapular fossa of the scapula",
+    "Infraspinous fossa of the scapula",
+    "Upper two-thirds of the lateral border of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Brachialis — O: Distal half of the anterior humerus. I: Coronoid process and tuberosity of the ulna. A: Elbow flexion in all forearm positions (the 'workhorse' flexor).",
+   "id": 90
+  },
+  {
+   "muscle": "brach",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Where does Brachialis insert?",
+   "options": [
+    "Coronoid process and tuberosity of the ulna",
+    "Middle facet of the greater tubercle of the humerus",
+    "Lesser tubercle of the humerus",
+    "Olecranon process of the ulna"
+   ],
+   "answer": 0,
+   "explanation": "Brachialis — O: Distal half of the anterior humerus. I: Coronoid process and tuberosity of the ulna. A: Elbow flexion in all forearm positions (the 'workhorse' flexor).",
+   "id": 91
+  },
+  {
+   "muscle": "brach",
+   "region": "Shoulder & arm",
+   "type": "action",
+   "q": "What is the main action of Brachialis?",
+   "options": [
+    "Elbow flexion in all forearm positions (the 'workhorse' flexor)",
+    "Shoulder lateral rotation; stabilises the humeral head",
+    "Shoulder medial rotation; stabilises the humeral head",
+    "Elbow extension (long head also extends the shoulder)"
+   ],
+   "answer": 0,
+   "explanation": "Brachialis — O: Distal half of the anterior humerus. I: Coronoid process and tuberosity of the ulna. A: Elbow flexion in all forearm positions (the 'workhorse' flexor).",
+   "id": 92
+  },
+  {
+   "muscle": "brach",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Coronoid process and tuberosity of the ulna?",
+   "options": [
+    "Brachialis",
+    "Infraspinatus",
+    "Triceps brachii",
+    "Supraspinatus"
+   ],
+   "answer": 0,
+   "explanation": "Brachialis — O: Distal half of the anterior humerus. I: Coronoid process and tuberosity of the ulna. A: Elbow flexion in all forearm positions (the 'workhorse' flexor).",
+   "id": 93
+  },
+  {
+   "muscle": "brach",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "Which muscle originates from: Distal half of the anterior humerus?",
+   "options": [
+    "Brachialis",
+    "Supraspinatus",
+    "Coracobrachialis",
+    "Infraspinatus"
+   ],
+   "answer": 0,
+   "explanation": "Brachialis — O: Distal half of the anterior humerus. I: Coronoid process and tuberosity of the ulna. A: Elbow flexion in all forearm positions (the 'workhorse' flexor).",
+   "id": 94
+  },
+  {
+   "muscle": "corbr",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "What is the origin of Coracobrachialis?",
+   "options": [
+    "Tip of the coracoid process of the scapula",
+    "Infraspinous fossa of the scapula",
+    "Upper two-thirds of the lateral border of the scapula",
+    "Subscapular fossa of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Coracobrachialis — O: Tip of the coracoid process of the scapula. I: Medial surface of the humerus, middle third. A: Shoulder flexion and adduction.",
+   "id": 95
+  },
+  {
+   "muscle": "corbr",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Where does Coracobrachialis insert?",
+   "options": [
+    "Medial surface of the humerus, middle third",
+    "Deltoid tuberosity of the humerus",
+    "Coronoid process and tuberosity of the ulna",
+    "Inferior facet of the greater tubercle of the humerus"
+   ],
+   "answer": 0,
+   "explanation": "Coracobrachialis — O: Tip of the coracoid process of the scapula. I: Medial surface of the humerus, middle third. A: Shoulder flexion and adduction.",
+   "id": 96
+  },
+  {
+   "muscle": "corbr",
+   "region": "Shoulder & arm",
+   "type": "action",
+   "q": "What is the main action of Coracobrachialis?",
+   "options": [
+    "Shoulder flexion and adduction",
+    "Shoulder lateral rotation; stabilises the humeral head",
+    "Shoulder medial rotation; stabilises the humeral head",
+    "Initiates shoulder abduction (first ~15°); stabilises the humeral head"
+   ],
+   "answer": 0,
+   "explanation": "Coracobrachialis — O: Tip of the coracoid process of the scapula. I: Medial surface of the humerus, middle third. A: Shoulder flexion and adduction.",
+   "id": 97
+  },
+  {
+   "muscle": "corbr",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Medial surface of the humerus, middle third?",
+   "options": [
+    "Coracobrachialis",
+    "Infraspinatus",
+    "Subscapularis",
+    "Supraspinatus"
+   ],
+   "answer": 0,
+   "explanation": "Coracobrachialis — O: Tip of the coracoid process of the scapula. I: Medial surface of the humerus, middle third. A: Shoulder flexion and adduction.",
+   "id": 98
+  },
+  {
+   "muscle": "corbr",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "Which muscle originates from: Tip of the coracoid process of the scapula?",
+   "options": [
+    "Coracobrachialis",
+    "Subscapularis",
+    "Infraspinatus",
+    "Brachialis"
+   ],
+   "answer": 0,
+   "explanation": "Coracobrachialis — O: Tip of the coracoid process of the scapula. I: Medial surface of the humerus, middle third. A: Shoulder flexion and adduction.",
+   "id": 99
+  },
+  {
+   "muscle": "triceps",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "What is the origin of Triceps brachii?",
+   "options": [
+    "Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus",
+    "Supraspinous fossa of the scapula",
+    "Tip of the coracoid process of the scapula",
+    "Upper two-thirds of the lateral border of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Triceps brachii — O: Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus. I: Olecranon process of the ulna. A: Elbow extension (long head also extends the shoulder).",
+   "id": 100
+  },
+  {
+   "muscle": "triceps",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Where does Triceps brachii insert?",
+   "options": [
+    "Olecranon process of the ulna",
+    "Deltoid tuberosity of the humerus",
+    "Medial surface of the humerus, middle third",
+    "Coronoid process and tuberosity of the ulna"
+   ],
+   "answer": 0,
+   "explanation": "Triceps brachii — O: Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus. I: Olecranon process of the ulna. A: Elbow extension (long head also extends the shoulder).",
+   "id": 101
+  },
+  {
+   "muscle": "triceps",
+   "region": "Shoulder & arm",
+   "type": "action",
+   "q": "What is the main action of Triceps brachii?",
+   "options": [
+    "Elbow extension (long head also extends the shoulder)",
+    "Shoulder medial rotation; stabilises the humeral head",
+    "Elbow flexion and forearm supination (assists shoulder flexion)",
+    "Shoulder lateral rotation; stabilises the humeral head"
+   ],
+   "answer": 0,
+   "explanation": "Triceps brachii — O: Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus. I: Olecranon process of the ulna. A: Elbow extension (long head also extends the shoulder).",
+   "id": 102
+  },
+  {
+   "muscle": "triceps",
+   "region": "Shoulder & arm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Olecranon process of the ulna?",
+   "options": [
+    "Triceps brachii",
+    "Coracobrachialis",
+    "Deltoid",
+    "Subscapularis"
+   ],
+   "answer": 0,
+   "explanation": "Triceps brachii — O: Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus. I: Olecranon process of the ulna. A: Elbow extension (long head also extends the shoulder).",
+   "id": 103
+  },
+  {
+   "muscle": "triceps",
+   "region": "Shoulder & arm",
+   "type": "origin",
+   "q": "Which muscle originates from: Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus?",
+   "options": [
+    "Triceps brachii",
+    "Deltoid",
+    "Teres minor",
+    "Subscapularis"
+   ],
+   "answer": 0,
+   "explanation": "Triceps brachii — O: Long head: infraglenoid tubercle; lateral and medial heads: posterior humerus. I: Olecranon process of the ulna. A: Elbow extension (long head also extends the shoulder).",
+   "id": 104
+  },
+  {
+   "muscle": "brrad",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "What is the origin of Brachioradialis?",
+   "options": [
+    "Proximal two-thirds of the lateral supracondylar ridge of the humerus",
+    "Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna",
+    "Lateral epicondyle of the humerus (common extensor origin)",
+    "Medial epicondyle of the humerus (common flexor origin)"
+   ],
+   "answer": 0,
+   "explanation": "Brachioradialis — O: Proximal two-thirds of the lateral supracondylar ridge of the humerus. I: Lateral surface of the distal radius (just above the styloid process). A: Elbow flexion, strongest with the forearm in mid-prone (neutral).",
+   "id": 105
+  },
+  {
+   "muscle": "brrad",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Where does Brachioradialis insert?",
+   "options": [
+    "Lateral surface of the distal radius (just above the styloid process)",
+    "Pisiform, hook of the hamate and base of the 5th metacarpal",
+    "Palmar base of the 2nd (and 3rd) metacarpal",
+    "Base of the 5th metacarpal (medial/dorsal side)"
+   ],
+   "answer": 0,
+   "explanation": "Brachioradialis — O: Proximal two-thirds of the lateral supracondylar ridge of the humerus. I: Lateral surface of the distal radius (just above the styloid process). A: Elbow flexion, strongest with the forearm in mid-prone (neutral).",
+   "id": 106
+  },
+  {
+   "muscle": "brrad",
+   "region": "Forearm",
+   "type": "action",
+   "q": "What is the main action of Brachioradialis?",
+   "options": [
+    "Elbow flexion, strongest with the forearm in mid-prone (neutral)",
+    "Wrist flexion and ulnar deviation",
+    "Wrist extension and radial deviation",
+    "Wrist flexion and radial deviation"
+   ],
+   "answer": 0,
+   "explanation": "Brachioradialis — O: Proximal two-thirds of the lateral supracondylar ridge of the humerus. I: Lateral surface of the distal radius (just above the styloid process). A: Elbow flexion, strongest with the forearm in mid-prone (neutral).",
+   "id": 107
+  },
+  {
+   "muscle": "brrad",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Lateral surface of the distal radius (just above the styloid process)?",
+   "options": [
+    "Brachioradialis",
+    "Extensor carpi radialis brevis",
+    "Flexor carpi ulnaris",
+    "Extensor carpi ulnaris"
+   ],
+   "answer": 0,
+   "explanation": "Brachioradialis — O: Proximal two-thirds of the lateral supracondylar ridge of the humerus. I: Lateral surface of the distal radius (just above the styloid process). A: Elbow flexion, strongest with the forearm in mid-prone (neutral).",
+   "id": 108
+  },
+  {
+   "muscle": "brrad",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "Which muscle originates from: Proximal two-thirds of the lateral supracondylar ridge of the humerus?",
+   "options": [
+    "Brachioradialis",
+    "Extensor carpi ulnaris",
+    "Flexor carpi ulnaris",
+    "Flexor carpi radialis"
+   ],
+   "answer": 0,
+   "explanation": "Brachioradialis — O: Proximal two-thirds of the lateral supracondylar ridge of the humerus. I: Lateral surface of the distal radius (just above the styloid process). A: Elbow flexion, strongest with the forearm in mid-prone (neutral).",
+   "id": 109
+  },
+  {
+   "muscle": "ecrb",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "What is the origin of Extensor carpi radialis brevis?",
+   "options": [
+    "Lateral epicondyle of the humerus (common extensor origin)",
+    "Proximal two-thirds of the lateral supracondylar ridge of the humerus",
+    "Medial epicondyle of the humerus (common flexor origin)",
+    "Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis brevis — O: Lateral epicondyle of the humerus (common extensor origin). I: Dorsal base of the 3rd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 110
+  },
+  {
+   "muscle": "ecrb",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Where does Extensor carpi radialis brevis insert?",
+   "options": [
+    "Dorsal base of the 3rd metacarpal",
+    "Palmar base of the 2nd (and 3rd) metacarpal",
+    "Lateral surface of the distal radius (just above the styloid process)",
+    "Pisiform, hook of the hamate and base of the 5th metacarpal"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis brevis — O: Lateral epicondyle of the humerus (common extensor origin). I: Dorsal base of the 3rd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 111
+  },
+  {
+   "muscle": "ecrb",
+   "region": "Forearm",
+   "type": "action",
+   "q": "What is the main action of Extensor carpi radialis brevis?",
+   "options": [
+    "Wrist extension and radial deviation",
+    "Wrist flexion and radial deviation",
+    "Elbow flexion, strongest with the forearm in mid-prone (neutral)",
+    "Wrist flexion and ulnar deviation"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis brevis — O: Lateral epicondyle of the humerus (common extensor origin). I: Dorsal base of the 3rd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 112
+  },
+  {
+   "muscle": "ecrb",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Dorsal base of the 3rd metacarpal?",
+   "options": [
+    "Extensor carpi radialis brevis",
+    "Flexor carpi ulnaris",
+    "Brachioradialis",
+    "Flexor carpi radialis"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis brevis — O: Lateral epicondyle of the humerus (common extensor origin). I: Dorsal base of the 3rd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 113
+  },
+  {
+   "muscle": "ecrb",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "Which muscle originates from: Lateral epicondyle of the humerus (common extensor origin)?",
+   "options": [
+    "Extensor carpi radialis brevis",
+    "Flexor carpi ulnaris",
+    "Flexor carpi radialis",
+    "Brachioradialis"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis brevis — O: Lateral epicondyle of the humerus (common extensor origin). I: Dorsal base of the 3rd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 114
+  },
+  {
+   "muscle": "ecu",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "What is the origin of Extensor carpi ulnaris?",
+   "options": [
+    "Lateral epicondyle (common extensor origin) and posterior border of the ulna",
+    "Medial epicondyle of the humerus (common flexor origin)",
+    "Proximal two-thirds of the lateral supracondylar ridge of the humerus",
+    "Upper two-thirds of the lateral border of the scapula"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi ulnaris — O: Lateral epicondyle (common extensor origin) and posterior border of the ulna. I: Base of the 5th metacarpal (medial/dorsal side). A: Wrist extension and ulnar deviation.",
+   "id": 115
+  },
+  {
+   "muscle": "ecu",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Where does Extensor carpi ulnaris insert?",
+   "options": [
+    "Base of the 5th metacarpal (medial/dorsal side)",
+    "Lateral surface of the distal radius (just above the styloid process)",
+    "Palmar base of the 2nd (and 3rd) metacarpal",
+    "Dorsal surface of the base of the 5th metatarsal"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi ulnaris — O: Lateral epicondyle (common extensor origin) and posterior border of the ulna. I: Base of the 5th metacarpal (medial/dorsal side). A: Wrist extension and ulnar deviation.",
+   "id": 116
+  },
+  {
+   "muscle": "ecu",
+   "region": "Forearm",
+   "type": "action",
+   "q": "What is the main action of Extensor carpi ulnaris?",
+   "options": [
+    "Wrist extension and ulnar deviation",
+    "Wrist flexion and radial deviation",
+    "Elbow flexion, strongest with the forearm in mid-prone (neutral)",
+    "Draws the scapula anteroinferiorly (depression/protraction); accessory inspiration"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi ulnaris — O: Lateral epicondyle (common extensor origin) and posterior border of the ulna. I: Base of the 5th metacarpal (medial/dorsal side). A: Wrist extension and ulnar deviation.",
+   "id": 117
+  },
+  {
+   "muscle": "ecu",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Base of the 5th metacarpal (medial/dorsal side)?",
+   "options": [
+    "Extensor carpi ulnaris",
+    "Flexor carpi radialis",
+    "Brachioradialis",
+    "Gluteus minimus"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi ulnaris — O: Lateral epicondyle (common extensor origin) and posterior border of the ulna. I: Base of the 5th metacarpal (medial/dorsal side). A: Wrist extension and ulnar deviation.",
+   "id": 118
+  },
+  {
+   "muscle": "ecu",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "Which muscle originates from: Lateral epicondyle (common extensor origin) and posterior border of the ulna?",
+   "options": [
+    "Extensor carpi ulnaris",
+    "Brachioradialis",
+    "Flexor carpi radialis",
+    "Iliacus"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi ulnaris — O: Lateral epicondyle (common extensor origin) and posterior border of the ulna. I: Base of the 5th metacarpal (medial/dorsal side). A: Wrist extension and ulnar deviation.",
+   "id": 119
+  },
+  {
+   "muscle": "ecrl",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "What is the origin of Extensor carpi radialis longus?",
+   "options": [
+    "Distal third of the lateral supracondylar ridge of the humerus",
+    "Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna",
+    "Posterior tibia, posterior fibula and interosseous membrane",
+    "Manubrium of the sternum (sternal head) and medial third of the clavicle (clavicular head)"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis longus — O: Distal third of the lateral supracondylar ridge of the humerus. I: Dorsal base of the 2nd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 120
+  },
+  {
+   "muscle": "ecrl",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Where does Extensor carpi radialis longus insert?",
+   "options": [
+    "Dorsal base of the 2nd metacarpal",
+    "Pisiform, hook of the hamate and base of the 5th metacarpal",
+    "Dorsal surface of the base of the 5th metatarsal",
+    "Tuberosity on the lateral base of the 5th metatarsal"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis longus — O: Distal third of the lateral supracondylar ridge of the humerus. I: Dorsal base of the 2nd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 121
+  },
+  {
+   "muscle": "ecrl",
+   "region": "Forearm",
+   "type": "action",
+   "q": "What is the main action of Extensor carpi radialis longus?",
+   "options": [
+    "Wrist extension and radial deviation",
+    "Wrist flexion and ulnar deviation",
+    "Elbow flexion in all forearm positions (the 'workhorse' flexor)",
+    "Bilateral: head and neck extension; unilateral: ipsilateral rotation and side-bending"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis longus — O: Distal third of the lateral supracondylar ridge of the humerus. I: Dorsal base of the 2nd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 122
+  },
+  {
+   "muscle": "ecrl",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Dorsal base of the 2nd metacarpal?",
+   "options": [
+    "Extensor carpi radialis longus",
+    "Flexor carpi ulnaris",
+    "Gluteus medius",
+    "Vastus intermedius"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis longus — O: Distal third of the lateral supracondylar ridge of the humerus. I: Dorsal base of the 2nd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 123
+  },
+  {
+   "muscle": "ecrl",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "Which muscle originates from: Distal third of the lateral supracondylar ridge of the humerus?",
+   "options": [
+    "Extensor carpi radialis longus",
+    "Flexor carpi ulnaris",
+    "Tibialis posterior",
+    "Adductor magnus"
+   ],
+   "answer": 0,
+   "explanation": "Extensor carpi radialis longus — O: Distal third of the lateral supracondylar ridge of the humerus. I: Dorsal base of the 2nd metacarpal. A: Wrist extension and radial deviation.",
+   "id": 124
+  },
+  {
+   "muscle": "fcr",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "What is the origin of Flexor carpi radialis?",
+   "options": [
+    "Medial epicondyle of the humerus (common flexor origin)",
+    "Proximal two-thirds of the lateral supracondylar ridge of the humerus",
+    "Lateral epicondyle of the humerus (common extensor origin)",
+    "Lateral epicondyle (common extensor origin) and posterior border of the ulna"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi radialis — O: Medial epicondyle of the humerus (common flexor origin). I: Palmar base of the 2nd (and 3rd) metacarpal. A: Wrist flexion and radial deviation.",
+   "id": 125
+  },
+  {
+   "muscle": "fcr",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Where does Flexor carpi radialis insert?",
+   "options": [
+    "Palmar base of the 2nd (and 3rd) metacarpal",
+    "Base of the 5th metacarpal (medial/dorsal side)",
+    "Lateral surface of the distal radius (just above the styloid process)",
+    "Dorsal base of the 3rd metacarpal"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi radialis — O: Medial epicondyle of the humerus (common flexor origin). I: Palmar base of the 2nd (and 3rd) metacarpal. A: Wrist flexion and radial deviation.",
+   "id": 126
+  },
+  {
+   "muscle": "fcr",
+   "region": "Forearm",
+   "type": "action",
+   "q": "What is the main action of Flexor carpi radialis?",
+   "options": [
+    "Wrist flexion and radial deviation",
+    "Elbow flexion, strongest with the forearm in mid-prone (neutral)",
+    "Wrist extension and radial deviation",
+    "Wrist extension and ulnar deviation"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi radialis — O: Medial epicondyle of the humerus (common flexor origin). I: Palmar base of the 2nd (and 3rd) metacarpal. A: Wrist flexion and radial deviation.",
+   "id": 127
+  },
+  {
+   "muscle": "fcr",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Palmar base of the 2nd (and 3rd) metacarpal?",
+   "options": [
+    "Flexor carpi radialis",
+    "Extensor carpi ulnaris",
+    "Brachioradialis",
+    "Extensor carpi radialis brevis"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi radialis — O: Medial epicondyle of the humerus (common flexor origin). I: Palmar base of the 2nd (and 3rd) metacarpal. A: Wrist flexion and radial deviation.",
+   "id": 128
+  },
+  {
+   "muscle": "fcr",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "Which muscle originates from: Medial epicondyle of the humerus (common flexor origin)?",
+   "options": [
+    "Flexor carpi radialis",
+    "Brachioradialis",
+    "Extensor carpi ulnaris",
+    "Extensor carpi radialis brevis"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi radialis — O: Medial epicondyle of the humerus (common flexor origin). I: Palmar base of the 2nd (and 3rd) metacarpal. A: Wrist flexion and radial deviation.",
+   "id": 129
+  },
+  {
+   "muscle": "fcu",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "What is the origin of Flexor carpi ulnaris?",
+   "options": [
+    "Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna",
+    "Distal third of the lateral supracondylar ridge of the humerus",
+    "Proximal two-thirds of the lateral supracondylar ridge of the humerus",
+    "Lateral epicondyle of the humerus (common extensor origin)"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi ulnaris — O: Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna. I: Pisiform, hook of the hamate and base of the 5th metacarpal. A: Wrist flexion and ulnar deviation.",
+   "id": 130
+  },
+  {
+   "muscle": "fcu",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Where does Flexor carpi ulnaris insert?",
+   "options": [
+    "Pisiform, hook of the hamate and base of the 5th metacarpal",
+    "Dorsal base of the 2nd metacarpal",
+    "Lateral surface of the distal radius (just above the styloid process)",
+    "Dorsal base of the 3rd metacarpal"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi ulnaris — O: Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna. I: Pisiform, hook of the hamate and base of the 5th metacarpal. A: Wrist flexion and ulnar deviation.",
+   "id": 131
+  },
+  {
+   "muscle": "fcu",
+   "region": "Forearm",
+   "type": "action",
+   "q": "What is the main action of Flexor carpi ulnaris?",
+   "options": [
+    "Wrist flexion and ulnar deviation",
+    "Elbow flexion, strongest with the forearm in mid-prone (neutral)",
+    "Wrist extension and radial deviation",
+    "Hip adduction (assists hip flexion)"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi ulnaris — O: Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna. I: Pisiform, hook of the hamate and base of the 5th metacarpal. A: Wrist flexion and ulnar deviation.",
+   "id": 132
+  },
+  {
+   "muscle": "fcu",
+   "region": "Forearm",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Pisiform, hook of the hamate and base of the 5th metacarpal?",
+   "options": [
+    "Flexor carpi ulnaris",
+    "Extensor carpi radialis longus",
+    "Brachioradialis",
+    "Extensor carpi radialis brevis"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi ulnaris — O: Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna. I: Pisiform, hook of the hamate and base of the 5th metacarpal. A: Wrist flexion and ulnar deviation.",
+   "id": 133
+  },
+  {
+   "muscle": "fcu",
+   "region": "Forearm",
+   "type": "origin",
+   "q": "Which muscle originates from: Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna?",
+   "options": [
+    "Flexor carpi ulnaris",
+    "Brachioradialis",
+    "Extensor carpi radialis brevis",
+    "Extensor carpi radialis longus"
+   ],
+   "answer": 0,
+   "explanation": "Flexor carpi ulnaris — O: Humeral head: medial epicondyle; ulnar head: olecranon and posterior border of ulna. I: Pisiform, hook of the hamate and base of the 5th metacarpal. A: Wrist flexion and ulnar deviation.",
+   "id": 134
+  },
+  {
+   "muscle": "ql",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "What is the origin of Quadratus lumborum?",
+   "options": [
+    "Posterior iliac crest and iliolumbar ligament",
+    "Outer ilium between the anterior and inferior gluteal lines",
+    "Iliac fossa (also iliac crest, sacral ala and anterior sacroiliac ligaments)",
+    "Anterior (pelvic) surface of the sacrum"
+   ],
+   "answer": 0,
+   "explanation": "Quadratus lumborum — O: Posterior iliac crest and iliolumbar ligament. I: Inferior border of the 12th rib and transverse processes of L1–L4. A: Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration.",
+   "id": 135
+  },
+  {
+   "muscle": "ql",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Where does Quadratus lumborum insert?",
+   "options": [
+    "Inferior border of the 12th rib and transverse processes of L1–L4",
+    "Anterior surface of the greater trochanter",
+    "Iliotibial tract and gluteal tuberosity of the femur",
+    "Iliotibial tract → lateral condyle of the tibia (Gerdy's tubercle)"
+   ],
+   "answer": 0,
+   "explanation": "Quadratus lumborum — O: Posterior iliac crest and iliolumbar ligament. I: Inferior border of the 12th rib and transverse processes of L1–L4. A: Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration.",
+   "id": 136
+  },
+  {
+   "muscle": "ql",
+   "region": "Lumbar & hip",
+   "type": "action",
+   "q": "What is the main action of Quadratus lumborum?",
+   "options": [
+    "Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration",
+    "Hip flexion; stabilises the hip joint",
+    "Hip flexion, abduction and medial rotation; tenses the iliotibial band",
+    "Hip abduction and medial rotation (anterior fibres); stabilises the pelvis in single-leg stance"
+   ],
+   "answer": 0,
+   "explanation": "Quadratus lumborum — O: Posterior iliac crest and iliolumbar ligament. I: Inferior border of the 12th rib and transverse processes of L1–L4. A: Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration.",
+   "id": 137
+  },
+  {
+   "muscle": "ql",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Inferior border of the 12th rib and transverse processes of L1–L4?",
+   "options": [
+    "Quadratus lumborum",
+    "Iliacus",
+    "Gluteus minimus",
+    "Gluteus maximus"
+   ],
+   "answer": 0,
+   "explanation": "Quadratus lumborum — O: Posterior iliac crest and iliolumbar ligament. I: Inferior border of the 12th rib and transverse processes of L1–L4. A: Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration.",
+   "id": 138
+  },
+  {
+   "muscle": "ql",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "Which muscle originates from: Posterior iliac crest and iliolumbar ligament?",
+   "options": [
+    "Quadratus lumborum",
+    "Gluteus maximus",
+    "Gluteus minimus",
+    "Iliacus"
+   ],
+   "answer": 0,
+   "explanation": "Quadratus lumborum — O: Posterior iliac crest and iliolumbar ligament. I: Inferior border of the 12th rib and transverse processes of L1–L4. A: Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration.",
+   "id": 139
+  },
+  {
+   "muscle": "psoas",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "What is the origin of Psoas major?",
+   "options": [
+    "Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5",
+    "Anterior (pelvic) surface of the sacrum",
+    "Outer ilium between the anterior and inferior gluteal lines",
+    "Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia"
+   ],
+   "answer": 0,
+   "explanation": "Psoas major — O: Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5. I: Lesser trochanter of the femur (common iliopsoas tendon). A: Hip flexion; stabilises the hip joint.",
+   "id": 140
+  },
+  {
+   "muscle": "psoas",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Where does Psoas major insert?",
+   "options": [
+    "Lesser trochanter of the femur (common iliopsoas tendon)",
+    "Iliotibial tract and gluteal tuberosity of the femur",
+    "Anterior surface of the greater trochanter",
+    "Lateral surface of the greater trochanter"
+   ],
+   "answer": 0,
+   "explanation": "Psoas major — O: Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5. I: Lesser trochanter of the femur (common iliopsoas tendon). A: Hip flexion; stabilises the hip joint.",
+   "id": 141
+  },
+  {
+   "muscle": "psoas",
+   "region": "Lumbar & hip",
+   "type": "action",
+   "q": "What is the main action of Psoas major?",
+   "options": [
+    "Hip flexion; stabilises the hip joint",
+    "Hip lateral rotation of the extended hip; abducts the flexed hip",
+    "Hip abduction and medial rotation; stabilises the pelvis",
+    "Hip extension and lateral rotation"
+   ],
+   "answer": 0,
+   "explanation": "Psoas major — O: Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5. I: Lesser trochanter of the femur (common iliopsoas tendon). A: Hip flexion; stabilises the hip joint.",
+   "id": 142
+  },
+  {
+   "muscle": "psoas",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "Which muscle originates from: Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5?",
+   "options": [
+    "Psoas major",
+    "Gluteus minimus",
+    "Gluteus maximus",
+    "Piriformis"
+   ],
+   "answer": 0,
+   "explanation": "Psoas major — O: Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5. I: Lesser trochanter of the femur (common iliopsoas tendon). A: Hip flexion; stabilises the hip joint.",
+   "id": 143
+  },
+  {
+   "muscle": "iliacus",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "What is the origin of Iliacus?",
+   "options": [
+    "Iliac fossa (also iliac crest, sacral ala and anterior sacroiliac ligaments)",
+    "Anterior (pelvic) surface of the sacrum",
+    "Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia",
+    "Posterior iliac crest and iliolumbar ligament"
+   ],
+   "answer": 0,
+   "explanation": "Iliacus — O: Iliac fossa (also iliac crest, sacral ala and anterior sacroiliac ligaments). I: Lesser trochanter of the femur (common iliopsoas tendon). A: Hip flexion; stabilises the hip joint.",
+   "id": 144
+  },
+  {
+   "muscle": "iliacus",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Where does Iliacus insert?",
+   "options": [
+    "Lesser trochanter of the femur (common iliopsoas tendon)",
+    "Anterior surface of the greater trochanter",
+    "Superior border (apex) of the greater trochanter",
+    "Lateral surface of the greater trochanter"
+   ],
+   "answer": 0,
+   "explanation": "Iliacus — O: Iliac fossa (also iliac crest, sacral ala and anterior sacroiliac ligaments). I: Lesser trochanter of the femur (common iliopsoas tendon). A: Hip flexion; stabilises the hip joint.",
+   "id": 145
+  },
+  {
+   "muscle": "iliacus",
+   "region": "Lumbar & hip",
+   "type": "action",
+   "q": "What is the main action of Iliacus?",
+   "options": [
+    "Hip flexion; stabilises the hip joint",
+    "Hip abduction and medial rotation; stabilises the pelvis",
+    "Hip abduction and medial rotation (anterior fibres); stabilises the pelvis in single-leg stance",
+    "Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration"
+   ],
+   "answer": 0,
+   "explanation": "Iliacus — O: Iliac fossa (also iliac crest, sacral ala and anterior sacroiliac ligaments). I: Lesser trochanter of the femur (common iliopsoas tendon). A: Hip flexion; stabilises the hip joint.",
+   "id": 146
+  },
+  {
+   "muscle": "iliacus",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "Which muscle originates from: Iliac fossa (also iliac crest, sacral ala and anterior sacroiliac ligaments)?",
+   "options": [
+    "Iliacus",
+    "Quadratus lumborum",
+    "Gluteus minimus",
+    "Piriformis"
+   ],
+   "answer": 0,
+   "explanation": "Iliacus — O: Iliac fossa (also iliac crest, sacral ala and anterior sacroiliac ligaments). I: Lesser trochanter of the femur (common iliopsoas tendon). A: Hip flexion; stabilises the hip joint.",
+   "id": 147
+  },
+  {
+   "muscle": "gmed",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "What is the origin of Gluteus medius?",
+   "options": [
+    "Outer ilium between the anterior and posterior gluteal lines",
+    "Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia",
+    "Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5",
+    "Iliac fossa (also iliac crest, sacral ala and anterior sacroiliac ligaments)"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus medius — O: Outer ilium between the anterior and posterior gluteal lines. I: Lateral surface of the greater trochanter. A: Hip abduction and medial rotation (anterior fibres); stabilises the pelvis in single-leg stance.",
+   "id": 148
+  },
+  {
+   "muscle": "gmed",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Where does Gluteus medius insert?",
+   "options": [
+    "Lateral surface of the greater trochanter",
+    "Inferior border of the 12th rib and transverse processes of L1–L4",
+    "Lesser trochanter of the femur (common iliopsoas tendon)",
+    "Iliotibial tract and gluteal tuberosity of the femur"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus medius — O: Outer ilium between the anterior and posterior gluteal lines. I: Lateral surface of the greater trochanter. A: Hip abduction and medial rotation (anterior fibres); stabilises the pelvis in single-leg stance.",
+   "id": 149
+  },
+  {
+   "muscle": "gmed",
+   "region": "Lumbar & hip",
+   "type": "action",
+   "q": "What is the main action of Gluteus medius?",
+   "options": [
+    "Hip abduction and medial rotation (anterior fibres); stabilises the pelvis in single-leg stance",
+    "Hip flexion; stabilises the hip joint",
+    "Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration",
+    "Hip extension and lateral rotation"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus medius — O: Outer ilium between the anterior and posterior gluteal lines. I: Lateral surface of the greater trochanter. A: Hip abduction and medial rotation (anterior fibres); stabilises the pelvis in single-leg stance.",
+   "id": 150
+  },
+  {
+   "muscle": "gmed",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Lateral surface of the greater trochanter?",
+   "options": [
+    "Gluteus medius",
+    "Quadratus lumborum",
+    "Gluteus maximus",
+    "Iliacus"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus medius — O: Outer ilium between the anterior and posterior gluteal lines. I: Lateral surface of the greater trochanter. A: Hip abduction and medial rotation (anterior fibres); stabilises the pelvis in single-leg stance.",
+   "id": 151
+  },
+  {
+   "muscle": "gmed",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "Which muscle originates from: Outer ilium between the anterior and posterior gluteal lines?",
+   "options": [
+    "Gluteus medius",
+    "Iliacus",
+    "Psoas major",
+    "Quadratus lumborum"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus medius — O: Outer ilium between the anterior and posterior gluteal lines. I: Lateral surface of the greater trochanter. A: Hip abduction and medial rotation (anterior fibres); stabilises the pelvis in single-leg stance.",
+   "id": 152
+  },
+  {
+   "muscle": "gmin",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "What is the origin of Gluteus minimus?",
+   "options": [
+    "Outer ilium between the anterior and inferior gluteal lines",
+    "Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5",
+    "Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia",
+    "Posterior iliac crest and iliolumbar ligament"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus minimus — O: Outer ilium between the anterior and inferior gluteal lines. I: Anterior surface of the greater trochanter. A: Hip abduction and medial rotation; stabilises the pelvis.",
+   "id": 153
+  },
+  {
+   "muscle": "gmin",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Where does Gluteus minimus insert?",
+   "options": [
+    "Anterior surface of the greater trochanter",
+    "Inferior border of the 12th rib and transverse processes of L1–L4",
+    "Iliotibial tract and gluteal tuberosity of the femur",
+    "Lesser trochanter of the femur (common iliopsoas tendon)"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus minimus — O: Outer ilium between the anterior and inferior gluteal lines. I: Anterior surface of the greater trochanter. A: Hip abduction and medial rotation; stabilises the pelvis.",
+   "id": 154
+  },
+  {
+   "muscle": "gmin",
+   "region": "Lumbar & hip",
+   "type": "action",
+   "q": "What is the main action of Gluteus minimus?",
+   "options": [
+    "Hip abduction and medial rotation; stabilises the pelvis",
+    "Hip extension and lateral rotation",
+    "Hip flexion; stabilises the hip joint",
+    "Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus minimus — O: Outer ilium between the anterior and inferior gluteal lines. I: Anterior surface of the greater trochanter. A: Hip abduction and medial rotation; stabilises the pelvis.",
+   "id": 155
+  },
+  {
+   "muscle": "gmin",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Anterior surface of the greater trochanter?",
+   "options": [
+    "Gluteus minimus",
+    "Iliacus",
+    "Psoas major",
+    "Gluteus maximus"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus minimus — O: Outer ilium between the anterior and inferior gluteal lines. I: Anterior surface of the greater trochanter. A: Hip abduction and medial rotation; stabilises the pelvis.",
+   "id": 156
+  },
+  {
+   "muscle": "gmin",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "Which muscle originates from: Outer ilium between the anterior and inferior gluteal lines?",
+   "options": [
+    "Gluteus minimus",
+    "Quadratus lumborum",
+    "Psoas major",
+    "Gluteus maximus"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus minimus — O: Outer ilium between the anterior and inferior gluteal lines. I: Anterior surface of the greater trochanter. A: Hip abduction and medial rotation; stabilises the pelvis.",
+   "id": 157
+  },
+  {
+   "muscle": "gmax",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "What is the origin of Gluteus maximus?",
+   "options": [
+    "Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia",
+    "Outer ilium between the anterior and inferior gluteal lines",
+    "Posterior iliac crest and iliolumbar ligament",
+    "Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus maximus — O: Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia. I: Iliotibial tract and gluteal tuberosity of the femur. A: Hip extension and lateral rotation.",
+   "id": 158
+  },
+  {
+   "muscle": "gmax",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Where does Gluteus maximus insert?",
+   "options": [
+    "Iliotibial tract and gluteal tuberosity of the femur",
+    "Inferior border of the 12th rib and transverse processes of L1–L4",
+    "Anterior surface of the greater trochanter",
+    "Lesser trochanter of the femur (common iliopsoas tendon)"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus maximus — O: Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia. I: Iliotibial tract and gluteal tuberosity of the femur. A: Hip extension and lateral rotation.",
+   "id": 159
+  },
+  {
+   "muscle": "gmax",
+   "region": "Lumbar & hip",
+   "type": "action",
+   "q": "What is the main action of Gluteus maximus?",
+   "options": [
+    "Hip extension and lateral rotation",
+    "Hip flexion; stabilises the hip joint",
+    "Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration",
+    "Hip abduction and medial rotation (anterior fibres); stabilises the pelvis in single-leg stance"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus maximus — O: Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia. I: Iliotibial tract and gluteal tuberosity of the femur. A: Hip extension and lateral rotation.",
+   "id": 160
+  },
+  {
+   "muscle": "gmax",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Iliotibial tract and gluteal tuberosity of the femur?",
+   "options": [
+    "Gluteus maximus",
+    "Quadratus lumborum",
+    "Iliacus",
+    "Gluteus medius"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus maximus — O: Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia. I: Iliotibial tract and gluteal tuberosity of the femur. A: Hip extension and lateral rotation.",
+   "id": 161
+  },
+  {
+   "muscle": "gmax",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "Which muscle originates from: Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia?",
+   "options": [
+    "Gluteus maximus",
+    "Iliacus",
+    "Psoas major",
+    "Quadratus lumborum"
+   ],
+   "answer": 0,
+   "explanation": "Gluteus maximus — O: Posterior ilium (behind posterior gluteal line), dorsal sacrum and coccyx, sacrotuberous ligament, thoracolumbar fascia. I: Iliotibial tract and gluteal tuberosity of the femur. A: Hip extension and lateral rotation.",
+   "id": 162
+  },
+  {
+   "muscle": "tfl",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "What is the origin of Tensor fasciae latae?",
+   "options": [
+    "Anterior superior iliac spine (ASIS) and anterior outer iliac crest",
+    "Anterior (pelvic) surface of the sacrum",
+    "Posterior iliac crest and iliolumbar ligament",
+    "Spinous processes of T3–T6"
+   ],
+   "answer": 0,
+   "explanation": "Tensor fasciae latae — O: Anterior superior iliac spine (ASIS) and anterior outer iliac crest. I: Iliotibial tract → lateral condyle of the tibia (Gerdy's tubercle). A: Hip flexion, abduction and medial rotation; tenses the iliotibial band.",
+   "id": 163
+  },
+  {
+   "muscle": "tfl",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Where does Tensor fasciae latae insert?",
+   "options": [
+    "Iliotibial tract → lateral condyle of the tibia (Gerdy's tubercle)",
+    "Inferior border of the 12th rib and transverse processes of L1–L4",
+    "Superior border (apex) of the greater trochanter",
+    "Dorsal base of the 2nd metacarpal"
+   ],
+   "answer": 0,
+   "explanation": "Tensor fasciae latae — O: Anterior superior iliac spine (ASIS) and anterior outer iliac crest. I: Iliotibial tract → lateral condyle of the tibia (Gerdy's tubercle). A: Hip flexion, abduction and medial rotation; tenses the iliotibial band.",
+   "id": 164
+  },
+  {
+   "muscle": "tfl",
+   "region": "Lumbar & hip",
+   "type": "action",
+   "q": "What is the main action of Tensor fasciae latae?",
+   "options": [
+    "Hip flexion, abduction and medial rotation; tenses the iliotibial band",
+    "Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration",
+    "Hip lateral rotation of the extended hip; abducts the flexed hip",
+    "Elbow extension (long head also extends the shoulder)"
+   ],
+   "answer": 0,
+   "explanation": "Tensor fasciae latae — O: Anterior superior iliac spine (ASIS) and anterior outer iliac crest. I: Iliotibial tract → lateral condyle of the tibia (Gerdy's tubercle). A: Hip flexion, abduction and medial rotation; tenses the iliotibial band.",
+   "id": 165
+  },
+  {
+   "muscle": "tfl",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Iliotibial tract → lateral condyle of the tibia (Gerdy's tubercle)?",
+   "options": [
+    "Tensor fasciae latae",
+    "Piriformis",
+    "Quadratus lumborum",
+    "Lower trapezius"
+   ],
+   "answer": 0,
+   "explanation": "Tensor fasciae latae — O: Anterior superior iliac spine (ASIS) and anterior outer iliac crest. I: Iliotibial tract → lateral condyle of the tibia (Gerdy's tubercle). A: Hip flexion, abduction and medial rotation; tenses the iliotibial band.",
+   "id": 166
+  },
+  {
+   "muscle": "tfl",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "Which muscle originates from: Anterior superior iliac spine (ASIS) and anterior outer iliac crest?",
+   "options": [
+    "Tensor fasciae latae",
+    "Piriformis",
+    "Quadratus lumborum",
+    "Brachialis"
+   ],
+   "answer": 0,
+   "explanation": "Tensor fasciae latae — O: Anterior superior iliac spine (ASIS) and anterior outer iliac crest. I: Iliotibial tract → lateral condyle of the tibia (Gerdy's tubercle). A: Hip flexion, abduction and medial rotation; tenses the iliotibial band.",
+   "id": 167
+  },
+  {
+   "muscle": "pirif",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "What is the origin of Piriformis?",
+   "options": [
+    "Anterior (pelvic) surface of the sacrum",
+    "Posterior iliac crest and iliolumbar ligament",
+    "Anterior superior iliac spine (ASIS) and anterior outer iliac crest",
+    "Sides of T12–L5 vertebral bodies and discs, and transverse processes of L1–L5"
+   ],
+   "answer": 0,
+   "explanation": "Piriformis — O: Anterior (pelvic) surface of the sacrum. I: Superior border (apex) of the greater trochanter. A: Hip lateral rotation of the extended hip; abducts the flexed hip.",
+   "id": 168
+  },
+  {
+   "muscle": "pirif",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Where does Piriformis insert?",
+   "options": [
+    "Superior border (apex) of the greater trochanter",
+    "Lesser trochanter of the femur (common iliopsoas tendon)",
+    "Inferior border of the 12th rib and transverse processes of L1–L4",
+    "Iliotibial tract → lateral condyle of the tibia (Gerdy's tubercle)"
+   ],
+   "answer": 0,
+   "explanation": "Piriformis — O: Anterior (pelvic) surface of the sacrum. I: Superior border (apex) of the greater trochanter. A: Hip lateral rotation of the extended hip; abducts the flexed hip.",
+   "id": 169
+  },
+  {
+   "muscle": "pirif",
+   "region": "Lumbar & hip",
+   "type": "action",
+   "q": "What is the main action of Piriformis?",
+   "options": [
+    "Hip lateral rotation of the extended hip; abducts the flexed hip",
+    "Hip flexion, abduction and medial rotation; tenses the iliotibial band",
+    "Hip flexion; stabilises the hip joint",
+    "Unilateral: ipsilateral trunk side-bending (hip hiking); bilateral: lumbar extension; fixes 12th rib in inspiration"
+   ],
+   "answer": 0,
+   "explanation": "Piriformis — O: Anterior (pelvic) surface of the sacrum. I: Superior border (apex) of the greater trochanter. A: Hip lateral rotation of the extended hip; abducts the flexed hip.",
+   "id": 170
+  },
+  {
+   "muscle": "pirif",
+   "region": "Lumbar & hip",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Superior border (apex) of the greater trochanter?",
+   "options": [
+    "Piriformis",
+    "Psoas major",
+    "Tensor fasciae latae",
+    "Iliacus"
+   ],
+   "answer": 0,
+   "explanation": "Piriformis — O: Anterior (pelvic) surface of the sacrum. I: Superior border (apex) of the greater trochanter. A: Hip lateral rotation of the extended hip; abducts the flexed hip.",
+   "id": 171
+  },
+  {
+   "muscle": "pirif",
+   "region": "Lumbar & hip",
+   "type": "origin",
+   "q": "Which muscle originates from: Anterior (pelvic) surface of the sacrum?",
+   "options": [
+    "Piriformis",
+    "Quadratus lumborum",
+    "Psoas major",
+    "Tensor fasciae latae"
+   ],
+   "answer": 0,
+   "explanation": "Piriformis — O: Anterior (pelvic) surface of the sacrum. I: Superior border (apex) of the greater trochanter. A: Hip lateral rotation of the extended hip; abducts the flexed hip.",
+   "id": 172
+  },
+  {
+   "muscle": "bf",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Biceps femoris?",
+   "options": [
+    "Long head: ischial tuberosity; short head: lateral lip of the linea aspera",
+    "Body of the pubis, just below the pubic tubercle",
+    "Anterior inferior iliac spine (AIIS) and ilium just above the acetabulum",
+    "Anterior and lateral surfaces of the femoral shaft"
+   ],
+   "answer": 0,
+   "explanation": "Biceps femoris — O: Long head: ischial tuberosity; short head: lateral lip of the linea aspera. I: Head of the fibula. A: Knee flexion and lateral rotation of the flexed knee; long head extends the hip.",
+   "id": 173
+  },
+  {
+   "muscle": "bf",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Biceps femoris insert?",
+   "options": [
+    "Head of the fibula",
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament",
+    "Pectineal line and proximal linea aspera",
+    "Middle third of the linea aspera"
+   ],
+   "answer": 0,
+   "explanation": "Biceps femoris — O: Long head: ischial tuberosity; short head: lateral lip of the linea aspera. I: Head of the fibula. A: Knee flexion and lateral rotation of the flexed knee; long head extends the hip.",
+   "id": 174
+  },
+  {
+   "muscle": "bf",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Biceps femoris?",
+   "options": [
+    "Knee flexion and lateral rotation of the flexed knee; long head extends the hip",
+    "Knee extension and hip flexion",
+    "Knee extension",
+    "Hip adduction (assists hip flexion)"
+   ],
+   "answer": 0,
+   "explanation": "Biceps femoris — O: Long head: ischial tuberosity; short head: lateral lip of the linea aspera. I: Head of the fibula. A: Knee flexion and lateral rotation of the flexed knee; long head extends the hip.",
+   "id": 175
+  },
+  {
+   "muscle": "bf",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Head of the fibula?",
+   "options": [
+    "Biceps femoris",
+    "Vastus intermedius",
+    "Rectus femoris",
+    "Adductor brevis"
+   ],
+   "answer": 0,
+   "explanation": "Biceps femoris — O: Long head: ischial tuberosity; short head: lateral lip of the linea aspera. I: Head of the fibula. A: Knee flexion and lateral rotation of the flexed knee; long head extends the hip.",
+   "id": 176
+  },
+  {
+   "muscle": "bf",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "Which muscle originates from: Long head: ischial tuberosity; short head: lateral lip of the linea aspera?",
+   "options": [
+    "Biceps femoris",
+    "Vastus lateralis",
+    "Vastus intermedius",
+    "Adductor brevis"
+   ],
+   "answer": 0,
+   "explanation": "Biceps femoris — O: Long head: ischial tuberosity; short head: lateral lip of the linea aspera. I: Head of the fibula. A: Knee flexion and lateral rotation of the flexed knee; long head extends the hip.",
+   "id": 177
+  },
+  {
+   "muscle": "st",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Semitendinosus?",
+   "options": [
+    "Ischial tuberosity",
+    "Greater trochanter and lateral lip of the linea aspera",
+    "Body and inferior ramus of the pubis",
+    "Anterior inferior iliac spine (AIIS) and ilium just above the acetabulum"
+   ],
+   "answer": 0,
+   "explanation": "Semitendinosus — O: Ischial tuberosity. I: Superior medial surface of the tibia (pes anserinus). A: Knee flexion and medial rotation of the flexed knee; hip extension.",
+   "id": 178
+  },
+  {
+   "muscle": "st",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Semitendinosus insert?",
+   "options": [
+    "Superior medial surface of the tibia (pes anserinus)",
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament",
+    "Middle third of the linea aspera",
+    "Pectineal line and proximal linea aspera"
+   ],
+   "answer": 0,
+   "explanation": "Semitendinosus — O: Ischial tuberosity. I: Superior medial surface of the tibia (pes anserinus). A: Knee flexion and medial rotation of the flexed knee; hip extension.",
+   "id": 179
+  },
+  {
+   "muscle": "st",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Semitendinosus?",
+   "options": [
+    "Knee flexion and medial rotation of the flexed knee; hip extension",
+    "Hip adduction (assists hip flexion)",
+    "Knee extension and hip flexion",
+    "Knee extension; medial stabilisation of the patella (VMO)"
+   ],
+   "answer": 0,
+   "explanation": "Semitendinosus — O: Ischial tuberosity. I: Superior medial surface of the tibia (pes anserinus). A: Knee flexion and medial rotation of the flexed knee; hip extension.",
+   "id": 180
+  },
+  {
+   "muscle": "st",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Superior medial surface of the tibia (pes anserinus)?",
+   "options": [
+    "Semitendinosus",
+    "Vastus intermedius",
+    "Vastus medialis",
+    "Adductor brevis"
+   ],
+   "answer": 0,
+   "explanation": "Semitendinosus — O: Ischial tuberosity. I: Superior medial surface of the tibia (pes anserinus). A: Knee flexion and medial rotation of the flexed knee; hip extension.",
+   "id": 181
+  },
+  {
+   "muscle": "sm",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Semimembranosus?",
+   "options": [
+    "Ischial tuberosity",
+    "Body of the pubis, just below the pubic tubercle",
+    "Anterior and lateral surfaces of the femoral shaft",
+    "Greater trochanter and lateral lip of the linea aspera"
+   ],
+   "answer": 0,
+   "explanation": "Semimembranosus — O: Ischial tuberosity. I: Posterior surface of the medial tibial condyle. A: Knee flexion and medial rotation of the flexed knee; hip extension.",
+   "id": 182
+  },
+  {
+   "muscle": "sm",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Semimembranosus insert?",
+   "options": [
+    "Posterior surface of the medial tibial condyle",
+    "Middle third of the linea aspera",
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament",
+    "Pectineal line and proximal linea aspera"
+   ],
+   "answer": 0,
+   "explanation": "Semimembranosus — O: Ischial tuberosity. I: Posterior surface of the medial tibial condyle. A: Knee flexion and medial rotation of the flexed knee; hip extension.",
+   "id": 183
+  },
+  {
+   "muscle": "sm",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Semimembranosus?",
+   "options": [
+    "Knee flexion and medial rotation of the flexed knee; hip extension",
+    "Knee extension",
+    "Knee extension and hip flexion",
+    "Hip adduction (assists hip flexion)"
+   ],
+   "answer": 0,
+   "explanation": "Semimembranosus — O: Ischial tuberosity. I: Posterior surface of the medial tibial condyle. A: Knee flexion and medial rotation of the flexed knee; hip extension.",
+   "id": 184
+  },
+  {
+   "muscle": "sm",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Posterior surface of the medial tibial condyle?",
+   "options": [
+    "Semimembranosus",
+    "Adductor longus",
+    "Vastus medialis",
+    "Rectus femoris"
+   ],
+   "answer": 0,
+   "explanation": "Semimembranosus — O: Ischial tuberosity. I: Posterior surface of the medial tibial condyle. A: Knee flexion and medial rotation of the flexed knee; hip extension.",
+   "id": 185
+  },
+  {
+   "muscle": "amag",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Adductor magnus?",
+   "options": [
+    "Inferior pubic ramus, ischial ramus and ischial tuberosity",
+    "Intertrochanteric line and medial lip of the linea aspera",
+    "Anterior inferior iliac spine (AIIS) and ilium just above the acetabulum",
+    "Anterior and lateral surfaces of the femoral shaft"
+   ],
+   "answer": 0,
+   "explanation": "Adductor magnus — O: Inferior pubic ramus, ischial ramus and ischial tuberosity. I: Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle. A: Hip adduction; adductor part flexes, hamstring part extends the hip.",
+   "id": 186
+  },
+  {
+   "muscle": "amag",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Adductor magnus insert?",
+   "options": [
+    "Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle",
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament",
+    "Medial border of the scapula at the root of the spine",
+    "Olecranon process of the ulna"
+   ],
+   "answer": 0,
+   "explanation": "Adductor magnus — O: Inferior pubic ramus, ischial ramus and ischial tuberosity. I: Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle. A: Hip adduction; adductor part flexes, hamstring part extends the hip.",
+   "id": 187
+  },
+  {
+   "muscle": "amag",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Adductor magnus?",
+   "options": [
+    "Hip adduction; adductor part flexes, hamstring part extends the hip",
+    "Knee extension and hip flexion",
+    "Knee extension; medial stabilisation of the patella (VMO)",
+    "Knee extension"
+   ],
+   "answer": 0,
+   "explanation": "Adductor magnus — O: Inferior pubic ramus, ischial ramus and ischial tuberosity. I: Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle. A: Hip adduction; adductor part flexes, hamstring part extends the hip.",
+   "id": 188
+  },
+  {
+   "muscle": "amag",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle?",
+   "options": [
+    "Adductor magnus",
+    "Vastus lateralis",
+    "Rectus femoris",
+    "Vastus intermedius"
+   ],
+   "answer": 0,
+   "explanation": "Adductor magnus — O: Inferior pubic ramus, ischial ramus and ischial tuberosity. I: Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle. A: Hip adduction; adductor part flexes, hamstring part extends the hip.",
+   "id": 189
+  },
+  {
+   "muscle": "amag",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "Which muscle originates from: Inferior pubic ramus, ischial ramus and ischial tuberosity?",
+   "options": [
+    "Adductor magnus",
+    "Rectus femoris",
+    "Vastus intermedius",
+    "Vastus medialis"
+   ],
+   "answer": 0,
+   "explanation": "Adductor magnus — O: Inferior pubic ramus, ischial ramus and ischial tuberosity. I: Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle. A: Hip adduction; adductor part flexes, hamstring part extends the hip.",
+   "id": 190
+  },
+  {
+   "muscle": "alon",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Adductor longus?",
+   "options": [
+    "Body of the pubis, just below the pubic tubercle",
+    "Greater trochanter and lateral lip of the linea aspera",
+    "Long head: ischial tuberosity; short head: lateral lip of the linea aspera",
+    "Ischial tuberosity"
+   ],
+   "answer": 0,
+   "explanation": "Adductor longus — O: Body of the pubis, just below the pubic tubercle. I: Middle third of the linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 191
+  },
+  {
+   "muscle": "alon",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Adductor longus insert?",
+   "options": [
+    "Middle third of the linea aspera",
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament",
+    "Superior medial surface of the tibia (pes anserinus)",
+    "Posterior surface of the medial tibial condyle"
+   ],
+   "answer": 0,
+   "explanation": "Adductor longus — O: Body of the pubis, just below the pubic tubercle. I: Middle third of the linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 192
+  },
+  {
+   "muscle": "alon",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Adductor longus?",
+   "options": [
+    "Hip adduction (assists hip flexion)",
+    "Knee extension",
+    "Knee extension; medial stabilisation of the patella (VMO)",
+    "Knee flexion and medial rotation of the flexed knee; hip extension"
+   ],
+   "answer": 0,
+   "explanation": "Adductor longus — O: Body of the pubis, just below the pubic tubercle. I: Middle third of the linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 193
+  },
+  {
+   "muscle": "alon",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Middle third of the linea aspera?",
+   "options": [
+    "Adductor longus",
+    "Vastus intermedius",
+    "Semimembranosus",
+    "Semitendinosus"
+   ],
+   "answer": 0,
+   "explanation": "Adductor longus — O: Body of the pubis, just below the pubic tubercle. I: Middle third of the linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 194
+  },
+  {
+   "muscle": "alon",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "Which muscle originates from: Body of the pubis, just below the pubic tubercle?",
+   "options": [
+    "Adductor longus",
+    "Semitendinosus",
+    "Semimembranosus",
+    "Rectus femoris"
+   ],
+   "answer": 0,
+   "explanation": "Adductor longus — O: Body of the pubis, just below the pubic tubercle. I: Middle third of the linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 195
+  },
+  {
+   "muscle": "abrev",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Adductor brevis?",
+   "options": [
+    "Body and inferior ramus of the pubis",
+    "Intertrochanteric line and medial lip of the linea aspera",
+    "Anterior and lateral surfaces of the femoral shaft",
+    "Ischial tuberosity"
+   ],
+   "answer": 0,
+   "explanation": "Adductor brevis — O: Body and inferior ramus of the pubis. I: Pectineal line and proximal linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 196
+  },
+  {
+   "muscle": "abrev",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Adductor brevis insert?",
+   "options": [
+    "Pectineal line and proximal linea aspera",
+    "Posterior surface of the medial tibial condyle",
+    "Head of the fibula",
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament"
+   ],
+   "answer": 0,
+   "explanation": "Adductor brevis — O: Body and inferior ramus of the pubis. I: Pectineal line and proximal linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 197
+  },
+  {
+   "muscle": "abrev",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Adductor brevis?",
+   "options": [
+    "Hip adduction (assists hip flexion)",
+    "Knee flexion and lateral rotation of the flexed knee; long head extends the hip",
+    "Knee extension; medial stabilisation of the patella (VMO)",
+    "Knee extension"
+   ],
+   "answer": 0,
+   "explanation": "Adductor brevis — O: Body and inferior ramus of the pubis. I: Pectineal line and proximal linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 198
+  },
+  {
+   "muscle": "abrev",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Pectineal line and proximal linea aspera?",
+   "options": [
+    "Adductor brevis",
+    "Vastus intermedius",
+    "Biceps femoris",
+    "Semimembranosus"
+   ],
+   "answer": 0,
+   "explanation": "Adductor brevis — O: Body and inferior ramus of the pubis. I: Pectineal line and proximal linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 199
+  },
+  {
+   "muscle": "abrev",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "Which muscle originates from: Body and inferior ramus of the pubis?",
+   "options": [
+    "Adductor brevis",
+    "Semimembranosus",
+    "Vastus medialis",
+    "Vastus lateralis"
+   ],
+   "answer": 0,
+   "explanation": "Adductor brevis — O: Body and inferior ramus of the pubis. I: Pectineal line and proximal linea aspera. A: Hip adduction (assists hip flexion).",
+   "id": 200
+  },
+  {
+   "muscle": "rf",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Rectus femoris?",
+   "options": [
+    "Anterior inferior iliac spine (AIIS) and ilium just above the acetabulum",
+    "Ischial tuberosity",
+    "Inferior pubic ramus, ischial ramus and ischial tuberosity",
+    "Long head: ischial tuberosity; short head: lateral lip of the linea aspera"
+   ],
+   "answer": 0,
+   "explanation": "Rectus femoris — O: Anterior inferior iliac spine (AIIS) and ilium just above the acetabulum. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension and hip flexion.",
+   "id": 201
+  },
+  {
+   "muscle": "rf",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Rectus femoris insert?",
+   "options": [
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament",
+    "Pectineal line and proximal linea aspera",
+    "Head of the fibula",
+    "Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle"
+   ],
+   "answer": 0,
+   "explanation": "Rectus femoris — O: Anterior inferior iliac spine (AIIS) and ilium just above the acetabulum. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension and hip flexion.",
+   "id": 202
+  },
+  {
+   "muscle": "rf",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Rectus femoris?",
+   "options": [
+    "Knee extension and hip flexion",
+    "Knee flexion and medial rotation of the flexed knee; hip extension",
+    "Hip adduction (assists hip flexion)",
+    "Hip adduction; adductor part flexes, hamstring part extends the hip"
+   ],
+   "answer": 0,
+   "explanation": "Rectus femoris — O: Anterior inferior iliac spine (AIIS) and ilium just above the acetabulum. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension and hip flexion.",
+   "id": 203
+  },
+  {
+   "muscle": "rf",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "Which muscle originates from: Anterior inferior iliac spine (AIIS) and ilium just above the acetabulum?",
+   "options": [
+    "Rectus femoris",
+    "Adductor longus",
+    "Adductor magnus",
+    "Biceps femoris"
+   ],
+   "answer": 0,
+   "explanation": "Rectus femoris — O: Anterior inferior iliac spine (AIIS) and ilium just above the acetabulum. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension and hip flexion.",
+   "id": 204
+  },
+  {
+   "muscle": "vl",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Vastus lateralis?",
+   "options": [
+    "Greater trochanter and lateral lip of the linea aspera",
+    "Ischial tuberosity",
+    "Long head: ischial tuberosity; short head: lateral lip of the linea aspera",
+    "Body and inferior ramus of the pubis"
+   ],
+   "answer": 0,
+   "explanation": "Vastus lateralis — O: Greater trochanter and lateral lip of the linea aspera. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension.",
+   "id": 205
+  },
+  {
+   "muscle": "vl",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Vastus lateralis insert?",
+   "options": [
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament",
+    "Posterior surface of the medial tibial condyle",
+    "Middle third of the linea aspera",
+    "Pectineal line and proximal linea aspera"
+   ],
+   "answer": 0,
+   "explanation": "Vastus lateralis — O: Greater trochanter and lateral lip of the linea aspera. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension.",
+   "id": 206
+  },
+  {
+   "muscle": "vl",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Vastus lateralis?",
+   "options": [
+    "Knee extension",
+    "Knee flexion and medial rotation of the flexed knee; hip extension",
+    "Hip adduction; adductor part flexes, hamstring part extends the hip",
+    "Hip adduction (assists hip flexion)"
+   ],
+   "answer": 0,
+   "explanation": "Vastus lateralis — O: Greater trochanter and lateral lip of the linea aspera. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension.",
+   "id": 207
+  },
+  {
+   "muscle": "vl",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "Which muscle originates from: Greater trochanter and lateral lip of the linea aspera?",
+   "options": [
+    "Vastus lateralis",
+    "Semimembranosus",
+    "Semitendinosus",
+    "Adductor brevis"
+   ],
+   "answer": 0,
+   "explanation": "Vastus lateralis — O: Greater trochanter and lateral lip of the linea aspera. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension.",
+   "id": 208
+  },
+  {
+   "muscle": "vm",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Vastus medialis?",
+   "options": [
+    "Intertrochanteric line and medial lip of the linea aspera",
+    "Ischial tuberosity",
+    "Long head: ischial tuberosity; short head: lateral lip of the linea aspera",
+    "Body and inferior ramus of the pubis"
+   ],
+   "answer": 0,
+   "explanation": "Vastus medialis — O: Intertrochanteric line and medial lip of the linea aspera. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension; medial stabilisation of the patella (VMO).",
+   "id": 209
+  },
+  {
+   "muscle": "vm",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Vastus medialis insert?",
+   "options": [
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament",
+    "Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle",
+    "Posterior surface of the medial tibial condyle",
+    "Superior medial surface of the tibia (pes anserinus)"
+   ],
+   "answer": 0,
+   "explanation": "Vastus medialis — O: Intertrochanteric line and medial lip of the linea aspera. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension; medial stabilisation of the patella (VMO).",
+   "id": 210
+  },
+  {
+   "muscle": "vm",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Vastus medialis?",
+   "options": [
+    "Knee extension; medial stabilisation of the patella (VMO)",
+    "Knee flexion and medial rotation of the flexed knee; hip extension",
+    "Hip adduction; adductor part flexes, hamstring part extends the hip",
+    "Hip adduction (assists hip flexion)"
+   ],
+   "answer": 0,
+   "explanation": "Vastus medialis — O: Intertrochanteric line and medial lip of the linea aspera. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension; medial stabilisation of the patella (VMO).",
+   "id": 211
+  },
+  {
+   "muscle": "vm",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "Which muscle originates from: Intertrochanteric line and medial lip of the linea aspera?",
+   "options": [
+    "Vastus medialis",
+    "Adductor magnus",
+    "Semimembranosus",
+    "Adductor brevis"
+   ],
+   "answer": 0,
+   "explanation": "Vastus medialis — O: Intertrochanteric line and medial lip of the linea aspera. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension; medial stabilisation of the patella (VMO).",
+   "id": 212
+  },
+  {
+   "muscle": "vi",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "What is the origin of Vastus intermedius?",
+   "options": [
+    "Anterior and lateral surfaces of the femoral shaft",
+    "Ischial tuberosity",
+    "Long head: ischial tuberosity; short head: lateral lip of the linea aspera",
+    "Body of the pubis, just below the pubic tubercle"
+   ],
+   "answer": 0,
+   "explanation": "Vastus intermedius — O: Anterior and lateral surfaces of the femoral shaft. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension.",
+   "id": 213
+  },
+  {
+   "muscle": "vi",
+   "region": "Thigh",
+   "type": "insertion",
+   "q": "Where does Vastus intermedius insert?",
+   "options": [
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament",
+    "Gluteal tuberosity, linea aspera, medial supracondylar line and adductor tubercle",
+    "Superior medial surface of the tibia (pes anserinus)",
+    "Middle third of the linea aspera"
+   ],
+   "answer": 0,
+   "explanation": "Vastus intermedius — O: Anterior and lateral surfaces of the femoral shaft. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension.",
+   "id": 214
+  },
+  {
+   "muscle": "vi",
+   "region": "Thigh",
+   "type": "action",
+   "q": "What is the main action of Vastus intermedius?",
+   "options": [
+    "Knee extension",
+    "Knee flexion and medial rotation of the flexed knee; hip extension",
+    "Hip adduction (assists hip flexion)",
+    "Knee flexion and lateral rotation of the flexed knee; long head extends the hip"
+   ],
+   "answer": 0,
+   "explanation": "Vastus intermedius — O: Anterior and lateral surfaces of the femoral shaft. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension.",
+   "id": 215
+  },
+  {
+   "muscle": "vi",
+   "region": "Thigh",
+   "type": "origin",
+   "q": "Which muscle originates from: Anterior and lateral surfaces of the femoral shaft?",
+   "options": [
+    "Vastus intermedius",
+    "Semimembranosus",
+    "Semitendinosus",
+    "Adductor longus"
+   ],
+   "answer": 0,
+   "explanation": "Vastus intermedius — O: Anterior and lateral surfaces of the femoral shaft. I: Tibial tuberosity via the quadriceps tendon and patellar ligament. A: Knee extension.",
+   "id": 216
+  },
+  {
+   "muscle": "gastroc",
+   "region": "Leg",
+   "type": "origin",
+   "q": "What is the origin of Gastrocnemius?",
+   "options": [
+    "Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle",
+    "Lateral condyle and upper lateral surface of the tibia, interosseous membrane",
+    "Lower two-thirds of the lateral fibula",
+    "Distal third of the anterior fibula (and interosseous membrane)"
+   ],
+   "answer": 0,
+   "explanation": "Gastrocnemius — O: Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle. I: Calcaneal tuberosity via the calcaneal (Achilles) tendon. A: Ankle plantarflexion and knee flexion.",
+   "id": 217
+  },
+  {
+   "muscle": "gastroc",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Where does Gastrocnemius insert?",
+   "options": [
+    "Calcaneal tuberosity via the calcaneal (Achilles) tendon",
+    "Dorsal surface of the base of the 5th metatarsal",
+    "Medial cuneiform and base of the 1st metatarsal (medial/plantar side)",
+    "Tuberosity on the lateral base of the 5th metatarsal"
+   ],
+   "answer": 0,
+   "explanation": "Gastrocnemius — O: Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle. I: Calcaneal tuberosity via the calcaneal (Achilles) tendon. A: Ankle plantarflexion and knee flexion.",
+   "id": 218
+  },
+  {
+   "muscle": "gastroc",
+   "region": "Leg",
+   "type": "action",
+   "q": "What is the main action of Gastrocnemius?",
+   "options": [
+    "Ankle plantarflexion and knee flexion",
+    "Foot eversion and plantarflexion; supports the transverse arch",
+    "Ankle dorsiflexion and foot eversion",
+    "Foot eversion (weak plantarflexion)"
+   ],
+   "answer": 0,
+   "explanation": "Gastrocnemius — O: Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle. I: Calcaneal tuberosity via the calcaneal (Achilles) tendon. A: Ankle plantarflexion and knee flexion.",
+   "id": 219
+  },
+  {
+   "muscle": "gastroc",
+   "region": "Leg",
+   "type": "origin",
+   "q": "Which muscle originates from: Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle?",
+   "options": [
+    "Gastrocnemius",
+    "Fibularis longus",
+    "Fibularis brevis",
+    "Tibialis anterior"
+   ],
+   "answer": 0,
+   "explanation": "Gastrocnemius — O: Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle. I: Calcaneal tuberosity via the calcaneal (Achilles) tendon. A: Ankle plantarflexion and knee flexion.",
+   "id": 220
+  },
+  {
+   "muscle": "soleus",
+   "region": "Leg",
+   "type": "origin",
+   "q": "What is the origin of Soleus?",
+   "options": [
+    "Soleal line and medial border of the tibia, head and upper posterior fibula",
+    "Lateral condyle and upper lateral surface of the tibia, interosseous membrane",
+    "Distal third of the anterior fibula (and interosseous membrane)",
+    "Intertrochanteric line and medial lip of the linea aspera"
+   ],
+   "answer": 0,
+   "explanation": "Soleus — O: Soleal line and medial border of the tibia, head and upper posterior fibula. I: Calcaneal tuberosity via the calcaneal (Achilles) tendon. A: Ankle plantarflexion (effective even with the knee flexed).",
+   "id": 221
+  },
+  {
+   "muscle": "soleus",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Where does Soleus insert?",
+   "options": [
+    "Calcaneal tuberosity via the calcaneal (Achilles) tendon",
+    "Dorsal surface of the base of the 5th metatarsal",
+    "Medial cuneiform and base of the 1st metatarsal (medial/plantar side)",
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament"
+   ],
+   "answer": 0,
+   "explanation": "Soleus — O: Soleal line and medial border of the tibia, head and upper posterior fibula. I: Calcaneal tuberosity via the calcaneal (Achilles) tendon. A: Ankle plantarflexion (effective even with the knee flexed).",
+   "id": 222
+  },
+  {
+   "muscle": "soleus",
+   "region": "Leg",
+   "type": "action",
+   "q": "What is the main action of Soleus?",
+   "options": [
+    "Ankle plantarflexion (effective even with the knee flexed)",
+    "Ankle dorsiflexion and foot inversion",
+    "Ankle dorsiflexion and foot eversion",
+    "Shoulder adduction, medial rotation and flexion"
+   ],
+   "answer": 0,
+   "explanation": "Soleus — O: Soleal line and medial border of the tibia, head and upper posterior fibula. I: Calcaneal tuberosity via the calcaneal (Achilles) tendon. A: Ankle plantarflexion (effective even with the knee flexed).",
+   "id": 223
+  },
+  {
+   "muscle": "soleus",
+   "region": "Leg",
+   "type": "origin",
+   "q": "Which muscle originates from: Soleal line and medial border of the tibia, head and upper posterior fibula?",
+   "options": [
+    "Soleus",
+    "Fibularis tertius",
+    "Tibialis anterior",
+    "Piriformis"
+   ],
+   "answer": 0,
+   "explanation": "Soleus — O: Soleal line and medial border of the tibia, head and upper posterior fibula. I: Calcaneal tuberosity via the calcaneal (Achilles) tendon. A: Ankle plantarflexion (effective even with the knee flexed).",
+   "id": 224
+  },
+  {
+   "muscle": "tibpost",
+   "region": "Leg",
+   "type": "origin",
+   "q": "What is the origin of Tibialis posterior?",
+   "options": [
+    "Posterior tibia, posterior fibula and interosseous membrane",
+    "Head and upper two-thirds of the lateral fibula",
+    "Distal third of the anterior fibula (and interosseous membrane)",
+    "Lower two-thirds of the lateral fibula"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis posterior — O: Posterior tibia, posterior fibula and interosseous membrane. I: Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4. A: Foot inversion and plantarflexion; supports the medial longitudinal arch.",
+   "id": 225
+  },
+  {
+   "muscle": "tibpost",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Where does Tibialis posterior insert?",
+   "options": [
+    "Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4",
+    "Tuberosity on the lateral base of the 5th metatarsal",
+    "Dorsal surface of the base of the 5th metatarsal",
+    "Lateral side of the medial cuneiform and base of the 1st metatarsal (via the sole)"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis posterior — O: Posterior tibia, posterior fibula and interosseous membrane. I: Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4. A: Foot inversion and plantarflexion; supports the medial longitudinal arch.",
+   "id": 226
+  },
+  {
+   "muscle": "tibpost",
+   "region": "Leg",
+   "type": "action",
+   "q": "What is the main action of Tibialis posterior?",
+   "options": [
+    "Foot inversion and plantarflexion; supports the medial longitudinal arch",
+    "Foot eversion (weak plantarflexion)",
+    "Ankle dorsiflexion and foot eversion",
+    "Foot eversion and plantarflexion; supports the transverse arch"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis posterior — O: Posterior tibia, posterior fibula and interosseous membrane. I: Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4. A: Foot inversion and plantarflexion; supports the medial longitudinal arch.",
+   "id": 227
+  },
+  {
+   "muscle": "tibpost",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4?",
+   "options": [
+    "Tibialis posterior",
+    "Fibularis brevis",
+    "Fibularis longus",
+    "Fibularis tertius"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis posterior — O: Posterior tibia, posterior fibula and interosseous membrane. I: Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4. A: Foot inversion and plantarflexion; supports the medial longitudinal arch.",
+   "id": 228
+  },
+  {
+   "muscle": "tibpost",
+   "region": "Leg",
+   "type": "origin",
+   "q": "Which muscle originates from: Posterior tibia, posterior fibula and interosseous membrane?",
+   "options": [
+    "Tibialis posterior",
+    "Fibularis tertius",
+    "Fibularis brevis",
+    "Fibularis longus"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis posterior — O: Posterior tibia, posterior fibula and interosseous membrane. I: Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4. A: Foot inversion and plantarflexion; supports the medial longitudinal arch.",
+   "id": 229
+  },
+  {
+   "muscle": "tibant",
+   "region": "Leg",
+   "type": "origin",
+   "q": "What is the origin of Tibialis anterior?",
+   "options": [
+    "Lateral condyle and upper lateral surface of the tibia, interosseous membrane",
+    "Lower two-thirds of the lateral fibula",
+    "Soleal line and medial border of the tibia, head and upper posterior fibula",
+    "Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis anterior — O: Lateral condyle and upper lateral surface of the tibia, interosseous membrane. I: Medial cuneiform and base of the 1st metatarsal (medial/plantar side). A: Ankle dorsiflexion and foot inversion.",
+   "id": 230
+  },
+  {
+   "muscle": "tibant",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Where does Tibialis anterior insert?",
+   "options": [
+    "Medial cuneiform and base of the 1st metatarsal (medial/plantar side)",
+    "Calcaneal tuberosity via the calcaneal (Achilles) tendon",
+    "Tuberosity on the lateral base of the 5th metatarsal",
+    "Coronoid process and tuberosity of the ulna"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis anterior — O: Lateral condyle and upper lateral surface of the tibia, interosseous membrane. I: Medial cuneiform and base of the 1st metatarsal (medial/plantar side). A: Ankle dorsiflexion and foot inversion.",
+   "id": 231
+  },
+  {
+   "muscle": "tibant",
+   "region": "Leg",
+   "type": "action",
+   "q": "What is the main action of Tibialis anterior?",
+   "options": [
+    "Ankle dorsiflexion and foot inversion",
+    "Ankle plantarflexion (effective even with the knee flexed)",
+    "Ankle plantarflexion and knee flexion",
+    "Foot eversion (weak plantarflexion)"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis anterior — O: Lateral condyle and upper lateral surface of the tibia, interosseous membrane. I: Medial cuneiform and base of the 1st metatarsal (medial/plantar side). A: Ankle dorsiflexion and foot inversion.",
+   "id": 232
+  },
+  {
+   "muscle": "tibant",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Medial cuneiform and base of the 1st metatarsal (medial/plantar side)?",
+   "options": [
+    "Tibialis anterior",
+    "Soleus",
+    "Gastrocnemius",
+    "Fibularis brevis"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis anterior — O: Lateral condyle and upper lateral surface of the tibia, interosseous membrane. I: Medial cuneiform and base of the 1st metatarsal (medial/plantar side). A: Ankle dorsiflexion and foot inversion.",
+   "id": 233
+  },
+  {
+   "muscle": "tibant",
+   "region": "Leg",
+   "type": "origin",
+   "q": "Which muscle originates from: Lateral condyle and upper lateral surface of the tibia, interosseous membrane?",
+   "options": [
+    "Tibialis anterior",
+    "Fibularis brevis",
+    "Gastrocnemius",
+    "Soleus"
+   ],
+   "answer": 0,
+   "explanation": "Tibialis anterior — O: Lateral condyle and upper lateral surface of the tibia, interosseous membrane. I: Medial cuneiform and base of the 1st metatarsal (medial/plantar side). A: Ankle dorsiflexion and foot inversion.",
+   "id": 234
+  },
+  {
+   "muscle": "fl",
+   "region": "Leg",
+   "type": "origin",
+   "q": "What is the origin of Fibularis longus?",
+   "options": [
+    "Head and upper two-thirds of the lateral fibula",
+    "Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle",
+    "Posterior tibia, posterior fibula and interosseous membrane",
+    "Ischial tuberosity"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis longus — O: Head and upper two-thirds of the lateral fibula. I: Lateral side of the medial cuneiform and base of the 1st metatarsal (via the sole). A: Foot eversion and plantarflexion; supports the transverse arch.",
+   "id": 235
+  },
+  {
+   "muscle": "fl",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Where does Fibularis longus insert?",
+   "options": [
+    "Lateral side of the medial cuneiform and base of the 1st metatarsal (via the sole)",
+    "Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4",
+    "Calcaneal tuberosity via the calcaneal (Achilles) tendon",
+    "Medial border of the scapula, from root of the spine to the inferior angle"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis longus — O: Head and upper two-thirds of the lateral fibula. I: Lateral side of the medial cuneiform and base of the 1st metatarsal (via the sole). A: Foot eversion and plantarflexion; supports the transverse arch.",
+   "id": 236
+  },
+  {
+   "muscle": "fl",
+   "region": "Leg",
+   "type": "action",
+   "q": "What is the main action of Fibularis longus?",
+   "options": [
+    "Foot eversion and plantarflexion; supports the transverse arch",
+    "Foot inversion and plantarflexion; supports the medial longitudinal arch",
+    "Ankle plantarflexion and knee flexion",
+    "Shoulder flexion and adduction"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis longus — O: Head and upper two-thirds of the lateral fibula. I: Lateral side of the medial cuneiform and base of the 1st metatarsal (via the sole). A: Foot eversion and plantarflexion; supports the transverse arch.",
+   "id": 237
+  },
+  {
+   "muscle": "fl",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Lateral side of the medial cuneiform and base of the 1st metatarsal (via the sole)?",
+   "options": [
+    "Fibularis longus",
+    "Tibialis posterior",
+    "Gastrocnemius",
+    "Splenius cervicis"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis longus — O: Head and upper two-thirds of the lateral fibula. I: Lateral side of the medial cuneiform and base of the 1st metatarsal (via the sole). A: Foot eversion and plantarflexion; supports the transverse arch.",
+   "id": 238
+  },
+  {
+   "muscle": "fl",
+   "region": "Leg",
+   "type": "origin",
+   "q": "Which muscle originates from: Head and upper two-thirds of the lateral fibula?",
+   "options": [
+    "Fibularis longus",
+    "Tibialis posterior",
+    "Gastrocnemius",
+    "Sternocleidomastoid"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis longus — O: Head and upper two-thirds of the lateral fibula. I: Lateral side of the medial cuneiform and base of the 1st metatarsal (via the sole). A: Foot eversion and plantarflexion; supports the transverse arch.",
+   "id": 239
+  },
+  {
+   "muscle": "fb",
+   "region": "Leg",
+   "type": "origin",
+   "q": "What is the origin of Fibularis brevis?",
+   "options": [
+    "Lower two-thirds of the lateral fibula",
+    "Posterior tibia, posterior fibula and interosseous membrane",
+    "Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle",
+    "Lateral condyle and upper lateral surface of the tibia, interosseous membrane"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis brevis — O: Lower two-thirds of the lateral fibula. I: Tuberosity on the lateral base of the 5th metatarsal. A: Foot eversion (weak plantarflexion).",
+   "id": 240
+  },
+  {
+   "muscle": "fb",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Where does Fibularis brevis insert?",
+   "options": [
+    "Tuberosity on the lateral base of the 5th metatarsal",
+    "Calcaneal tuberosity via the calcaneal (Achilles) tendon",
+    "Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4",
+    "Medial cuneiform and base of the 1st metatarsal (medial/plantar side)"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis brevis — O: Lower two-thirds of the lateral fibula. I: Tuberosity on the lateral base of the 5th metatarsal. A: Foot eversion (weak plantarflexion).",
+   "id": 241
+  },
+  {
+   "muscle": "fb",
+   "region": "Leg",
+   "type": "action",
+   "q": "What is the main action of Fibularis brevis?",
+   "options": [
+    "Foot eversion (weak plantarflexion)",
+    "Foot inversion and plantarflexion; supports the medial longitudinal arch",
+    "Ankle plantarflexion and knee flexion",
+    "Ankle dorsiflexion and foot inversion"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis brevis — O: Lower two-thirds of the lateral fibula. I: Tuberosity on the lateral base of the 5th metatarsal. A: Foot eversion (weak plantarflexion).",
+   "id": 242
+  },
+  {
+   "muscle": "fb",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Tuberosity on the lateral base of the 5th metatarsal?",
+   "options": [
+    "Fibularis brevis",
+    "Tibialis anterior",
+    "Gastrocnemius",
+    "Tibialis posterior"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis brevis — O: Lower two-thirds of the lateral fibula. I: Tuberosity on the lateral base of the 5th metatarsal. A: Foot eversion (weak plantarflexion).",
+   "id": 243
+  },
+  {
+   "muscle": "fb",
+   "region": "Leg",
+   "type": "origin",
+   "q": "Which muscle originates from: Lower two-thirds of the lateral fibula?",
+   "options": [
+    "Fibularis brevis",
+    "Gastrocnemius",
+    "Tibialis anterior",
+    "Tibialis posterior"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis brevis — O: Lower two-thirds of the lateral fibula. I: Tuberosity on the lateral base of the 5th metatarsal. A: Foot eversion (weak plantarflexion).",
+   "id": 244
+  },
+  {
+   "muscle": "ft",
+   "region": "Leg",
+   "type": "origin",
+   "q": "What is the origin of Fibularis tertius?",
+   "options": [
+    "Distal third of the anterior fibula (and interosseous membrane)",
+    "Lateral head: lateral femoral condyle; medial head: popliteal surface above the medial condyle",
+    "Soleal line and medial border of the tibia, head and upper posterior fibula",
+    "Posterior tibia, posterior fibula and interosseous membrane"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis tertius — O: Distal third of the anterior fibula (and interosseous membrane). I: Dorsal surface of the base of the 5th metatarsal. A: Ankle dorsiflexion and foot eversion.",
+   "id": 245
+  },
+  {
+   "muscle": "ft",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Where does Fibularis tertius insert?",
+   "options": [
+    "Dorsal surface of the base of the 5th metatarsal",
+    "Calcaneal tuberosity via the calcaneal (Achilles) tendon",
+    "Navicular tuberosity, cuneiforms, cuboid and bases of metatarsals 2–4",
+    "Tibial tuberosity via the quadriceps tendon and patellar ligament"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis tertius — O: Distal third of the anterior fibula (and interosseous membrane). I: Dorsal surface of the base of the 5th metatarsal. A: Ankle dorsiflexion and foot eversion.",
+   "id": 246
+  },
+  {
+   "muscle": "ft",
+   "region": "Leg",
+   "type": "action",
+   "q": "What is the main action of Fibularis tertius?",
+   "options": [
+    "Ankle dorsiflexion and foot eversion",
+    "Foot inversion and plantarflexion; supports the medial longitudinal arch",
+    "Ankle plantarflexion (effective even with the knee flexed)",
+    "Ankle plantarflexion and knee flexion"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis tertius — O: Distal third of the anterior fibula (and interosseous membrane). I: Dorsal surface of the base of the 5th metatarsal. A: Ankle dorsiflexion and foot eversion.",
+   "id": 247
+  },
+  {
+   "muscle": "ft",
+   "region": "Leg",
+   "type": "insertion",
+   "q": "Which muscle inserts on: Dorsal surface of the base of the 5th metatarsal?",
+   "options": [
+    "Fibularis tertius",
+    "Soleus",
+    "Tibialis posterior",
+    "Gastrocnemius"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis tertius — O: Distal third of the anterior fibula (and interosseous membrane). I: Dorsal surface of the base of the 5th metatarsal. A: Ankle dorsiflexion and foot eversion.",
+   "id": 248
+  },
+  {
+   "muscle": "ft",
+   "region": "Leg",
+   "type": "origin",
+   "q": "Which muscle originates from: Distal third of the anterior fibula (and interosseous membrane)?",
+   "options": [
+    "Fibularis tertius",
+    "Gastrocnemius",
+    "Soleus",
+    "Tibialis posterior"
+   ],
+   "answer": 0,
+   "explanation": "Fibularis tertius — O: Distal third of the anterior fibula (and interosseous membrane). I: Dorsal surface of the base of the 5th metatarsal. A: Ankle dorsiflexion and foot eversion.",
+   "id": 249
+  }
+ ]
+}
