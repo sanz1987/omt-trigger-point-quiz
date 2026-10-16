@@ -1,0 +1,150 @@
+# Pathophysiological Foundations I — THIN: only syllabus, calendar and the intro presentation are on Drive (no lecture content yet). Last section uses definitions from Nóra's own study pack, not lecture slides.
+@ Course organisation (syllabus)
+How is Pathophysiological Foundations I weighted under continuous assessment?
+* Midterm 30%, oral presentation 20%, final exam 50%
+- Midterm 40%, final 60%
+- Oral presentation 50%, final 50%
+- Final exam 100%
+E: Syllabus marking criteria. (The intro slides once say 40% for the midterm; the syllabus is authoritative.)
+
+The midterm exam consists of:
+* 40 MCQs (a–e), no negative marking, 90 minutes
+- 20 short-answer questions
+- 40 MCQs with negative marking
+- An oral exam
+E: No minimum mark is required for the midterm. (Syllabus; presentation)
+
+When is the midterm exam?
+* 27 October 2026
+- 19 January 2027
+- 15 December 2026
+- 2 February 2027
+E: Calendar.
+
+The final exam differs from the midterm because it:
+* Has negative marking and requires a minimum of 4.5/10
+- Has no negative marking
+- Is an oral exam
+- Has no minimum mark
+E: 40 MCQs, 90 min; unanswered questions are not penalised. (Syllabus)
+
+What happens if a student misses their oral presentation?
+* They are referred directly to the BCE
+- They get a 5 automatically
+- They present alone the next week
+- Nothing
+E: All group members must present; grades are individual. (Syllabus)
+
+The oral presentation topic must cover:
+* Topics related to the classes and how they influence decision-making and physiotherapy treatment
+- Any free topic
+- A literature review on pharmacology history only
+- A personal case diary
+E: 10 groups of 6–7 students; 15 Dec 2026 and 12 Jan 2027. (Syllabus; presentation)
+
+Unique-pathway (non-continuous) students must:
+* Sit a unique exam and present an article solo in PowerPoint on 19 Jan 2027, needing at least 5/10
+- Only submit an essay
+- Attend all oral presentations
+- Pass the midterm only
+E: Requires authorisation from the Course Coordinator. (Syllabus)
+
+How many ECTS is the subject?
+* 6
+- 3
+- 12
+- 4.5
+E: Second year, first semester, Tuesdays 9:00–13:00. (Syllabus)
+
+The syllabus says the course studies medical-surgical pathologies within which model?
+* The psycho-bio-social model
+- The purely biomedical model
+- The Mulligan concept
+- The Maitland concept
+E: Syllabus description.
+
+Who teaches the subject?
+* Prof. Ivan Leo Bacha, MSc, PT
+- Àlex Chicano
+- Federica Anasetti
+- Renata Kelly da Palma
+E: Syllabus; presentation.
+
+@ Course content map (calendar)
+Which topic is covered on 29 Sept, together with health and disease?
+* Pathophysiological mechanisms of inflammation and fever
+- Oncology fundamentals
+- Endocrine pathophysiology
+- Digestive pathophysiology
+E: Calendar.
+
+Which session covers clinical history/anamnesis?
+* 6 October, together with diagnostic tests
+- 3 November
+- 1 December
+- 22 September
+E: Calendar.
+
+Pharmacokinetics, pharmacodynamics, bioavailability and drug classification are taught on:
+* 13 October
+- 20 October
+- 17 November
+- 24 November
+E: 20 Oct: main pharmacological groups, mechanism of action, side effects. (Calendar)
+
+Which block comes AFTER the midterm?
+* Oncology, benign haematology, musculoskeletal, digestive and endocrine pathophysiology
+- Inflammation and fever
+- Anamnesis and diagnostic tests
+- Pharmacology fundamentals
+E: The midterm covers roughly the first five sessions. (Calendar)
+
+Musculoskeletal pathophysiology is scheduled for:
+* 17 November
+- 10 November
+- 1 December
+- 29 September
+E: 10 Nov benign haematology; 24 Nov digestive; 1 Dec endocrine. (Calendar)
+
+@ Core definitions (from Nóra's study pack, not lecture slides)
+The WHO defines health as:
+* A state of complete physical, mental and social well-being, not merely the absence of disease
+- The absence of disease
+- Normal vital signs
+- Physical fitness only
+E: Study pack, week 1 (WHO definition).
+
+"Illness" refers to:
+* The person's subjective, lived experience of disease
+- The cause of a disease
+- Structural tissue change
+- An objective lab finding
+E: Disease = disrupted structure/function with identifiable aetiology/pathogenesis. (Study pack)
+
+Aetiology is:
+* The cause(s) of a disease
+- The sequence of events from cause to lesion
+- Structural changes in tissues
+- The patient's symptoms
+E: Pathogenesis = sequence of cellular/tissue events from cause to lesion; morphology = structural changes. (Study pack)
+
+Which is a SIGN rather than a symptom?
+* Elevated measured body temperature
+- Reported fatigue
+- Pain described by the patient
+- Nausea felt by the patient
+E: Signs are objective; symptoms are subjective. (Study pack)
+
+Which is often called the "fifth vital sign"?
+* Pain
+- SpO2
+- Weight
+- Height
+E: HR, RR, BP, temperature, SpO2 and pain. (Study pack)
+
+The biopsychosocial (ICF) frame matters to physiotherapists because:
+* The same pathology does not mean the same disability
+- It ignores the environment
+- It only uses imaging
+- It replaces clinical reasoning
+E: ICF components: body functions/structures, activities, participation, environmental and personal factors. (Study pack)

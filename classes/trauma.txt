@@ -1,0 +1,1229 @@
+# Pathology of Trauma — source: Prof. Renata Kelly da Palma lecture PDFs 1–13 (last year), Basics doc
+@ Terminology & imaging
+According to the lecture, who published "L'Orthopédie" (1741), the origin of the term orthopaedics?
+* Nicolas Andry
+- Ambroise Paré
+- Wilhelm Conrad Roentgen
+- Hugh Owen Thomas
+E: Nicolas Andry (1658–1742), professor at the Royal College in Paris, published L'Orthopédie in 1741. He did not practise surgery. (Lecture 1)
+
+The word "orthopaedics" combines the Greek "orthon" with "paidion". What do they mean?
+* Straight/correct + children
+- Bone + healing
+- Joint + movement
+- Straight + bone
+E: Orthon = straight/correct, paidion = children. (Lecture 1)
+
+Which term means a DEGENERATIVE tendon process?
+* Tendinosis
+- Tendinitis
+- Tenosynovitis
+- Enthesitis
+E: Tendinitis = inflammatory process in the tendon; tendinosis = degenerative process; tenosynovitis = inflammation of the synovial sheath; enthesitis = inflammation at the insertion point. (Lecture 1)
+
+Inflammation of the synovial membrane that covers a tendon is called:
+* Tenosynovitis
+- Tendinosis
+- Synovitis
+- Enthesitis
+E: Tenosynovitis = inflammatory process of the synovial membrane covering the tendon. Synovitis refers to the joint synovium. (Lecture 1)
+
+An inflammatory process located at the insertion point of a muscle is called:
+* Enthesitis
+- Tendinosis
+- Bursitis
+- Ankylosis
+E: Enthesitis ("entesite") = inflammation located at the muscle insertion point. (Lecture 1)
+
+Which term describes an infectious process of bone tissue?
+* Osteomyelitis
+- Pyoarthritis
+- Osteoarthritis
+- Synovitis
+E: Osteomyelitis = infection of bone; pyoarthritis = joint infection; osteoarthritis = degenerative joint process. (Lecture 1)
+
+Pathological fusion of a joint is called:
+* Ankylosis
+- Arthrodesis
+- Pseudoarthrosis
+- Osteosynthesis
+E: Ankylosis = pathological fusion. Arthrodesis is the SURGICAL fixation of a joint. (Lecture 1)
+
+How does the lecture define a dislocation?
+* Complete and persistent loss of contact between the joint surfaces
+- Partial loss of contact with partial congruence
+- A ligament injury from excessive stress with momentary subluxation
+- Loss of contact plus fracture of the adjacent bones
+E: Dislocation = complete, persistent loss of contact between joint surfaces. Partial loss = subluxation; with fractured adjacent bones = fracture-dislocation. (Lecture 1)
+
+"Partial loss of contact of joint surfaces, with partial congruence" defines:
+* Subluxation
+- Dislocation
+- Sprain
+- Fracture-dislocation
+E: Subluxation = partial loss of contact; capsular and ligament injuries are less severe. (Lecture 1)
+
+Consolidation of a fracture with defective alignment is called:
+* Malunion (vicious union)
+- Pseudoarthrosis
+- Avascular necrosis
+- Delayed union
+E: Malunion/vicious union = healed in bad alignment. Pseudoarthrosis = non-consolidation with instability at the fracture site. (Lecture 1)
+
+Pseudoarthrosis is best defined as:
+* Non-consolidation of a fracture with instability at the fracture site
+- Healing of a fracture in poor alignment
+- Bone death caused by ischaemia
+- Surgical fusion of a joint
+E: Pseudoarthrosis = non-consolidation of a fracture characterised by instability of the fracture focus. (Lecture 1)
+
+Death of the cells of bone and bone marrow caused by ischaemia is:
+* Avascular necrosis
+- Osteomyelitis
+- Osteitis
+- Osteoporosis
+E: Avascular necrosis = death of the cellular component of bone and marrow resulting from ischaemia. (Lecture 1)
+
+Which tendon surgery converts a tendon into a ligament to stabilise an unstable joint?
+* Tenodesis
+- Tenotomy
+- Tenolysis
+- Tendon transfer
+E: Tenodesis converts a tendon into a ligament (e.g. extensor hallucis tendon fixed to the 1st metatarsal neck). Tenotomy cuts a tendon; tenolysis releases a fibrous tunnel; transfer changes the insertion. (Lecture 1)
+
+Release of a fibrous tunnel after trauma (e.g. trigger finger) is called:
+* Tenolysis
+- Tenodesis
+- Tenotomy
+- Z-lengthening
+E: Tenolysis = release of a fibrous tunnel, e.g. trigger finger. (Lecture 1)
+
+Moving the insertion of tibialis anterior to compensate for a fibular nerve lesion is an example of:
+* Tendon transfer
+- Tenodesis
+- Tenotomy
+- Arthrodesis
+E: Tendon transfer = exchange of insertion (e.g. anterior tibial for posterior in a fibular nerve lesion). (Lecture 1)
+
+Union of unstable fractures with metal implants is called:
+* Osteosynthesis
+- Osteotomy
+- Arthroplasty
+- Exostectomy
+E: Osteosynthesis = union of unstable fractures using metal implants. Osteotomy = removal of a bone portion to correct deviations. (Lecture 1)
+
+A bone graft taken from another person is called:
+* Allograft
+- Autograft
+- Xenograft
+- Isograft
+E: Autograft = from the same patient; allograft = from another person; xenograft = from another species. (Lecture 1)
+
+On a plain X-ray, which density appears BLACK?
+* Gas
+- Fat
+- Water
+- Calcium
+E: Gas = black (least absorption, e.g. lungs); fat = dark grey; water = light grey; calcium = white; metal = opaque white. (Lecture 1)
+
+On X-ray, muscles and viscera have which density?
+* Water – light grey
+- Fat – dark grey
+- Calcium – white
+- Gas – black
+E: Water density (muscles, viscera) appears light grey. (Lecture 1)
+
+In the oblique-view "Scottie dog" sign of the lumbar spine, the pars interarticularis forms the dog's:
+* Neck
+- Eye
+- Nose
+- Ear
+E: Transverse process = nose, pedicle = eye, inferior facet = front leg, superior facet = ear, pars interarticularis = neck. (Lectures 1 & 8)
+
+In the Scottie dog sign, the pedicle represents the:
+* Eye
+- Nose
+- Ear
+- Front leg
+E: Pedicle = eye; transverse process = nose. (Lecture 1)
+
+What is the main DISADVANTAGE of a CT scan listed in the lecture?
+* High radiation exposure
+- Cannot show bone
+- Contraindicated with pacemakers
+- Very low contrast resolution
+E: CT gives high-contrast, cross-sectional and 3D images without superimposition, but its disadvantage is high radiation exposure. (Lecture 1)
+
+Bone scintigraphy shows abnormalities as "hot spots" because:
+* The radioactive tracer is taken up by metabolically active bone
+- Metal implants reflect the magnetic field
+- Sound waves reflect from calcium
+- Gas absorbs fewer X-rays
+E: A radioactive substance injected IV is taken up by metabolically active bone; increased metabolism appears as hot spots on a gamma camera. (Lecture 1, Seidenberg & Howe 2014)
+
+MRI is contraindicated in patients with:
+* Pacemakers, defibrillators or spinal stimulators
+- Osteoporosis
+- Recent fractures
+- Joint effusions
+E: Because of the magnetic field MRI is contraindicated with pacemakers, defibrillators and spinal stimulators. (Lecture 1)
+
+Which pair of imaging techniques does NOT use ionising radiation?
+* MRI and ultrasound
+- CT and ultrasound
+- X-ray and MRI
+- Bone scintigraphy and MRI
+E: X-ray, CT and bone scintigraphy use ionising radiation; MRI and ultrasound do not. (Lecture 1 summary)
+
+Which imaging method can evaluate structures DYNAMICALLY at relatively low cost and without radiation?
+* Ultrasound
+- MRI
+- CT scan
+- Bone scintigraphy
+E: Musculoskeletal ultrasound uses sound waves, has no radiation risk, is low cost and can evaluate structures dynamically. (Lecture 1)
+
+@ Soft tissue & fractures
+A muscle strain is defined in the lecture as:
+* An acute or chronic injury of contractile components (muscles and tendons)
+- Damage to one or more ligaments of a joint
+- A haematoma caused by damaged capillaries
+- A fracture of a muscle insertion
+E: Strain (muscle tear/pulled muscle) = injury of contractile components; sprain = ligament damage; contusion = bruise. (Lecture 2)
+
+A sprain is damage to:
+* One or more ligaments of a joint
+- Muscle fibres
+- Tendons only
+- Capillaries under the skin
+E: Sprain = ligament damage when the joint is taken beyond its functional range. (Lecture 2)
+
+Which strain grade presents with NO movement and severe pain?
+* Third degree
+- First degree
+- Second degree
+- Grade 0
+E: First degree = little tearing, pain with full ROM; second = torn tissue, painful limited motion; third = most severe, no movement. (Lecture 2)
+
+Which list contains skeletal functions given in the lecture?
+* Support, movement, protection, mineral reserve, haemopoiesis
+- Support, digestion, protection, thermoregulation
+- Movement, hormone storage, filtration, haemopoiesis
+- Protection, insulation, excretion, support
+E: Support, movement (through joints), protection, mineral reserve and haemopoiesis. (Lecture 2)
+
+Which fracture sign "should NOT be researched" (tested) according to the lecture?
+* Abnormal mobility
+- Pain
+- Bruising
+- Deformity
+E: Abnormal mobility is a fracture sign that should not be provoked during examination. (Lecture 2)
+
+The absence of a history of trauma:
+* Does NOT exclude a fracture
+- Excludes a fracture
+- Means the fracture is open
+- Means the fracture is stable
+E: Fatigue or pathological (e.g. osteoporotic) fractures occur without aggression – absence of trauma does NOT exclude fracture. (Lecture 2)
+
+A closed fracture that is complicated by significant soft-tissue injury is correctly termed:
+* Complex fracture
+- Compound fracture
+- Simple fracture
+- Greenstick fracture
+E: Open = compound (skin breached). A closed fracture complicated by soft-tissue injury = complex fracture. (Lecture 2)
+
+Which fracture patterns does the lecture list as UNSTABLE?
+* Oblique, spiral, comminuted or double fractures
+- Incomplete and transverse fractures
+- Greenstick and torus fractures
+- Avulsion and impacted fractures only
+E: Stable: incomplete and transverse (held by muscle elastic contraction after reduction). Unstable: oblique, spiral, comminuted or double. (Lecture 2)
+
+Displacement of a fracture is described by the position of:
+* The distal fragment relative to the proximal bone
+- The proximal fragment relative to the distal bone
+- The fracture line relative to the joint
+- The bone relative to the skin
+E: Displacement is defined by the abnormal position of the distal fragment in relation to the proximal bone. (Lecture 2)
+
+A fracture in which one fragment is driven into another (e.g. distal radius) is:
+* Impacted
+- Avulsion
+- Spiral
+- Greenstick
+E: Impacted fracture = a bone fragment driven into another fragment. (Lecture 2)
+
+Why do intra-articular fractures matter?
+* Risk of post-traumatic osteoarthritis
+- They never need fixation
+- They heal faster than diaphyseal fractures
+- They are always open
+E: The lecture notes intra-articular fractures carry a risk of post-traumatic OA. (Lecture 2)
+
+Which two factors influence the time of fracture consolidation?
+* Mechanical (stability) and biological (vascularisation)
+- Patient height and limb length
+- Skin colour and temperature
+- Type of X-ray and projection
+E: There are no strict rules; the mechanical aspect (stability) and biological aspect (vascularisation) influence consolidation. (Lecture 2)
+
+The main difference between osteitis and osteomyelitis is that osteomyelitis spreads:
+* Centrifugally, starting as an infection of the bone marrow
+- Centripetally, from the soft tissue inward
+- Only through the joint
+- Only after surgery
+E: Osteitis = centripetal; osteomyelitis = centrifugal (primary infection of the bone marrow, then cortex and periosteum). (Lecture 2)
+
+In compartment syndrome, the FIRST pathogenic event is:
+* Tissue pressure exceeds venous pressure, impairing outflow
+- Arterial occlusion
+- Ischaemic necrosis
+- Renal failure
+E: Sequence: tissue pressure > venous pressure → arterial compromise → neural/muscle dysfunction → ischaemic necrosis/contracture → (severe) renal failure & death. (Lecture 2)
+
+After roughly how long without blood supply does progressive muscle necrosis begin in compartment syndrome?
+* 6–8 hours
+- 30 minutes
+- 2 days
+- 1 week
+E: Muscle tolerates short periods of hypoxia but after a few hours (6–8 h) progressive necrosis begins. (Lecture 2)
+
+What is the treatment of compartment syndrome?
+* Surgical dermatofasciotomy (release of the compartment)
+- Tight compression bandage
+- Elevation and ice only
+- Cast immobilisation
+E: Treatment = release of the closed osteofascial compartment by surgical dermatofasciotomy. (Lectures 2 & 11)
+
+Torus (buckle) fractures typically involve:
+* The distal radial metaphysis in children after a fall on an outstretched arm
+- The femoral neck in the elderly
+- The fifth metatarsal neck after punching
+- The vertebral body in osteoporosis
+E: Torus/buckle fractures = incomplete fractures with cortical bulging from axial loading, frequently the distal radial metaphysis in children. (Lecture 2)
+
+Physeal (growth plate) fractures make up what proportion of children's fractures?
+* 15–30%
+- 1–2%
+- 50–60%
+- 80–90%
+E: Physeal fractures are common, 15–30% of all fractures in children. (Lecture 2)
+
+An insufficiency fracture occurs when:
+* Osteoporotic bone is subjected to normal stress
+- Normal bone is subjected to abnormal activity
+- A tumour destroys the cortex
+- A muscle avulses a bony fragment
+E: Insufficiency fracture = abnormal (osteoporotic) bone + normal stress; stress/fatigue fracture = normal bone + abnormal activity (overuse). (Lecture 2)
+
+The most common sites of stress fractures in the foot are the:
+* 2nd and 3rd metatarsals
+- 1st and 5th metatarsals
+- Talus and calcaneus
+- Phalanges
+E: The 2nd and 3rd metatarsals (greatest impact during push-off). (Lecture 2)
+
+Tibial stress fractures in runners account for up to:
+* Half of all stress fractures
+- 5% of stress fractures
+- 90% of stress fractures
+- None – they are rare
+E: Tibial stress fractures are a common overuse injury in runners, accounting for up to half of all stress fractures. (Lecture 2)
+
+The "female athlete triad" associated with stress fractures consists of:
+* Amenorrhoea, disordered eating and osteoporosis
+- Obesity, diabetes and hypertension
+- Anaemia, fatigue and tendinopathy
+- Hypermobility, scoliosis and flat feet
+E: A stress fracture may herald underlying amenorrhoea, disordered eating and osteoporosis. (Lecture 2)
+
+The main management of most stress fractures is:
+* Rest from high-impact activity (conservative)
+- Immediate ORIF
+- Amputation
+- Continued training through pain
+E: Most stress fractures are managed conservatively with rest; high-risk displaced ones need surgery. (Lecture 2)
+
+@ Shoulder
+Which rotator cuff muscle is the most commonly ruptured?
+* Supraspinatus
+- Infraspinatus
+- Teres minor
+- Subscapularis
+E: SITS muscles; supraspinatus is the most commonly ruptured. (Lecture 3)
+
+Most clavicle fractures (94%) result from:
+* A direct blow on the shoulder, generally a fall on the side
+- A fall on an outstretched hand
+- Repetitive overhead throwing
+- A twisting injury of the arm
+E: 94% result from a direct blow on the shoulder, generally falling on the side. (Lecture 3, McRae)
+
+Why are fractures of the middle third of the clavicle most common?
+* It is the thinnest part and not reinforced by muscles or ligaments
+- It is the thickest part of the bone
+- The sternocleidomastoid inserts there
+- It is where the growth plate is located
+E: The middle is the thinnest part and the only part not reinforced by muscles and ligaments. (Lecture 3)
+
+In adults, the medial fragment of a displaced clavicle fracture is pulled upward by:
+* Sternocleidomastoid
+- Pectoralis major
+- Trapezius
+- Deltoid
+E: Weight of the limb pulls the distal fragment down; SCM pulls the medial fragment up. (Lecture 3)
+
+According to the AAOS guidance in the lecture, displaced midshaft clavicle fractures in adults:
+* Are recommended for surgical fixation
+- Should always be treated with a figure-of-eight brace
+- Should be treated with LIPUS
+- Need no immobilisation
+E: Displaced midshaft (adults): surgical fixation recommended (higher union, better early outcomes). Simple sling preferred over figure-of-eight; LIPUS not recommended. (Lecture 3)
+
+In the Neer classification, a "part" is considered displaced if there is:
+* >1 cm separation or >45° angulation
+- >2 mm separation
+- >5 cm separation or >10° angulation
+- Any visible fracture line
+E: Neer: displaced part = >1 cm separation or >45° angulation. (Lecture 3)
+
+Which Neer category accounts for about 75% of proximal humerus fractures?
+* One-part
+- Two-part
+- Three-part
+- Four-part
+E: One-part ~75%, two-part ~20%, three-part ~5%, four-part <1%. (Lecture 3)
+
+Which proximal humerus fracture type carries a high risk of avascular necrosis?
+* Four-part
+- One-part
+- Two-part surgical neck
+- Greater tuberosity avulsion
+E: Four-part: all parts displaced, articular surface lateral and out of contact with glenoid – high AVN risk. (Lecture 3)
+
+What are Codman's four "parts" of the proximal humerus?
+* Articular surface, greater tuberosity, lesser tuberosity, humeral shaft
+- Head, neck, shaft, condyles
+- Greater tuberosity, glenoid, acromion, coracoid
+- Anatomical neck, surgical neck, shaft, epicondyle
+E: Articular surface, greater tuberosity, lesser tuberosity and shaft. (Lecture 3)
+
+For an elderly, active patient with a displaced 3- or 4-part proximal humerus fracture, the lecture suggests:
+* Reverse shoulder arthroplasty
+- ORIF
+- No treatment
+- Figure-of-eight brace
+E: Decision summary: young/fit → ORIF; elderly active → RSA; frail/low demand → conservative. (Lecture 3)
+
+Which nerve is most commonly injured in humeral shaft fractures?
+* Radial nerve
+- Axillary nerve
+- Ulnar nerve
+- Musculocutaneous nerve
+E: The radial nerve runs in the spiral groove – the most common associated injury. Most recover in 3–6 months. (Lecture 3)
+
+Anterior proximal humerus fracture-dislocations may injure the:
+* Axillary nerve
+- Radial nerve
+- Median nerve
+- Long thoracic nerve
+E: Anterior fracture-dislocations may injure the axillary nerve. (Lecture 3)
+
+Which joint suffers the most dislocations in the body?
+* Shoulder (about 45%)
+- Knee
+- Hip
+- Elbow
+E: Shoulder = 45% of all dislocations; 84% anterior glenohumeral. (Lecture 3)
+
+In type III acromioclavicular dislocation:
+* The coracoclavicular (trapezoid and conoid) ligaments are ruptured
+- Only the AC ligament is sprained
+- There is no ligament damage
+- The sternoclavicular joint is dislocated
+E: Type I = sprain; Type II = AC ligament torn + CC sprain; Type III = CC ligaments ruptured. (Lecture 3)
+
+Which is a DYNAMIC shoulder stabiliser?
+* Rotator cuff muscles
+- Glenoid labrum
+- Inferior glenohumeral ligament
+- Negative intra-articular pressure
+E: Static: capsular ligaments, labrum, negative pressure. Dynamic: rotator cuff, long head of biceps, deltoid, pectoralis major. (Lecture 3)
+
+The acronym TUBS stands for:
+* Traumatic, Unidirectional, Bankart, Surgery
+- Traumatic, Universal, Bilateral, Splint
+- Tendon, Unstable, Bursitis, Sling
+- Torn, Unilateral, Biceps, Strengthening
+E: TUBS = Traumatic Unidirectional Bankart Surgery; first episode usually anterior. (Lecture 3)
+
+The acronym AMBRI describes instability that is:
+* Atraumatic, Multidirectional, Bilateral, treated with Rehabilitation, Inferior capsular shift
+- Acute, Medial, Bony, Reduced, Immobilised
+- Anterior, Mechanical, Bankart, Repair, Imaging
+- Acquired, Microtrauma, Biceps, Rest, Injection
+E: AMBRI – mostly due to laxity; good prognosis with conservative rehabilitation. (Lecture 3)
+
+A Hill-Sachs lesion is:
+* A posterolateral humeral head compression fracture
+- Detachment of the anteroinferior labrum
+- A superior labral tear from anterior to posterior
+- A fracture of the coracoid
+E: Hill-Sachs = posterolateral humeral head compression fracture; Bankart = anteroinferior labral detachment; SLAP = superior labrum. (Lecture 3)
+
+AIOS instability results from:
+* Repetitive microtrauma (acquired instability from overstress)
+- A single high-energy trauma
+- Congenital hypermobility only
+- Fracture of the glenoid
+E: AIOS = Acquired Instability Overstress (Surgery may be needed) – repetitive microtrauma in occupational/sports activities. (Lecture 3)
+
+@ Elbow
+Which muscle is MOST predominantly involved in tennis elbow?
+* Extensor carpi radialis brevis
+- Pronator teres
+- Brachioradialis
+- Flexor carpi ulnaris
+E: Lateral epicondylitis: ECRB most predominantly, also ECRL, extensor digitorum communis, ECU. (Lecture 4)
+
+What proportion of tennis elbow patients do NOT play sports?
+* 95%
+- 10%
+- 50%
+- 5%
+E: High incidence (35–55 y); 95% of patients do not practise sports. (Lecture 4)
+
+Golfer's elbow pain is aggravated by:
+* Resisted wrist flexion and pronation
+- Resisted wrist extension and supination
+- Passive elbow flexion
+- Shoulder abduction
+E: Medial epicondylitis is aggravated by resisted wrist flexion and pronation. (Lecture 4)
+
+Pathophysiologically, epicondylitis is described as:
+* A chronic tendinosis with disorganised tissue and neovessels
+- An acute bacterial infection
+- A bone fracture
+- A nerve entrapment
+E: Epicondylitis represents a chronic tendinosis rather than an acute inflammatory process. (Lecture 4)
+
+What percentage of epicondylitis cases can be managed non-operatively?
+* Over 90%
+- About 25%
+- About 50%
+- Under 10%
+E: Over 90%; surgery only after ≥6 months of failed non-operative care. Eccentric strengthening is effective. (Lecture 4)
+
+Counterforce braces for epicondylitis are placed approximately:
+* 6–10 cm distal to the elbow joint
+- On the wrist
+- Above the elbow
+- 20 cm distal to the elbow
+E: Placed on the forearm about 6–10 cm distal to the elbow joint. (Lecture 4)
+
+Cubital tunnel syndrome is entrapment of which nerve?
+* Ulnar nerve
+- Median nerve
+- Radial nerve
+- Musculocutaneous nerve
+E: The cubital tunnel lets the ulnar nerve pass from arm to forearm; paraesthesia in digits 4 and 5. (Lecture 4)
+
+The most common elbow fracture in children (peak 5–7 years) is:
+* Supracondylar humerus fracture
+- Radial head fracture
+- Olecranon fracture
+- Coronoid fracture
+E: Supracondylar fracture – mechanism: fall on a hyperextended elbow. (Lecture 4)
+
+Volkmann's contracture after a supracondylar fracture is caused by:
+* Ischaemic injury to the brachial artery
+- Radial nerve palsy
+- Malunion in varus
+- Infection
+E: Volkmann's contracture = ischaemic injury of the brachial artery causing permanent flexion of hand and wrist. Cubitus varus (gunstock) is the malunion. (Lecture 4)
+
+The "gunstock deformity" after a supracondylar fracture is:
+* Cubitus varus
+- Cubitus valgus
+- Volkmann's contracture
+- Dinner fork deformity
+E: Cubitus varus malunion = gunstock deformity. (Lecture 4)
+
+Radial head fractures constitute about what proportion of elbow fractures?
+* 33%
+- 5%
+- 75%
+- 90%
+E: 33%; mechanism: FOOSH with elbow extended and forearm pronated; often subtle on X-ray. (Lecture 4)
+
+A Mason type IV radial head fracture is:
+* A radial head fracture with associated elbow dislocation
+- Non-displaced <2 mm
+- Partial articular displacement >2 mm
+- Comminuted without dislocation
+E: Mason I non-displaced; II partial >2 mm; III comminuted; IV with elbow dislocation. (Lecture 4)
+
+A Monteggia fracture is:
+* Fracture of the proximal/middle ulna with dislocation of the radial head
+- Fracture of the distal radius with DRUJ dislocation
+- Fracture of the radial head and coronoid with elbow dislocation
+- Transverse fracture of the 5th metacarpal neck
+E: Monteggia = ulna fracture + radial head dislocation (peak 4–10 y). Galeazzi = distal radius + DRUJ. (Lecture 4)
+
+The terrible triad of the elbow consists of:
+* Elbow dislocation + radial head fracture + coronoid fracture
+- ACL + MCL + medial meniscus injury
+- Olecranon + radial head + ulnar nerve injury
+- Supracondylar fracture + brachial artery + median nerve injury
+E: Terrible triad = elbow dislocation, radial head fracture and coronoid fracture (often collateral ligament injury). (Lecture 4)
+
+The elbow is the most commonly dislocated joint in:
+* Children
+- Elderly women
+- Adult athletes
+- Newborns
+E: Elbow dislocation = most common in children, second most common in adults; mostly posterolateral after FOOSH. (Lecture 4)
+
+Which fracture is the 3rd most common in children and associated with elbow dislocation in 50% of cases?
+* Medial epicondyle fracture
+- Supracondylar fracture
+- Radial neck fracture
+- Olecranon fracture
+E: Medial epicondyle fracture – 50% associated with elbow dislocation; caused by valgus avulsion. (Lecture 4)
+
+@ Wrist & hand
+Carpal tunnel syndrome is entrapment of the:
+* Median nerve
+- Ulnar nerve
+- Radial nerve
+- Posterior interosseous nerve
+E: CTS = median nerve entrapment; tests: Phalen, reverse Phalen, Tinel, EMG/nerve conduction. (Lecture 5)
+
+De Quervain's tenosynovitis affects the tendons of:
+* Extensor pollicis brevis and abductor pollicis longus
+- Flexor pollicis longus and flexor digitorum profundus
+- Extensor carpi radialis longus and brevis
+- Extensor indicis and extensor digitorum
+E: EPB and APL; tested with Finkelstein's and Eichhoff's tests. (Lecture 5)
+
+Dupuytren's contracture is:
+* Fibrosis of the palmar fascia
+- Entrapment of the median nerve
+- Avascular necrosis of the lunate
+- Tenosynovitis of the thumb
+E: Fibrosis of the palmar fascia, mostly in people >50; nodule then cords. (Lecture 5)
+
+A Colles' fracture is:
+* Transverse distal radius fracture with DORSAL displacement after a fall on an outstretched hand
+- Distal radius fracture with ANTERIOR displacement after a fall on a flexed wrist
+- Distal radius fracture with DRUJ dislocation
+- Fracture at the base of the 1st metacarpal
+E: Colles' = dorsal deviation, "dinner fork" deformity, ulnar styloid fracture in >60%. Smith's = reverse (anterior). (Lecture 5)
+
+Smith's fracture results from:
+* A fall onto a flexed wrist, with anterior displacement
+- A fall onto an outstretched hand, with dorsal displacement
+- Punching a wall
+- Forced thumb abduction
+E: Smith's (reverse Colles') = fall onto flexed wrist, anterior deviation; less common than Colles'. (Lecture 5)
+
+The most common carpal fracture is the:
+* Scaphoid
+- Triquetrum
+- Lunate
+- Hamate
+E: Scaphoid = most common (anatomical snuffbox tenderness); triquetrum = 2nd (15%). (Lecture 5)
+
+Which part of the scaphoid has the highest risk of non-union/AVN?
+* Proximal pole (~30–40% non-union)
+- Distal pole
+- Waist
+- Tubercle
+E: Distal pole ~100% union; waist 10–20% non-union; proximal pole 30–40%. (Lecture 5)
+
+Kienböck's disease is avascular necrosis of the:
+* Lunate
+- Scaphoid
+- Femoral head
+- Capitate
+E: Kienböck's = AVN of the lunate; negative ulnar variance may contribute. (Lecture 5)
+
+A Bennett fracture is:
+* An intra-articular two-part fracture-dislocation at the base of the 1st metacarpal
+- A comminuted (≥3 parts) fracture at the base of the 1st metacarpal
+- A transverse fracture of the 5th metacarpal neck
+- A distal radius fracture
+E: Bennett = two-part; Rolando = comminuted (≥3 parts); both from forced abduction. (Lecture 5)
+
+A boxer's fracture is a fracture of the:
+* Neck of the 5th metacarpal
+- Base of the 1st metacarpal
+- Scaphoid waist
+- Distal phalanx
+E: Boxer's fracture = transverse fracture of the 5th metacarpal neck; most common metacarpal fracture. (Lecture 5)
+
+A Galeazzi fracture is:
+* Distal radius fracture with dislocation of the distal radioulnar joint
+- Proximal ulna fracture with radial head dislocation
+- Scaphoid fracture with lunate dislocation
+- Distal radius fracture with dorsal angulation only
+E: Galeazzi = distal radius + DRUJ dislocation (fall on outstretched hand with flexed elbow). (Lecture 5)
+
+@ Spine
+How many vertebrae make up the cervical spine?
+* 7
+- 5
+- 12
+- 4
+E: 33 vertebrae: cervical 7, thoracic 12, lumbar 5, sacral 5 (fused), coccygeal 4 (fused). (Lecture 6)
+
+A normal cervical lordosis (C2–C7) measures:
+* 20–40°
+- 0–5°
+- 40–60°
+- 60–80°
+E: Normal 20–40°; hyperlordosis >40°; reversed ~0°. (Lecture 6)
+
+About 70% of cervical radiculopathy is caused by:
+* Age-related degeneration of vertebral structures
+- Acute disc herniation
+- Tumours
+- Infection
+E: 70% due to ageing degeneration (foramina, vertebral bodies, facets); disc herniation is less frequent. (Lecture 6)
+
+Whiplash-associated disorder results from:
+* Rapid hyperflexion–extension of the neck, without fracture
+- Axial loading when diving
+- Direct blow to the vertebral arch
+- Repetitive overhead work
+E: WAD = rapid flexion–extension (car accidents); soft-tissue injury, managed conservatively in nearly all cases. (Lecture 6)
+
+Unilateral cervical facet dislocation causes roughly how much anterior vertebral displacement?
+* About 25%
+- About 50%
+- About 75%
+- 100%
+E: Unilateral ≈25%; bilateral ≈50% (highly unstable, usually cord injury). (Lecture 6)
+
+A "stinger" injury involves:
+* Traction or compression of the brachial plexus (often C5–C6) causing transient symptoms
+- Fracture of the dens
+- Rupture of the transverse ligament
+- Spinal cord transection
+E: Sudden lateral neck flexion with shoulder depression → transient burning pain down the arm. (Lecture 6)
+
+An atlantodental interval greater than what suggests atlantoaxial instability in adults?
+* 3 mm
+- 1 mm
+- 10 mm
+- 20 mm
+E: ADI >3 mm in adults on lateral X-ray. Causes include trauma, RA, Down syndrome. (Lecture 6)
+
+A Jefferson fracture is:
+* A burst fracture of the C1 ring from axial loading (e.g. diving into shallow water)
+- A fracture of the C2 dens
+- An avulsion of the C7 spinous process
+- A unilateral facet dislocation
+E: Burst fracture of the atlas (anterior and posterior arches). Stability depends on the transverse ligament. (Lecture 6)
+
+Which odontoid fracture type (Anderson & D'Alonzo) is the most common and unstable?
+* Type II – base of the dens
+- Type I – tip of the dens
+- Type III – into the C2 body
+- Type IV – through the arch
+E: Type I tip (rare, stable); Type II base (most common, unstable); Type III into body (moderate). (Lecture 6)
+
+Scheuermann's kyphosis is diagnosed when there is anterior wedging of:
+* ≥5° in ≥3 adjacent vertebrae
+- ≥1° in one vertebra
+- ≥20° in 1 vertebra
+- Any wedging in the lumbar spine
+E: Thoracic kyphosis >40–45° Cobb plus anterior wedging ≥5° in ≥3 adjacent vertebrae; rigid (unlike postural kyphosis). (Lecture 7)
+
+Which feature distinguishes Scheuermann's kyphosis from postural kyphosis?
+* It is rigid and does not correct on extension
+- It is always painless
+- It only affects adults
+- It is in the coronal plane
+E: Postural kyphosis is flexible; Scheuermann's is fixed. (Lecture 7)
+
+A Cobb angle of at least how many degrees is needed to diagnose scoliosis?
+* 10°
+- 5°
+- 25°
+- 45°
+E: ≥10° diagnosis; 10–20° mild; 20–40° moderate; >40° significant; >50° severe. (Lecture 7)
+
+The most common curve in adolescent idiopathic scoliosis is:
+* Right thoracic (apex T7–T8)
+- Left thoracic
+- Left lumbar
+- Cervical
+E: Most common = right thoracic; atypical curves (e.g. left thoracic) warrant MRI. (Lecture 7)
+
+Bracing for AIS is indicated for curves of:
+* 25–45° with growth remaining
+- <10°
+- >50° at maturity
+- Any curve after skeletal maturity
+E: <20–25° observe; 25–45° (Risser 0–2) brace; ≥45–50° surgery. (Lecture 7)
+
+A Risser grade 5 means:
+* Complete fusion of the iliac crest apophysis – skeletal maturity
+- No ossification – early growth
+- 50% ossification
+- Very high risk of progression
+E: Risser 0 = no ossification (very high risk); 5 = complete fusion, growth complete, no bracing needed. (Lecture 7)
+
+In the Denis three-column model, the MIDDLE column includes:
+* Posterior half of the vertebral body and disc plus the posterior longitudinal ligament
+- Anterior longitudinal ligament and anterior half of the body
+- Facet joints, lamina and spinous process
+- Transverse processes only
+E: Anterior: ALL + anterior half of body/disc. Middle: posterior half + PLL. Posterior: facets, flavum, lamina, spinous process. (Lecture 7)
+
+A burst fracture involves failure of which columns?
+* Anterior and middle
+- Anterior only
+- Posterior only
+- None – only ligaments
+E: Burst = high-energy axial load; anterior and middle columns fail; common at T10–L2. (Lectures 7–8)
+
+A Chance (seat-belt) fracture is caused by:
+* Flexion–distraction across the thoracolumbar junction
+- Pure axial loading
+- Direct lateral blow
+- Hyperextension in gymnasts
+E: Lap belt fixes pelvis while the upper body flexes forward; horizontal fracture through body, pedicles and spinous process. (Lecture 7)
+
+Clay-shoveler's fracture is an avulsion of the:
+* Spinous process (usually C6, C7 or T1)
+- Transverse process of L3
+- Dens of C2
+- Pars interarticularis of L5
+E: Avulsion of the spinous process from forceful trapezius/rhomboid contraction; stable (posterior column only). (Lecture 7)
+
+Chronic low back pain is pain lasting more than:
+* 12 weeks
+- 6 weeks
+- 2 weeks
+- 1 year
+E: Acute <6 weeks; subacute 6–12 weeks; chronic >12 weeks. (Lecture 8)
+
+Approximately what proportion of low back pain is mechanical?
+* ≈90%
+- ≈10%
+- ≈50%
+- ≈30%
+E: Mechanical ≈90% (strain/sprain most common); non-mechanical ≈10%. (Lecture 8)
+
+Bowel or bladder dysfunction in a low back pain patient suggests:
+* Cauda equina syndrome – a red flag
+- Simple muscle strain
+- Spondylosis
+- Postural pain
+E: Bowel/bladder dysfunction is a red flag suggesting cauda equina syndrome. (Lecture 8)
+
+Lumbar disc herniation is most common at:
+* L4–L5 and L5–S1
+- L1–L2
+- T12–L1
+- C5–C6
+E: Most common at L4–L5 and L5–S1. MRI = gold standard. (Lecture 8)
+
+An S1 root compression typically affects:
+* The posterior leg, plantar foot and Achilles reflex
+- The anterior thigh and knee reflex
+- The lateral leg and dorsal foot
+- The groin only
+E: L4 → anterior thigh, knee reflex; L5 → lateral leg, dorsal foot; S1 → posterior leg, plantar foot, Achilles reflex. (Lecture 8)
+
+Spondylolysis is:
+* A defect/stress fracture of the pars interarticularis
+- Forward slippage of a vertebra
+- Facet joint osteoarthritis
+- A disc herniation
+E: Pars defect, 90% at L5; from repetitive hyperextension. Spondylolisthesis = slippage. (Lecture 8)
+
+A Meyerding grade III spondylolisthesis corresponds to a slip of:
+* 50–75%
+- <25%
+- 25–50%
+- >100%
+E: I <25%; II 25–50%; III 50–75%; IV 75–100%; V >100% (spondyloptosis). (Lecture 8)
+
+In the Wiltse classification, isthmic spondylolisthesis is due to:
+* A pars interarticularis defect (stress fracture), common in young athletes
+- Facet joint osteoarthritis
+- Excessive surgical removal of posterior elements
+- A congenital L5/S1 defect
+E: Dysplastic = congenital; isthmic = pars defect; degenerative = facet OA; iatrogenic = laminectomy. (Lecture 8)
+
+@ Hip & pelvis
+Athletic pubalgia is mostly due to imbalance between which muscles at the pubis?
+* Adductors and abdominals (rectus abdominis vs adductor longus)
+- Gluteus medius and TFL
+- Hamstrings and quadriceps
+- Iliopsoas and piriformis
+E: Rectus abdominis and adductor longus pull in opposite directions; imbalance → groin pain. (Lecture 9)
+
+The imaging of choice to confirm a core muscle injury in athletic pubalgia is:
+* MRI
+- Plain X-ray
+- Bone scintigraphy
+- CT
+E: MRI shows tears/oedema at tendon insertions and rules out other conditions. (Lecture 9)
+
+Piriformis syndrome pain is typically reproduced with the:
+* FAIR test (flexion, adduction, internal rotation)
+- Lachman test
+- Thompson test
+- Finkelstein test
+E: FAIR test, resisted external rotation or passive internal rotation. (Lecture 9)
+
+Greater trochanteric pain syndrome is now known to involve mainly:
+* Gluteus medius/minimus tendinopathy or tears
+- Hip osteoarthritis
+- Piriformis spasm
+- Femoral neck stress fracture
+E: Historically "trochanteric bursitis", now known to be mainly gluteal tendinopathy. (Lecture 9)
+
+A cam-type femoroacetabular impingement is:
+* An aspherical femoral head / bump at the head–neck junction
+- Excessive acetabular coverage
+- A labral tear without bony change
+- A femoral neck fracture
+E: Cam = aspherical head/bump; pincer = excessive acetabular coverage; most are mixed. (Lecture 9)
+
+The clinical test for FAI described in the lecture is:
+* FADIR (flexion, adduction, internal rotation)
+- Ortolani
+- Thomas test
+- Anterior drawer
+E: FADIR (+) = pain in flexion-adduction-internal rotation. (Lecture 9)
+
+The ASIS avulsion fracture in adolescent athletes is caused by which muscle?
+* Sartorius
+- Rectus femoris
+- Hamstrings
+- Iliopsoas
+E: ASIS – sartorius; AIIS – rectus femoris; ischial tuberosity – hamstrings. (Lecture 9)
+
+Femoral neck fractures are classified with the:
+* Garden classification
+- Neer classification
+- Mason classification
+- Weber classification
+E: Garden I–IV; nondisplaced I–II → screws; displaced III–IV → hemiarthroplasty or THR. (Lecture 9)
+
+Which hip fracture has a HIGH risk of avascular necrosis?
+* Femoral neck (intracapsular)
+- Intertrochanteric
+- Subtrochanteric
+- Greater trochanter avulsion
+E: Intracapsular femoral neck fractures disrupt blood supply → high AVN risk. (Lecture 9)
+
+Surgery for hip fracture is recommended within:
+* 24–48 hours
+- 1–2 weeks
+- 3 months
+- Only if conservative care fails
+E: Timing 24–48 h (AAOS 2023). (Lecture 9)
+
+The mean age for hip fracture given in the lecture is:
+* 80 years
+- 45 years
+- 60 years
+- 95 years
+E: 90% occur above 65; mean age 80; females 2:1. (Lecture 9)
+
+What is the gold-standard surgical treatment for severe hip osteoarthritis?
+* Total hip arthroplasty
+- Hip arthroscopy
+- Core decompression
+- Tenotomy
+E: THA = gold standard; arthroscopy is not indicated for advanced OA. (Lecture 9)
+
+According to the lecture, using a cane in the OPPOSITE hand reduces hip joint load by about:
+* 30%
+- 5%
+- 60%
+- 90%
+E: Assistive device (cane in opposite hand) reduces load by ~30%. (Lecture 9)
+
+@ Knee
+The "unhappy triad" (O'Donoghue's triad) involves:
+* ACL, MCL and medial meniscus
+- PCL, LCL and lateral meniscus
+- ACL, PCL and patella
+- MCL, LCL and ITB
+E: Injury to ACL, MCL and medial meniscus. (Lecture 10)
+
+Which knee ligament is most frequently injured?
+* ACL
+- PCL
+- LCL
+- MCL
+E: Ligament injuries = 40% of traumatic knee injuries; ACL most frequent. (Lecture 10)
+
+Which test is NOT used to examine the ACL?
+* Posterior drawer test
+- Anterior drawer test
+- Lachman test
+- Pivot shift test
+E: ACL: anterior drawer, Lachman, pivot shift. Posterior drawer and sag sign = PCL. (Lecture 10)
+
+A PCL "dashboard injury" is:
+* A direct blow to the proximal tibia with the knee flexed
+- Valgus with internal rotation during pivoting
+- Hyperextension during landing
+- A direct blow to the lateral knee
+E: Posteriorly directed force on a flexed knee (car accidents). (Lecture 10)
+
+An MCL sprain typically results from:
+* A direct blow to the LATERAL knee pushing it inwards
+- A direct blow to the medial knee pushing it outwards
+- Hyperflexion
+- Posterior force on the tibia
+E: MCL: blow to lateral knee (valgus); LCL: blow to inside of the knee (varus). (Lecture 10)
+
+Which meniscus is more mobile and less liable to injury?
+* Lateral meniscus
+- Medial meniscus
+- Both equally
+- Neither – they are fixed
+E: Lateral: small, circular, more mobile, less liable. Medial: large, oval, attached to capsule and MCL, more liable. (Lecture 10)
+
+Which test is a meniscal test from the lecture?
+* McMurray's test
+- Ober test
+- Lachman test
+- Thompson test
+E: Meniscal tests: McMurray, Apley compression, Thessaly; MRI is standard. (Lecture 10)
+
+Pes anserinus is the combined insertion of:
+* Sartorius, gracilis and semitendinosus
+- Semimembranosus, biceps femoris and gracilis
+- Rectus femoris, vastus medialis and sartorius
+- Adductor magnus, gracilis and semimembranosus
+E: Sartorius, gracilis and semitendinosus (≈5 cm distal to the medial knee). (Lecture 10)
+
+Iliotibial band syndrome is the second most common overuse knee pain after:
+* Patellofemoral dysfunction
+- ACL rupture
+- Osgood-Schlatter disease
+- Meniscal tear
+E: ITBS – lateral knee overuse injury in runners; positive Noble compression test. (Lecture 10)
+
+Which hip-muscle weakness is linked to patellofemoral pain syndrome?
+* Gluteus medius and gluteus maximus
+- Iliopsoas
+- Hamstrings
+- Adductors
+E: Weakness of gluteus medius/maximus; excess hip adduction and medial rotation "pushes" the patella. (Lecture 10)
+
+@ Ankle & foot
+Which ligament is typically injured first in a lateral ankle sprain?
+* Anterior talofibular ligament (ATFL)
+- Deltoid ligament
+- Posterior talofibular ligament
+- Anterior inferior tibiofibular ligament
+E: Inversion + plantarflexion → ATFL (± CFL). (Lecture 11)
+
+A high (syndesmotic) ankle sprain is caused by:
+* External rotation + dorsiflexion
+- Inversion + plantarflexion
+- Eversion + plantarflexion
+- Axial loading
+E: Syndesmotic sprain = external rotation + dorsiflexion, injuring distal tibiofibular ligaments; squeeze test. (Lecture 11)
+
+The deltoid ligament prevents excessive:
+* Eversion
+- Inversion
+- Plantarflexion
+- Dorsiflexion
+E: Medial (deltoid) complex prevents excessive eversion; very strong, rarely injured. (Lecture 11)
+
+Which is one of the Ottawa ankle rule criteria?
+* Bony tenderness at the base of the 5th metatarsal
+- Swelling over the ATFL
+- Pain with passive dorsiflexion
+- Bruising of the heel
+E: Ottawa: distal 6 cm posterior fibula/lateral malleolus, distal 6 cm posterior tibia/medial malleolus, base of 5th MT, navicular, inability to bear weight 4 steps. (Lecture 11)
+
+A positive Thompson test (no plantarflexion when the calf is squeezed) indicates:
+* Achilles tendon rupture
+- Plantar fasciitis
+- Tarsal tunnel syndrome
+- Lateral ankle sprain
+E: Thompson test for Achilles rupture – more common in men 30–40s. (Lecture 11)
+
+Morton's neuroma most commonly occurs in the:
+* Third web space
+- First web space
+- Fifth metatarsal base
+- Tarsal tunnel
+E: Compressive neuropathy of the common plantar digital nerve, most commonly 3rd web space; Mulder's click. (Lecture 11)
+
+Tarsal tunnel syndrome is entrapment of the:
+* Posterior tibial nerve
+- Deep fibular nerve
+- Sural nerve
+- Saphenous nerve
+E: Also called posterior tibial nerve neuralgia; positive Tinel's sign. (Lecture 11)
+
+Plantar fasciitis typically causes:
+* Medial heel pain worst with the first steps in the morning
+- Lateral ankle pain after inversion
+- Forefoot pain between metatarsal heads
+- Pain at the tibial tuberosity
+E: Medial heel pain, worse on first steps; point tenderness at the medial calcaneal tubercle. (Lecture 11)
+
+The most common long bone fracture is the:
+* Tibial shaft fracture
+- Femoral shaft fracture
+- Humeral shaft fracture
+- Radial shaft fracture
+E: Tibia shaft = most common long bone fracture; complications include compartment syndrome. (Lecture 11)
+
+Which compartment syndrome sign is a LATE finding?
+* Absent peripheral pulses
+- Pain with passive stretch
+- Paraesthesia
+- Palpable swelling
+E: Peripheral pulses absent = late finding. (Lecture 11)
+
+Which zone of 5th metatarsal fracture is the Jones fracture?
+* Zone 2
+- Zone 1
+- Zone 3
+- Zone 4
+E: Zone 1 tuberosity avulsion (good blood supply); Zone 2 Jones; Zone 3 proximal diaphyseal stress fracture. (Lecture 11)
+
+Pilon (tibial plafond) fractures are usually treated by:
+* Staged surgery – temporary external fixation then delayed ORIF
+- Cast immobilisation for 3 weeks
+- Immediate amputation
+- Functional brace only
+E: Stage 1 external fixation ("damage control"); stage 2 ORIF after 7–14 days. (Lecture 11)
+
+@ Pediatric & amputations
+Clubfoot deformity is summarised by the acronym CAVE, which stands for:
+* Cavus, Adductus, Varus, Equinus
+- Calcaneus, Abductus, Valgus, Eversion
+- Cavus, Abductus, Valgus, Equinus
+- Calcaneus, Adductus, Varus, Extension
+E: Cavus, adducted forefoot, varus hindfoot, equinus. (Lecture 12)
+
+The gold-standard treatment for clubfoot is:
+* Ponseti method
+- French method
+- Posteromedial release surgery
+- Pavlik harness
+E: Ponseti = manipulation + serial casting + percutaneous tenotomy + abduction brace (~95% success). (Lecture 12)
+
+Osgood-Schlatter disease is:
+* Osteochondrosis of the tibial tubercle from repetitive knee extensor contraction
+- Avascular necrosis of the femoral head
+- Developmental hip dysplasia
+- A growth plate fracture of the distal radius
+E: Inflammation of the patellar ligament on the tibial tubercle; conservative care successful in 90%. (Lecture 12)
+
+In infants younger than 4 months, the imaging of choice for hip dysplasia is:
+* Ultrasound
+- Pelvic X-ray
+- CT
+- Bone scintigraphy
+E: US <4 months (hip mainly cartilaginous); radiograph after 4 months. (Lecture 12)
+
+The Ortolani manoeuvre:
+* Abducts the hip, relocating the femoral head into the acetabulum (click)
+- Adducts the hip with posterior pressure to dislocate it
+- Tests for ACL laxity
+- Squeezes the calf
+E: Barlow = adduction + posterior pressure; Ortolani = abduction, femoral head back in (click). (Lecture 12)
+
+Legg-Calvé-Perthes disease is:
+* Idiopathic juvenile avascular necrosis of the femoral head
+- Slipped capital femoral epiphysis
+- Developmental dysplasia of the hip
+- Osteochondrosis of the tibial tubercle
+E: Juvenile AVN of the femoral head, peak 5–7 y, M:F 5:1; phases: necrosis, fragmentation, reossification, remodelling. (Lecture 12)
+
+In Perthes disease, prognosis is best when onset is:
+* Before 6 years
+- 6–8 years
+- After 8 years
+- After 15 years
+E: <6 y benign course; 6–8 variable; >8 poor with conservative treatment. (Lecture 12)
+
+The most common indication for lower limb amputation is:
+* Peripheral vascular disease (≈70%)
+- Trauma
+- Malignant tumours
+- Congenital deficiency
+E: PVD ≈70% of lower limb cases; upper limb amputations mostly result from trauma. (Lecture 13)
+
+A transtibial amputation increases energy expenditure by about:
+* 25–40%
+- 65–100%
+- 10–20%
+- 0%
+E: Transtibial +25–40%; transfemoral +65–100%; Syme/Pirogoff +10–20%. (Lecture 13)
+
+Which contracture tends to develop in a short transfemoral stump?
+* Hip flexion and abduction
+- Hip extension and adduction
+- Knee flexion
+- Ankle equinus
+E: Weak adductors → flexion and abduction contracture; long stumps give the best lever. (Lecture 13)
+
+A Syme amputation is:
+* Ankle disarticulation with removal of the malleoli
+- Disarticulation through the tarsometatarsal joint
+- Disarticulation through the talonavicular and calcaneocuboid joints
+- Amputation 12–15 cm below the knee
+E: Syme = ankle disarticulation; Lisfranc = tarsometatarsal; Chopart = talonavicular/calcaneocuboid. (Lecture 13)
+
+Phantom limb sensation occurs in up to:
+* 80% of amputees
+- 5% of amputees
+- 25% of amputees
+- 100% of amputees
+E: Incidence up to 80%; mechanisms include cortical reorganisation, neuroma, central sensitisation. Mirror therapy gives short-term relief. (Lecture 13)
+
+A myoelectric prosthesis is controlled by:
+* EMG signals detected from residual muscles
+- A shoulder harness and cables
+- No active control – it is cosmetic
+- Foot pressure sensors only
+E: Myoelectric = surface electrodes detect EMG; body-powered = cable/harness. (Lecture 13)
+
+@ Fracture management (Basics)
+Closed reduction is:
+* Moving the bone back into place without cutting the skin, then holding it with a cast or splint
+- Opening the skin and fixing the bone with plates and screws
+- Replacing the joint with a prosthesis
+- Removing a segment of bone
+E: Closed reduction = manual realignment through the skin + cast/splint. (Basics doc)
+
+ORIF is typically chosen for:
+* Severe, displaced or complex fractures that cannot be held by a cast
+- Simple, stable, minor fractures
+- All paediatric fractures
+- Joint dislocations without fracture
+E: ORIF = surgical open reduction + internal fixation for displaced/complex/unstable breaks. (Basics doc)
+
+Which is a main risk of ORIF (rather than closed reduction)?
+* Surgical-site infection and hardware problems
+- Healing crooked because the cast slipped
+- No bone preservation
+- Prosthesis loosening
+E: ORIF risks: infection, nerve irritation, hardware issues. Closed reduction risks: re-displacement, malunion, stiffness. (Basics doc)
+
+Arthroplasty differs from ORIF because it:
+* Replaces damaged joint components with prosthetic implants
+- Preserves 100% of natural bone
+- Uses only a cast
+- Is non-invasive
+E: Arthroplasty removes damaged bone/cartilage and replaces it with implants; often allows early weight-bearing. (Basics doc)

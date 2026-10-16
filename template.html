@@ -1,55 +1,76 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#1f5f8b"><title>OMT II – Trigger Point Muscle Quiz</title>
+<meta name="theme-color" content="#1f5f8b"><title>Physio Year 2 – Study Quizzes</title>
 <style>
 *{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#f3f6f9;color:#1b2733;font-size:18px;line-height:1.4}
-header{background:#1f5f8b;color:#fff;padding:14px 16px;font-weight:700;font-size:19px}
+header{background:#1f5f8b;color:#fff;padding:14px 16px;font-weight:700;font-size:19px;display:flex;gap:10px;align-items:center}
+header a{color:#fff;text-decoration:none}
 main{max-width:640px;margin:0 auto;padding:16px}
 .card{background:#fff;border-radius:14px;padding:18px;box-shadow:0 1px 4px #0002;margin-bottom:14px}
+a.cls{display:block;text-decoration:none;color:inherit}a.cls b{color:#1f5f8b;font-size:19px}
 button,select{font:inherit}.btn{display:block;width:100%;min-height:56px;margin:10px 0;padding:14px 16px;border:2px solid #c9d6e2;border-radius:12px;background:#fff;text-align:left;font-size:17px;cursor:pointer;color:inherit}
 .btn:active{background:#eef4fa}.primary{background:#1f5f8b;color:#fff;border-color:#1f5f8b;text-align:center;font-weight:600}
 .secondary{text-align:center;font-weight:600}.ok{background:#e3f6e8;border-color:#2e9d4f}.bad{background:#fde7e7;border-color:#d33}
 .muted{color:#5b6b7a;font-size:15px}.q{font-size:19px;font-weight:600;margin:6px 0 4px}.exp{margin-top:12px;padding:12px;border-radius:10px;background:#f0f5fa;font-size:16px}
+.exp img{display:block;max-width:100%;max-height:320px;margin:10px auto 4px;border-radius:8px;background:#fff}.credit{font-size:12px;color:#5b6b7a;text-align:center}
 select{width:100%;min-height:52px;padding:10px;border-radius:12px;border:2px solid #c9d6e2;background:#fff;font-size:17px}
 .bar{height:6px;background:#dde6ee;border-radius:3px;overflow:hidden}.bar>div{height:100%;background:#1f5f8b}
 .big{font-size:44px;font-weight:800;text-align:center;margin:10px 0}
+table{border-collapse:collapse;font-size:13px;width:100%}td{border-bottom:1px solid #e3e9ef;padding:4px;vertical-align:top}
 </style></head><body>
-<header>OMT II · Trigger Point Muscles Quiz</header>
+<header><a href="#/">🏠</a><span id="ttl">Physio Year 2 · Study Quizzes</span></header>
 <main id="app"></main>
 <script type="application/json" id="bank">/*__BANK__*/</script>
 <script>
 const BANK=JSON.parse(document.getElementById('bank').textContent);
-const N=20, KEY='omtQuizMistakes', app=document.getElementById('app');
-const regions=[...new Set(BANK.muscles.map(m=>m.region))];
-let st={};
-const mistakes=()=>{try{return JSON.parse(localStorage.getItem(KEY))||[]}catch(e){return[]}};
-const saveM=a=>{try{localStorage.setItem(KEY,JSON.stringify(a))}catch(e){}};
+const N=20, app=document.getElementById('app'), ttl=document.getElementById('ttl');
+let st={}, C=null;
+const K=s=>'quiz_'+C.id+'_'+s;
+const mistakes=()=>{try{return JSON.parse(localStorage.getItem(K('mistakes')))||[]}catch(e){return[]}};
+const saveM=a=>{try{localStorage.setItem(K('mistakes'),JSON.stringify(a))}catch(e){}};
 const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-function home(){
-  const m=mistakes().length, reg=localStorage.getItem('omtRegion')||'';
-  app.innerHTML=`<div class="card"><p class="muted">${BANK.muscles.length} muscles · ${BANK.questions.length} questions (origins, insertions, actions). Each quiz: ${N} random questions.</p>
-  <label class="muted" for="reg">Region</label><select id="reg"><option value="">All regions</option>${regions.map(r=>`<option ${r===reg?'selected':''}>${esc(r)}</option>`).join('')}</select>
+function route(){
+  const h=location.hash.replace(/^#\/?/,'');
+  if(h==='credits')return credits();
+  C=BANK.classes.find(c=>c.id===h);
+  if(C)return menu();
+  C=null;ttl.textContent='Physio Year 2 · Study Quizzes';
+  app.innerHTML=BANK.classes.map(c=>{const m=(()=>{try{return (JSON.parse(localStorage.getItem('quiz_'+c.id+'_mistakes'))||[]).length}catch(e){return 0}})();
+    return `<div class="card"><a class="cls" href="#/${c.id}"><b>${esc(c.title)}</b><br><span class="muted">${esc(c.desc)}<br>${c.questions.length} questions · ${c.topics.length} topics${m?` · ${m} to review`:''}</span></a></div>`}).join('')+
+    `<p class="muted" style="text-align:center"><a href="#/credits">Image credits &amp; sources</a></p>`;
+}
+function menu(){
+  ttl.textContent=C.title;
+  const m=mistakes().length, tp=localStorage.getItem(K('topic'))||'';
+  app.innerHTML=`<div class="card"><p class="muted">${esc(C.desc)}<br>${C.questions.length} questions. Each quiz: ${N} random questions.</p>
+  <label class="muted" for="tp">Topic</label><select id="tp"><option value="">All topics</option>${C.topics.map(t=>`<option ${t===tp?'selected':''}>${esc(t)}</option>`).join('')}</select>
   <button class="btn primary" id="go">Start quiz</button>
   <button class="btn secondary" id="rev" ${m?'':'disabled style="opacity:.5"'}>Review mistakes (${m})</button>
-  ${m?'<button class="btn secondary muted" id="clr">Clear mistake list</button>':''}</div>`;
-  document.getElementById('go').onclick=()=>{const r=document.getElementById('reg').value;localStorage.setItem('omtRegion',r);start(BANK.questions.filter(q=>!r||q.region===r),false)};
-  if(m)document.getElementById('rev').onclick=()=>{const ids=new Set(mistakes());start(BANK.questions.filter(q=>ids.has(q.id)),true)};
-  const c=document.getElementById('clr');if(c)c.onclick=()=>{if(confirm('Clear all saved mistakes?')){saveM([]);home()}};
+  ${m?'<button class="btn secondary muted" id="clr">Clear mistake list</button>':''}
+  <button class="btn secondary" onclick="location.hash='#/'">← All classes</button></div>`;
+  document.getElementById('go').onclick=()=>{const t=document.getElementById('tp').value;localStorage.setItem(K('topic'),t);start(C.questions.filter(q=>!t||q.topic===t),false)};
+  if(m)document.getElementById('rev').onclick=()=>{const ids=new Set(mistakes());start(C.questions.filter(q=>ids.has(q.id)),true)};
+  const c=document.getElementById('clr');if(c)c.onclick=()=>{if(confirm('Clear all saved mistakes for this class?')){saveM([]);menu()}};
 }
 function start(pool,review){
+  if(!pool.length){alert('No questions here.');return}
   const qs=shuffle(pool).slice(0,N).map(q=>{const o=shuffle(q.options.map((t,i)=>({t,c:i===q.answer})));return{...q,o}});
   st={qs,i:0,score:0,review,wrong:[]};show();
 }
 function show(){
   const q=st.qs[st.i],n=st.qs.length;
-  app.innerHTML=`<div class="card"><div class="muted">${st.review?'Review · ':''}Question ${st.i+1} / ${n} · Score ${st.score}</div>
+  app.innerHTML=`<div class="card"><div class="muted">${st.review?'Review · ':''}Question ${st.i+1} / ${n} · Score ${st.score} · ${esc(q.topic)}</div>
   <div class="bar"><div style="width:${100*st.i/n}%"></div></div><p class="q">${esc(q.q)}</p>
   ${q.o.map((o,k)=>`<button class="btn opt" data-k="${k}">${esc(o.t)}</button>`).join('')}<div id="fb"></div></div>
-  <button class="btn secondary" id="quit">Quit to menu</button>`;
+  <button class="btn secondary" id="quit">Quit to class menu</button>`;
   document.querySelectorAll('.opt').forEach(b=>b.onclick=()=>answer(+b.dataset.k));
-  document.getElementById('quit').onclick=home;window.scrollTo(0,0);
+  document.getElementById('quit').onclick=menu;window.scrollTo(0,0);
+}
+function imgHtml(q){
+  const a=q.img&&BANK.images[q.img];if(!a)return'';
+  return `<img src="${esc(a.file)}" alt="${esc(a.title)}" loading="lazy"><div class="credit">Image: ${esc(a.author)} · ${esc(a.license)} · <a href="${esc(a.source)}" target="_blank" rel="noopener">Wikimedia Commons</a></div>`;
 }
 function answer(k){
   const q=st.qs[st.i],btns=document.querySelectorAll('.opt');btns.forEach(b=>b.onclick=null);
@@ -58,17 +79,23 @@ function answer(k){
   saveM(ms);
   q.o.forEach((o,j)=>{if(o.c)btns[j].classList.add('ok');else if(j===k)btns[j].classList.add('bad')});
   const last=st.i===st.qs.length-1;
-  document.getElementById('fb').innerHTML=`<div class="exp"><b>${right?'✅ Correct':'❌ Incorrect'}</b><br>${esc(q.explanation)}</div>
+  document.getElementById('fb').innerHTML=`<div class="exp"><b>${right?'✅ Correct':'❌ Incorrect'}</b><br>${esc(q.explanation)}${imgHtml(q)}</div>
   <button class="btn primary" id="nx">${last?'See score':'Next →'}</button>`;
   document.getElementById('nx').onclick=()=>{if(last)end();else{st.i++;show()}};
-  document.getElementById('nx').scrollIntoView({behavior:'smooth',block:'nearest'});
 }
 function end(){
   const n=st.qs.length,p=Math.round(100*st.score/n);
   app.innerHTML=`<div class="card"><div class="muted">${st.review?'Review finished':'Quiz finished'}</div><div class="big">${st.score} / ${n}</div><p style="text-align:center">${p}%${st.wrong.length?` · ${st.wrong.length} added to Review mistakes`:''}</p>
-  <button class="btn primary" id="nq">New quiz</button><button class="btn secondary" id="hm">Menu</button></div>`;
-  document.getElementById('nq').onclick=()=>{const r=localStorage.getItem('omtRegion')||'';start(BANK.questions.filter(q=>!r||q.region===r),false)};
-  document.getElementById('hm').onclick=home;
+  <button class="btn primary" id="nq">New quiz</button><button class="btn secondary" id="hm">Class menu</button></div>`;
+  document.getElementById('nq').onclick=()=>{const t=localStorage.getItem(K('topic'))||'';start(C.questions.filter(q=>!t||q.topic===t),false)};
+  document.getElementById('hm').onclick=menu;
 }
-home();
+function credits(){
+  ttl.textContent='Image credits & sources';
+  const seen={},rows=[];for(const v of Object.values(BANK.images)){if(seen[v.file])continue;seen[v.file]=1;rows.push(v)}
+  app.innerHTML=`<div class="card"><p>Muscle images are free-licence files from Wikimedia Commons (public-domain Gray's Anatomy plates and CC BY / CC BY-SA works), resized and stored in this repository. Each image keeps its original licence; click a title for the file page.</p>
+  <table>${rows.map(v=>`<tr><td><a href="${esc(v.source)}" target="_blank" rel="noopener">${esc(v.title)}</a></td><td>${esc(v.author)}</td><td>${esc(v.license)}</td></tr>`).join('')}</table>
+  <p class="muted">Questions are based on Nóra's course materials (lecture slides, syllabi and guidelines); each explanation names its source lecture. Study aid only.</p></div>`;
+}
+addEventListener('hashchange',route);route();
 </script></body></html>

@@ -1,0 +1,311 @@
+# Research Methodology — sources: Lesson 1 Introduction to Research (À. Chicano), Student Research Project Guidelines 2026/27, Evaluation of Student Performance 2026/27
+@ Course & assessment
+How is Research Methodology assessed?
+* 40% individual MCQ final exam, 60% group Research Protocol
+- 60% exam, 40% protocol
+- 100% final exam
+- 50% exam, 50% attendance
+E: Theoretical part 40% (MCQ exam), practical part 60% (Research Protocol). (Evaluation document)
+
+The Research Protocol's 60% is divided into:
+* Preliminary evaluation 20%, final submission 20%, final presentation 20%
+- One single 60% submission
+- Group formation 20%, exam 40%
+- Presentation 40%, submission 20%
+E: Group formation is not weighted. (Evaluation; Lesson 1)
+
+According to Lesson 1, the passing requirement is:
+* Passing both the RP and the exam (each mark ≥ 5)
+- An average of 4 overall
+- Passing the exam only
+- Attendance only
+E: The evaluation document also states that a total score of 5 is required; otherwise BCE. (Lesson 1; Evaluation)
+
+How big are Research Protocol groups?
+* 5–6 students
+- 2–3 students
+- 10 students
+- Individual work
+E: 14 groups of 5–6; choose a coordinator. (Lesson 1)
+
+Who evaluates the Research Protocol?
+* Professor Silvia Rondini
+- Professor Àlex Chicano
+- An external examiner
+- The students themselves
+E: Àlex Chicano runs the final exam. (Lesson 1)
+
+During an RP review appointment:
+* No changes to the score will be made – the aim is to improve skills
+- The score can be raised on request
+- The whole group must attend and argue the grade
+- The exam is retaken
+E: Only one member requests the review by e-mail. (Evaluation)
+
+@ Research foundations
+A research protocol is:
+* The written plan of the study, setting out its structure
+- The published results paper
+- The ethics committee's approval letter
+- The statistical software output
+E: Also used for grant funding and IRB approval; scientifically it organises research logically and efficiently. (Lesson 1, anatomy of research)
+
+The "physiology of research" refers to:
+* How research works – drawing inferences from findings
+- The study's anatomical structure
+- Muscle physiology experiments
+- The budget
+E: Anatomy = what it is made of (study plan); physiology = how it works. (Lesson 1)
+
+Internal validity is:
+* The degree to which the investigator draws correct conclusions about what actually happened in the study
+- How well results generalise to people outside the study
+- The reliability of a measurement tool
+- The ethics of the study
+E: Inference #1. (Lesson 1)
+
+External validity (generalisability) is:
+* The degree to which conclusions apply to people and events outside the study
+- The accuracy of conclusions inside the study
+- Inter-rater agreement
+- The sample size
+E: Inference #2. (Lesson 1)
+
+"Empirical" means:
+* Based on observation or experience
+- Based on opinion
+- Based on theory only
+- Based on tradition
+E: Empirical evidence can only come from research. (Lesson 1)
+
+Which order of the scientific method was presented?
+* Observe → research → hypothesis → test → analyse/conclude → share results
+- Hypothesis → share → observe → test
+- Publish → observe → conclude → test
+- Test → hypothesis → observe → research
+E: Example: movement sonification for walking after stroke. (Lesson 1)
+
+Which databases were named for the research step?
+* Google Scholar, PubMed and PEDro
+- Wikipedia and YouTube
+- Instagram and Facebook
+- Only textbooks
+E: Lesson 1, scientific method step 2.
+
+A research question is:
+* The uncertainty the investigator wants to resolve by performing the study
+- The study's title
+- The statistical test chosen
+- The conclusion of the study
+E: Lesson 1.
+
+Which is a required property of a good research question?
+* It must be testable and lead to a falsifiable hypothesis
+- It must already have a known answer
+- It must be impossible to measure
+- It must avoid ethics review
+E: It should have a real answer, be testable, lead to a falsifiable hypothesis, and be ethical and relevant. (Lesson 1)
+
+A "falsifiable" hypothesis means:
+* There must be a possible negative answer to it
+- It can never be wrong
+- It is based on false data
+- It needs no experiment
+E: Lesson 1.
+
+In Lesson 1's description of an experiment, the control group is:
+* What the experimental group is compared against
+- The group receiving the new treatment
+- The researchers
+- The ethics committee
+E: An experiment includes an experimental group and a control group. (Lesson 1)
+
+If experimental results concur with the hypothesis's deduced consequences:
+* The hypothesis is verified; otherwise it is falsified
+- The hypothesis is automatically proven forever
+- The study must be stopped
+- The control group is removed
+E: Lesson 1.
+
+For a new investigator without an experience base, a recommended source of research questions is:
+* Carrying out a systematic review
+- Guessing
+- Repeating a colleague's study exactly
+- Avoiding the literature
+E: Others: careful observation of patients, staying open to new ideas and technologies. (Lesson 1)
+
+What does PICO stand for?
+* Population, Intervention, Comparison, Outcome
+- Problem, Investigation, Conclusion, Objective
+- Patient, Illness, Cause, Outcome
+- Population, Incidence, Cost, Outcome
+E: A format to help define the research question. (Lesson 1; RP Guidelines)
+
+In "virtual reality vs conventional rehabilitation for upper-limb function in chronic stroke", the Comparison (C) is:
+* Conventional rehabilitation training
+- Virtual reality
+- Upper-limb function
+- Patients with chronic stroke
+E: P = chronic stroke patients, I = VR, O = upper-limb functionality. (Lesson 1 example)
+
+What does SMART stand for in objectives?
+* Specific, Measurable, Achievable, Relevant, Time-bound
+- Simple, Medical, Accurate, Reliable, Tested
+- Statistical, Methodical, Applied, Randomised, Trial
+- Specific, Meaningful, Accurate, Rapid, Tested
+E: Lesson 1.
+
+Objectives in the research protocol should start with:
+* A verb in the infinitive (e.g. to assess, evaluate, determine)
+- A verb in the past tense
+- A question
+- The conclusion
+E: Structure: verb – intervention – outcome – population; one objective per outcome. (Lesson 1)
+
+How many objectives should each study outcome have associated with it?
+* Each outcome should have an associated objective
+- None
+- Only the primary outcome needs one
+- Exactly five
+E: Lesson 1.
+
+The stroke epidemiology slide stated that stroke affects about:
+* 15 million people worldwide every year, with ~30% first-year mortality
+- 1,000 people a year
+- 150 million with no mortality
+- 15 thousand people a year
+E: Severe disability in two-thirds of survivors (Pu et al., 2023). (Lesson 1)
+
+@ Research Protocol guidelines
+The RP assignment consists of:
+* A brief introduction and an extensive methods section of a research protocol
+- A full results and discussion
+- A literature review only
+- A case report
+E: RP Guidelines.
+
+The knowledge-gap (relevance) section may be at most:
+* Two paragraphs
+- Five pages
+- One sentence
+- Ten paragraphs
+E: RP Guidelines.
+
+The hypothesis section must include:
+* A null and an alternative hypothesis
+- Only the expected p-value
+- Only the conclusion
+- The sample size
+E: RP Guidelines.
+
+In the study design section you must explain:
+* The study arms and which guidelines you will follow to describe procedures
+- The results obtained
+- The authors' CVs
+- The budget only
+E: Plus a flow chart. (RP Guidelines)
+
+The randomisation section must state:
+* The method used and who will perform it
+- Only that randomisation "will be done"
+- The patients' names
+- The final results
+E: RP Guidelines.
+
+The blinding section must describe:
+* The procedure used and who will be blinded
+- The colour of the documents
+- Only the statistical test
+- Inclusion criteria
+E: RP Guidelines.
+
+Which element describes the MATERIALS used in the intervention?
+* WHAT
+- WHO PROVIDED
+- HOW
+- WHERE
+E: Brief name, what, who provided, how, where, when and how much. (RP Guidelines)
+
+The "HOW" element of the intervention describes:
+* Mode of delivery (face-to-face or tele-rehabilitation) and individual vs group
+- The location
+- The materials
+- The provider's training
+E: RP Guidelines.
+
+The "WHEN AND HOW MUCH" element includes:
+* Number of sessions, schedule, duration, intensity and dose
+- The provider's qualifications
+- The building name
+- The research question
+E: RP Guidelines.
+
+The expected change in the main outcome for the sample size should take into account the:
+* Minimal clinically important difference (MCID)
+- Researcher's preference
+- Number of authors
+- Journal impact factor
+E: If MCID is not established, use previous similar studies; source suggested: Rehabilitation Measures Database (sralab.org). (RP Guidelines)
+
+When choosing statistical tests in the data analysis section you must consider:
+* The type of variable, the number of groups and the number of assessment time points
+- Only the sample's age
+- The colour of the graphs
+- The software price
+E: RP Guidelines.
+
+The ethics section must reference:
+* The Declaration of Helsinki and the Ethics Committee, with a mandatory Informed Consent form
+- Only the university logo
+- Patient names
+- Nothing – ethics is optional
+E: RP Guidelines.
+
+References in the RP must follow:
+* Vancouver style
+- APA style
+- Harvard style
+- Any style
+E: RP Guidelines.
+
+The RP must be written in which verb tense?
+* Future tense
+- Past tense
+- Present perfect
+- Conditional
+E: It is a protocol for a study not yet performed. (RP Guidelines)
+
+Which font and spacing are required?
+* Arial, Calibri or Times New Roman 10–11, line spacing 1.5
+- Comic Sans 14, double spacing
+- Any font, single spacing
+- Times 12, spacing 2.0
+E: Titles may use a different size; text in black. (RP Guidelines)
+
+Which pages must be numbered?
+* Every page except the title page
+- Only the title page
+- No pages
+- Only odd pages
+E: RP Guidelines.
+
+What happens if information is placed in the wrong section?
+* Points will be deducted
+- Nothing
+- It earns bonus points
+- The RP is automatically failed
+E: RP Guidelines.
+
+Late uploads of the RP to Moodle are:
+* Not accepted
+- Accepted with 10% penalty
+- Accepted any time
+- Accepted by email
+E: RP Guidelines.
+
+The RP front page and index must be:
+* On separate pages
+- On the same page
+- Omitted
+- At the end
+E: Front page: university, students, teacher, course, date; plus a summary page. (RP Guidelines)

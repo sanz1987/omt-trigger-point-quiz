@@ -1,0 +1,366 @@
+{
+ "utrap": {
+  "file": "img/Trapezius.jpg",
+  "title": "Trapezius.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Trapezius.png",
+  "license": "CC BY-SA 3.0",
+  "author": "See source page"
+ },
+ "mtrap": {
+  "file": "img/Trapezius.jpg",
+  "title": "Trapezius.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Trapezius.png",
+  "license": "CC BY-SA 3.0",
+  "author": "See source page"
+ },
+ "ltrap": {
+  "file": "img/Trapezius.jpg",
+  "title": "Trapezius.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Trapezius.png",
+  "license": "CC BY-SA 3.0",
+  "author": "See source page"
+ },
+ "levator": {
+  "file": "img/Levator_scapulae.jpg",
+  "title": "Levator_scapulae.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Levator_scapulae.png",
+  "license": "Public domain",
+  "author": "modified by Uwe Gille"
+ },
+ "splcap": {
+  "file": "img/Musculus_splenius_capitis_marked.jpg",
+  "title": "Musculus_splenius_capitis_marked.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Musculus_splenius_capitis_marked.png",
+  "license": "Public domain",
+  "author": "modified by Uwe Gille"
+ },
+ "splcer": {
+  "file": "img/DeepNapeMuscles.jpg",
+  "title": "DeepNapeMuscles.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:DeepNapeMuscles.jpg",
+  "license": "Public domain",
+  "author": "Leo Testut"
+ },
+ "scm": {
+  "file": "img/Sternocleidomastoideus.jpg",
+  "title": "Sternocleidomastoideus.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Sternocleidomastoideus.png",
+  "license": "Public domain",
+  "author": "Image:Gray385.png modified by Uwe Gille"
+ },
+ "rhmaj": {
+  "file": "img/Rhomboideus_major.jpg",
+  "title": "Rhomboideus_major.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Rhomboideus_major.png",
+  "license": "Public domain",
+  "author": "modified by Uwe Gille"
+ },
+ "rhmin": {
+  "file": "img/Rhomboideus_minor.jpg",
+  "title": "Rhomboideus_minor.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Rhomboideus_minor.png",
+  "license": "Public domain",
+  "author": "modified by Uwe Gille"
+ },
+ "serant": {
+  "file": "img/SerratusMagnus.jpg",
+  "title": "SerratusMagnus.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:SerratusMagnus.jpg",
+  "license": "Public domain",
+  "author": "Leo Testut"
+ },
+ "pecmaj": {
+  "file": "img/Gray410.jpg",
+  "title": "Gray410.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray410.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "pecmin": {
+  "file": "img/Pectoralis_minor.jpg",
+  "title": "Pectoralis_minor.svg",
+  "source": "https://commons.wikimedia.org/wiki/File:Pectoralis_minor.svg",
+  "license": "CC BY-SA 3.0",
+  "author": "Original:  ‍Användare:Chrizz Vector:  Pixelsquid🎱"
+ },
+ "deltoid": {
+  "file": "img/Deltoideus.jpg",
+  "title": "Deltoideus.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Deltoideus.png",
+  "license": "CC BY-SA 3.0",
+  "author": "Original:  sv:Användare:Chrizz"
+ },
+ "supra": {
+  "file": "img/Supraspinatus_muscle_back4.jpg",
+  "title": "Supraspinatus_muscle_back4.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_back4.png",
+  "license": "CC BY-SA 2.1 jp",
+  "author": "Anatomography"
+ },
+ "infra": {
+  "file": "img/Infraspinatus.jpg",
+  "title": "Infraspinatus.PNG",
+  "source": "https://commons.wikimedia.org/wiki/File:Infraspinatus.PNG",
+  "license": "Public domain",
+  "author": "Mikael Häggström.\nWhen using this image in external works, it may be cited as:\n\nHäggström, Mikael (2014). \"Medical gallery of Mikael Häggström 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.008. ISSN 2002-4436. Public Domain.\nor\n\nBy Mikael Häggström, used with permission."
+ },
+ "tmin": {
+  "file": "img/Teres_minor_muscle_back3.jpg",
+  "title": "Teres_minor_muscle_back3.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Teres_minor_muscle_back3.png",
+  "license": "CC BY-SA 2.1 jp",
+  "author": "Anatomography"
+ },
+ "subscap": {
+  "file": "img/Subscapularis_muscle_frontal.jpg",
+  "title": "Subscapularis_muscle_frontal.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_frontal.png",
+  "license": "CC BY-SA 2.1 jp",
+  "author": "Anatomography"
+ },
+ "biceps": {
+  "file": "img/1120_Muscles_that_Move_the_Forearm_Humerus_Flex_Si.jpg",
+  "title": "1120_Muscles_that_Move_the_Forearm_Humerus_Flex_Sin.png",
+  "source": "https://commons.wikimedia.org/wiki/File:1120_Muscles_that_Move_the_Forearm_Humerus_Flex_Sin.png",
+  "license": "CC BY-SA 4.0",
+  "author": "CFCF"
+ },
+ "brach": {
+  "file": "img/MusclesAnt_rieuresDuBras.jpg",
+  "title": "MusclesAntérieuresDuBras.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:MusclesAnt%C3%A9rieuresDuBras.jpg",
+  "license": "Public domain",
+  "author": "Adrien Charpy"
+ },
+ "corbr": {
+  "file": "img/Coracobrachialis_muscle05.jpg",
+  "title": "Coracobrachialis_muscle05.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Coracobrachialis_muscle05.png",
+  "license": "CC BY-SA 2.1 jp",
+  "author": "Anatomography"
+ },
+ "triceps": {
+  "file": "img/Triceps_brachii.jpg",
+  "title": "Triceps_brachii.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Triceps_brachii.png",
+  "license": "CC BY-SA 3.0",
+  "author": "See source page"
+ },
+ "brrad": {
+  "file": "img/Gray417_color.jpg",
+  "title": "Gray417_color.PNG",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray417_color.PNG",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "ecu": {
+  "file": "img/Gray421.jpg",
+  "title": "Gray421.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray421.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "ecrl": {
+  "file": "img/Gray421.jpg",
+  "title": "Gray421.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray421.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "fcr": {
+  "file": "img/Gray1231.jpg",
+  "title": "Gray1231.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray1231.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "ql": {
+  "file": "img/Quadratuslumborum.jpg",
+  "title": "Quadratuslumborum.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Quadratuslumborum.png",
+  "license": "Public domain",
+  "author": "modified by Uwe Gille"
+ },
+ "psoas": {
+  "file": "img/Psoas_major_muscle11.jpg",
+  "title": "Psoas_major_muscle11.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Psoas_major_muscle11.png",
+  "license": "CC BY-SA 2.1 jp",
+  "author": "Anatomography"
+ },
+ "iliacus": {
+  "file": "img/Iliacus_muscle06.jpg",
+  "title": "Iliacus_muscle06.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Iliacus_muscle06.png",
+  "license": "CC BY-SA 2.1 jp",
+  "author": "Anatomography"
+ },
+ "gmed": {
+  "file": "img/Gluteus_medius_muscle08.jpg",
+  "title": "Gluteus_medius_muscle08.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle08.png",
+  "license": "CC BY-SA 2.1 jp",
+  "author": "Anatomography"
+ },
+ "gmin": {
+  "file": "img/Gluteus_minimus_muscle07.jpg",
+  "title": "Gluteus_minimus_muscle07.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gluteus_minimus_muscle07.png",
+  "license": "CC BY-SA 2.1 jp",
+  "author": "Anatomography"
+ },
+ "gmax": {
+  "file": "img/Gray434.jpg",
+  "title": "Gray434.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray434.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "tfl": {
+  "file": "img/Gray430_with_TensorFasciaLata_en.jpg",
+  "title": "Gray430_with_TensorFasciaLata-en.svg",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray430_with_TensorFasciaLata-en.svg",
+  "license": "CC BY-SA 3.0",
+  "author": "Jmarchn"
+ },
+ "pirif": {
+  "file": "img/Piriformis.jpg",
+  "title": "Piriformis.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Piriformis.jpg",
+  "license": "Public domain",
+  "author": "Johannes Sobotta"
+ },
+ "st": {
+  "file": "img/Gray432_color.jpg",
+  "title": "Gray432_color.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray432_color.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "amag": {
+  "file": "img/Anterior_Hip_Muscles_2.jpg",
+  "title": "Anterior_Hip_Muscles_2.PNG",
+  "source": "https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG",
+  "license": "CC BY-SA 3.0",
+  "author": "Beth ohara"
+ },
+ "alon": {
+  "file": "img/Anterior_Hip_Muscles_2.jpg",
+  "title": "Anterior_Hip_Muscles_2.PNG",
+  "source": "https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG",
+  "license": "CC BY-SA 3.0",
+  "author": "Beth ohara"
+ },
+ "abrev": {
+  "file": "img/Anterior_Hip_Muscles_2.jpg",
+  "title": "Anterior_Hip_Muscles_2.PNG",
+  "source": "https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG",
+  "license": "CC BY-SA 3.0",
+  "author": "Beth ohara"
+ },
+ "vl": {
+  "file": "img/Illu_lower_extremity_muscles.jpg",
+  "title": "Illu_lower_extremity_muscles.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Illu_lower_extremity_muscles.jpg",
+  "license": "Public domain",
+  "author": "See source page"
+ },
+ "vm": {
+  "file": "img/Illu_lower_extremity_muscles.jpg",
+  "title": "Illu_lower_extremity_muscles.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Illu_lower_extremity_muscles.jpg",
+  "license": "Public domain",
+  "author": "See source page"
+ },
+ "vi": {
+  "file": "img/Illu_lower_extremity_muscles.jpg",
+  "title": "Illu_lower_extremity_muscles.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Illu_lower_extremity_muscles.jpg",
+  "license": "Public domain",
+  "author": "See source page"
+ },
+ "gastroc": {
+  "file": "img/Gray439.jpg",
+  "title": "Gray439.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray439.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "soleus": {
+  "file": "img/SoleusAndArch.jpg",
+  "title": "SoleusAndArch.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:SoleusAndArch.jpg",
+  "license": "Public domain",
+  "author": "Johannes Sobotta"
+ },
+ "tibpost": {
+  "file": "img/Gray442.jpg",
+  "title": "Gray442.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray442.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "tibant": {
+  "file": "img/Tibialis.jpg",
+  "title": "Tibialis.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Tibialis.png",
+  "license": "CC BY-SA 3.0",
+  "author": "Bildberabetning: sv:Användare:Chrizz. Original uploader was Chrizz at sv.wikipedia"
+ },
+ "fl": {
+  "file": "img/Gray438.jpg",
+  "title": "Gray438.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray438.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "fb": {
+  "file": "img/Gray441.jpg",
+  "title": "Gray441.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray441.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "ft": {
+  "file": "img/Gray437.jpg",
+  "title": "Gray437.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray437.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "ecrb": {
+  "file": "img/Gray421.jpg",
+  "title": "Gray421.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray421.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "fcu": {
+  "file": "img/Gray413.jpg",
+  "title": "Gray413.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray413.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "bf": {
+  "file": "img/Gray434.jpg",
+  "title": "Gray434.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray434.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "sm": {
+  "file": "img/Gray434.jpg",
+  "title": "Gray434.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray434.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ },
+ "rf": {
+  "file": "img/Gray430.jpg",
+  "title": "Gray430.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Gray430.png",
+  "license": "Public domain",
+  "author": "Henry Vandyke Carter"
+ }
+}

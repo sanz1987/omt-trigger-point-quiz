@@ -1,0 +1,700 @@
+# OMT II (beyond trigger-point anatomy) — sources: 02_OMT_II_Introduction_2026, 03_Trigger_Point_Therapy_Part1_2026, last-year OMT 2 lecture PDFs (TrP Part 2, Mulligan, METs, MFR, MLD, Scars & Burns, Cupping), OMT II Study Pack
+@ Course & trigger-point theory
+How is OMT II assessed?
+* Case study 30%, practical exam 1 20%, practical exam 2 20%, theoretical evaluation 30%
+- Final exam 60%, case study 40%
+- Practical exams 50%, theory 50%
+- Case study 20%, two practical exams 30% each, theory 20%
+E: Case study group assignment 30, practical exam 1 20, practical exam 2 20, theoretical evaluation 30. (02_OMT_II_Introduction)
+
+Which attendance rule applies in OMT II?
+* 80% attendance – you may miss at most two practical classes
+- 100% attendance is mandatory
+- 50% attendance
+- No attendance requirement
+E: 80% attendance (able to miss two practical classes); tutorial and case presentations are mandatory. (Introduction)
+
+To pass OMT II you need 50% overall AND:
+* An average of 50% in the two practical exams
+- 70% in the theory exam
+- 50% in each individual session
+- A pass in the case study only
+E: Subject requirements: ≥50% overall and an average of 50% in the two practical exams. (Introduction)
+
+Travell's definition describes a trigger point as a hyper-irritable spot in skeletal muscle associated with:
+* A hypersensitive palpable nodule in a taut band
+- An inflamed bursa
+- A torn tendon
+- A calcified ligament
+E: "A hyper-irritable spot in skeletal muscle associated with a hypersensitive palpable nodule in a taut band…" with referred pain, motor dysfunction and autonomic phenomena. (TrP Part 1)
+
+The lecture compares trigger-point referral to a leaky water pistol because:
+* Referral can include the area between the trigger point and the distant painful point
+- The pain is always wet and burning
+- Trigger points leak fluid
+- Pain only appears exactly at the trigger point
+E: The pistol wets a distant point and often everything in between. (TrP Part 1 / study pack)
+
+Who coined the term "myofascial trigger point" in the 1950s?
+* Travell and Rinzler
+- Balfour
+- Froriep
+- Kellgren
+E: Balfour 1816 "nodular tumours", Froriep 1843 "muskelschwiele", Schade 1919 "myogeloses", Kellgren saline maps, Travell & Rinzler 1950s "myofascial trigger point". (TrP Part 1)
+
+Which type of trigger point is the most painful and usually located at the neuromuscular (innervation) point?
+* Central/primary
+- Satellite/secondary
+- Latent
+- Attachment
+E: Central/primary = most painful, at the innervation point ("knot"). Satellites form in the referral zone of a central TrP. (TrP Part 1)
+
+Satellite trigger points usually:
+* Do not respond until the primary trigger point is treated
+- Are treated before the primary
+- Never become active
+- Are found only in tendons
+E: Satellites form in response to a central TrP within its referral zone; treat the primary first. (TrP Part 1)
+
+A latent trigger point:
+* Feels like a TrP but is not painful and does not refer on palpation
+- Refers pain spontaneously
+- Is always the most painful point
+- Cannot become active
+E: Latent TrPs are not painful/referring but can become active after injury or if their primary activates. (TrP Part 1)
+
+Which classic theory explains trigger points through muscle spindles?
+* A sensitised spindle fires continuously and does not let the fibre lengthen, forming a spasm
+- Spindles calcify inside tendons
+- Spindles release lymph into the muscle
+- Golgi tendon organs tear
+E: Muscle-spindle theory: sensitised spindle (injury, overload, sustained contraction) → continuous firing → spasm/TrP. (TrP Part 2)
+
+Ziembicki (2023) proposed that trigger points are located at:
+* Nerve Entry Points along the course of a nerve
+- Musculotendinous junctions only
+- Lymph nodes
+- Joint capsules
+E: Myofascial TrPs connect to distinct points along a nerve (NEPs) – anatomical basis. (TrP Part 2)
+
+Quintner and Cohen's critique (1994) suggested referred pain in "trigger points" may come from:
+* Peripheral nerve irritation rather than an injury in muscle tissue
+- Bone marrow inflammation
+- Joint capsule tears
+- Fascial calcification
+E: They proposed peripheral neural irritation/inflammation or ischaemia; modern reviews use a multifactorial model. (TrP Part 1–2)
+
+Wolfe et al. (1992) found that:
+* Even leading experts cannot reliably locate trigger points
+- Trigger points are always harder on algometry
+- Dry needling is always superior
+- Trigger points never refer pain
+E: Experts could not accurately and reliably locate TrPs. Andersen 2010 found the "hard" spots were softer on algometry. (TrP Part 2)
+
+Sprenger et al. (2011) attribute pain reduction after painful treatments such as dry needling to:
+* Diffuse noxious inhibitory control plus expectation and placebo
+- Mechanical release of contracture only
+- Calcium removal from the muscle
+- Lymphatic drainage
+E: DNIC and non-specific psychological effects (expectation, placebo). (TrP Part 2)
+
+Which autonomic change is "pilomotor"?
+* Goosebumps or hair loss/gain
+- Sweaty, shiny skin
+- Circulatory changes
+- Pupil dilation
+E: Sudomotor = sweaty/shiny skin; vasomotor = circulation; pilomotor = hair loss/gain, goosebumps. (TrP Part 1)
+
+During manual pressure release, the patient's pain on the NRS should be no more than:
+* 5–6/10
+- 1–2/10
+- 8–9/10
+- 10/10
+E: Moderate pressure; pain no more than 5–6/10. (TrP Part 1)
+
+What is the maximum hold time for trigger-point pressure in the course method?
+* 10 seconds or until the pain eases
+- 2 minutes
+- 30 seconds minimum
+- 5 minutes
+E: Maintain pressure until pain eases, maximum 10 s, then rest and repeat about 3 times (2–4). (TrP Part 1)
+
+When should you stop trigger-point pressure?
+* If the pain increases
+- After exactly 4 repetitions regardless
+- When the patient breathes out
+- Never – continue until numbness
+E: "Stop if the pain increases!!!" (TrP short version)
+
+Which is listed as a PRECAUTION (not a contraindication) for trigger-point therapy?
+* Pregnancy
+- Malignancy
+- Open wound
+- Recent burn to the area
+E: Precautions: high pain, hypersensitivity, anxiety, acute healing, pregnancy, epilepsy, anticoagulants. Malignancy, open wounds and recent burns are contraindications. (TrP Part 1)
+
+Lew et al. (2021) meta-analysis compared dry needling with trigger-point manual therapy for neck/upper-back pain and found:
+* They were equal for VAS, PPT and NDI in the short to medium term
+- Dry needling was far superior
+- Manual therapy was harmful
+- Neither had any effect
+E: DN and TrP manual therapy were equal. (TrP Part 1 / study pack)
+
+Zhou et al. (2023) found that adding which component to clinical TrP treatment gave better pain, ROM and function?
+* Exercise
+- Ice
+- Rest
+- Injection
+E: Adding exercise improves outcomes more than a single treatment. (TrP Part 1)
+
+The most common sites for trigger-point injections listed in the slides include:
+* Masseter, levator scapulae, gluteus medius, QL, trapezius, SCM, temporalis
+- Biceps, triceps, deltoid
+- Hamstrings, gastrocnemius, soleus
+- Rectus abdominis, obliques, diaphragm
+E: Hammi et al. 2023 list. (TrP Part 2)
+
+The piriformis is called a "double devil" (Travell & Simons) because it:
+* Causes distress both by nerve entrapment and by projecting pain from trigger points
+- Has two heads
+- Refers pain to both arms
+- Is innervated by two nerves
+E: Quote in TrP Part 2; Lewis 2016 found the sciatic nerve passed beneath piriformis in 89% of limbs. (TrP Part 2)
+
+@ Mulligan concept
+The Mulligan concept was developed by:
+* Brian Mulligan, a New Zealand physiotherapist
+- Geoffrey Maitland, an Australian physiotherapist
+- Fred Mitchell Sr, an osteopath
+- Emil Vodder, a Danish therapist
+E: Brian Mulligan (NZ), influenced mainly by Kaltenborn; taught internationally from 1972. (Mulligan lecture)
+
+Mulligan's core idea is that pain is related to:
+* Positional faults of joints
+- Lymphatic congestion
+- Trigger points
+- Fascial adhesions
+E: Key idea: "positional faults". (Mulligan lecture)
+
+A Mobilisation With Movement combines:
+* A therapist-applied accessory glide with a patient-generated active movement
+- A passive physiological movement at end range
+- High-velocity thrust manipulation
+- Isometric contraction followed by stretch
+E: MWM = therapist joint mobilisation + patient active movement to achieve pain-free function. (Mulligan lecture)
+
+What does the PILL response stand for?
+* Pain-free, Instant, Long Lasting
+- Pressure, Isometric, Lengthen, Load
+- Passive, Intermittent, Light, Localised
+- Pain, Inflammation, Laxity, Limitation
+E: If there is no PILL response you do not use the technique. (Mulligan lecture)
+
+In the CROCKS rules, how many repetitions are suggested?
+* 3–10, depending on irritability and response
+- 1 only
+- 20–30
+- 50
+E: CROCKS: Contraindications, Repetitions (3–10), Overpressure, Communication, Knowledge, Sustain. (Mulligan lecture)
+
+What is a "comparable sign"?
+* A reproducible movement, position or activity that brings on the symptoms and can be retested after treatment
+- A sign on the opposite limb
+- The patient's pain score at rest only
+- An X-ray finding
+E: Also called asterisk sign(*). (Mulligan lecture)
+
+What does SNAG stand for?
+* Sustained Natural Apophyseal Glide
+- Simple Natural Accessory Glide
+- Spinal Neural Arm Glide
+- Static Neutral Assisted Glide
+E: NAGs = natural apophyseal glides; SNAGs = sustained; MWMs = mobilisation with movement; SMWAMs/SMWLMs = spinal with arm/leg movement. (Mulligan lecture)
+
+If an MWM is ineffective after a few repetitions (3–6), you should:
+* Stop, re-examine or abandon the technique
+- Increase force until it works
+- Add 20 more repetitions
+- Switch to manipulation immediately
+E: Practical safety tips. (Mulligan lecture)
+
+For lateral epicondylalgia, the Mulligan lateral glide is applied while the patient:
+* Grips a dynamometer or rolled towel
+- Extends the shoulder
+- Lies prone with the elbow straight and relaxed
+- Performs wrist circles
+E: Lateral glide of the proximal ulna while gripping; pain must reduce by ≥50%. (Mulligan lecture)
+
+For the elbow lateral glide to be used as treatment, pain must reduce by at least:
+* 50%
+- 10%
+- 25%
+- 100%
+E: Pain must reduce by at least 50%; it is both test and treatment. (Mulligan lecture)
+
+Mulligan's general rule for knee MWM glide direction is:
+* Lateral glide for lateral knee pain, medial glide for medial knee pain
+- Always lateral glide
+- Always medial glide
+- Opposite glide to the painful side
+E: Knee flexion with lateral/medial glide. (Mulligan lecture)
+
+Bisset et al. (2006) found that MWM plus exercise for tennis elbow was superior to:
+* Wait-and-see and corticosteroid injection
+- Surgery
+- Dry needling
+- Ultrasound therapy
+E: Bisset 2006 BMJ RCT. (Mulligan lecture)
+
+The Mulligan talocrural MWM for restricted dorsiflexion is performed:
+* In weight bearing (lunge) with a glide through the tibia/fibula
+- Prone with the knee flexed and no movement
+- Supine with the ankle in full plantarflexion
+- Sitting with the foot off the floor
+E: Patient in a weight-bearing lunge; glide applied as patient dorsiflexes. (Mulligan lecture)
+
+Mulligan contraindications are essentially the same as those for:
+* Maitland peripheral mobilisations
+- Cupping
+- Scar massage
+- MLD
+E: Fracture, malignancy, open wounds, acute injury/post-op; precautions: hypermobility, osteoporosis, irritable pain, poor comprehension. (Mulligan lecture)
+
+Evidence for MWMs is strongest for which conditions?
+* Lateral epicondylalgia, post-sprain dorsiflexion restriction, knee OA and shoulder pain
+- Low back pain and fibromyalgia
+- Lymphoedema and scars
+- Stroke and spinal cord injury
+E: Mostly short- to medium-term benefits. Pourahmadi 2018 found insufficient evidence for LBP. (Mulligan lecture)
+
+@ Muscle Energy Techniques
+Who developed Muscle Energy Technique, and when?
+* Fred Mitchell Sr, DO, in 1948
+- Brian Mulligan in 1972
+- Emil Vodder in 1936
+- Janet Travell in 1950
+E: MET is an osteopathic technique developed by Fred Mitchell Sr in 1948. (MET lecture)
+
+MET is defined as a direct manipulative procedure using:
+* A voluntary contraction of the patient's muscles against a distinctly controlled counterforce
+- A high-velocity thrust by the therapist
+- Passive stretching only
+- Suction cups on the skin
+E: Voluntary contraction against controlled counterforce from a precise position and in a specific direction. (MET lecture)
+
+Post-isometric relaxation (PIR) is based on:
+* Autogenic inhibition – contracting then stretching the same muscle
+- Reciprocal inhibition of the antagonist
+- Lymphatic pumping
+- Fascial unwinding
+E: PIR = contract-relax of the same muscle (autogenic inhibition). (MET lecture)
+
+In reciprocal inhibition MET, the patient contracts:
+* The opposing muscle, which relaxes the target muscle that is then stretched
+- The target muscle maximally
+- No muscle at all
+- Both muscles simultaneously at 100%
+E: Contracting a muscle forces its reciprocal (opposing) muscle to relax. (MET lecture)
+
+Which receptors are activated during an isometric contraction and produce autogenic inhibition?
+* Golgi tendon organs
+- Muscle spindles only
+- Pacinian corpuscles
+- Nociceptors
+E: GTOs respond to tension; 1b fibres stimulate inhibitory neurons. (MET lecture)
+
+In the course PIR protocol, how long does the therapist resist the isometric contraction?
+* 7–10 seconds
+- 1 second
+- 60 seconds
+- 3 minutes
+E: Counterforce 7–10 s, relax 3–5 s, take up slack to new barrier, repeat 2–4 times. (MET lecture)
+
+Which is a COMMON MET error highlighted in the slides?
+* The patient pushes too hard
+- The patient relaxes after contraction
+- The therapist re-engages a new barrier
+- The contraction is isometric
+E: Errors: too far into barrier, patient pushes too hard, contraction too short, too few reps, movement allowed, unstable support, poor positioning. (MET lecture)
+
+Which is a specific contraindication to MET?
+* Fracture or joint instability
+- Muscle tightness
+- Reduced ROM
+- Neck pain
+E: Fracture, dislocation/instability, patient unable to understand or uncooperative. (MET lecture)
+
+How does MET differ from static stretching?
+* MET uses an isometric contraction and is not usually performed at full end range
+- MET is always passive
+- MET holds the stretch at greatest length for 60 s with no contraction
+- They are identical
+E: Static stretching has no contraction and is held at greatest length (15–60 s). (MET lecture)
+
+The iliopsoas MET is performed in which test position?
+* Thomas test position
+- Prone knee bend
+- Slump test
+- Ober test
+E: Thomas test position; untreated leg fully flexed to stabilise lumbar spine. (MET lecture)
+
+In the Thomas test position, adding knee flexion localises the stretch to:
+* Rectus femoris
+- Pectineus
+- TFL
+- Psoas only
+E: Abduction → pectineus/short adductors; adduction → TFL; knee flexion → rectus femoris. (MET lecture)
+
+Why is MET often preferred over trigger-point therapy for subscapularis and iliopsoas?
+* They are difficult muscles to trigger-point
+- They have no trigger points
+- MET is painful
+- They cannot be stretched
+E: Both described as difficult muscles to apply TrP therapy to. (MET lecture)
+
+Research patterns for MET show that it:
+* Works better as an adjunct, mostly with short-term effects
+- Has strong long-term evidence as a standalone treatment
+- Is harmful in low back pain
+- Has never been studied in RCTs
+E: Adjunct use better; immediate/short-term benefits; heterogeneous, small studies. (MET lecture)
+
+Kang/Yang et al. (2023) meta-analysis concluded MET for hamstring flexibility is:
+* More effective than no treatment and somewhat better than simple stretching
+- Worse than no treatment
+- Identical to placebo
+- Only useful for the neck
+E: 19 studies; risk of bias noted. (MET lecture)
+
+@ Myofascial release
+Myofascial release involves:
+* Low-load, long-duration mechanical forces to the myofascial complex
+- High-velocity, low-amplitude thrusts
+- Very light skin stretching towards lymph nodes
+- Suction to the skin
+E: Barnes 1990: aims to restore optimum length, decrease pain and improve function. (MFR lecture)
+
+What is the primary cell type of fascia?
+* Fibroblasts
+- Osteoblasts
+- Neutrophils
+- Adipocytes
+E: Fibroblasts adapt to mechanical loading; MFR directs force to them. (MFR lecture)
+
+Superficial fascia (hypodermis) is found:
+* Between skin and muscles and contains adipose tissue
+- Between adjacent muscles
+- Inside bone
+- Only around organs
+E: Deep fascia is between adjacent muscles. (MFR lecture)
+
+"Anatomy trains" (Myers) propose that:
+* Tension in one part of a fascial line may decrease flexibility globally
+- Muscles work completely independently
+- Lymph flows along trains
+- Bones are connected by trains of ligaments only
+E: A schematic map of fascial connections. (MFR lecture)
+
+The SIN factor stands for:
+* Severity, Irritability, Nature
+- Strength, Integrity, Neural
+- Swelling, Inflammation, Necrosis
+- Sensation, Instability, Numbness
+E: Gained from the subjective assessment and used to guide treatment. (MFR lecture)
+
+To differentiate articular from myofascial neck limitation, the therapist lifts the patient's arms; if rotation increases, the source is:
+* Neuromyofascial
+- Articular
+- Visceral
+- Vascular
+E: Increase = neuromyofascial; no change = articular. (MFR lecture)
+
+How should myofascial release techniques generally be applied?
+* Very slowly, with broad contact, aiming to disrupt the fascial layers
+- Fast with oil and fingertips
+- Using suction cups
+- With high-velocity thrusts
+E: Don't always use oil; transverse or longitudinal; flat hands/knuckles; very slow. (MFR lecture)
+
+The "pin and stretch" technique means:
+* Fixing a specific point in a muscle while the patient moves that muscle
+- Pinning a joint while thrusting
+- Stretching without touching the muscle
+- Using needles in the muscle
+E: Tissues distal to the pin are affected (e.g. subscapularis with lateral rotation). (MFR lecture)
+
+Wiewelhove et al. (2019) meta-analysis suggested foam rolling is best justified as:
+* A warm-up activity rather than a recovery tool
+- A recovery tool rather than warm-up
+- A treatment for fractures
+- Harmful to performance
+E: Healey 2014: no effect on performance; Junker & Stoggl 2015: lengthens hamstrings. (MFR lecture)
+
+Kasahara et al. (2023) found that 30 s static stretching, unlike foam rolling:
+* Decreased isometric strength
+- Decreased ROM
+- Had no effect on ROM
+- Increased tissue hardness only
+E: FR recommended to increase ROM without decreasing MVC-ISO strength. (MFR lecture)
+
+Kidd (2009) argued MFR can never be evidence-based because:
+* It relies on the clinician–patient interaction and cannot be neutral
+- It is too new
+- It is illegal
+- It uses drugs
+E: Inter-rater reliability also low. (MFR lecture)
+
+When performing SCM myofascial release, the key safety warning is:
+* Don't crush the windpipe
+- Never touch the clavicle
+- Use maximal pressure
+- Perform only in prone
+E: Knuckles against anterior border of SCM while patient rotates away. (MFR lecture)
+
+@ Manual lymphatic drainage
+Lymph forms mainly because of:
+* The pressure difference between the interstitium and lymphatic capillaries (hydrostatic and oncotic)
+- Active pumping by the heart into lymph nodes
+- Bone marrow production
+- Kidney filtration
+E: Hydrostatic and oncotic pressures. (MLD lecture)
+
+Lymphangions pulsate at an average frequency of about:
+* 10 per minute
+- 60 per minute
+- 1 per hour
+- 100 per minute
+E: Valve segments acting like "lymph hearts". (MLD lecture)
+
+The right upper quadrant of the body drains via the:
+* Right lymphatic duct into the right venous angle
+- Thoracic duct into the left venous angle
+- Cisterna chyli
+- Inguinal nodes
+E: Below diaphragm and left upper quadrant → thoracic duct → left venous angle. (MLD lecture)
+
+Low-volume (mechanical) insufficiency of the lymphatic system results in:
+* Lymphoedema, because transport capacity falls below normal load
+- Oedema with normal transport capacity overloaded
+- No swelling
+- Immediate cell death only
+E: High-volume (dynamic): normal capacity overwhelmed. Low-volume (mechanical): reduced capacity → lymphoedema. Safety valve: both. (MLD lecture)
+
+Up to what proportion of breast cancer patients undergoing axillary node dissection and radiation develop lymphoedema?
+* 50%
+- 5%
+- 90%
+- 1%
+E: Shih et al. 2009 – up to 50%. (MLD lecture)
+
+Who refined MLD in 1936?
+* Vodder
+- Leduc
+- Földi
+- Casley-Smith
+E: First introduced by Taylor Still in the late 1800s, refined by Vodder in 1936. (MLD lecture)
+
+Which hand movements belong to the Vodder method?
+* Pump, scoop, rotary, stationary circle, thumb circle
+- Effleurage, petrissage, tapotement
+- Thrust and relaxation only
+- Pin and stretch
+E: Vodder strokes; Földi adds thrust/relaxation phases; Leduc uses call-up and reabsorption. (MLD lecture)
+
+MLD movements are characterised by:
+* Very low pressure with skin stretching, slow and repetitive, usually without oil
+- Deep pressure with oil
+- Fast tapping
+- Strong suction
+E: Slow, repetitive, soporific; aim to avoid increasing capillary filtration. (MLD lecture)
+
+The MLD sequence starts:
+* Proximally and centrally (often the neck), clearing nodes before distal areas
+- At the fingers or toes
+- Directly on the oedema
+- At the most painful area
+E: Proximal before distal; e.g. LL starts at inguinal nodes. (MLD lecture)
+
+In the Leduc sequence, the "call-up" manoeuvre:
+* Starts at the lymph nodes and progresses distally to stimulate lymph flow
+- Is applied directly over fibrosis to break it down
+- Is a deep pump at the heart
+- Is a stretch of the muscle
+E: Reabsorption manoeuvre is applied over the oedematous region. (MLD lecture)
+
+The course MLD sequence uses how many pumping manoeuvres on the ganglia?
+* 10
+- 1
+- 50
+- 3
+E: 10 pumping to ganglions, 5 call-up, 5 reabsorption, proximal to distal. (MLD lecture)
+
+Which is an ABSOLUTE contraindication to MLD?
+* Deep vein thrombosis
+- Menstruation
+- Bronchial asthma
+- First trimester of pregnancy
+E: Absolute: acute inflammation, malignant tumours, DVT, major heart problems. The others are relative. (MLD lecture)
+
+Which is a RELATIVE contraindication to MLD?
+* Thyroid problems
+- Malignant tumour
+- Acute inflammation
+- Major heart problems
+E: Relative: kidney problems, asthma, thyroid, medications, chemotherapy, 1st trimester, removed spleen, menstruation. (MLD lecture)
+
+Which is an indication for MLD?
+* Postoperative and post-traumatic oedema
+- Acute DVT
+- Untreated malignancy
+- Acute cellulitis
+E: Lymphoedemas, post-op/post-traumatic, cyclic oedemas, pre/post plastic surgery. (MLD lecture)
+
+@ Scars & burns
+Which scar rises above skin level AND projects beyond the original wound margins?
+* Keloid
+- Hypertrophic
+- Atrophic
+- Striae
+E: Hypertrophic stays within boundaries (4–8 weeks post-injury, rarely recurs); keloid extends beyond, can appear years later, often recurs. (Scars lecture)
+
+Hypertrophic scars occur in up to what proportion of burn injuries?
+* 91%
+- 10%
+- 40%
+- 5%
+E: 40–70% after surgery, up to 91% after burns. (Scars lecture)
+
+A 2nd degree burn is characterised by:
+* Blistered skin
+- Reddening only
+- Necrosis through the entire skin
+- No visible change
+E: 1st reddening; 2nd blistering; 3rd deep damage with full-thickness necrosis. (Scars lecture)
+
+A burn involving more than what percentage of body surface is considered serious (rule of nines)?
+* 15%
+- 1%
+- 50%
+- 90%
+E: Rule of nines slide. (Scars lecture)
+
+The correct order of wound healing stages is:
+* Haemostasis → inflammation → proliferation → maturation/remodelling
+- Inflammation → haemostasis → remodelling → proliferation
+- Proliferation → inflammation → haemostasis → maturation
+- Remodelling → proliferation → inflammation → haemostasis
+E: Van Onselen 2018. (Scars lecture)
+
+How long does the maturation/remodelling phase last?
+* 12–24 months
+- A few hours
+- 2 weeks
+- 2–6 weeks
+E: Haemostasis hours; inflammation first 2 weeks; proliferation 2–6 weeks; maturation 12–24 months. (Scars lecture)
+
+You should NEVER massage directly on:
+* A keloid
+- A healed hypertrophic scar
+- A mature surgical scar
+- Striae
+E: Contraindications: keloid, cutaneous fragility, open wounds, infection, severe pain/inflammation. (Scars lecture)
+
+Scar massage generally begins:
+* After suture removal/wound healing – in rehab generally 2 weeks post-healing
+- Immediately after surgery on the open wound
+- Only after 2 years
+- While scabs are present
+E: Scar must be fully closed with no scabbing; at least 10 min daily. (Scars lecture)
+
+If you plan friction or skin-rolling techniques on a scar, the lubricant should be applied:
+* Afterwards
+- Before, in large amounts
+- Never at all
+- Only on keloids
+E: Tip from the scar lecture. (Scars lecture)
+
+Which effect of scar/burn massage is supported by good evidence in burns patients?
+* Reduced pain, itch, anxiety and depression
+- Complete scar removal
+- Increased keloid formation
+- Bone healing
+E: Field 2000, Roh 2007; evidence for scar improvement remains inconsistent (Lin 2023). (Scars lecture)
+
+When a scar becomes inflamed during treatment you should:
+* Stop or decrease massage
+- Increase pressure
+- Add skin rolling
+- Apply heat cupping
+E: Considerations during treatment. Contractures/adhesions → more vigorous massage. (Scars lecture)
+
+@ Cupping
+The WHO (2007) defines cupping as:
+* A therapeutic method involving suction by creating a vacuum
+- Light skin stretching towards nodes
+- Isometric contraction against resistance
+- Sustained pressure on a trigger point
+E: Mehta & Dhapte 2015: subatmospheric pressure by heat or suction. (Cupping lecture)
+
+In TCM, "sha" refers to:
+* Reddish, elevated, millet-like skin rashes brought to the surface
+- A type of cup
+- The bladder meridian
+- A burn complication
+E: "Gua" means to scrape; gua sha and cupping bring sha to the surface. (Cupping lecture)
+
+Strong cupping should be left in place for a maximum of:
+* 3–5 minutes
+- 30 minutes
+- 1 hour
+- 10 seconds
+E: Not for weak, elderly or paediatric patients; always massage after; never on abdomen. (Cupping lecture)
+
+"Empty/flash" cupping means:
+* Strong cupping retained for less than 1 minute
+- Cups moved with oil
+- Cups over needles
+- Wet cupping with bleeding
+E: Used for drawing out a pathogen, e.g. start of a cold. (Cupping lecture)
+
+Which area should NEVER receive moving cupping?
+* The abdomen
+- The paraspinals
+- The ITB
+- The medial scapular border
+E: Medium cupping may be used on abdomen but never moving cupping. (Cupping lecture)
+
+How often is cupping usually effective for MSK disorders in the West?
+* Once a week (fortnightly if considerable marking)
+- Every day
+- Once a year
+- Three times a day
+E: Don't repeat until bruising has disappeared. (Cupping lecture)
+
+Which is an ABSOLUTE contraindication to cupping?
+* Anticoagulant use
+- Menstruation
+- Recent blood donation
+- Fragile skin
+E: Absolute: cancer, organ failure, pacemaker, haemophilia, anticoagulants. (Cupping lecture)
+
+Mohammed et al. (2023) systematic review found moderate evidence for cupping in:
+* Increasing soft-tissue flexibility
+- Curing cancer
+- Healing fractures
+- Treating DVT
+E: Low-moderate for LBP/neck pain; adverse events very low. (Cupping lecture)
+
+Which adverse event is listed as NON-preventable?
+* Koebner phenomenon
+- Burn
+- Scar formation
+- Abscess
+E: Aboushanab & AlSanad 2018 classification. (Cupping lecture)
+
+Cupping to the neck has been linked to which serious adverse effect?
+* Haemorrhagic stroke from an acute rise in blood pressure
+- Fracture
+- DVT in the leg
+- Kidney failure
+E: Chen et al. 2014. (Cupping lecture)

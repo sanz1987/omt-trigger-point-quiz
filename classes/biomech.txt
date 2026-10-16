@@ -1,0 +1,885 @@
+# Biomechanics — sources: Concepts of Biomechanics I & II (F. Anasetti), Clinical Gait Analysis, Measurement/Reliability, Posture & Balance, Knee, Hip, Lumbar, Cervical, Evaluation Systems lectures
+@ Kinematics basics
+Kinematics is the branch of mechanics that:
+* Describes how a body moves without considering the forces causing the motion
+- Studies the forces that cause or resist motion
+- Studies only muscles
+- Measures balance only
+E: Kinetics explains why a body moves (forces); kinematics describes how. (Concepts I)
+
+A biomechanical model represents the body as:
+* Rigid bodies linked by joints, moving in 3D space under internal and external forces
+- A single point mass with no joints
+- A fluid system
+- A set of springs only
+E: Concepts I, biomechanical model slide.
+
+In the course's orthogonal reference system, the z-axis represents:
+* The up–down (vertical) direction
+- Forward–backward
+- Side-to-side
+- Rotation only
+E: x = forward–backward, y = side-to-side, z = vertical. (Concepts I)
+
+Which is a SCALAR quantity?
+* Distance travelled
+- Displacement
+- Velocity
+- Weight
+E: A scalar has only magnitude. Displacement, velocity and weight are vectors (magnitude, direction, point of application). (Concepts I)
+
+You fly Barcelona→Rome (850 km) and back. Your displacement is:
+* 0 km
+- 1700 km
+- 850 km
+- 425 km
+E: Displacement is a vector: +850 + (−850) = 0; distance (scalar) is 1700 km. (Concepts I)
+
+A 70 kg person on the Moon (g = 1.62 m/s²) has:
+* The same mass (70 kg) but a weight of about 113 N
+- A mass of 11.3 kg
+- The same weight as on Earth (686 N)
+- No weight at all
+E: Mass does not change with location; W = m·g. (Concepts I)
+
+The SI unit of torque is:
+* Newton metre (N·m)
+- Joule
+- Pascal
+- Watt
+E: Pressure Pa (N/m²), work J, power W (J/s), torque N·m. (Concepts I)
+
+In quiet standing, the body's centre of mass lies approximately:
+* At pelvis level, in front of L4–L5
+- At the level of the sternum
+- At the knees
+- Behind the sacrum outside the body
+E: Concepts I. (The posture lecture describes it as approximately at the 2nd sacral segment.)
+
+When the arms are raised overhead, the CoM:
+* Moves upward
+- Moves downward
+- Does not change
+- Moves backward only
+E: CoM depends on mass distribution and posture. (Concepts I)
+
+The Base of Support is:
+* The area within the perimeter of all contact points with the supporting surface
+- The point of application of the GRF
+- The CoM projection
+- The area of one heel
+E: The CoP can only move within the BoS. (Concepts I)
+
+Balance (vs stability) is defined as:
+* The ability to keep the CoM within the BoS, statically or while moving
+- The ability to return to the original position after a perturbation
+- Joint stiffness
+- Muscle strength
+E: Stability = returning to original position after a perturbation without losing balance. (Concepts I)
+
+A cane or a wider stance improves balance mainly by:
+* Increasing the base of support
+- Raising the CoM
+- Reducing body mass
+- Increasing inertia
+E: Concepts I – strategies to reduce fall risk.
+
+Flexion–extension occurs around which axis and in which plane?
+* Frontal (Y) axis, sagittal plane
+- Sagittal (X) axis, frontal plane
+- Vertical (Z) axis, transverse plane
+- Vertical axis, sagittal plane
+E: Ab/adduction: sagittal axis, frontal plane; rotations: vertical axis, transverse plane. (Concepts I)
+
+The sagittal plane divides the body into:
+* Left and right
+- Front and back
+- Top and bottom
+- Proximal and distal
+E: Frontal = anterior/posterior; transverse = superior/inferior. (Concepts I)
+
+When measuring knee flexion with a goniometer, the fulcrum is placed on:
+* The lateral epicondyle of the femur
+- The patella
+- The greater trochanter
+- The medial malleolus
+E: Stationary arm with thigh (towards greater trochanter), moving arm with fibula/lateral malleolus. (Concepts I; Knee)
+
+How many degrees of freedom define a rigid segment's position in 3D space?
+* 6 (3 translations + 3 rotations)
+- 3
+- 2
+- 12
+E: Concepts I – DoF slide.
+
+According to the course DoF table, the wrist (radiocarpal + midcarpal) is modelled as:
+* A universal (ellipsoid) joint with 2 rotational DoF
+- A hinge with 1 DoF
+- A ball-and-socket with 3 DoF
+- A pivot with 1 DoF
+E: Elbow hinge 1, radio-ulnar pivot 1, hip/shoulder spherical 3, ankle hinge 1, subtalar pivot 1. (Concepts I)
+
+Optical motion capture reconstructs 3D marker position by stereo-triangulation, requiring:
+* At least two cameras to see each marker simultaneously
+- One camera only
+- Markers inside the bone
+- A force plate under the subject
+E: More cameras → more redundancy → higher accuracy. (Concepts I)
+
+Typical MoCap camera sampling rates quoted are:
+* 100–250 Hz
+- 1–5 Hz
+- 10 kHz
+- 0.5 Hz
+E: Concepts I – motion capture system.
+
+@ Gait kinematics & parameters
+The gait cycle is defined as:
+* The events between two successive initial contacts of the same foot
+- One step from right to left foot
+- The stance phase only
+- Time from heel-off to toe-off
+E: Concepts I / Gait analysis.
+
+In normal adult walking (~1.2 m/s), the stance period is about:
+* 60% of the cycle
+- 40%
+- 80%
+- 50%
+E: Stance ≈60%, swing ≈40%, each double support ≈10%. (Concepts I)
+
+Which phase starts at about 60% of the gait cycle?
+* Initial swing
+- Mid stance
+- Loading response
+- Terminal stance
+E: LR 0–10, MSt 10–30, TSt 30–50, PSw 50–60, ISw 60–73, MSw 73–87, TSw 87–100. (Concepts I)
+
+Stride length equals:
+* Two step lengths – distance between successive contacts of the same foot
+- One step length
+- The step width
+- Cadence × time
+E: Concepts I – spatial parameters.
+
+Walking speed equals:
+* Cadence × stride length
+- Step width × cadence
+- Stride time ÷ step length
+- Height × cadence
+E: A child next to an adult must raise cadence due to shorter stride. (Concepts I)
+
+A normalised walking speed of 50–100% of height corresponds to:
+* Normal (efficient) walking speed
+- Weight transfers only
+- Slow speed
+- Running
+E: <30% weight transfers, 30–50% slow, 50–100% normal, >100% running. (Concepts I)
+
+Why is temporal normalisation (0–100%) used in movement analysis?
+* To reduce inter- and intra-subject variability so trials can be compared
+- To increase the sampling rate
+- To remove the swing phase
+- To calculate mass
+E: Concepts I.
+
+An increased hip flexion angle in gait could be due to:
+* Increased femoral flexion OR increased anterior pelvic tilt
+- Only increased femoral flexion
+- Ankle plantarflexion
+- Knee hyperextension
+E: Joint angles are relative, not absolute. (Concepts I)
+
+During walking, pelvic "obliquity" describes rotation around which axis?
+* X axis (hike or drop)
+- Y axis (anteversion/retroversion)
+- Z axis (rotation)
+- No axis – it is a translation
+E: Tilt around Y; obliquity around X; rotation around Z. (Concepts I)
+
+@ Kinetics, levers & energy
+Moment of inertia (I = m·r²) means that:
+* Mass farther from the axis makes a segment harder to rotate
+- Mass distribution is irrelevant
+- Only mass matters
+- Heavier objects rotate more easily
+E: Bending the knee during swing reduces I so the leg moves faster. (Concepts II)
+
+Newton's 2nd law for rotation states:
+* T = I·α
+- F = m·v
+- P = m·v
+- W = m·g
+E: Linear F = m·a; rotational torque = moment of inertia × angular acceleration. (Concepts II)
+
+A 10 N force on a 0.62 kg basketball produces about 16 m/s². A billiard ball of one quarter the mass would receive:
+* Four times greater acceleration
+- The same acceleration
+- One quarter the acceleration
+- Twice the acceleration
+E: a = F/m. (Concepts II)
+
+Torque is zero when:
+* The line of action of the force passes through the axis of rotation
+- The force is very large
+- The moment arm is maximal
+- The joint is at 90°
+E: T = d × F; d = 0. (Concepts II)
+
+Holding a 50 N load, elbow torque at 90° is 15 N·m (d = 0.30 m). At 30° (d = 0.08 m) it is:
+* 4 N·m
+- 15 N·m
+- 50 N·m
+- 0 N·m
+E: Moment arm changes during movement. (Concepts II)
+
+Which is an EXTERNAL force?
+* Ground reaction force
+- Muscle force
+- Ligament force
+- Joint reaction force
+E: Internal: muscle, ligament, joint reaction. External: gravity, GRF, external load, wind, friction. (Concepts II)
+
+In a first-class lever:
+* The fulcrum lies between effort and resistance
+- The resistance lies between fulcrum and effort
+- The effort lies between fulcrum and resistance
+- There is no fulcrum
+E: Course example: supraspinatus/upper limb. (Concepts II)
+
+The course example of a second-class lever (effort arm > resistance arm) is:
+* Tibialis anterior lifting the foot
+- Biceps flexing the elbow
+- Supraspinatus abducting the arm
+- A seesaw
+E: Concepts II. (Wheelbarrow is the everyday example.)
+
+The biceps flexing the elbow is a:
+* Third-class lever with mechanical disadvantage
+- First-class lever with advantage
+- Second-class lever
+- Not a lever
+E: Effort between fulcrum and resistance; MA < 1 but more speed and ROM. (Concepts II)
+
+Mechanical advantage is the ratio:
+* Resistance / Effort (= effort arm / resistance arm)
+- Effort / Resistance
+- Mass / acceleration
+- Torque / time
+E: MA > 1 = advantage. (Concepts II)
+
+The patella improves knee extension by:
+* Increasing the quadriceps lever arm, reducing the mechanical disadvantage
+- Reducing the quadriceps moment arm
+- Absorbing all compressive force
+- Converting it to a first-class lever
+E: Example MA 0.1 → 0.3. (Concepts II; Knee lecture: patella increases quadriceps moment arm.)
+
+Leaning the trunk forward when climbing a step:
+* Reduces the resistance moment arm and the quadriceps force needed
+- Increases quadriceps force needed
+- Makes no difference
+- Converts the movement to isometric
+E: Example: required quadriceps force drops from >658 N to >278 N. (Concepts II)
+
+Momentum is:
+* Mass × velocity (vector)
+- Mass × acceleration
+- Force × distance
+- ½ m v²
+E: Angular momentum L = I·ω. (Concepts II)
+
+Impulse equals:
+* Force applied over time = change in momentum
+- Force × distance
+- Mass × height
+- Power × time²
+E: J = ∫F·dt = ΔP. (Concepts II)
+
+Mechanical work is:
+* Force × distance – a scalar
+- Force × velocity – a vector
+- Mass × acceleration
+- Torque / time
+E: Work is positive if force and displacement in same direction. (Concepts II)
+
+Negative muscular work corresponds to:
+* Eccentric contraction – absorbing energy and decelerating the segment
+- Concentric contraction
+- Isometric contraction
+- Muscle relaxation
+E: Concepts II.
+
+In an isometric contraction:
+* Work and power are zero even if force is high
+- Power is maximal
+- Work is maximal
+- Velocity is maximal
+E: No displacement → no work or power. (Concepts II)
+
+Isokinetic testing at low speeds (e.g. 60°/s) mainly assesses:
+* Strength (maximal torque)
+- Power at high speed
+- Balance
+- Flexibility
+E: Higher velocities (e.g. 180°/s) assess power. (Concepts II)
+
+With ageing, muscle power is reported to decrease:
+* Proportionally more than muscle strength
+- Less than strength
+- Not at all
+- Only in women
+E: Sit-to-stand example: 300 W young vs 60 W older. (Concepts II)
+
+In walking, potential and kinetic energy are:
+* Out of phase – an inverted-pendulum exchange
+- In phase
+- Both constant
+- Both zero
+E: In running they are in phase; efficiency relies on elastic energy storage. (Concepts II)
+
+The CoM is at its highest point, with maximal potential energy, during:
+* Mid-stance of walking
+- Double support of walking
+- Initial contact of walking
+- Mid-stance of running
+E: In running, CoM is lowest in mid-stance. (Concepts II)
+
+@ GRF & gait kinetics
+In quiet standing, the GRF is:
+* Equal in magnitude and opposite to body weight, collinear with it
+- Zero
+- Twice body weight
+- Horizontal
+E: Concepts II.
+
+If the CoM accelerates downward when landing, vertical GRF:
+* Increases above body weight
+- Decreases below body weight
+- Equals body weight
+- Becomes zero
+E: GRF increases with negative (downward) acceleration and decreases with upward acceleration.
+
+The anterior–posterior GRF component represents:
+* Braking (negative) and propulsion (positive) forces
+- Weight support
+- Side-to-side weight shift
+- Muscle activation
+E: Vertical = support; ML = weight shifts. (Concepts II)
+
+For walking velocity to remain constant:
+* The braking impulse must equal the propulsive impulse
+- Braking must exceed propulsion
+- There must be no braking
+- Vertical GRF must be zero
+E: Conservation of AP momentum. (Concepts II)
+
+At initial contact the ankle dorsiflexors work:
+* Eccentrically to prevent the foot from dropping (power absorption)
+- Concentrically for propulsion
+- Not at all
+- Isometrically only
+E: Concepts II – ankle power.
+
+The main positive ankle power peak in gait comes from:
+* Rapid concentric plantar-flexor contraction at push-off
+- Eccentric dorsiflexors at initial contact
+- Eccentric plantar-flexors in mid-stance
+- Hip flexors in swing
+E: Concepts II.
+
+If torque is normal but ankle power is reduced, a likely cause is:
+* Very slow gait (low angular velocity)
+- Excess speed
+- Increased stride length
+- High cadence
+E: Power = torque × angular velocity. (Concepts II)
+
+A force platform records:
+* The three GRF components and the CoP coordinates
+- Joint angles directly
+- Muscle EMG
+- Heart rate
+E: Concepts II.
+
+@ Clinical gait analysis
+Clinical gait analysis is defined as:
+* Recording and interpreting biomechanical measurements of walking to support clinical decisions
+- A definitive diagnostic test
+- Observational assessment with no instruments
+- Imaging of joints
+E: Baker et al. It can help differential diagnosis but is not the definitive diagnostic tool. (Gait analysis)
+
+Compared with conventional physical examination, gait analysis is:
+* More repeatable
+- Less repeatable
+- Purely subjective
+- Unrelated to function
+E: Gait analysis lecture.
+
+Basic gait lab equipment includes:
+* 3D optoelectronic system, force platforms and surface EMG
+- X-ray, MRI and CT
+- Goniometer only
+- Treadmill only
+E: Gait analysis lecture.
+
+In the SIAMOC model, who performs the test and manages the patient?
+* The physiotherapist
+- The bioengineer
+- The medical specialist
+- The orthopaedic technician
+E: Physician: exam and clinical interpretation; bioengineer: biomechanical interpretation and equipment. (Gait analysis)
+
+Gait analysis is Class I, Level B evidence for influencing:
+* Functional surgery planning in infantile cerebral palsy
+- Lower-leg amputation research
+- Diabetic foot screening
+- Stroke diagnosis
+E: Acquired brain injury Class I Level C; amputation Class II Level C. (Gait analysis)
+
+The Ely test assesses tightness of:
+* Rectus femoris
+- Iliopsoas
+- Hamstrings
+- TFL
+E: Thomas = iliopsoas; popliteal angle = hamstrings; Ober = TFL/ITB. (Gait analysis; Knee)
+
+MMT grade 3 means:
+* Movement against gravity but not resistance
+- Visible contraction, no movement
+- Movement with gravity eliminated
+- Normal strength
+E: Gait analysis lecture.
+
+A cavus foot is characterised by:
+* Increased arch, rigid foot and reduced pronation/shock absorption
+- Flat arch with excessive pronation
+- Normal flexibility
+- Excessive midfoot collapse
+E: Gait analysis – footprint slide.
+
+The first vertical GRF peak in stance corresponds to:
+* The downward drop of the CoM after foot loading
+- Push-off
+- Swing
+- Mid-swing
+E: GRF peaks: 1 posterior (shock absorption), 2 first vertical (downward drop), 3 upward CoM, 4 zero AP, 5 second vertical, 6 anterior (push-off). (Gait analysis)
+
+During shock absorption, which muscles work eccentrically?
+* Gluteus medius/TFL, quadriceps and tibialis anterior
+- Iliopsoas and rectus femoris
+- Triceps surae concentrically
+- None
+E: Gait analysis GRF1.
+
+Iliopsoas tightness in gait mainly limits:
+* Hip extension in terminal stance
+- Knee flexion in swing
+- Ankle dorsiflexion at contact
+- Hip abduction
+E: Rectus femoris tightness limits knee flexion in swing. (Gait analysis)
+
+Spasticity is defined as:
+* A velocity-dependent increase in muscle resistance to passive stretch
+- Rhythmic involuntary contractions at 5–7 Hz
+- Loss of muscle mass
+- Fixed shortening of a muscle
+E: Clonus is rhythmic involuntary contraction at 5–7 Hz. (Gait analysis)
+
+The "double bump" in swing with gastrocnemius spasticity is:
+* A spastic plantarflexion reaction when attempting active dorsiflexion
+- A normal knee pattern
+- Hip hiking
+- Pelvic retroversion
+E: Gait analysis.
+
+The pendulum test assesses spasticity of:
+* Rectus femoris
+- Gastrocnemius
+- Biceps brachii
+- Tibialis anterior
+E: Free swinging of the relaxed lower limb. (Gait analysis)
+
+In the crouch-gait case, the main cause identified was:
+* Severe bilateral hamstring shortening/contracture
+- Quadriceps hypertrophy
+- Rectus femoris weakness alone
+- Ankle fusion
+E: Main indication: hamstring and iliopsoas stretches; no BT-A in triceps surae because of weakness. (Gait analysis)
+
+@ Measurement & reliability
+Reliability is:
+* The degree to which a measure is consistent and free of error
+- Measuring what is intended
+- Detecting change over time
+- Assigning clinical meaning to a score
+E: Validity = measuring what is intended; responsiveness = detecting change. (Reliability)
+
+Which statement is TRUE?
+* A measurement can be reliable without being valid, but not valid without being reliable
+- Validity does not need reliability
+- Reliability and validity are identical
+- A valid test is never reliable
+E: Reliability lecture.
+
+Systematic error (e.g. calibration error) mainly affects:
+* Validity, not reliability
+- Reliability only
+- Neither
+- Only random error
+E: Random error is the main subject of reliability studies. (Reliability)
+
+A reliability coefficient above 0.75 is considered:
+* Good
+- Poor
+- Fair
+- Invalid
+E: <0.5 poor, 0.5–0.75 fair, >0.75 good; >0.9 recommended for diagnostic parameters. (Reliability)
+
+Correlation differs from agreement because correlation measures:
+* Association, while agreement measures identity between measurements
+- Identity
+- Error only
+- Validity
+E: Reliability lecture.
+
+Which coefficient is used for internal consistency of scales?
+* Cronbach's alpha
+- Kappa
+- SEM
+- Pearson
+E: Kappa for categorical test-retest; ICC for relative reliability. (Reliability)
+
+Bland–Altman limits of agreement are calculated as:
+* Mean difference ± 2 SD of the differences
+- Mean ± 1 SD of the averages
+- ICC × 2
+- Sensitivity ÷ specificity
+E: Goniometer vs inclinometer example. (Reliability)
+
+A test with high SENSITIVITY is best used to:
+* Rule OUT a condition when negative
+- Rule IN a condition when positive
+- Measure validity
+- Calculate effect size
+E: Specificity: positive rules in. (Reliability)
+
+In the Functional Reach test example in Parkinson's (9 TP, 21 FN, 12 TN, 1 FP), sensitivity was:
+* 30%
+- 92%
+- 50%
+- 70%
+E: 9/(9+21) = 30%; specificity 12/13 = 92%. (Reliability)
+
+The MDD formula is:
+* z × SEM × √2
+- SD × ICC
+- Mean pre − mean post
+- 2 × SD
+E: Example 6MWT: MDD90 ≈ 61 m, MDD95 ≈ 73 m. (Reliability)
+
+Using Cohen's criteria, an effect size of 0.6 is:
+* Large
+- Small
+- Moderate
+- Negligible
+E: ≤0.2 small, 0.2–0.5 moderate, >0.5 large. (Reliability)
+
+@ Posture & balance
+In normal standing, which muscle is constantly active?
+* Iliopsoas
+- Gluteus maximus
+- Abdominal muscles
+- Foot intrinsic muscles
+E: Soleus and erector spinae also active; gluteus maximus and abdominals quiescent. (Posture)
+
+What proportion of body weight is over the heels in normal standing?
+* 45–65%
+- 1–8%
+- 30–47%
+- 90%
+E: Forefoot 30–47%, midfoot 1–8%. (Posture)
+
+In the lateral postural view, the plumb line should:
+* Bisect the acromion and pass slightly anterior to the lateral malleolus
+- Pass behind the heel
+- Pass through the patella
+- Pass through the umbilicus
+E: Posture lecture.
+
+Lower crossed syndrome features tight:
+* Thoracolumbar extensors, iliopsoas and rectus femoris
+- Deep abdominals and glutei
+- Deep neck flexors
+- Hamstrings only
+E: Weak deep abdominals and gluteus maximus/medius. (Posture; Lumbar)
+
+Upper crossed syndrome features WEAK:
+* Deep cervical flexors, middle/lower trapezius (and rhomboids)
+- Upper trapezius and levator scapulae
+- Pectoralis major and minor
+- Suboccipitals
+E: Posture; Cervical (Janda 1988).
+
+Which test assesses static motor balance?
+* Romberg test
+- Fukuda stepping test
+- Finger-nose test
+- Barany test
+E: Posture lecture.
+
+The Romberg coefficient in posturography compares:
+* Sway area with eyes open vs eyes closed
+- Left vs right leg strength
+- Static vs dynamic platform tilt
+- Low vs high frequency only
+E: OE SSKG / CE SSKG. (Posture)
+
+In spectral analysis of sway, the high-frequency zone (2–20 Hz) reflects:
+* Proprioceptive (stretch reflex) participation
+- Vestibulo-visual control
+- Vestibular-somatosensory control
+- Cognitive control
+E: Zone 1 0–0.5 Hz, zone 2 0.5–2 Hz. (Posture)
+
+@ Knee & hip
+The screw-home mechanism refers to:
+* Obligatory lateral tibial rotation in the last 5–10° of knee extension
+- Medial rotation at 90° flexion
+- Patellar dislocation
+- Hip internal rotation
+E: Due to larger medial condyle; very stable position. (Knee)
+
+The knee's loose-packed position is:
+* 25–30° of flexion
+- Full extension with tibial lateral rotation
+- 90° flexion
+- Full flexion
+E: Close-packed: full extension + lateral tibial rotation. (Knee)
+
+The knee capsular pattern is:
+* Flexion more limited than extension
+- Extension more limited than flexion
+- Rotation only limited
+- Equal limitation in all directions
+E: Knee lecture.
+
+Which meniscus statement is from the course?
+* The lateral (O-shaped) meniscus takes about 70% of lateral compartment load
+- The medial meniscus is O-shaped
+- Menisci carry no load
+- The lateral meniscus takes 10% of load
+E: Medial is C-shaped and takes about 50% of medial compartment load. (Knee)
+
+The normal Q angle is:
+* 10–15°, higher in women
+- 0–5°
+- 25–30°
+- 45°
+E: A larger Q angle creates a larger lateral vector on the patella. (Knee)
+
+Patellofemoral joint reaction force during a squat is about:
+* 7.8 × body weight
+- 1.3 × BW
+- 3.3 × BW
+- 0.5 × BW
+E: Walking 1.3 BW, stairs 3.3 BW, squat 7.8 BW. (Knee)
+
+The Shelbourne criterion for starting sport-specific training after ACL reconstruction is an extensor deficit below:
+* 15%
+- 50%
+- 25%
+- 40%
+E: <25% for agility drills, <15% for sport-specific training. (Knee)
+
+Which H:Q ratio is the only one affected in the ACL-deficient knee (Dvir)?
+* Hamstring eccentric / quadriceps concentric
+- Hamstring concentric / quadriceps concentric
+- Quadriceps eccentric / hamstring eccentric
+- None
+E: Aagaard's functional H:Q ratio. (Knee)
+
+The normal adult femoral angle of inclination is:
+* About 125°
+- 150°
+- 90°
+- 170°
+E: 150° infants, 125° adults, 120° elderly; coxa valga >135°, coxa vara <120°. (Hip)
+
+Excessive femoral anteversion (>12°) is typically compensated by:
+* Toeing-in (internal rotation)
+- Toeing-out
+- Knee hyperextension
+- Pes cavus
+E: Normal 8–12°. Retroversion → toe-out. (Hip)
+
+The hip close-packed position is:
+* 20° extension with slight internal rotation and abduction
+- 30° flexion, 30° abduction, slight ER
+- 90° flexion only
+- Full adduction
+E: Loose-packed 30° flex/30° abd/slight ER. (Hip)
+
+The hip capsular pattern is:
+* Equal limitation of flexion, abduction and internal rotation, little/no loss in ER
+- External rotation most limited
+- Extension only
+- Adduction only
+E: Hip lecture.
+
+During single-leg weight bearing, the hip abductors must produce a force of about:
+* Twice body weight
+- 10% of body weight
+- Equal to body weight
+- 10 × body weight
+E: Hip lecture.
+
+Weak hip abductors are associated with:
+* Medial lower-extremity collapse (dynamic valgus) and patellofemoral pain
+- Pes cavus
+- Ankle sprains only
+- Neck pain
+E: Also correlated with low back pain. (Hip)
+
+The acetabulum is formed mainly by:
+* Ilium and ischium (80%) with pubis (20%)
+- Pubis only
+- Sacrum and coccyx
+- Femur
+E: Hip lecture.
+
+@ Spine
+Low back pain lifetime prevalence quoted in the lumbar lecture is:
+* 85–90%
+- 10%
+- 30%
+- 50%
+E: Lumbar lecture.
+
+Which ligament is about 80% elastin and resists flexion?
+* Ligamentum flavum
+- Anterior longitudinal ligament
+- Iliolumbar ligament
+- Sacrotuberous ligament
+E: ALL resists over-extension. (Lumbar)
+
+The lumbar capsular pattern is:
+* Marked equal restriction of side bending, then flexion and extension
+- Rotation only
+- Extension only
+- Flexion only
+E: Lumbar lecture.
+
+Sacral nutation means:
+* The sacral base moves anteriorly while the inferior part moves posteriorly
+- The sacral base moves posteriorly
+- Pure lateral translation
+- Pubic symphysis separation
+E: Counternutation is the reverse, resisted by the long dorsal ligament. (Lumbar)
+
+The posterior oblique subsystem consists of:
+* Contralateral gluteus maximus and latissimus dorsi with the thoracolumbar fascia
+- Ipsilateral biceps femoris and erector spinae
+- Rectus abdominis and obliques
+- Diaphragm and pelvic floor
+E: Deep longitudinal subsystem: erector spinae, TLF, sacrotuberous ligament, biceps femoris. (Lumbar)
+
+The flexion–relaxation phenomenon is:
+* Reduced lumbar erector spinae activity in maximal trunk flexion
+- Increased activity in full flexion
+- Hamstring spasm
+- Abdominal relaxation in extension
+E: Often delayed or absent in LBP. (Lumbar)
+
+In professional golfers, which side-bridge R/L difference cut-off predicted LBP?
+* 12.5 seconds
+- 1 second
+- 60 seconds
+- 30 seconds
+E: Sensitivity 100%, specificity 63%. (Lumbar)
+
+The atlanto-axial joint is responsible for approximately:
+* The first 45° (about 50%) of cervical rotation
+- All cervical flexion
+- Side bending only
+- 5° of rotation
+E: Cervical lecture.
+
+In the lower cervical spine, side bending and rotation occur:
+* To the same side
+- To opposite sides
+- Never together
+- Only in flexion
+E: Cervical lecture.
+
+The general cervical capsular pattern is:
+* Side bending and rotation equally limited; extension more limited than flexion
+- Flexion most limited
+- Rotation only
+- No pattern
+E: Cervical lecture.
+
+The SCM produces:
+* Ipsilateral side bending and contralateral rotation
+- Ipsilateral rotation only
+- Extension only
+- Bilateral rotation
+E: Cervical lecture.
+
+Normal deep neck flexor endurance values quoted are about:
+* 39 s in men and 29 s in women
+- 5 s in both
+- 120 s in men
+- 2 minutes
+E: Domenech et al. 2011. (Cervical)
+
+Which spinal nerve relation is specific to the cervical spine?
+* Each nerve exits above its vertebra (C8 below C7)
+- Each nerve exits below its vertebra
+- No nerves exit
+- Nerves exit through the vertebral body
+E: In the lumbar spine nerves exit below the corresponding vertebra. (Cervical; Lumbar)
+
+@ Evaluation systems
+Isokinetic dynamometry is considered:
+* The gold-standard dynamic strength test, with good reliability
+- Unreliable
+- A balance test
+- A purely qualitative assessment
+E: Evaluation systems lecture.
+
+An isokinetic peak-torque deficit is considered relevant when it is:
+* Greater than 20%
+- Greater than 1%
+- Less than 5%
+- Exactly 50%
+E: Deficit = (1 − PT involved / PT uninvolved) × 100. (Evaluation systems)
+
+Isokinetic reliability is generally HIGHER at which joints?
+* Knee and ankle
+- Wrist, trunk and neck
+- Shoulder and elbow
+- Hip only
+E: Caruso et al. 2012. (Evaluation systems)
+
+The manual muscle test is described as:
+* Of low reliability, non-linear and not useful in upper motor neuron disease
+- The gold standard for strength
+- More reliable than hand-held dynamometry
+- Used to measure power
+E: Hand-held dynamometers are reliable. (Evaluation systems)
+
+A limitation of 2D video gait analysis is:
+* It gives no information about kinetics and can hide movements
+- It is unreliable
+- It needs force plates
+- It requires markers in bone
+E: Evaluation systems.
+
+Inverse dynamics combines kinematic data with force-plate data to calculate:
+* Joint moments and powers
+- EMG amplitude
+- Bone density
+- Heart rate
+E: Positive power = concentric; negative = eccentric/absorption. (Evaluation systems)
