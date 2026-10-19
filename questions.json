@@ -11861,5 +11861,1143 @@
    "license": "Public domain",
    "author": "Henry Vandyke Carter"
   }
- }
+ },
+ "mocks": [
+  {
+   "id": "patho1-mock1",
+   "classId": "patho1",
+   "title": "Mock Midterm 1",
+   "desc": "Lessons 1-5 only · 40 questions · 5 options · +0.25 correct / -0.05 wrong / blank 0 · 90 min",
+   "questions": [
+    {
+     "id": "patho1-mock1-a8f9361c",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "Which variable is NOT normally described as tightly regulated by homeostasis?",
+     "options": [
+      "Hair growth rate",
+      "Core body temperature",
+      "Blood pH",
+      "Blood glucose concentration",
+      "Body water and mineral balance"
+     ],
+     "answer": 0,
+     "explanation": "Temperature, pH, glucose and water/mineral balance are regulated variables; hair growth is not presented as a homeostatically regulated variable. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock1-85b751fb",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "A student is exposed to an infectious agent on Monday but has no signs or symptoms until the following week. The symptom-free interval is the:",
+     "options": [
+      "Incubation (latent) period",
+      "Prodromal period",
+      "Acute period",
+      "Convalescent period",
+      "Chronic period"
+     ],
+     "answer": 0,
+     "explanation": "Incubation/latency runs from exposure to the first signs and symptoms. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock1-af0dc762",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "Which presentation best fits the prodromal period?",
+     "options": [
+      "Headache, malaise and slight fever before specific features appear",
+      "Complete recovery with no symptoms",
+      "The moment of first exposure to the cause",
+      "Severe organ-specific failure lasting years",
+      "A normal karyotype result"
+     ],
+     "answer": 0,
+     "explanation": "Prodromal features are early and often nonspecific, marking the onset of disease. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock1-23271986",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "Which sequence gives a typical clinical course in the correct order?",
+     "options": [
+      "Incubation -> prodromal -> acute -> convalescence",
+      "Acute -> incubation -> prodromal -> convalescence",
+      "Prodromal -> incubation -> convalescence -> acute",
+      "Convalescence -> acute -> incubation -> prodromal",
+      "Incubation -> convalescence -> prodromal -> acute"
+     ],
+     "answer": 0,
+     "explanation": "Exposure is followed by early nonspecific features, the main illness, then recovery/convalescence. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock1-d3978735",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "A disorder develops gradually and persists for months to years. This course is best classified as:",
+     "options": [
+      "Chronic",
+      "Acute",
+      "Prodromal",
+      "Incubation",
+      "Convalescent"
+     ],
+     "answer": 0,
+     "explanation": "Chronic conditions last months to years; acute conditions are shorter, though often more severe. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock1-f7c05a27",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "Trisomy 21 is an example of a numerical chromosomal abnormality because the person has:",
+     "options": [
+      "Three copies of chromosome 21 instead of two",
+      "A missing gene on chromosome 21 only",
+      "An inflamed chromosome 21",
+      "Only 21 chromosomes in total",
+      "No sex chromosomes"
+     ],
+     "answer": 0,
+     "explanation": "A numerical abnormality changes chromosome number; trisomy means an extra copy of one chromosome. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock1-42c46970",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "Which pairing of disease type and description is correct?",
+     "options": [
+      "Structural (histological) disease - a detectable tissue/lesion change is present",
+      "Functional disease - a large tumour is visible histologically",
+      "Structural disease - function is altered but tissue always looks normal",
+      "Functional disease - chromosomes are always trisomic",
+      "Structural disease - only symptoms, never signs, occur"
+     ],
+     "answer": 0,
+     "explanation": "Structural/histological diseases show morphological tissue change; functional disorders disturb function without that defining lesion. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock1-a4c72288",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "Which pathophysiology pairing is correctly matched? I. Aetiology = cause  II. Pathogenesis = mechanism of development  III. Clinical manifestation = signs and symptoms",
+     "options": [
+      "I, II and III",
+      "I only",
+      "II only",
+      "I and III only",
+      "None of them"
+     ],
+     "answer": 0,
+     "explanation": "These are three of the interrelated components of pathophysiology, together with treatment implications. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock1-b09f7968",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Which set contains the cardinal signs/symptoms of inflammation?",
+     "options": [
+      "Redness, heat, swelling, pain and loss of function",
+      "Fever, rash, cough, vomiting and diarrhoea",
+      "Pallor, coldness, dryness, numbness and atrophy",
+      "Bradycardia, hypotension, coma, paralysis and cyanosis",
+      "Itching only, with no other feature"
+     ],
+     "answer": 0,
+     "explanation": "The classic cardinal features are rubor, calor, tumour/swelling, dolor and functio laesa (loss of function). (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-edca1982",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "A hot, red, swollen ankle after a sprain most directly illustrates:",
+     "options": [
+      "Acute inflammation",
+      "Trisomy",
+      "Hyperthermia without inflammation",
+      "A functional disease with no tissue response",
+      "Convalescence"
+     ],
+     "answer": 0,
+     "explanation": "Local heat, redness and swelling are cardinal inflammatory features following tissue injury. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-926b5bd1",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Heat balance is maintained when:",
+     "options": [
+      "Heat production matches heat loss",
+      "Heat production always stops",
+      "Sweating occurs without any heat loss",
+      "Body temperature rises indefinitely",
+      "Radiation replaces all other mechanisms"
+     ],
+     "answer": 0,
+     "explanation": "Thermoregulation keeps core temperature stable by balancing gain/production against loss. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-672c2be4",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Sitting near, but not touching, a cold window and losing heat to it is mainly:",
+     "options": [
+      "Radiation",
+      "Conduction",
+      "Convection",
+      "Evaporation",
+      "Metabolism"
+     ],
+     "answer": 0,
+     "explanation": "Radiation transfers heat to cooler objects without direct contact. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-a22022d2",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Which correctly paired heat-transfer example is correct?",
+     "options": [
+      "Ice pack on skin - conduction; fan moving air - convection",
+      "Ice pack on skin - evaporation; fan - radiation",
+      "Sweating - conduction; shivering - evaporation",
+      "Sun warming skin - conduction only; ice pack - convection",
+      "Fan - conduction; direct contact - radiation"
+     ],
+     "answer": 0,
+     "explanation": "Conduction needs direct contact; convection uses a moving fluid such as air. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-621a5595",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "When body temperature rises above normal, the expected physiological response is:",
+     "options": [
+      "Cutaneous vasodilation and sweating",
+      "Cutaneous vasoconstriction and shivering",
+      "Chills with piloerection only",
+      "Reduced sweating and heat conservation",
+      "A raised hypothalamic set-point in every case"
+     ],
+     "answer": 0,
+     "explanation": "Vasodilation brings warm blood to the skin and evaporation from sweating removes heat. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-11d4a71a",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Which statement distinguishes fever from hyperthermia?",
+     "options": [
+      "In fever the hypothalamic set-point rises; in hyperthermia it does not, but heat gain/loss fails",
+      "Fever never involves the hypothalamus; hyperthermia always raises the set-point",
+      "Hyperthermia is always caused by infection; fever never is",
+      "Fever is below normal temperature; hyperthermia is normal temperature",
+      "They are identical in mechanism and treatment in all cases"
+     ],
+     "answer": 0,
+     "explanation": "Fever is a regulated rise in set-point; hyperthermia is overheating despite a normal set-point. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-11959882",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Which temperature-change pairing is correctly matched?",
+     "options": [
+      "Rising fever set-point - chills/shivering; falling set-point - sweating/vasodilation",
+      "Rising set-point - sweating only; falling set-point - shivering only",
+      "Rising set-point - vasodilation with no chills; falling - vasoconstriction",
+      "Both phases - apnoea",
+      "Both phases - loss of hypothalamic control"
+     ],
+     "answer": 0,
+     "explanation": "The body shivers to reach a higher set-point, then sweats and vasodilates as it falls. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-b924cce3",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "A pinprick is first detected in pain perception by:",
+     "options": [
+      "Nociceptors (free nerve endings responding to noxious stimuli)",
+      "Pacinian corpuscles only",
+      "Photoreceptors",
+      "Thermoreceptors that never signal pain",
+      "Motor end plates"
+     ],
+     "answer": 0,
+     "explanation": "Nociceptors detect potentially damaging mechanical, thermal or chemical stimuli. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-6bb2f2dd",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Which fibre pairing is correct?",
+     "options": [
+      "A fibres - fast, sharp, well-localised pain; C fibres - slow, dull, diffuse pain",
+      "A fibres - slow dull pain; C fibres - fast sharp pain",
+      "Both fibres - identical speed and pain quality",
+      "A fibres - only temperature; C fibres - only proprioception",
+      "C fibres - no role in nociception"
+     ],
+     "answer": 0,
+     "explanation": "Myelinated A-delta fibres conduct rapidly; unmyelinated C fibres conduct more slowly. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock1-0511d04a",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "Compared with a plain X-ray, a CT scan:",
+     "options": [
+      "Uses X-rays from multiple angles to build cross-sectional images, giving more detail but usually more radiation",
+      "Uses no radiation and a magnetic field",
+      "Uses sound waves in real time",
+      "Uses a radioactive tracer to measure metabolism only",
+      "Is a single projection with less detail than radiography in all cases"
+     ],
+     "answer": 0,
+     "explanation": "CT is tomographic X-ray imaging; MRI uses magnetism and ultrasound uses sound. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock1-42de74b7",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "Which imaging choice is best for detailed soft-tissue assessment without ionising radiation, provided there is no incompatible implant?",
+     "options": [
+      "MRI",
+      "Plain X-ray",
+      "CT without contrast in every case",
+      "PET",
+      "Bone scintigraphy"
+     ],
+     "answer": 0,
+     "explanation": "MRI gives excellent soft-tissue contrast without ionising radiation, but some pacemakers/metal are contraindications. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock1-4a14bc45",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "A clinician watches a tendon glide in real time during movement. The technique is most likely:",
+     "options": [
+      "Ultrasonography (ecography)",
+      "MRI",
+      "PET",
+      "Plain radiography",
+      "Karyotyping"
+     ],
+     "answer": 0,
+     "explanation": "Ultrasound uses high-frequency sound and can image soft tissues dynamically without ionising radiation. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock1-83da6b13",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "Which technique uses radioactive material to visualise function/metabolism rather than anatomy alone?",
+     "options": [
+      "PET / nuclear medicine techniques",
+      "Ultrasonography",
+      "MRI",
+      "Plain X-ray of a bone",
+      "Palpation"
+     ],
+     "answer": 0,
+     "explanation": "PET and other nuclear-medicine studies use radiotracers to show physiological activity. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock1-10ee2a8f",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "For a suspected cortical bone fracture, the usual first imaging test among these is:",
+     "options": [
+      "Plain X-ray (radiography)",
+      "PET",
+      "Ultrasound of the abdomen",
+      "MRI of the brain",
+      "Electrocardiography"
+     ],
+     "answer": 0,
+     "explanation": "Radiography visualises bones and dense structures well and is the standard first test for fracture. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock1-cdd4536a",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "A comprehensive pain assessment should combine which components? I. Location/intensity  II. Quality and timing  III. Aggravating/relieving factors and impact on function",
+     "options": [
+      "I, II and III",
+      "I only",
+      "Intensity only, with no history",
+      "Imaging findings only",
+      "None; pain cannot be assessed"
+     ],
+     "answer": 0,
+     "explanation": "Pain is subjective and multidimensional, so intensity scales are combined with history and functional impact. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock1-be86e7d6",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "Pharmacology is best defined as the study of:",
+     "options": [
+      "Drugs/substances and how they modify structures and functions of living organisms, including their uses and effects",
+      "Only the commercial names of medicines",
+      "Only surgical techniques",
+      "Diseases with no reference to treatment",
+      "Imaging machines and radiation doses"
+     ],
+     "answer": 0,
+     "explanation": "Its branches include pharmacokinetics and pharmacodynamics. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock1-528e3f18",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "If only part of an oral dose reaches the systemic circulation unchanged, that fraction describes:",
+     "options": [
+      "Bioavailability",
+      "Excretion",
+      "Receptor affinity alone",
+      "The trade name",
+      "Pinocytosis"
+     ],
+     "answer": 0,
+     "explanation": "Bioavailability is the rate/extent to which unchanged drug reaches systemic circulation. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock1-a7351aa8",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "Which sequence correctly lists pharmacokinetic processes (ADME)?",
+     "options": [
+      "Absorption -> distribution -> metabolism -> excretion",
+      "Distribution -> absorption -> excretion -> metabolism",
+      "Excretion -> metabolism -> absorption -> distribution",
+      "Metabolism -> excretion -> distribution -> absorption",
+      "Absorption -> excretion only, with no distribution"
+     ],
+     "answer": 0,
+     "explanation": "ADME describes what the body does to the drug over time. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock1-a958fec4",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "Distribution in pharmacokinetics means:",
+     "options": [
+      "Movement of drug from the bloodstream into tissues and sites of action/excretion",
+      "Release of a tablet from its packaging",
+      "Binding of a drug only to its therapeutic receptor",
+      "Removal of drug in urine only",
+      "Conversion of drug to inactive metabolites only"
+     ],
+     "answer": 0,
+     "explanation": "After absorption, drugs distribute through blood and tissues according to solubility, binding and barriers. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock1-920ed7eb",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "Pharmacodynamics asks primarily:",
+     "options": [
+      "What the drug does to the body - its effects and mechanism of action",
+      "What the body does to the drug over time",
+      "How a tablet is manufactured",
+      "How a drug is named in each country",
+      "How urine removes a drug only"
+     ],
+     "answer": 0,
+     "explanation": "Pharmacodynamics covers effects at organ, cellular and macromolecular/receptor levels. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock1-92808d5a",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "Clark's receptor theory (1937), as presented in class, proposes that:",
+     "options": [
+      "Drug effect is related to the proportion of receptors occupied by the drug",
+      "Drugs act without interacting with any target",
+      "Effect depends only on tablet colour",
+      "All receptors are permanently occupied",
+      "Occupancy and effect are never related"
+     ],
+     "answer": 0,
+     "explanation": "Clark linked response magnitude to receptor occupancy, a foundation of mechanism-of-action thinking. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock1-f15aa24f",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "In a medicine, the active ingredient is:",
+     "options": [
+      "The substance responsible for the pharmacological/therapeutic effect",
+      "Any filler that gives the tablet bulk",
+      "The coating flavour only",
+      "The packaging material",
+      "A substance with no biological effect by definition"
+     ],
+     "answer": 0,
+     "explanation": "Excipients accompany and help deliver the active principle but do not provide the main effect. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock1-554c5cfa",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "'Mechanism of action' means:",
+     "options": [
+      "How a drug produces its effect, e.g. the target/receptor/enzyme it acts on",
+      "The route by which a patient travels to hospital",
+      "Only the speed of excretion",
+      "The commercial marketing strategy",
+      "The shape of the pharmaceutical form"
+     ],
+     "answer": 0,
+     "explanation": "Example: NSAIDs act by inhibiting COX enzymes. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock1-38866202",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "NSAIDs reduce pain, fever and inflammation mainly by:",
+     "options": [
+      "Inhibiting COX enzymes and reducing prostaglandin production",
+      "Killing bacteria directly",
+      "Increasing prostaglandin production",
+      "Replacing damaged cartilage",
+      "Blocking all nerve conduction permanently"
+     ],
+     "answer": 0,
+     "explanation": "COX inhibition lowers prostaglandins/thromboxanes derived from arachidonic acid. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock1-d42972f5",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "The gastric adverse effects of non-selective NSAIDs are explained mainly by:",
+     "options": [
+      "COX-1 inhibition removing prostaglandins that protect the gastric mucosa",
+      "COX-2 inhibition in inflamed joints only",
+      "Increased protective mucus production",
+      "A bacteriostatic action in the stomach",
+      "Lower platelet aggregation only"
+     ],
+     "answer": 0,
+     "explanation": "COX-1 maintains GI mucosa, renal function and platelet aggregation, so its blockade can cause ulceration/bleeding. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock1-8e46db72",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "Which pairing is correct?",
+     "options": [
+      "COX-1 - constitutive, protective housekeeping roles; COX-2 - induced mainly during inflammation",
+      "COX-1 - induced only by inflammation; COX-2 - always protects the stomach",
+      "Both enzymes - identical location and function",
+      "COX-2 - maintains platelet aggregation as its main role",
+      "COX-1 - absent from kidney and stomach"
+     ],
+     "answer": 0,
+     "explanation": "Selective COX-2 inhibitors were developed to spare some COX-1 functions. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock1-867b03f2",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "A patient needs an antibiotic that kills bacteria directly rather than only stopping their growth. The required action is:",
+     "options": [
+      "Bactericidal",
+      "Bacteriostatic",
+      "Antipyretic",
+      "Anti-inflammatory",
+      "Immunosuppressive"
+     ],
+     "answer": 0,
+     "explanation": "Bactericidal agents kill bacteria; bacteriostatic agents inhibit growth while host defences clear them. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock1-a493ca21",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "A broad-spectrum antibiotic is one that:",
+     "options": [
+      "Acts against a wide range of bacteria (many Gram-positive and Gram-negative organisms)",
+      "Acts against one bacterial strain only",
+      "Treats viruses and fungi equally in all cases",
+      "Has no risk of resistance or flora disruption",
+      "Is identical to an NSAID"
+     ],
+     "answer": 0,
+     "explanation": "Broad cover is useful when the pathogen is unknown, but can disturb normal flora and promote resistance. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock1-2abac9c8",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "Which risk is most associated with unnecessary broad-spectrum antibiotic use?",
+     "options": [
+      "Selecting resistant bacteria and disrupting normal microbiota",
+      "Permanent trisomy 21",
+      "Loss of nociceptors",
+      "Increased bone density in all patients",
+      "Fever due to a raised set-point only"
+     ],
+     "answer": 0,
+     "explanation": "Wider antimicrobial pressure increases resistance selection and collateral effects on commensal flora. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock1-0822e405",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "Which statement about bacteriostatic antibiotics is correct?",
+     "options": [
+      "They inhibit bacterial growth/reproduction, allowing the immune system to eliminate the infection",
+      "They always kill bacteria instantly on contact",
+      "They are used only for pain and fever",
+      "They inhibit COX-1 and COX-2",
+      "They cannot be antibiotics"
+     ],
+     "answer": 0,
+     "explanation": "The bactericidal/bacteriostatic distinction is based on killing versus growth inhibition. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock1-7685bdb4",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "A selective COX-2 inhibitor such as celecoxib was designed to:",
+     "options": [
+      "Reduce inflammatory prostaglandins while sparing more COX-1 gastric protection than non-selective NSAIDs",
+      "Kill a broad spectrum of bacteria",
+      "Increase gastric ulcer risk as its therapeutic goal",
+      "Act as a radioactive tracer",
+      "Replace the need for any pain assessment"
+     ],
+     "answer": 0,
+     "explanation": "COX-2 is induced in inflammation; selectivity does not remove all adverse-effect risks. (Lecture 5: Main Pharmacological Groups)"
+    }
+   ]
+  },
+  {
+   "id": "patho1-mock2",
+   "classId": "patho1",
+   "title": "Mock Midterm 2",
+   "desc": "Lessons 1-5 only · 40 questions · 5 options · +0.25 correct / -0.05 wrong / blank 0 · 90 min",
+   "questions": [
+    {
+     "id": "patho1-mock2-5420853a",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "A healthy body keeps blood glucose within a narrow range after meals and fasting. This is an example of:",
+     "options": [
+      "Homeostatic regulation of a physiological variable",
+      "A structural disease",
+      "The prodromal period",
+      "A numerical chromosomal abnormality",
+      "Convalescence"
+     ],
+     "answer": 0,
+     "explanation": "Glucose is one of the regulated variables maintained by homeostatic mechanisms. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock2-28791904",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "Which feature most clearly separates an acute disease from a chronic one in the lecture classification?",
+     "options": [
+      "Time course: acute is short (hours to a few weeks), chronic lasts months to years",
+      "Acute diseases have no manifestations; chronic diseases always have fever",
+      "Acute diseases are genetic; chronic diseases are infectious",
+      "Acute diseases affect children; chronic diseases affect only older adults",
+      "Acute diseases need no treatment; chronic diseases need no follow-up"
+     ],
+     "answer": 0,
+     "explanation": "Severity can be high in acute disease, but duration is the key contrast. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock2-52a38778",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "During convalescence, the patient is mainly:",
+     "options": [
+      "Recovering after the acute phase, with manifestations subsiding",
+      "In the symptom-free interval after exposure",
+      "Experiencing the first nonspecific symptoms",
+      "At the peak of severity in every case",
+      "Undergoing karyotyping"
+     ],
+     "answer": 0,
+     "explanation": "Convalescence follows the acute period as the body recovers. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock2-506c668d",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "A karyotype is best defined as:",
+     "options": [
+      "The chromosomal composition of a cell/individual, arranged and displayed by number, size and shape",
+      "A pain intensity scale",
+      "A type of X-ray of the chest",
+      "The list of drugs a patient takes",
+      "A measure of drug bioavailability"
+     ],
+     "answer": 0,
+     "explanation": "A normal human karyotype is diploid: 46 chromosomes (22 autosomal pairs plus sex chromosomes). (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock2-6d045676",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "Most human somatic cells are diploid, meaning they contain:",
+     "options": [
+      "46 chromosomes in 23 pairs",
+      "23 chromosomes in total",
+      "92 chromosomes in 46 pairs",
+      "21 chromosomes only",
+      "No autosomes"
+     ],
+     "answer": 0,
+     "explanation": "Diploid cells have two sets; gametes are haploid with 23. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock2-2ec8f1fb",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "A patient has altered function but investigations show no structural/histological lesion. This best fits a:",
+     "options": [
+      "Functional disease/disorder",
+      "Structural disease",
+      "Numerical chromosomal abnormality in every case",
+      "Necrotic disease",
+      "Radiological disease"
+     ],
+     "answer": 0,
+     "explanation": "Functional disorders disturb function without the tissue lesion that defines structural disease. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock2-d02916e9",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "Which correctly paired set contrasts the two disease types?",
+     "options": [
+      "Structural - detectable tissue change; Functional - impaired function without that defining lesion",
+      "Structural - symptoms only; Functional - tumours visible on histology",
+      "Structural - always trisomy; Functional - always fever",
+      "Both types - defined by drug dose",
+      "Both types - defined by pain duration"
+     ],
+     "answer": 0,
+     "explanation": "Compare/contrast stems in class separate morphology (structure) from function. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock2-cea22db5",
+     "topic": "Lecture 1: Health and Disease - Part 1",
+     "q": "If a question asks 'why did this disease occur?', it is asking about:",
+     "options": [
+      "Aetiology",
+      "Pathogenesis",
+      "Clinical manifestation",
+      "Convalescence",
+      "Distribution"
+     ],
+     "answer": 0,
+     "explanation": "Aetiology is the cause; pathogenesis is how the disease develops after the cause acts. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-mock2-75a0cf14",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Which finding is NOT one of the five cardinal inflammatory features?",
+     "options": [
+      "Hair loss over the inflamed area",
+      "Redness",
+      "Swelling",
+      "Pain",
+      "Loss of function"
+     ],
+     "answer": 0,
+     "explanation": "The cardinal set is redness, heat, swelling, pain and loss of function. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-24b120da",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Local heat and redness in inflammation are explained mainly by:",
+     "options": [
+      "Increased blood flow/vasodilation in the affected tissue",
+      "Decreased blood flow to the area",
+      "Loss of all capillaries",
+      "A lowered hypothalamic set-point only",
+      "Chromosomal duplication"
+     ],
+     "answer": 0,
+     "explanation": "Vascular changes bring blood, phagocytes and plasma proteins to injured tissue. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-9951a0e7",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "The hypothalamus regulates body temperature by:",
+     "options": [
+      "Comparing sensed core temperature with the set-point and triggering heat production or heat loss responses",
+      "Producing nociceptors in the skin",
+      "Filtering blood like the kidney",
+      "Secreting insulin after meals",
+      "Forming the karyotype"
+     ],
+     "answer": 0,
+     "explanation": "The preoptic hypothalamus integrates thermal signals and controls vasomotor, sweating and shivering responses. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-87cc9002",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Sweating cools the body mainly through:",
+     "options": [
+      "Evaporation of water from the skin surface",
+      "Radiation to cooler objects",
+      "Conduction into a solid object",
+      "Convection by moving air only",
+      "Shivering thermogenesis"
+     ],
+     "answer": 0,
+     "explanation": "Changing liquid water to gas takes heat from the skin. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-ec084402",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Holding a cold metal bar cools the hand mainly by:",
+     "options": [
+      "Conduction",
+      "Evaporation",
+      "Radiation only",
+      "Fever",
+      "Pinocytosis"
+     ],
+     "answer": 0,
+     "explanation": "Conduction is heat transfer through direct contact between surfaces. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-06dfc38a",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Which response helps conserve/produce heat when core temperature falls?",
+     "options": [
+      "Vasoconstriction and shivering, often felt as chills",
+      "Vasodilation and profuse sweating",
+      "Increased evaporation from the lungs only",
+      "Stopping all muscle activity permanently",
+      "Raising sweat gland output"
+     ],
+     "answer": 0,
+     "explanation": "Reduced skin blood flow limits loss; shivering muscle activity generates heat. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-5739e83c",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "A marathon runner overheats on a hot day with a normal hypothalamic set-point but failed heat loss. This is:",
+     "options": [
+      "Hyperthermia, not fever",
+      "Fever, because the set-point must be raised",
+      "Hypothermia",
+      "A prodromal disease stage",
+      "A bacteriostatic effect"
+     ],
+     "answer": 0,
+     "explanation": "Hyperthermia reflects overwhelmed heat-loss/ excessive heat gain without a raised set-point. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-594425ee",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Nociception is best described as:",
+     "options": [
+      "Neural detection/processing of noxious stimuli that can give rise to pain perception",
+      "The same as normal touch in all respects",
+      "A drug distribution phase",
+      "A type of imaging with radiotracers",
+      "Loss of function after inflammation only"
+     ],
+     "answer": 0,
+     "explanation": "Nociceptors transduce damaging stimuli; pain is the perceived experience. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-084d4c11",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Immediately after stubbing a toe, a sharp 'first pain' is carried mainly by:",
+     "options": [
+      "Fast A-delta fibres",
+      "Slow C fibres only",
+      "Photoreceptor fibres",
+      "Motor fibres to muscle",
+      "Autonomic fibres only, with no sensory role"
+     ],
+     "answer": 0,
+     "explanation": "A-delta fibres give rapid, sharp, localised first pain; C fibres give later dull pain. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-954e4004",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "Which correctly contrasts acute and chronic pain?",
+     "options": [
+      "Acute pain - recent onset, often linked to injury and protective; Chronic pain - prolonged/persistent beyond the acute episode",
+      "Acute pain - always lasts years; Chronic pain - always lasts seconds",
+      "Acute pain - cannot be assessed; Chronic pain - only a sign, never a symptom",
+      "Both - defined by chromosome number",
+      "Chronic pain - always indicates trisomy"
+     ],
+     "answer": 0,
+     "explanation": "Duration and persistence beyond normal healing/acute phase distinguish chronic pain. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-mock2-6e4996a6",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "Which statement about X-rays versus CT is correct?",
+     "options": [
+      "Both use ionising X-radiation; CT reconstructs cross-sections and generally shows more detail",
+      "X-rays use sound; CT uses magnetism",
+      "CT uses no ionising radiation in any form",
+      "Plain X-ray always shows soft tissue better than CT",
+      "Neither can image bone"
+     ],
+     "answer": 0,
+     "explanation": "CT is multi-angle X-ray tomography, with higher detail and usually higher dose than a single radiograph. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock2-279859a7",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "MRI produces images mainly using:",
+     "options": [
+      "A strong magnetic field and radiofrequency signals, without ionising radiation",
+      "X-rays from multiple angles",
+      "High-frequency sound waves",
+      "Radioactive glucose tracers only",
+      "Direct contact heat transfer"
+     ],
+     "answer": 0,
+     "explanation": "MRI is preferred for many soft-tissue questions but implants/metal must be checked. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock2-8350cca7",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "Ultrasonography is especially suitable for which task?",
+     "options": [
+      "Real-time assessment of soft tissues/tendons and abdominal/pelvic organs without ionising radiation",
+      "Counting chromosomes",
+      "Measuring prostaglandin synthesis",
+      "Replacing pain history in all cases",
+      "Imaging only cortical bone fractures as first choice"
+     ],
+     "answer": 0,
+     "explanation": "Ecography is dynamic, portable and radiation-free, though operator- and tissue-dependent. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock2-42aab241",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "A PET scan is ordered to assess metabolic activity of a lesion. PET belongs to:",
+     "options": [
+      "Radioactive/nuclear-medicine techniques using a tracer",
+      "Ultrasound techniques",
+      "Magnetic techniques with no tracer ever",
+      "Plain radiography",
+      "Pharmacokinetic excretion tests"
+     ],
+     "answer": 0,
+     "explanation": "Positron emission tomography visualises function/metabolism after radiotracer administration. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock2-9f5422d7",
+     "topic": "Lecture 3: Clinical History 2025-26",
+     "q": "Which imaging pairing is correctly matched?",
+     "options": [
+      "Bone/densest structures - X-ray; soft-tissue detail - MRI; real-time sound imaging - ultrasound; metabolism - PET",
+      "Bone - PET; soft tissue - X-ray only; real-time - karyotype; metabolism - palpation",
+      "Bone - ultrasound only; soft tissue - PET only; real-time - MRI set-point; metabolism - X-ray",
+      "All four techniques use identical physics",
+      "All four techniques use radioactive tracers"
+     ],
+     "answer": 0,
+     "explanation": "Multi-item questions require matching modality to mechanism and typical use. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock2-cff76735",
+     "topic": "Lecture 2: Health and Disease - Part 2",
+     "q": "When assessing pain, which addition most improves a simple 0-10 intensity score?",
+     "options": [
+      "Asking location, quality, timing, triggers/relievers and effect on daily function",
+      "Ignoring the patient's own report",
+      "Ordering PET for every pain complaint",
+      "Recording only the drug trade name",
+      "Measuring chromosome number"
+     ],
+     "answer": 0,
+     "explanation": "A comprehensive assessment is multidimensional; intensity alone is incomplete. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-mock2-914e8013",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "Which branch pairing is correct?",
+     "options": [
+      "Pharmacokinetics - what the body does to the drug; Pharmacodynamics - what the drug does to the body",
+      "Pharmacokinetics - receptor effects only; Pharmacodynamics - excretion only",
+      "Both terms mean drug naming",
+      "Pharmacokinetics - manufacture of tablets; Pharmacodynamics - packaging",
+      "Neither relates to mechanism of action"
+     ],
+     "answer": 0,
+     "explanation": "ADME belongs to kinetics; effects/mechanisms belong to dynamics. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock2-e54798d1",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "A drug given intravenously bypasses absorption and first-pass loss, so its bioavailability is conventionally taken as:",
+     "options": [
+      "Essentially complete (the reference for other routes)",
+      "Zero in all cases",
+      "Unrelated to systemic circulation",
+      "Determined only by tablet flavour",
+      "The same as its excretion rate"
+     ],
+     "answer": 0,
+     "explanation": "Oral bioavailability is reduced by incomplete absorption and first-pass metabolism. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock2-ddd1bdb6",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "After entering the bloodstream, a drug that leaves plasma and enters tissues is in the phase called:",
+     "options": [
+      "Distribution",
+      "Liberation from packaging only",
+      "Excretion only",
+      "Reception",
+      "Incubation"
+     ],
+     "answer": 0,
+     "explanation": "Distribution depends on blood flow, lipid solubility, plasma-protein binding and tissue barriers. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock2-1bb6eb02",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "Metabolism (biotransformation) in ADME mainly:",
+     "options": [
+      "Chemically alters the drug, often in the liver, usually making it easier to excrete and/or inactivating it",
+      "Moves the drug from blood to tissue without chemical change",
+      "Is the same as taking the tablet orally",
+      "Defines the karyotype",
+      "Produces prostaglandins from arachidonic acid"
+     ],
+     "answer": 0,
+     "explanation": "Metabolism can also activate prodrugs, but its classic role is chemical transformation. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock2-d23721da",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "Excretion differs from metabolism because excretion is:",
+     "options": [
+      "Physical removal of drug/metabolites from the body, commonly via the kidney in urine",
+      "Chemical alteration of the drug in the liver only",
+      "Binding to a receptor",
+      "Release from a capsule",
+      "Movement into tissues"
+     ],
+     "answer": 0,
+     "explanation": "ADME separates chemical biotransformation from elimination from the body. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock2-c4fabe3e",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "According to Clark's receptor theory (1937), increasing the fraction of receptors occupied by an agonist would generally:",
+     "options": [
+      "Increase the effect up to a maximum when occupancy saturates",
+      "Decrease the effect to zero in all cases",
+      "Have no possible relation to effect",
+      "Change the drug's chromosome number",
+      "Convert the drug into an excipient"
+     ],
+     "answer": 0,
+     "explanation": "Response rises with occupancy and plateaus at maximal receptor occupancy/efficacy. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock2-5c8a0686",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "Which item is an excipient rather than the active ingredient?",
+     "options": [
+      "A binder/filler that helps form and deliver the tablet",
+      "Ibuprofen in an ibuprofen tablet",
+      "The substance producing analgesia",
+      "The molecule inhibiting COX",
+      "The therapeutic agent named by the INN"
+     ],
+     "answer": 0,
+     "explanation": "Excipients aid formulation/delivery; the active principle produces the pharmacological effect. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock2-672d4723",
+     "topic": "Lecture 4: Pharmacology",
+     "q": "If a drug works by blocking an enzyme, that statement describes its:",
+     "options": [
+      "Mechanism of action (pharmacodynamics)",
+      "Bioavailability percentage only",
+      "Excretion route only",
+      "Karyotype",
+      "Incubation period"
+     ],
+     "answer": 0,
+     "explanation": "Mechanism of action specifies the molecular target and interaction producing the effect. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-mock2-7da9b42e",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "A non-selective NSAID blocks both COX-1 and COX-2. The expected therapeutic and adverse pattern is:",
+     "options": [
+      "Less inflammatory prostaglandin production, but higher risk of gastric mucosal injury",
+      "More gastric protection and no anti-inflammatory effect",
+      "Direct bacterial killing with no GI risk",
+      "A raised fever set-point as the main benefit",
+      "Radioactive imaging of metabolism"
+     ],
+     "answer": 0,
+     "explanation": "Blocking COX-2 helps inflammation/pain/fever; blocking COX-1 removes protective prostaglandins. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock2-12708d6f",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "Which adverse effect is most directly linked to NSAID COX-1 inhibition in the stomach?",
+     "options": [
+      "Gastric ulceration/bleeding from reduced mucosal protection",
+      "Trisomy 21",
+      "Slow C-fibre pain only",
+      "Improved platelet aggregation in all patients",
+      "Loss of ultrasound image quality"
+     ],
+     "answer": 0,
+     "explanation": "COX-1 prostaglandins maintain mucus/blood flow in the GI tract and support platelet function. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock2-99323ed9",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "Why can selective COX-2 inhibition still require caution despite gastric sparing?",
+     "options": [
+      "COX-2 products also have physiological roles (e.g. vascular/renal), so adverse effects are not abolished",
+      "It kills all bacteria and fungi",
+      "It raises the hypothalamic set-point permanently",
+      "It contains a radioactive tracer",
+      "It prevents any drug distribution"
+     ],
+     "answer": 0,
+     "explanation": "Selectivity reduces, but does not eliminate, class adverse effects. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock2-1e87fe68",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "An antibiotic that only prevents bacteria multiplying while host defences clear them is:",
+     "options": [
+      "Bacteriostatic",
+      "Bactericidal",
+      "Broad-spectrum by definition in every case",
+      "An NSAID",
+      "A radiotracer"
+     ],
+     "answer": 0,
+     "explanation": "Bacteriostatic = growth inhibition; bactericidal = killing. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock2-5e3b4e9d",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "Broad-spectrum antibiotics are most justifiably used when:",
+     "options": [
+      "A serious infection must be covered before the causative organism is identified",
+      "A viral cold has been proven",
+      "Pain assessment is incomplete",
+      "Fever is due to a raised set-point only",
+      "A karyotype is normal"
+     ],
+     "answer": 0,
+     "explanation": "Empiric broad cover is later narrowed when culture/identification allows. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock2-7fa82ec9",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "Which pairing about antibiotics is correct?",
+     "options": [
+      "Bactericidal - kills bacteria; Bacteriostatic - inhibits growth; Broad-spectrum - covers many bacterial types",
+      "Bactericidal - inhibits growth only; Bacteriostatic - kills; Broad-spectrum - one strain only",
+      "All three terms describe COX inhibition",
+      "All three terms describe imaging techniques",
+      "Broad-spectrum means it treats pain, fever and inflammation like an NSAID"
+     ],
+     "answer": 0,
+     "explanation": "These definitions are frequent multi-item exam targets. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock2-26582983",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "NSAIDs are useful in fever because reducing prostaglandins helps:",
+     "options": [
+      "Lower the raised hypothalamic set-point (antipyretic effect), alongside analgesic/anti-inflammatory actions",
+      "Raise the set-point further",
+      "Kill the bacteria causing every fever",
+      "Increase gastric prostaglandin production",
+      "Block nociceptors permanently"
+     ],
+     "answer": 0,
+     "explanation": "NSAIDs are antipyretic, analgesic and anti-inflammatory, not primarily antibacterial. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-mock2-7decf785",
+     "topic": "Lecture 5: Main Pharmacological Groups",
+     "q": "A patient taking NSAIDs develops renal impairment risk. The lecture explanation most consistent with COX biology is:",
+     "options": [
+      "Prostaglandins help maintain renal blood flow/GI mucosa, so COX inhibition can impair these protective roles",
+      "NSAIDs act as radioactive tracers in the kidney",
+      "NSAIDs change the karyotype of renal cells",
+      "Renal effects prove the drug was bacteriostatic",
+      "COX enzymes are nociceptors"
+     ],
+     "answer": 0,
+     "explanation": "Renal, GI, cardiovascular and platelet effects follow from widespread prostaglandin functions. (Lecture 5: Main Pharmacological Groups)"
+    }
+   ]
+  }
+ ]
 }

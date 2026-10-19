@@ -1,0 +1,326 @@
+# Mock Midterm 1 - Pathophysiological Foundations I (Lessons 1-5). Fresh questions, 5 options each.
+@ Lecture 1: Health and Disease - Part 1
+Which variable is NOT normally described as tightly regulated by homeostasis?
+* Hair growth rate
+- Core body temperature
+- Blood pH
+- Blood glucose concentration
+- Body water and mineral balance
+E: Temperature, pH, glucose and water/mineral balance are regulated variables; hair growth is not presented as a homeostatically regulated variable. (Lecture 1: Health and Disease - Part 1)
+
+A student is exposed to an infectious agent on Monday but has no signs or symptoms until the following week. The symptom-free interval is the:
+* Incubation (latent) period
+- Prodromal period
+- Acute period
+- Convalescent period
+- Chronic period
+E: Incubation/latency runs from exposure to the first signs and symptoms. (Lecture 1: Health and Disease - Part 1)
+
+Which presentation best fits the prodromal period?
+* Headache, malaise and slight fever before specific features appear
+- Complete recovery with no symptoms
+- The moment of first exposure to the cause
+- Severe organ-specific failure lasting years
+- A normal karyotype result
+E: Prodromal features are early and often nonspecific, marking the onset of disease. (Lecture 1: Health and Disease - Part 1)
+
+Which sequence gives a typical clinical course in the correct order?
+* Incubation -> prodromal -> acute -> convalescence
+- Acute -> incubation -> prodromal -> convalescence
+- Prodromal -> incubation -> convalescence -> acute
+- Convalescence -> acute -> incubation -> prodromal
+- Incubation -> convalescence -> prodromal -> acute
+E: Exposure is followed by early nonspecific features, the main illness, then recovery/convalescence. (Lecture 1: Health and Disease - Part 1)
+
+A disorder develops gradually and persists for months to years. This course is best classified as:
+* Chronic
+- Acute
+- Prodromal
+- Incubation
+- Convalescent
+E: Chronic conditions last months to years; acute conditions are shorter, though often more severe. (Lecture 1: Health and Disease - Part 1)
+
+Trisomy 21 is an example of a numerical chromosomal abnormality because the person has:
+* Three copies of chromosome 21 instead of two
+- A missing gene on chromosome 21 only
+- An inflamed chromosome 21
+- Only 21 chromosomes in total
+- No sex chromosomes
+E: A numerical abnormality changes chromosome number; trisomy means an extra copy of one chromosome. (Lecture 1: Health and Disease - Part 1)
+
+Which pairing of disease type and description is correct?
+* Structural (histological) disease - a detectable tissue/lesion change is present
+- Functional disease - a large tumour is visible histologically
+- Structural disease - function is altered but tissue always looks normal
+- Functional disease - chromosomes are always trisomic
+- Structural disease - only symptoms, never signs, occur
+E: Structural/histological diseases show morphological tissue change; functional disorders disturb function without that defining lesion. (Lecture 1: Health and Disease - Part 1)
+
+Which pathophysiology pairing is correctly matched? I. Aetiology = cause  II. Pathogenesis = mechanism of development  III. Clinical manifestation = signs and symptoms
+* I, II and III
+- I only
+- II only
+- I and III only
+- None of them
+E: These are three of the interrelated components of pathophysiology, together with treatment implications. (Lecture 1: Health and Disease - Part 1)
+
+@ Lecture 2: Health and Disease - Part 2
+Which set contains the cardinal signs/symptoms of inflammation?
+* Redness, heat, swelling, pain and loss of function
+- Fever, rash, cough, vomiting and diarrhoea
+- Pallor, coldness, dryness, numbness and atrophy
+- Bradycardia, hypotension, coma, paralysis and cyanosis
+- Itching only, with no other feature
+E: The classic cardinal features are rubor, calor, tumour/swelling, dolor and functio laesa (loss of function). (Lecture 2: Health and Disease - Part 2)
+
+A hot, red, swollen ankle after a sprain most directly illustrates:
+* Acute inflammation
+- Trisomy
+- Hyperthermia without inflammation
+- A functional disease with no tissue response
+- Convalescence
+E: Local heat, redness and swelling are cardinal inflammatory features following tissue injury. (Lecture 2: Health and Disease - Part 2)
+
+Heat balance is maintained when:
+* Heat production matches heat loss
+- Heat production always stops
+- Sweating occurs without any heat loss
+- Body temperature rises indefinitely
+- Radiation replaces all other mechanisms
+E: Thermoregulation keeps core temperature stable by balancing gain/production against loss. (Lecture 2: Health and Disease - Part 2)
+
+Sitting near, but not touching, a cold window and losing heat to it is mainly:
+* Radiation
+- Conduction
+- Convection
+- Evaporation
+- Metabolism
+E: Radiation transfers heat to cooler objects without direct contact. (Lecture 2: Health and Disease - Part 2)
+
+Which correctly paired heat-transfer example is correct?
+* Ice pack on skin - conduction; fan moving air - convection
+- Ice pack on skin - evaporation; fan - radiation
+- Sweating - conduction; shivering - evaporation
+- Sun warming skin - conduction only; ice pack - convection
+- Fan - conduction; direct contact - radiation
+E: Conduction needs direct contact; convection uses a moving fluid such as air. (Lecture 2: Health and Disease - Part 2)
+
+When body temperature rises above normal, the expected physiological response is:
+* Cutaneous vasodilation and sweating
+- Cutaneous vasoconstriction and shivering
+- Chills with piloerection only
+- Reduced sweating and heat conservation
+- A raised hypothalamic set-point in every case
+E: Vasodilation brings warm blood to the skin and evaporation from sweating removes heat. (Lecture 2: Health and Disease - Part 2)
+
+Which statement distinguishes fever from hyperthermia?
+* In fever the hypothalamic set-point rises; in hyperthermia it does not, but heat gain/loss fails
+- Fever never involves the hypothalamus; hyperthermia always raises the set-point
+- Hyperthermia is always caused by infection; fever never is
+- Fever is below normal temperature; hyperthermia is normal temperature
+- They are identical in mechanism and treatment in all cases
+E: Fever is a regulated rise in set-point; hyperthermia is overheating despite a normal set-point. (Lecture 2: Health and Disease - Part 2)
+
+Which temperature-change pairing is correctly matched?
+* Rising fever set-point - chills/shivering; falling set-point - sweating/vasodilation
+- Rising set-point - sweating only; falling set-point - shivering only
+- Rising set-point - vasodilation with no chills; falling - vasoconstriction
+- Both phases - apnoea
+- Both phases - loss of hypothalamic control
+E: The body shivers to reach a higher set-point, then sweats and vasodilates as it falls. (Lecture 2: Health and Disease - Part 2)
+
+A pinprick is first detected in pain perception by:
+* Nociceptors (free nerve endings responding to noxious stimuli)
+- Pacinian corpuscles only
+- Photoreceptors
+- Thermoreceptors that never signal pain
+- Motor end plates
+E: Nociceptors detect potentially damaging mechanical, thermal or chemical stimuli. (Lecture 2: Health and Disease - Part 2)
+
+Which fibre pairing is correct?
+* A fibres - fast, sharp, well-localised pain; C fibres - slow, dull, diffuse pain
+- A fibres - slow dull pain; C fibres - fast sharp pain
+- Both fibres - identical speed and pain quality
+- A fibres - only temperature; C fibres - only proprioception
+- C fibres - no role in nociception
+E: Myelinated A-delta fibres conduct rapidly; unmyelinated C fibres conduct more slowly. (Lecture 2: Health and Disease - Part 2)
+
+@ Lecture 3: Clinical History 2025-26
+Compared with a plain X-ray, a CT scan:
+* Uses X-rays from multiple angles to build cross-sectional images, giving more detail but usually more radiation
+- Uses no radiation and a magnetic field
+- Uses sound waves in real time
+- Uses a radioactive tracer to measure metabolism only
+- Is a single projection with less detail than radiography in all cases
+E: CT is tomographic X-ray imaging; MRI uses magnetism and ultrasound uses sound. (Lecture 3: Clinical History 2025-26)
+
+Which imaging choice is best for detailed soft-tissue assessment without ionising radiation, provided there is no incompatible implant?
+* MRI
+- Plain X-ray
+- CT without contrast in every case
+- PET
+- Bone scintigraphy
+E: MRI gives excellent soft-tissue contrast without ionising radiation, but some pacemakers/metal are contraindications. (Lecture 3: Clinical History 2025-26)
+
+A clinician watches a tendon glide in real time during movement. The technique is most likely:
+* Ultrasonography (ecography)
+- MRI
+- PET
+- Plain radiography
+- Karyotyping
+E: Ultrasound uses high-frequency sound and can image soft tissues dynamically without ionising radiation. (Lecture 3: Clinical History 2025-26)
+
+Which technique uses radioactive material to visualise function/metabolism rather than anatomy alone?
+* PET / nuclear medicine techniques
+- Ultrasonography
+- MRI
+- Plain X-ray of a bone
+- Palpation
+E: PET and other nuclear-medicine studies use radiotracers to show physiological activity. (Lecture 3: Clinical History 2025-26)
+
+For a suspected cortical bone fracture, the usual first imaging test among these is:
+* Plain X-ray (radiography)
+- PET
+- Ultrasound of the abdomen
+- MRI of the brain
+- Electrocardiography
+E: Radiography visualises bones and dense structures well and is the standard first test for fracture. (Lecture 3: Clinical History 2025-26)
+
+@ Lecture 2: Health and Disease - Part 2
+A comprehensive pain assessment should combine which components? I. Location/intensity  II. Quality and timing  III. Aggravating/relieving factors and impact on function
+* I, II and III
+- I only
+- Intensity only, with no history
+- Imaging findings only
+- None; pain cannot be assessed
+E: Pain is subjective and multidimensional, so intensity scales are combined with history and functional impact. (Lecture 3: Clinical History 2025-26)
+
+@ Lecture 4: Pharmacology
+Pharmacology is best defined as the study of:
+* Drugs/substances and how they modify structures and functions of living organisms, including their uses and effects
+- Only the commercial names of medicines
+- Only surgical techniques
+- Diseases with no reference to treatment
+- Imaging machines and radiation doses
+E: Its branches include pharmacokinetics and pharmacodynamics. (Lecture 4: Pharmacology)
+
+If only part of an oral dose reaches the systemic circulation unchanged, that fraction describes:
+* Bioavailability
+- Excretion
+- Receptor affinity alone
+- The trade name
+- Pinocytosis
+E: Bioavailability is the rate/extent to which unchanged drug reaches systemic circulation. (Lecture 4: Pharmacology)
+
+Which sequence correctly lists pharmacokinetic processes (ADME)?
+* Absorption -> distribution -> metabolism -> excretion
+- Distribution -> absorption -> excretion -> metabolism
+- Excretion -> metabolism -> absorption -> distribution
+- Metabolism -> excretion -> distribution -> absorption
+- Absorption -> excretion only, with no distribution
+E: ADME describes what the body does to the drug over time. (Lecture 4: Pharmacology)
+
+Distribution in pharmacokinetics means:
+* Movement of drug from the bloodstream into tissues and sites of action/excretion
+- Release of a tablet from its packaging
+- Binding of a drug only to its therapeutic receptor
+- Removal of drug in urine only
+- Conversion of drug to inactive metabolites only
+E: After absorption, drugs distribute through blood and tissues according to solubility, binding and barriers. (Lecture 4: Pharmacology)
+
+Pharmacodynamics asks primarily:
+* What the drug does to the body - its effects and mechanism of action
+- What the body does to the drug over time
+- How a tablet is manufactured
+- How a drug is named in each country
+- How urine removes a drug only
+E: Pharmacodynamics covers effects at organ, cellular and macromolecular/receptor levels. (Lecture 4: Pharmacology)
+
+Clark's receptor theory (1937), as presented in class, proposes that:
+* Drug effect is related to the proportion of receptors occupied by the drug
+- Drugs act without interacting with any target
+- Effect depends only on tablet colour
+- All receptors are permanently occupied
+- Occupancy and effect are never related
+E: Clark linked response magnitude to receptor occupancy, a foundation of mechanism-of-action thinking. (Lecture 4: Pharmacology)
+
+In a medicine, the active ingredient is:
+* The substance responsible for the pharmacological/therapeutic effect
+- Any filler that gives the tablet bulk
+- The coating flavour only
+- The packaging material
+- A substance with no biological effect by definition
+E: Excipients accompany and help deliver the active principle but do not provide the main effect. (Lecture 4: Pharmacology)
+
+'Mechanism of action' means:
+* How a drug produces its effect, e.g. the target/receptor/enzyme it acts on
+- The route by which a patient travels to hospital
+- Only the speed of excretion
+- The commercial marketing strategy
+- The shape of the pharmaceutical form
+E: Example: NSAIDs act by inhibiting COX enzymes. (Lecture 4: Pharmacology)
+
+@ Lecture 5: Main Pharmacological Groups
+NSAIDs reduce pain, fever and inflammation mainly by:
+* Inhibiting COX enzymes and reducing prostaglandin production
+- Killing bacteria directly
+- Increasing prostaglandin production
+- Replacing damaged cartilage
+- Blocking all nerve conduction permanently
+E: COX inhibition lowers prostaglandins/thromboxanes derived from arachidonic acid. (Lecture 5: Main Pharmacological Groups)
+
+The gastric adverse effects of non-selective NSAIDs are explained mainly by:
+* COX-1 inhibition removing prostaglandins that protect the gastric mucosa
+- COX-2 inhibition in inflamed joints only
+- Increased protective mucus production
+- A bacteriostatic action in the stomach
+- Lower platelet aggregation only
+E: COX-1 maintains GI mucosa, renal function and platelet aggregation, so its blockade can cause ulceration/bleeding. (Lecture 5: Main Pharmacological Groups)
+
+Which pairing is correct?
+* COX-1 - constitutive, protective housekeeping roles; COX-2 - induced mainly during inflammation
+- COX-1 - induced only by inflammation; COX-2 - always protects the stomach
+- Both enzymes - identical location and function
+- COX-2 - maintains platelet aggregation as its main role
+- COX-1 - absent from kidney and stomach
+E: Selective COX-2 inhibitors were developed to spare some COX-1 functions. (Lecture 5: Main Pharmacological Groups)
+
+A patient needs an antibiotic that kills bacteria directly rather than only stopping their growth. The required action is:
+* Bactericidal
+- Bacteriostatic
+- Antipyretic
+- Anti-inflammatory
+- Immunosuppressive
+E: Bactericidal agents kill bacteria; bacteriostatic agents inhibit growth while host defences clear them. (Lecture 5: Main Pharmacological Groups)
+
+A broad-spectrum antibiotic is one that:
+* Acts against a wide range of bacteria (many Gram-positive and Gram-negative organisms)
+- Acts against one bacterial strain only
+- Treats viruses and fungi equally in all cases
+- Has no risk of resistance or flora disruption
+- Is identical to an NSAID
+E: Broad cover is useful when the pathogen is unknown, but can disturb normal flora and promote resistance. (Lecture 5: Main Pharmacological Groups)
+
+Which risk is most associated with unnecessary broad-spectrum antibiotic use?
+* Selecting resistant bacteria and disrupting normal microbiota
+- Permanent trisomy 21
+- Loss of nociceptors
+- Increased bone density in all patients
+- Fever due to a raised set-point only
+E: Wider antimicrobial pressure increases resistance selection and collateral effects on commensal flora. (Lecture 5: Main Pharmacological Groups)
+
+Which statement about bacteriostatic antibiotics is correct?
+* They inhibit bacterial growth/reproduction, allowing the immune system to eliminate the infection
+- They always kill bacteria instantly on contact
+- They are used only for pain and fever
+- They inhibit COX-1 and COX-2
+- They cannot be antibiotics
+E: The bactericidal/bacteriostatic distinction is based on killing versus growth inhibition. (Lecture 5: Main Pharmacological Groups)
+
+A selective COX-2 inhibitor such as celecoxib was designed to:
+* Reduce inflammatory prostaglandins while sparing more COX-1 gastric protection than non-selective NSAIDs
+- Kill a broad spectrum of bacteria
+- Increase gastric ulcer risk as its therapeutic goal
+- Act as a radioactive tracer
+- Replace the need for any pain assessment
+E: COX-2 is induced in inflammation; selectivity does not remove all adverse-effect risks. (Lecture 5: Main Pharmacological Groups)

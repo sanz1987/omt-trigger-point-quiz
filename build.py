@@ -83,17 +83,33 @@ def trigger():
     imgs = {k: v for k, v in att.items()}
     return Q, imgs, M
 
-bank = {'classes': [], 'images': {}}
+MOCKS = [
+ ('patho1-mock1', 'patho1', 'Mock Midterm 1', 'Lessons 1-5 only · 40 questions · 5 options · +0.25 correct / -0.05 wrong / blank 0 · 90 min'),
+ ('patho1-mock2', 'patho1', 'Mock Midterm 2', 'Lessons 1-5 only · 40 questions · 5 options · +0.25 correct / -0.05 wrong / blank 0 · 90 min'),
+]
+def parse_mock(cid):
+    # reuse parse() logic via a temporary classes file name: parse expects classes/<id>.txt
+    return parse(cid)
+bank = {'classes': [], 'images': {}, 'mocks': []}
 tq, imgs, M = trigger()
 bank['images'] = imgs
 for cid, title, desc in CLASSES:
     Q = tq if cid == 'trigger' else parse(cid)
     topics = list(dict.fromkeys(q['topic'] for q in Q))
     bank['classes'].append({'id': cid, 'title': title, 'desc': desc, 'topics': topics, 'questions': Q})
+for mid, cid, title, desc in MOCKS:
+    Q = parse(mid)
+    if len(Q) != 40:
+        errors.append(f'{mid}: expected 40 questions, got {len(Q)}')
+    for q in Q:
+        if len(q['options']) != 5:
+            errors.append(f"{mid}: expected 5 options: {q['q'][:60]}")
+    bank['mocks'].append({'id': mid, 'classId': cid, 'title': title, 'desc': desc, 'questions': Q})
 if errors:
     print('\n'.join(errors)); sys.exit(1)
 json.dump(bank, open('questions.json', 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
 html = open('template.html', encoding='utf-8').read().replace('/*__BANK__*/', json.dumps(bank, ensure_ascii=False).replace('</', '<\\/'))
 open('index.html', 'w', encoding='utf-8').write(html)
 for c in bank['classes']: print(f"{c['id']:9} {len(c['questions']):4} questions, {len(c['topics'])} topics")
+for m in bank.get('mocks',[]): print(f"{m['id']:14} {len(m['questions']):4} questions (mock, 5 options)")
 print('images:', len(set(v['file'] for v in imgs.values())), 'files for', len(imgs), 'muscles')

@@ -1,0 +1,326 @@
+# Mock Midterm 2 - Pathophysiological Foundations I (Lessons 1-5). Fresh questions, 5 options each.
+@ Lecture 1: Health and Disease - Part 1
+A healthy body keeps blood glucose within a narrow range after meals and fasting. This is an example of:
+* Homeostatic regulation of a physiological variable
+- A structural disease
+- The prodromal period
+- A numerical chromosomal abnormality
+- Convalescence
+E: Glucose is one of the regulated variables maintained by homeostatic mechanisms. (Lecture 1: Health and Disease - Part 1)
+
+Which feature most clearly separates an acute disease from a chronic one in the lecture classification?
+* Time course: acute is short (hours to a few weeks), chronic lasts months to years
+- Acute diseases have no manifestations; chronic diseases always have fever
+- Acute diseases are genetic; chronic diseases are infectious
+- Acute diseases affect children; chronic diseases affect only older adults
+- Acute diseases need no treatment; chronic diseases need no follow-up
+E: Severity can be high in acute disease, but duration is the key contrast. (Lecture 1: Health and Disease - Part 1)
+
+During convalescence, the patient is mainly:
+* Recovering after the acute phase, with manifestations subsiding
+- In the symptom-free interval after exposure
+- Experiencing the first nonspecific symptoms
+- At the peak of severity in every case
+- Undergoing karyotyping
+E: Convalescence follows the acute period as the body recovers. (Lecture 1: Health and Disease - Part 1)
+
+A karyotype is best defined as:
+* The chromosomal composition of a cell/individual, arranged and displayed by number, size and shape
+- A pain intensity scale
+- A type of X-ray of the chest
+- The list of drugs a patient takes
+- A measure of drug bioavailability
+E: A normal human karyotype is diploid: 46 chromosomes (22 autosomal pairs plus sex chromosomes). (Lecture 1: Health and Disease - Part 1)
+
+Most human somatic cells are diploid, meaning they contain:
+* 46 chromosomes in 23 pairs
+- 23 chromosomes in total
+- 92 chromosomes in 46 pairs
+- 21 chromosomes only
+- No autosomes
+E: Diploid cells have two sets; gametes are haploid with 23. (Lecture 1: Health and Disease - Part 1)
+
+A patient has altered function but investigations show no structural/histological lesion. This best fits a:
+* Functional disease/disorder
+- Structural disease
+- Numerical chromosomal abnormality in every case
+- Necrotic disease
+- Radiological disease
+E: Functional disorders disturb function without the tissue lesion that defines structural disease. (Lecture 1: Health and Disease - Part 1)
+
+Which correctly paired set contrasts the two disease types?
+* Structural - detectable tissue change; Functional - impaired function without that defining lesion
+- Structural - symptoms only; Functional - tumours visible on histology
+- Structural - always trisomy; Functional - always fever
+- Both types - defined by drug dose
+- Both types - defined by pain duration
+E: Compare/contrast stems in class separate morphology (structure) from function. (Lecture 1: Health and Disease - Part 1)
+
+If a question asks 'why did this disease occur?', it is asking about:
+* Aetiology
+- Pathogenesis
+- Clinical manifestation
+- Convalescence
+- Distribution
+E: Aetiology is the cause; pathogenesis is how the disease develops after the cause acts. (Lecture 1: Health and Disease - Part 1)
+
+@ Lecture 2: Health and Disease - Part 2
+Which finding is NOT one of the five cardinal inflammatory features?
+* Hair loss over the inflamed area
+- Redness
+- Swelling
+- Pain
+- Loss of function
+E: The cardinal set is redness, heat, swelling, pain and loss of function. (Lecture 2: Health and Disease - Part 2)
+
+Local heat and redness in inflammation are explained mainly by:
+* Increased blood flow/vasodilation in the affected tissue
+- Decreased blood flow to the area
+- Loss of all capillaries
+- A lowered hypothalamic set-point only
+- Chromosomal duplication
+E: Vascular changes bring blood, phagocytes and plasma proteins to injured tissue. (Lecture 2: Health and Disease - Part 2)
+
+The hypothalamus regulates body temperature by:
+* Comparing sensed core temperature with the set-point and triggering heat production or heat loss responses
+- Producing nociceptors in the skin
+- Filtering blood like the kidney
+- Secreting insulin after meals
+- Forming the karyotype
+E: The preoptic hypothalamus integrates thermal signals and controls vasomotor, sweating and shivering responses. (Lecture 2: Health and Disease - Part 2)
+
+Sweating cools the body mainly through:
+* Evaporation of water from the skin surface
+- Radiation to cooler objects
+- Conduction into a solid object
+- Convection by moving air only
+- Shivering thermogenesis
+E: Changing liquid water to gas takes heat from the skin. (Lecture 2: Health and Disease - Part 2)
+
+Holding a cold metal bar cools the hand mainly by:
+* Conduction
+- Evaporation
+- Radiation only
+- Fever
+- Pinocytosis
+E: Conduction is heat transfer through direct contact between surfaces. (Lecture 2: Health and Disease - Part 2)
+
+Which response helps conserve/produce heat when core temperature falls?
+* Vasoconstriction and shivering, often felt as chills
+- Vasodilation and profuse sweating
+- Increased evaporation from the lungs only
+- Stopping all muscle activity permanently
+- Raising sweat gland output
+E: Reduced skin blood flow limits loss; shivering muscle activity generates heat. (Lecture 2: Health and Disease - Part 2)
+
+A marathon runner overheats on a hot day with a normal hypothalamic set-point but failed heat loss. This is:
+* Hyperthermia, not fever
+- Fever, because the set-point must be raised
+- Hypothermia
+- A prodromal disease stage
+- A bacteriostatic effect
+E: Hyperthermia reflects overwhelmed heat-loss/ excessive heat gain without a raised set-point. (Lecture 2: Health and Disease - Part 2)
+
+Nociception is best described as:
+* Neural detection/processing of noxious stimuli that can give rise to pain perception
+- The same as normal touch in all respects
+- A drug distribution phase
+- A type of imaging with radiotracers
+- Loss of function after inflammation only
+E: Nociceptors transduce damaging stimuli; pain is the perceived experience. (Lecture 2: Health and Disease - Part 2)
+
+Immediately after stubbing a toe, a sharp 'first pain' is carried mainly by:
+* Fast A-delta fibres
+- Slow C fibres only
+- Photoreceptor fibres
+- Motor fibres to muscle
+- Autonomic fibres only, with no sensory role
+E: A-delta fibres give rapid, sharp, localised first pain; C fibres give later dull pain. (Lecture 2: Health and Disease - Part 2)
+
+Which correctly contrasts acute and chronic pain?
+* Acute pain - recent onset, often linked to injury and protective; Chronic pain - prolonged/persistent beyond the acute episode
+- Acute pain - always lasts years; Chronic pain - always lasts seconds
+- Acute pain - cannot be assessed; Chronic pain - only a sign, never a symptom
+- Both - defined by chromosome number
+- Chronic pain - always indicates trisomy
+E: Duration and persistence beyond normal healing/acute phase distinguish chronic pain. (Lecture 2: Health and Disease - Part 2)
+
+@ Lecture 3: Clinical History 2025-26
+Which statement about X-rays versus CT is correct?
+* Both use ionising X-radiation; CT reconstructs cross-sections and generally shows more detail
+- X-rays use sound; CT uses magnetism
+- CT uses no ionising radiation in any form
+- Plain X-ray always shows soft tissue better than CT
+- Neither can image bone
+E: CT is multi-angle X-ray tomography, with higher detail and usually higher dose than a single radiograph. (Lecture 3: Clinical History 2025-26)
+
+MRI produces images mainly using:
+* A strong magnetic field and radiofrequency signals, without ionising radiation
+- X-rays from multiple angles
+- High-frequency sound waves
+- Radioactive glucose tracers only
+- Direct contact heat transfer
+E: MRI is preferred for many soft-tissue questions but implants/metal must be checked. (Lecture 3: Clinical History 2025-26)
+
+Ultrasonography is especially suitable for which task?
+* Real-time assessment of soft tissues/tendons and abdominal/pelvic organs without ionising radiation
+- Counting chromosomes
+- Measuring prostaglandin synthesis
+- Replacing pain history in all cases
+- Imaging only cortical bone fractures as first choice
+E: Ecography is dynamic, portable and radiation-free, though operator- and tissue-dependent. (Lecture 3: Clinical History 2025-26)
+
+A PET scan is ordered to assess metabolic activity of a lesion. PET belongs to:
+* Radioactive/nuclear-medicine techniques using a tracer
+- Ultrasound techniques
+- Magnetic techniques with no tracer ever
+- Plain radiography
+- Pharmacokinetic excretion tests
+E: Positron emission tomography visualises function/metabolism after radiotracer administration. (Lecture 3: Clinical History 2025-26)
+
+Which imaging pairing is correctly matched?
+* Bone/densest structures - X-ray; soft-tissue detail - MRI; real-time sound imaging - ultrasound; metabolism - PET
+- Bone - PET; soft tissue - X-ray only; real-time - karyotype; metabolism - palpation
+- Bone - ultrasound only; soft tissue - PET only; real-time - MRI set-point; metabolism - X-ray
+- All four techniques use identical physics
+- All four techniques use radioactive tracers
+E: Multi-item questions require matching modality to mechanism and typical use. (Lecture 3: Clinical History 2025-26)
+
+@ Lecture 2: Health and Disease - Part 2
+When assessing pain, which addition most improves a simple 0-10 intensity score?
+* Asking location, quality, timing, triggers/relievers and effect on daily function
+- Ignoring the patient's own report
+- Ordering PET for every pain complaint
+- Recording only the drug trade name
+- Measuring chromosome number
+E: A comprehensive assessment is multidimensional; intensity alone is incomplete. (Lecture 3: Clinical History 2025-26)
+
+@ Lecture 4: Pharmacology
+Which branch pairing is correct?
+* Pharmacokinetics - what the body does to the drug; Pharmacodynamics - what the drug does to the body
+- Pharmacokinetics - receptor effects only; Pharmacodynamics - excretion only
+- Both terms mean drug naming
+- Pharmacokinetics - manufacture of tablets; Pharmacodynamics - packaging
+- Neither relates to mechanism of action
+E: ADME belongs to kinetics; effects/mechanisms belong to dynamics. (Lecture 4: Pharmacology)
+
+A drug given intravenously bypasses absorption and first-pass loss, so its bioavailability is conventionally taken as:
+* Essentially complete (the reference for other routes)
+- Zero in all cases
+- Unrelated to systemic circulation
+- Determined only by tablet flavour
+- The same as its excretion rate
+E: Oral bioavailability is reduced by incomplete absorption and first-pass metabolism. (Lecture 4: Pharmacology)
+
+After entering the bloodstream, a drug that leaves plasma and enters tissues is in the phase called:
+* Distribution
+- Liberation from packaging only
+- Excretion only
+- Reception
+- Incubation
+E: Distribution depends on blood flow, lipid solubility, plasma-protein binding and tissue barriers. (Lecture 4: Pharmacology)
+
+Metabolism (biotransformation) in ADME mainly:
+* Chemically alters the drug, often in the liver, usually making it easier to excrete and/or inactivating it
+- Moves the drug from blood to tissue without chemical change
+- Is the same as taking the tablet orally
+- Defines the karyotype
+- Produces prostaglandins from arachidonic acid
+E: Metabolism can also activate prodrugs, but its classic role is chemical transformation. (Lecture 4: Pharmacology)
+
+Excretion differs from metabolism because excretion is:
+* Physical removal of drug/metabolites from the body, commonly via the kidney in urine
+- Chemical alteration of the drug in the liver only
+- Binding to a receptor
+- Release from a capsule
+- Movement into tissues
+E: ADME separates chemical biotransformation from elimination from the body. (Lecture 4: Pharmacology)
+
+According to Clark's receptor theory (1937), increasing the fraction of receptors occupied by an agonist would generally:
+* Increase the effect up to a maximum when occupancy saturates
+- Decrease the effect to zero in all cases
+- Have no possible relation to effect
+- Change the drug's chromosome number
+- Convert the drug into an excipient
+E: Response rises with occupancy and plateaus at maximal receptor occupancy/efficacy. (Lecture 4: Pharmacology)
+
+Which item is an excipient rather than the active ingredient?
+* A binder/filler that helps form and deliver the tablet
+- Ibuprofen in an ibuprofen tablet
+- The substance producing analgesia
+- The molecule inhibiting COX
+- The therapeutic agent named by the INN
+E: Excipients aid formulation/delivery; the active principle produces the pharmacological effect. (Lecture 4: Pharmacology)
+
+If a drug works by blocking an enzyme, that statement describes its:
+* Mechanism of action (pharmacodynamics)
+- Bioavailability percentage only
+- Excretion route only
+- Karyotype
+- Incubation period
+E: Mechanism of action specifies the molecular target and interaction producing the effect. (Lecture 4: Pharmacology)
+
+@ Lecture 5: Main Pharmacological Groups
+A non-selective NSAID blocks both COX-1 and COX-2. The expected therapeutic and adverse pattern is:
+* Less inflammatory prostaglandin production, but higher risk of gastric mucosal injury
+- More gastric protection and no anti-inflammatory effect
+- Direct bacterial killing with no GI risk
+- A raised fever set-point as the main benefit
+- Radioactive imaging of metabolism
+E: Blocking COX-2 helps inflammation/pain/fever; blocking COX-1 removes protective prostaglandins. (Lecture 5: Main Pharmacological Groups)
+
+Which adverse effect is most directly linked to NSAID COX-1 inhibition in the stomach?
+* Gastric ulceration/bleeding from reduced mucosal protection
+- Trisomy 21
+- Slow C-fibre pain only
+- Improved platelet aggregation in all patients
+- Loss of ultrasound image quality
+E: COX-1 prostaglandins maintain mucus/blood flow in the GI tract and support platelet function. (Lecture 5: Main Pharmacological Groups)
+
+Why can selective COX-2 inhibition still require caution despite gastric sparing?
+* COX-2 products also have physiological roles (e.g. vascular/renal), so adverse effects are not abolished
+- It kills all bacteria and fungi
+- It raises the hypothalamic set-point permanently
+- It contains a radioactive tracer
+- It prevents any drug distribution
+E: Selectivity reduces, but does not eliminate, class adverse effects. (Lecture 5: Main Pharmacological Groups)
+
+An antibiotic that only prevents bacteria multiplying while host defences clear them is:
+* Bacteriostatic
+- Bactericidal
+- Broad-spectrum by definition in every case
+- An NSAID
+- A radiotracer
+E: Bacteriostatic = growth inhibition; bactericidal = killing. (Lecture 5: Main Pharmacological Groups)
+
+Broad-spectrum antibiotics are most justifiably used when:
+* A serious infection must be covered before the causative organism is identified
+- A viral cold has been proven
+- Pain assessment is incomplete
+- Fever is due to a raised set-point only
+- A karyotype is normal
+E: Empiric broad cover is later narrowed when culture/identification allows. (Lecture 5: Main Pharmacological Groups)
+
+Which pairing about antibiotics is correct?
+* Bactericidal - kills bacteria; Bacteriostatic - inhibits growth; Broad-spectrum - covers many bacterial types
+- Bactericidal - inhibits growth only; Bacteriostatic - kills; Broad-spectrum - one strain only
+- All three terms describe COX inhibition
+- All three terms describe imaging techniques
+- Broad-spectrum means it treats pain, fever and inflammation like an NSAID
+E: These definitions are frequent multi-item exam targets. (Lecture 5: Main Pharmacological Groups)
+
+NSAIDs are useful in fever because reducing prostaglandins helps:
+* Lower the raised hypothalamic set-point (antipyretic effect), alongside analgesic/anti-inflammatory actions
+- Raise the set-point further
+- Kill the bacteria causing every fever
+- Increase gastric prostaglandin production
+- Block nociceptors permanently
+E: NSAIDs are antipyretic, analgesic and anti-inflammatory, not primarily antibacterial. (Lecture 5: Main Pharmacological Groups)
+
+A patient taking NSAIDs develops renal impairment risk. The lecture explanation most consistent with COX biology is:
+* Prostaglandins help maintain renal blood flow/GI mucosa, so COX inhibition can impair these protective roles
+- NSAIDs act as radioactive tracers in the kidney
+- NSAIDs change the karyotype of renal cells
+- Renal effects prove the drug was bacteriostatic
+- COX enzymes are nociceptors
+E: Renal, GI, cardiovascular and platelet effects follow from widespread prostaglandin functions. (Lecture 5: Main Pharmacological Groups)

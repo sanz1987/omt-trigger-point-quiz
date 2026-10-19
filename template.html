@@ -16,7 +16,7 @@ button,select{font:inherit}.btn{display:block;width:100%;min-height:56px;margin:
 .exp img{display:block;max-width:100%;max-height:320px;margin:10px auto 4px;border-radius:8px;background:#fff}.credit{font-size:12px;color:#5b6b7a;text-align:center}
 select{width:100%;min-height:52px;padding:10px;border-radius:12px;border:2px solid #c9d6e2;background:#fff;font-size:17px}
 .bar{height:6px;background:#dde6ee;border-radius:3px;overflow:hidden}.bar>div{height:100%;background:#1f5f8b}
-.big{font-size:44px;font-weight:800;text-align:center;margin:10px 0}
+.big{font-size:44px;font-weight:800;text-align:center;margin:10px 0}.sel{background:#dbeafe!important;border-color:#1f5f8b!important;font-weight:700}.qgrid{display:flex;flex-wrap:wrap;gap:6px}.qgrid button{width:44px;height:44px;border-radius:10px;border:2px solid #c9d6e2;background:#fff;cursor:pointer}.qgrid button.done{background:#dbeafe;border-color:#1f5f8b}.qgrid button.cur{outline:3px solid #1f5f8b}
 table{border-collapse:collapse;font-size:13px;width:100%}td{border-bottom:1px solid #e3e9ef;padding:4px;vertical-align:top}
 </style></head><body>
 <header><a href="#/">🏠</a><span id="ttl">Physio Year 2 · Study Quizzes</span></header>
@@ -50,6 +50,13 @@ function menu(){
   <button class="btn secondary" id="rev" ${m?'':'disabled style="opacity:.5"'}>Review mistakes (${m})</button>
   ${m?'<button class="btn secondary muted" id="clr">Clear mistake list</button>':''}
   <button class="btn secondary" onclick="location.hash='#/'">← All classes</button></div>`;
+  const mocks=(BANK.mocks||[]).filter(x=>x.classId===C.id);
+  if(mocks.length){
+    const d=document.createElement('div');d.className='card';
+    d.innerHTML=`<b style="color:#1f5f8b;font-size:19px">📝 Mock midterm — Pathophysiological Foundations I</b><p class="muted">Lessons 1–5 only, in the real exam format: <b>40 questions · 5 options · only one correct</b>.<br>Scoring: <b>+0.25</b> correct · <b>−0.05</b> wrong · blank = 0 · score out of <b>10</b>. No feedback until you finish — like the real thing. Exam context: Tue 28 Oct, 9:00, Room 203 UB, 90 min.</p><label class="muted"><input type="checkbox" id="timed" checked> 90-minute timer (auto-submits at 0)</label>${mocks.map(m=>`<button class="btn primary" data-mock="${m.id}">${esc(m.title)} — start (40 questions)</button>`).join('')}`;
+    app.appendChild(d);
+    d.querySelectorAll('[data-mock]').forEach(b=>b.onclick=()=>startMock(mocks.find(m=>m.id===b.dataset.mock),document.getElementById('timed').checked));
+  }
   document.getElementById('go').onclick=()=>{const t=document.getElementById('tp').value;localStorage.setItem(K('topic'),t);start(C.questions.filter(q=>!t||q.topic===t),false)};
   if(m)document.getElementById('rev').onclick=()=>{const ids=new Set(mistakes());start(C.questions.filter(q=>ids.has(q.id)),true)};
   const c=document.getElementById('clr');if(c)c.onclick=()=>{if(confirm('Clear all saved mistakes for this class?')){saveM([]);menu()}};
@@ -89,6 +96,54 @@ function end(){
   <button class="btn primary" id="nq">New quiz</button><button class="btn secondary" id="hm">Class menu</button></div>`;
   document.getElementById('nq').onclick=()=>{const t=localStorage.getItem(K('topic'))||'';start(C.questions.filter(q=>!t||q.topic===t),false)};
   document.getElementById('hm').onclick=menu;
+}
+
+let mockTimer=null;
+function stopTimer(){if(mockTimer){clearInterval(mockTimer);mockTimer=null}}
+function startMock(m,timed){
+  stopTimer();
+  const qs=m.questions.map(q=>{const o=shuffle(q.options.map((t,i)=>({t,c:i===q.answer})));return{...q,o}});
+  st={mock:m,qs,i:0,ans:Array(qs.length).fill(null),timed:!!timed,left:90*60,review:false,wrong:[],score:0};
+  if(st.timed){mockTimer=setInterval(()=>{st.left--;const el=document.getElementById('tmr');if(el)el.textContent=fmtTime(st.left);if(st.left<=0){stopTimer();finishMock()}},1000)}
+  showMock();
+}
+const fmtTime=s=>`${Math.floor(Math.max(0,s)/60)}:${String(Math.max(0,s)%60).padStart(2,'0')}`;
+function showMock(){
+  const q=st.qs[st.i],n=st.qs.length,done=st.ans.filter(a=>a!==null).length;
+  app.innerHTML=`<div class="card"><div class="muted">${esc(st.mock.title)} · Question ${st.i+1} / ${n} · Answered ${done}/${n}${st.timed?` · ⏱ <span id="tmr">${fmtTime(st.left)}</span>`:''}<br>${esc(q.topic)}</div>
+  <div class="bar"><div style="width:${100*done/n}%"></div></div><p class="q">${esc(q.q)}</p>
+  ${q.o.map((o,k)=>`<button class="btn opt ${st.ans[st.i]===k?'sel':''}" data-k="${k}">${'ABCDE'[k]}. ${esc(o.t)}</button>`).join('')}
+  <button class="btn secondary" id="clr">Clear answer (leave blank)</button>
+  <div style="display:flex;gap:8px"><button class="btn secondary" id="pv" ${st.i?'':'disabled style="opacity:.5"'}>← Prev</button><button class="btn secondary" id="nx">${st.i===n-1?'Last question →':'Next →'}</button></div>
+  <button class="btn primary" id="fin">Finish &amp; score exam</button>
+  <p class="muted">Blank = 0, wrong = −0.05, correct = +0.25. You can change answers before finishing.</p>
+  <div class="qgrid">${st.qs.map((_,k)=>`<button data-j="${k}" class="${st.ans[k]!==null?'done':''} ${k===st.i?'cur':''}">${k+1}</button>`).join('')}</div></div>
+  <button class="btn secondary" id="quit">Quit mock (no score)</button>`;
+  document.querySelectorAll('.opt').forEach(b=>b.onclick=()=>{st.ans[st.i]=+b.dataset.k;showMock()});
+  document.querySelectorAll('[data-j]').forEach(b=>b.onclick=()=>{st.i=+b.dataset.j;showMock()});
+  document.getElementById('clr').onclick=()=>{st.ans[st.i]=null;showMock()};
+  const pv=document.getElementById('pv');if(pv&&st.i)pv.onclick=()=>{st.i--;showMock()};
+  document.getElementById('nx').onclick=()=>{if(st.i<n-1){st.i++;showMock()}};
+  document.getElementById('fin').onclick=()=>{const blank=st.ans.filter(a=>a===null).length;if(!confirm(`Finish mock? ${blank} question(s) are blank (they score 0).`))return;stopTimer();finishMock()};
+  document.getElementById('quit').onclick=()=>{if(confirm('Quit this mock? No score will be recorded.')){stopTimer();menu()}};
+  window.scrollTo(0,0);
+}
+function finishMock(){
+  stopTimer();
+  let c=0,w=0,b=0;const by={};
+  st.qs.forEach((q,i)=>{const a=st.ans[i];by[q.topic]=by[q.topic]||{c:0,w:0,b:0};
+    if(a===null){b++;by[q.topic].b++}else if(q.o[a].c){c++;by[q.topic].c++}else{w++;by[q.topic].w++}});
+  const score=Math.round((c*0.25-w*0.05)*100)/100;
+  st.mockResult={c,w,b,score};
+  const rows=Object.entries(by).map(([t,v])=>`<tr><td>${esc(t)}</td><td>${v.c}✔ · ${v.w}✘ · ${v.b} blank</td></tr>`).join('');
+  const review=st.qs.map((q,i)=>{const a=st.ans[i],right=q.o.findIndex(o=>o.c),ok=a!==null&&q.o[a].c;
+    return `<div class="exp" style="margin-bottom:10px"><b>Q${i+1}. ${ok?'✅ Correct':a===null?'⚪ Blank':'❌ Incorrect'}</b> · ${esc(q.topic)}<br><span class="q" style="font-size:16px">${esc(q.q)}</span><br>Your answer: ${a===null?'<i>blank (0)</i>':esc(q.o[a].t)}<br>Correct answer: <b>${esc(q.o[right].t)}</b><br>${esc(q.explanation)}</div>`}).join('');
+  app.innerHTML=`<div class="card"><div class="muted">${esc(st.mock.title)} · Results (real marking)</div><div class="big">${score} / 10</div>
+  <p style="text-align:center">${c} correct (+${(c*0.25).toFixed(2)}) · ${w} wrong (−${(w*0.05).toFixed(2)}) · ${b} blank (0)<br><span class="muted">40 questions · +0.25 / −0.05 / blank 0 · maximum 10.00</span></p>
+  <table>${rows}</table><button class="btn primary" id="again">Retake this mock</button><button class="btn secondary" id="hm">Class menu</button></div>
+  <div class="card"><b>Review — every question</b>${review}</div>`;
+  document.getElementById('again').onclick=()=>startMock(st.mock,st.timed);
+  document.getElementById('hm').onclick=menu;window.scrollTo(0,0);
 }
 function credits(){
   ttl.textContent='Image credits & sources';
