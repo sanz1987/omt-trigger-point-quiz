@@ -3,7 +3,7 @@ Mobile MCQ quiz site for Nóra's Year 2 physiotherapy classes. Live: https://san
 
 Classes (home menu → class): each has 20 random questions per session, a topic filter, and a per-class "Review mistakes" list (stored in the browser).
 - **OMT II · Trigger point muscles**: generated from `muscles.json` (origins, insertions, actions, nerves), checked against the Catalyst University slides (page numbers given in explanations).
-- **OMT II · Techniques**, **Pathology of Trauma**, **Biomechanics**, **Research Methodology**, **Pathophysiological Foundations I**: hand-written banks in `classes/*.txt`, based on the course PDFs.
+- **OMT II · Techniques**, **Pathology of Trauma**, **Biomechanics**, **Research Methodology**, **Pathophysiological Foundations I**: 120 MCQs in `classes/patho1.txt`, rebuilt 2026-10-19 from the 10 numbered 2025-26 lecture PDFs in the Drive folder 'Pathological bases 1' (each explanation names its source lecture).
 
 ## Editing
 - Question format in `classes/<id>.txt`: `@ Topic`, then blocks of `question` / `* correct` / `- wrong` (x3) / `E: explanation (source)`, separated by blank lines.

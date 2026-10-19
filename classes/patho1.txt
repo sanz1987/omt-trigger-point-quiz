@@ -1,150 +1,861 @@
-# Pathophysiological Foundations I — THIN: only syllabus, calendar and the intro presentation are on Drive (no lecture content yet). Last section uses definitions from Nóra's own study pack, not lecture slides.
-@ Course organisation (syllabus)
-How is Pathophysiological Foundations I weighted under continuous assessment?
-* Midterm 30%, oral presentation 20%, final exam 50%
-- Midterm 40%, final 60%
-- Oral presentation 50%, final 50%
-- Final exam 100%
-E: Syllabus marking criteria. (The intro slides once say 40% for the midterm; the syllabus is authoritative.)
+# Pathophysiological Foundations I — rebuilt 2026-10-19 from last year's (2025-26) lecture slides on Nora Personal Drive, folder 'Pathological bases 1' (10 PDFs). All questions are slide-content; calendar/syllabus-organisation questions removed.
 
-The midterm exam consists of:
-* 40 MCQs (a–e), no negative marking, 90 minutes
-- 20 short-answer questions
-- 40 MCQs with negative marking
-- An oral exam
-E: No minimum mark is required for the midterm. (Syllabus; presentation)
+@ 1. Health and Disease - Part 1
 
-When is the midterm exam?
-* 27 October 2026
-- 19 January 2027
-- 15 December 2026
-- 2 February 2027
-E: Calendar.
+According to the WHO definition in the slides, health is:
+* A state of complete physical, mental and social well-being, not merely the absence of disease or infirmity
+- Merely the absence of disease
+- Normal vital signs at rest
+- The ability to work full-time without sick leave
+E: WHO definition quoted in the lecture. (Lecture 1: Health and Disease - Part 1)
 
-The final exam differs from the midterm because it:
-* Has negative marking and requires a minimum of 4.5/10
-- Has no negative marking
-- Is an oral exam
-- Has no minimum mark
-E: 40 MCQs, 90 min; unanswered questions are not penalised. (Syllabus)
+Homeostasis is best defined as:
+* The state of balance between body systems necessary for survival and proper function
+- A permanent, unchanging internal state
+- The process of cell death after injury
+- An increase in body temperature during infection
+E: The body constantly adjusts to internal and external changes to maintain this balance. (Lecture 1: Health and Disease - Part 1)
 
-What happens if a student misses their oral presentation?
-* They are referred directly to the BCE
-- They get a 5 automatically
-- They present alone the next week
-- Nothing
-E: All group members must present; grades are individual. (Syllabus)
+Which organ system is given as the example of water and mineral balance (osmoregulation)?
+* The kidneys
+- The skin
+- The pancreas
+- The spleen
+E: Slides pair osmoregulation with the kidneys. (Lecture 1: Health and Disease - Part 1)
 
-The oral presentation topic must cover:
-* Topics related to the classes and how they influence decision-making and physiotherapy treatment
-- Any free topic
-- A literature review on pharmacology history only
-- A personal case diary
-E: 10 groups of 6–7 students; 15 Dec 2026 and 12 Jan 2027. (Syllabus; presentation)
+In the slides, glucose regulation is linked mainly to:
+* The liver and pancreas (insulin production)
+- The kidneys and skin
+- The thyroid and thymus
+- The spleen and bone marrow
+E: Glucose levels regulation: liver and pancreas. (Lecture 1: Health and Disease - Part 1)
 
-Unique-pathway (non-continuous) students must:
-* Sit a unique exam and present an article solo in PowerPoint on 19 Jan 2027, needing at least 5/10
-- Only submit an essay
-- Attend all oral presentations
-- Pass the midterm only
-E: Requires authorisation from the Course Coordinator. (Syllabus)
+Aetiology means:
+* The cause of a disease
+- The step-by-step development of a disease
+- The structural changes in tissues
+- The patient's subjective complaint
+E: From the Greek for study of cause; one disease can have more than one aetiology. (Lecture 1: Health and Disease - Part 1)
 
-How many ECTS is the subject?
-* 6
-- 3
-- 12
-- 4.5
-E: Second year, first semester, Tuesdays 9:00–13:00. (Syllabus)
+Pathogenesis is:
+* The series of mechanistic chemical and cellular steps by which a disease develops
+- The original cause of a disease
+- A laboratory test result
+- The final stage of recovery
+E: Slides contrast pathogenesis (mechanism/sequence) with aetiology (cause). (Lecture 1: Health and Disease - Part 1)
 
-The syllabus says the course studies medical-surgical pathologies within which model?
-* The psycho-bio-social model
-- The purely biomedical model
-- The Mulligan concept
-- The Maitland concept
-E: Syllabus description.
+The latent (incubation) period is:
+* The interval between exposure to an injurious agent and the first signs and symptoms
+- The period of greatest severity
+- The first nonspecific symptoms of onset
+- The recovery period after treatment
+E: In infectious disease this interval is called the incubation period. (Lecture 1: Health and Disease - Part 1)
 
-Who teaches the subject?
-* Prof. Ivan Leo Bacha, MSc, PT
-- Àlex Chicano
-- Federica Anasetti
-- Renata Kelly da Palma
-E: Syllabus; presentation.
+Prodromal symptoms are characteristically:
+* Early, often nonspecific, e.g. headache, malaise and fever
+- Always organ-specific and severe
+- Only visible on imaging
+- Absent in acute disease
+E: The prodrome marks the first signs indicating onset. (Lecture 1: Health and Disease - Part 1)
 
-@ Course content map (calendar)
-Which topic is covered on 29 Sept, together with health and disease?
-* Pathophysiological mechanisms of inflammation and fever
-- Oncology fundamentals
-- Endocrine pathophysiology
-- Digestive pathophysiology
-E: Calendar.
+An acute condition, as classified in the slides, is one that:
+* Has relatively severe manifestations but runs a short course (hours, days or a few weeks)
+- Lasts for months to years
+- Has no signs or symptoms
+- Is always congenital
+E: Chronic conditions, by contrast, last months to years. (Lecture 1: Health and Disease - Part 1)
 
-Which session covers clinical history/anamnesis?
-* 6 October, together with diagnostic tests
-- 3 November
-- 1 December
-- 22 September
-E: Calendar.
+A sign differs from a symptom because a sign is:
+* Objective evidence perceived by the clinician (e.g. a bruise)
+- Only felt by the patient (e.g. pain)
+- Always measured in a laboratory
+- A cause of disease
+E: Symptoms are subjective and drive the patient to seek care. (Lecture 1: Health and Disease - Part 1)
 
-Pharmacokinetics, pharmacodynamics, bioavailability and drug classification are taught on:
-* 13 October
-- 20 October
-- 17 November
-- 24 November
-E: 20 Oct: main pharmacological groups, mechanism of action, side effects. (Calendar)
+Pathophysiology includes which four interrelated topics?
+* Aetiology, pathogenesis, clinical manifestations and treatment implications
+- Anatomy, embryology, histology and biochemistry
+- Inspection, palpation, percussion and auscultation
+- Prevention, screening, treatment and rehabilitation
+E: As listed under General Pathophysiological Basis. (Lecture 1: Health and Disease - Part 1)
 
-Which block comes AFTER the midterm?
-* Oncology, benign haematology, musculoskeletal, digestive and endocrine pathophysiology
-- Inflammation and fever
-- Anamnesis and diagnostic tests
-- Pharmacology fundamentals
-E: The midterm covers roughly the first five sessions. (Calendar)
+The normal human karyotype described in the slides consists of:
+* 46 chromosomes: 22 homologous autosomal pairs plus the sex chromosomes
+- 23 chromosomes in total
+- 44 chromosomes with no sex chromosomes
+- 92 chromosomes in every cell
+E: Almost every human cell contains a full diploid genome arranged into 46 chromosomes. (Lecture 1: Health and Disease - Part 1)
 
-Musculoskeletal pathophysiology is scheduled for:
-* 17 November
-- 10 November
-- 1 December
-- 29 September
-E: 10 Nov benign haematology; 24 Nov digestive; 1 Dec endocrine. (Calendar)
+@ 2. Health and Disease - Part 2
 
-@ Core definitions (from Nóra's study pack, not lecture slides)
-The WHO defines health as:
-* A state of complete physical, mental and social well-being, not merely the absence of disease
-- The absence of disease
-- Normal vital signs
-- Physical fitness only
-E: Study pack, week 1 (WHO definition).
+In the illness/disease distinction, patients suffer ___ while doctors diagnose and treat ___.
+* Illnesses; diseases
+- Diseases; illnesses
+- Symptoms; signs
+- Syndromes; symptoms
+E: Illness is the lived experience; disease is the abnormality of structure/function. (Lecture 2: Health and Disease - Part 2)
 
-"Illness" refers to:
-* The person's subjective, lived experience of disease
-- The cause of a disease
-- Structural tissue change
-- An objective lab finding
-E: Disease = disrupted structure/function with identifiable aetiology/pathogenesis. (Study pack)
+Which is listed as an organism response of adaptation?
+* Hypertrophy, atrophy and hyperplasia
+- Necrosis only
+- Fibrosis only
+- Metastasis
+E: Adaptation is response 1 in the lecture, alongside inflammation, necrosis and regeneration/fibrosis. (Lecture 2: Health and Disease - Part 2)
 
-Aetiology is:
-* The cause(s) of a disease
-- The sequence of events from cause to lesion
-- Structural changes in tissues
-- The patient's symptoms
-E: Pathogenesis = sequence of cellular/tissue events from cause to lesion; morphology = structural changes. (Study pack)
+The suffix '-itis' (as in dermatitis) indicates:
+* Inflammation
+- A tumour
+- A bacterial infection only
+- Tissue death
+E: Slides give dermatitis as the example. (Lecture 2: Health and Disease - Part 2)
 
-Which is a SIGN rather than a symptom?
-* Elevated measured body temperature
-- Reported fatigue
-- Pain described by the patient
-- Nausea felt by the patient
-E: Signs are objective; symptoms are subjective. (Study pack)
+In acute inflammation, histamine released by mast cells:
+* Dilates capillaries and increases leakiness so phagocytes reach the area
+- Constricts all vessels permanently
+- Stops phagocyte migration
+- Lowers body temperature directly
+E: Bradykinins alert free nerve endings; phagocytes then consume microbes and debris. (Lecture 2: Health and Disease - Part 2)
 
-Which is often called the "fifth vital sign"?
-* Pain
-- SpO2
-- Weight
-- Height
-E: HR, RR, BP, temperature, SpO2 and pain. (Study pack)
+Acute and chronic inflammation are distinguished mainly by:
+* Duration and the type of infiltrating inflammatory cells
+- The organ affected only
+- Whether fever is present
+- The patient's age
+E: Stated explicitly in the inflammation slides. (Lecture 2: Health and Disease - Part 2)
 
-The biopsychosocial (ICF) frame matters to physiotherapists because:
-* The same pathology does not mean the same disability
-- It ignores the environment
-- It only uses imaging
-- It replaces clinical reasoning
-E: ICF components: body functions/structures, activities, participation, environmental and personal factors. (Study pack)
+Necrosis is defined in the slides as:
+* Premature death of cells in living tissue by autolysis (own enzymes, e.g. from lysosomes)
+- Programmed, healthy cell renewal
+- Growth of new blood vessels
+- Reversible cell swelling only
+E: Necrosis is response 3 in the lecture. (Lecture 2: Health and Disease - Part 2)
+
+Primary prevention aims to:
+* Prevent the development of disease (e.g. health promotion, education, self-defences)
+- Detect disease early by screening
+- Restore function after established disease
+- Avoid harm from unnecessary medical intervention
+E: Secondary = screening/early detection; tertiary = reduce impact of established disease; quaternary = avoid over-medicalisation harm. (Lecture 2: Health and Disease - Part 2)
+
+Fever (pyrexia) is defined as temperature above the normal range due to:
+* An increase in the body's temperature set-point
+- Failure of sweating only
+- External heating of the skin
+- Low hypothalamic activity
+E: Internal temperature is sensed/controlled by the preoptic area of the hypothalamus. (Lecture 2: Health and Disease - Part 2)
+
+Per the temperature classification in the slides, normal temperature is:
+* 36.5-37.5 °C
+- 35.0-36.0 °C
+- 37.5-38.5 °C
+- 38.3-40.0 °C
+E: Hypothermia is <35.0 °C and hyperpyrexia >40.0/41.0 °C in the same table. (Lecture 2: Health and Disease - Part 2)
+
+Heat loss by converting water from liquid to gas at skin/respiratory tract is:
+* Evaporation
+- Radiation
+- Conduction
+- Convection
+E: Radiation transfers to objects, conduction needs contact, convection uses moving fluid. (Lecture 2: Health and Disease - Part 2)
+
+Nociceptors are:
+* Free nerve endings that detect painful (noxious) stimuli and alert the nervous system
+- Hormones released in fever
+- Platelet precursors
+- Thyroid cells producing T3
+E: Covered under peripheral aspects of pain / nociceptive system. (Lecture 2: Health and Disease - Part 2)
+
+Chronic pain differs from acute pain in the slides principally by:
+* Its prolonged duration and persistence beyond the acute episode
+- Always having no identifiable stimulus
+- Never being assessable by scales
+- Being a sign rather than an experience
+E: Lecture contrasts acute vs chronic pain and covers subjective assessment scales and pain control. (Lecture 2: Health and Disease - Part 2)
+
+@ 3. Clinical History 2025-26
+
+A clinical history (CH) is:
+* The documentary set created to collect the patient's health-care process information
+- Only the discharge letter
+- A single laboratory report
+- The patient's own diary only
+E: It is a legal document for communication between clinical team members. (Lecture 3: Clinical History 2025-26)
+
+Who is obliged to record their participation in the clinical history?
+* Every professional intervening in the care process, including physiotherapists
+- Only the admitting physician
+- Only nurses
+- Only private-sector staff
+E: Professionals must cooperate in orderly, sequential clinical documentation (Art. 17.3 as cited). (Lecture 3: Clinical History 2025-26)
+
+Which belongs in the parts of a medical history?
+* Family and personal antecedents, reason for consultation, exploration/assessment, objectives/treatment and follow-up
+- Only vital signs
+- Only imaging results
+- Only medication list
+E: Slides list these sections plus complementary tests and discharge indications. (Lecture 3: Clinical History 2025-26)
+
+A physiotherapeutic assessment in the slides includes:
+* Inspection, palpation, mobility/ROM, muscle strength and special tests, leading to a functional diagnosis
+- Only prescribing medication
+- Only reading blood tests
+- Only discharge planning
+E: Distinguished from medical assessment/clinical diagnosis in the lecture. (Lecture 3: Clinical History 2025-26)
+
+Tachypnoea means:
+* Abnormally rapid respiratory rate
+- Absent breathing
+- Abnormally slow breathing
+- Painful breathing only at night
+E: Bradypnoea = slow, apnoea = absent, dyspnoea = difficult breathing. (Lecture 3: Clinical History 2025-26)
+
+SpO2 measures:
+* Oxygen saturation of arterial blood (pulse oximetry)
+- Blood glucose
+- Systolic pressure
+- Body temperature
+E: Covered with vital signs alongside BP, pulse, respiratory rate, glycaemia and temperature. (Lecture 3: Clinical History 2025-26)
+
+Radiography is best suited, as introduced in diagnostic tests, to:
+* Visualising bones and dense structures with X-rays
+- Soft-tissue detail without any radiation in pregnancy
+- Real-time tendon movement only
+- Blood flow velocity only
+E: Lecture then contrasts CT, MRI and ecography/ultrasound. (Lecture 3: Clinical History 2025-26)
+
+A key advantage of MRI over CT highlighted in the diagnostic-tests section is:
+* Detailed soft-tissue imaging without ionising X-ray radiation (but with contraindications such as some pacemakers/metal)
+- It is always faster and cheaper
+- It uses no magnetic field
+- It is best for cortical bone only
+E: Slides list MRI indications/contraindications separately from CT. (Lecture 3: Clinical History 2025-26)
+
+Ecography (ultrasound) is typically used for:
+* Real-time imaging of soft tissues, tendons and organs without ionising radiation
+- Only bone scintigraphy
+- Only coronary vessels
+- Measuring blood glucose
+E: Listed among diagnostic imaging explorations with its own indications/contraindications. (Lecture 3: Clinical History 2025-26)
+
+Bone scintigraphy, angiography and PET are grouped in the lecture as:
+* Other/complementary diagnostic tests beyond routine lab and standard imaging
+- Vital signs
+- Pharmaceutical forms
+- Types of pain scales
+E: PET = positron emission tomography; angiography images vessels. (Lecture 3: Clinical History 2025-26)
+
+In the history of current disease, the physiotherapist should ask about:
+* The cause(s) leading the patient to seek therapy, plus other conditions (visual/hearing, respiratory, cardiac history etc.) even if not currently bothersome
+- Only the painful spot today
+- Only family occupation
+- Nothing beyond imaging
+E: As detailed in the physiotherapeutic CH section. (Lecture 3: Clinical History 2025-26)
+
+Inspection in assessment includes observing:
+* Body posture, skin/bone structure, finger deformities and gait
+- Only laboratory values
+- Only medication adherence
+- Only pain scores
+E: Palpation then examines skin/subcutaneous and soft tissues. (Lecture 3: Clinical History 2025-26)
+
+@ 4. Pharmacology
+
+Pharmacology is:
+* The science/reasoned study of drugs and substances that modify structures and functions of living organisms
+- Only the manufacture of tablets
+- Only herbal medicine
+- The study of bones and joints
+E: Clinical pharmacology examines drug effects in patients; pharmacotherapy is use for a concrete illness. (Lecture 4: Pharmacology)
+
+Every drug's three names are:
+* Chemical name, generic name and trade (brand) name
+- Latin, Greek and English names
+- Oral, topical and injectable names
+- Adult, paediatric and geriatric names
+E: Example: chemical 2-(4-isobutylphenyl)propanoic acid = generic ibuprofen = trade Motrin. (Lecture 4: Pharmacology)
+
+The generic (INN) name is:
+* The official non-commercial name of a pharmacological substance
+- A company marketing name
+- The molecular formula
+- A patient's nickname for a drug
+E: INN = International Nonproprietary Name; paracetamol (BAN) = acetaminophen (USAN). (Lecture 4: Pharmacology)
+
+Excipients in a pharmaceutical form function to:
+* Accompany the active principle and favour its delivery (binders, fillers, disintegrators, lubricants, coaters, flavours etc.)
+- Produce the main therapeutic effect
+- Replace the active ingredient
+- Prevent any absorption in all cases
+E: The active principle is responsible for the pharmacological effect. (Lecture 4: Pharmacology)
+
+Bioavailability is:
+* The rate and amount of unchanged drug reaching systemic circulation/target from its site of administration
+- The colour of a tablet
+- The time a drug stays in its box
+- Only the IV dose fraction by definition in all routes equally
+E: Compared across oral, IV, IM and subcutaneous routes in the slides. (Lecture 4: Pharmacology)
+
+Pharmacokinetics studies:
+* What the body does to the drug over time: absorption, distribution, biotransformation/metabolism and excretion
+- What the drug does to the body at receptors only
+- Only drug naming
+- Only adverse reactions
+E: Pharmacodynamics is the complementary 'what the drug does to the body'. (Lecture 4: Pharmacology)
+
+Pharmacodynamics includes:
+* Physiological/biochemical effects of drugs and their mechanism of action at organ, subcellular and macromolecular levels
+- Only excretion by the kidney
+- Only tablet disintegration
+- Only bioavailability measurement
+E: Contrasted with pharmacokinetics in the lecture. (Lecture 4: Pharmacology)
+
+Passive drug transport across membranes includes:
+* Simple diffusion and filtration through pores/channels
+- Only pinocytosis
+- Only carrier proteins against a gradient
+- Active transport requiring vesicles only
+E: Specialised transport is carrier-mediated or pinocytosis. (Lecture 4: Pharmacology)
+
+Pinocytosis is:
+* Transport across the cell in particulate form by formation of vesicles
+- Filtration through a pore
+- Simple diffusion down a gradient
+- Excretion in urine
+E: Listed under specialised/carrier transport mechanisms. (Lecture 4: Pharmacology)
+
+Liberation (release) in pharmacokinetics refers to:
+* Release of the drug from its pharmaceutical form (tablet, capsule, suppository etc.) before absorption
+- Release of hormones from glands
+- Patient discharge from hospital
+- Removal of a drug from the market
+E: It precedes absorption into systemic circulation. (Lecture 4: Pharmacology)
+
+Which is a gaseous pharmaceutical form / route example in the slides?
+* Sprays and inhalation
+- Suppositories
+- Eye drops only
+- Syrups
+E: Solids include tablets/capsules; liquids include syrups, injectables and eye drops. (Lecture 4: Pharmacology)
+
+Systemic absorption after topical application depends primarily on:
+* Lipid solubility of the drug
+- Tablet shape
+- The drug's trade name
+- Patient height alone
+E: Applies to skin, eye, ear, nose, inhalation and mucosal routes. (Lecture 4: Pharmacology)
+
+@ 5. Main Pharmacological Groups
+
+NSAIDs are used to treat:
+* Pain, fever and inflammatory processes (antipyretic, anti-inflammatory, analgesic)
+- Bacterial infection directly
+- Cancer metastasis
+- Diabetes only
+E: FDA-approved uses as summarised in the lecture. (Lecture 5: Main Pharmacological Groups)
+
+The main mechanism of action of NSAIDs is:
+* Inhibition of cyclooxygenase (COX), reducing thromboxanes, prostaglandins and prostacyclins from arachidonic acid
+- Blocking bacterial cell walls
+- Replacing insulin
+- Suppressing all lymphocytes permanently
+E: Therapeutic effects are attributed to lack of these eicosanoids. (Lecture 5: Main Pharmacological Groups)
+
+COX-1, in contrast to COX-2, is:
+* Constitutively expressed, maintaining GI mucosa, kidney function and platelet aggregation
+- Only induced during inflammation
+- Absent from the stomach
+- The sole target of celecoxib
+E: COX-2 is inducibly expressed during inflammatory response. (Lecture 5: Main Pharmacological Groups)
+
+Celecoxib is an example of:
+* A selective COX-2 inhibitor
+- A non-acetylated salicylate
+- An antibiotic
+- A chemotherapy drug
+E: It has a different side-effect profile from nonselective NSAIDs. (Lecture 5: Main Pharmacological Groups)
+
+Gastric adverse effects of NSAIDs are mainly due to:
+* COX-1 inhibition reducing prostaglandins that protect the gastric mucosa
+- Increased gastric prostaglandins
+- Bacterial overgrowth only
+- Low platelet count only
+E: Renal, cardiovascular, hepatic and haematologic effects are also listed. (Lecture 5: Main Pharmacological Groups)
+
+Topical NSAIDs (e.g. diclofenac gel) are noted as useful for:
+* Acute tenosynovitis, ankle sprains and soft-tissue injuries
+- Systemic hypertension
+- Pneumonia
+- Leukaemia
+E: Relevant to physiotherapy practice. (Lecture 5: Main Pharmacological Groups)
+
+Bactericidal antibiotics:
+* Kill bacteria directly, regardless of the host immune system
+- Only inhibit growth so the immune system can eliminate infection
+- Only treat viruses
+- Are the same as NSAIDs
+E: Bacteriostatic agents inhibit growth. (Lecture 5: Main Pharmacological Groups)
+
+The first antibiotic, penicillin, was discovered by:
+* A. Fleming in 1928
+- S. Waksman in 1944
+- I. Bacha in 2025
+- W. Roentgen in 1895
+E: Waksman discovered streptomycin and proposed the name 'antibiotics'. (Lecture 5: Main Pharmacological Groups)
+
+Antimicrobial agents are:
+* Drugs for the treatment and prevention of infectious diseases
+- Only painkillers
+- Only hormones
+- Only imaging contrast agents
+E: Antibiotic derives from 'antibiosis' = against life. (Lecture 5: Main Pharmacological Groups)
+
+NSAID toxicity can include:
+* Anion-gap metabolic acidosis and acute renal failure (often GI symptoms in acute overdose)
+- Only hair loss
+- Only hyperglycaemia
+- No renal effects ever
+E: Neurologic toxicity may present with tinnitus. (Lecture 5: Main Pharmacological Groups)
+
+Which NSAID grouping contains ibuprofen and naproxen?
+* Propionic acids
+- Acetic acids (diclofenac, indomethacin)
+- Enolic acids (meloxicam, piroxicam)
+- Anthranilic acids
+E: From the chemical-structure/selectivity classification. (Lecture 5: Main Pharmacological Groups)
+
+Immunosuppressive drugs, as a group in this lecture, act by:
+* Suppressing immune responses (used where dampening immunity is therapeutically required)
+- Stimulating antibody production in all cases
+- Killing bacteria directly
+- Replacing coagulation factors
+E: Covered after antibiotics, hormones and chemotherapy drugs. (Lecture 5: Main Pharmacological Groups)
+
+@ 6. Fundamental of Oncological Pathophysiology
+
+Cancer is defined in the slides as diseases in which there is:
+* An uncontrolled process in the division of the cells of the body
+- Only benign growth that never spreads
+- A bacterial infection of epithelium
+- Normal terminal differentiation
+E: Malignancy varies with aggressiveness and biological characteristics. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+A benign tumour, compared with a malignant one:
+* Does not spread to other tissues and rarely recurs after excision
+- Spreads via lymphatics/blood
+- Frequently relapses after excision
+- Always metastasises
+E: Malignant tumours spread and relapse frequently. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+Metastasis is spread principally via:
+* The lymphatic system or the circulatory system, forming new tumours
+- Only direct nerve conduction
+- Sweat glands
+- The digestive lumen only
+E: Also progressive invasion of nearby organs. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+Most cancers are thought to arise as monoclonal, meaning:
+* A single cell accumulates sufficient mutations in key genes to cause uncontrolled proliferation
+- Many cells transform simultaneously with no mutations
+- No genetic change is involved
+- Only environmental factors matter
+E: As cancers progress they may gain mutations and become more heterogeneous. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+Angiogenesis in solid tumours is initiated largely by tumour release of:
+* VEGF (vascular endothelial growth factor)
+- Insulin
+- Histamine only
+- Melatonin
+E: VEGF is up-regulated in many tumours; hypoxia increases its secretion. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+Tumour vasculature is characteristically:
+* Chaotic, irregular, highly permeable, with poor branching/blind ends and lacking normal basement membrane/pericytes
+- More regular than normal vessels
+- Impermeable to plasma
+- Always well innervated
+E: This leads to plasma leakage and high interstitial fluid pressure. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+High interstitial fluid pressure (IFP) in tumours:
+* Disrupts capillary pressure gradients, reducing blood flow/drug delivery and increasing hypoxia
+- Improves chemotherapy delivery
+- Lowers hypoxia
+- Is caused by strong lymphatics
+E: Tumours have leaky vessels and no functional lymphatics. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+Chronic tumour hypoxia is mainly due to:
+* Limited oxygen diffusion (cells far from vessels become hypoxic)
+- Temporary stoppage of flow only
+- Anaemia only
+- High carbon monoxide only
+E: Acute/fluctuating hypoxia is from temporary flow stoppages. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+The oxygen enhancement ratio (OER) concept means hypoxic cells:
+* May require up to about 3x more radiation to kill the same number of cells
+- Are killed more easily by radiation
+- Need no oxygen during irradiation ever
+- Are unaffected by oxygen levels
+E: Oxygen 'fixes' radiation DNA damage; effect must be present during/right after exposure. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+At least what proportion of cancers is thought preventable, per the slides?
+* At least 50% of cases
+- Less than 5%
+- About 10%
+- Essentially 100%
+E: Primary prevention focuses on modifiable lifestyle/environmental risk factors. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+Cancers arising from epithelium are:
+* The most common cancers
+- The rarest cancers
+- Always benign
+- Only found in intestine
+E: Rapidly renewing epithelia must escape sloughing/terminal differentiation. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+Physiotherapy in oncology, as introduced in the lecture, must account for:
+* Cancer treatments (e.g. chemotherapy/other drug treatments) and immunosuppression in cancer patients
+- Only bone density
+- Only sports performance
+- No treatment side effects
+E: Lecture includes cancer & physiotherapy and immunosuppression sections. (Lecture 6: Fundamental of Oncological Pathophysiology)
+
+@ 7. Benign Hematological Pathophysiology
+
+Haematopoiesis is:
+* Production of blood cells (erythropoiesis, leukopoiesis, thrombopoiesis) mainly in bone marrow from haematopoietic stem cells
+- Destruction of red cells in spleen only
+- Clotting of blood after injury only
+- Production of hormones by marrow
+E: Extramedullary haematopoiesis can occur in liver/spleen. (Lecture 7: Benign Hematological Pathophysiology)
+
+The myeloid lineage gives rise to:
+* RBCs, granulocytes, monocytes and platelets (innate, first-line defence)
+- Only B and T lymphocytes
+- Only NK cells
+- Only plasma cells
+E: Lymphoid lineage gives B, T and NK cells. (Lecture 7: Benign Hematological Pathophysiology)
+
+Lymphoid cells are key for:
+* Adaptive immunity: B-cell antibodies, T-cell cellular immunity, NK killing of abnormal cells, with immune memory
+- Only immediate non-specific defence
+- Platelet production
+- Oxygen transport
+E: Myeloid cells drive innate response, inflammation and wound healing. (Lecture 7: Benign Hematological Pathophysiology)
+
+Anaemia is:
+* Lack of enough healthy red blood cells to carry oxygen, causing fatigue, weakness, pallor and breathlessness
+- Excess platelets causing clots
+- Low white cells only
+- Excess red cells thickening blood
+E: Erythrocytosis is too many RBCs; leukopenia/thrombocytopenia affect other lines. (Lecture 7: Benign Hematological Pathophysiology)
+
+The most common cause of anaemia noted is:
+* Iron deficiency
+- Vitamin K excess
+- Dehydration only
+- High altitude only
+E: Symptoms may include chest pain, palpitations and frequent infections in the slides. (Lecture 7: Benign Hematological Pathophysiology)
+
+Thrombocytopenia is:
+* Low platelet count, with bleeding risk, from decreased production or increased destruction/use
+- High platelet count
+- Low haemoglobin only
+- Low lymphocytes only
+E: Physiotherapy implications/cautions are specifically covered. (Lecture 7: Benign Hematological Pathophysiology)
+
+Leukopenia is:
+* Low white blood cell count, increasing infection risk
+- High white blood cell count
+- Low red cell count
+- A type of lymphoma
+E: Contrasted with leukocytosis and discussed vs cancer in the lecture. (Lecture 7: Benign Hematological Pathophysiology)
+
+Leukaemia develops as:
+* A haematological neoplastic disease of white-cell precursors in marrow, affecting blood production and immunity
+- A benign iron deficiency
+- A platelet-only disorder
+- A soft-tissue sarcoma
+E: Types covered: ALL, AML, CLL and CML. (Lecture 7: Benign Hematological Pathophysiology)
+
+Lymphoma is:
+* A neoplasm of lymphoid tissue/lymphocytes that can spread through the lymphatic system
+- Only anaemia of chronic disease
+- A benign platelet disorder
+- Inflammation of a single joint
+E: Main types, signs/symptoms, diagnosis and treatment are covered. (Lecture 7: Benign Hematological Pathophysiology)
+
+In blood cancer, physiotherapy management in the acute phase must consider:
+* Physical impairments, fatigue/weakness and treatment phase, adapting exercise and monitoring closely (including palliative care where appropriate)
+- Ignoring platelet/WBC counts
+- Only maximal strength testing
+- No adaptation during chemotherapy
+E: Comprehensive and palliative physiotherapy management are explicit sections. (Lecture 7: Benign Hematological Pathophysiology)
+
+Neutrophils, as myeloid cells, primarily:
+* Attack bacteria and drive inflammation as first-line defence
+- Make antibodies
+- Produce insulin
+- Carry oxygen
+E: Macrophages/monocytes engulf pathogens; basophils/eosinophils act in allergy/parasite defence. (Lecture 7: Benign Hematological Pathophysiology)
+
+B cells mature/function to:
+* Produce antibodies as part of adaptive immunity
+- Clot blood
+- Transport CO2 only
+- Form bone marrow stroma only
+E: T cells kill infected cells/regulate responses; NK cells destroy abnormal/virus-infected cells. (Lecture 7: Benign Hematological Pathophysiology)
+
+@ 8. Physiopathology of the Muscle-skeletal Systems
+
+The musculoskeletal system's bone functions include:
+* Support/framework, protection, movement as levers, mineral storage, fat storage, acid-base balance and housing marrow for blood-cell production
+- Only protection of the brain
+- Only hormone production
+- Only digestion
+E: Mechanical, synthetic and metabolic categories. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+In adults, red marrow capable of haematopoiesis is restricted mainly to:
+* Vertebrae and heads of tibia and femur (with other flat/axial sites), as yellow fatty marrow replaces red marrow with age
+- Every long-bone shaft equally
+- Only finger bones
+- The skull sutures only
+E: In infants, marrow of all long bones can synthesise blood cells. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+Wolff's Law, as presented, states bone responds to mechanical load by:
+* Increasing density/mineralisation with regularly applied load (hypertrophy) and decreasing it when load is reduced (atrophy)
+- Never changing after maturity
+- Only growing in length
+- Losing minerals when exercised
+E: Electrical currents: compression negative charge, traction positive charge (piezoelectricity). (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+A fracture is:
+* Interruption of bone continuity
+- Calcium deficiency without break
+- Inflammation of a joint
+- Rupture of a ligament only
+E: Osteoporosis (calcium deficiency) predisposes to pathological/fatigue fractures. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+Absence of a trauma history:
+* Does NOT exclude fracture (fatigue/pathological fractures can occur without aggression/trauma history)
+- Rules out fracture completely
+- Proves osteoporosis
+- Means imaging is never needed
+E: Clinical signs include deformity, abnormal mobility (not to be provoked) and exposed fracture focus. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+Fracture healing management must balance:
+* Mechanical aspect (stability) and biological aspect (vascularisation)
+- Only immobilisation forever
+- Only early maximal loading
+- Neither stability nor blood supply
+E: Physiotherapy aims include controlling inflammation, minimising adhesions and optimising vascularisation. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+Synarthroses are joints that:
+* Allow no movement; fibrous joints that absorb loads/shock (e.g. sutures, syndesmoses)
+- Are freely mobile synovial joints
+- Contain a large joint cavity
+- Allow circumduction
+E: Amphiarthroses allow slight movement; diarthroses are freely mobile. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+A symphysis is an amphiarthrosis where:
+* Thin hyaline cartilage layers separate a fibrocartilage disc from the bones
+- Bones are joined only by sutures
+- There is a synovial cavity with fluid
+- No cartilage is present
+E: Synchondrosis joins bones by thick hyaline cartilage. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+Diarthroses (synovial joints) are characterised by:
+* Free mobility with a synovial joint structure
+- No movement
+- Fibrous union only
+- Direct bone-to-bone fusion
+E: Lecture covers joint stability and common joint injuries after classification. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+A sprain is an injury to:
+* Ligaments/joint-stabilising structures, graded I-III by severity in the slides
+- Only muscle belly
+- Only bone cortex
+- The skin only
+E: Conservative vs surgical treatment is discussed by grade. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+Osteoarthrosis, as a common joint pathology in the lecture, involves:
+* Degenerative joint change affecting cartilage/joint function and causing pain/stiffness
+- Acute bacterial infection only
+- Benign bone tumour
+- Platelet disorder
+E: Listed under common joint injuries and pathologies. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+Physiotherapy after musculoskeletal injury should, per the lecture aims:
+* Encourage isometric/isotonic training minimising muscle/joint loss, restore functional ROM and sensorimotor function, and train use of walking aids
+- Keep the limb completely inactive indefinitely
+- Ignore vascularisation
+- Avoid any movement retraining
+E: Also control inflammatory signs and minimise adhesions. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)
+
+@ 9. Physiopathology of Digestive System
+
+Ingestion is:
+* Entry of food into the alimentary canal through the mouth, where chewing and saliva begin digestion
+- Movement of food by peristalsis only
+- Absorption in the small intestine
+- Elimination of faeces
+E: Propulsion/peristalsis then moves food through the tract. (Lecture 9: Physiopathology of Digestive System)
+
+Peristalsis consists of:
+* Sequential alternating waves of contraction and relaxation of alimentary wall smooth muscle propelling food along
+- Localised back-and-forth mixing only
+- Voluntary tongue movement only
+- Gastric churning only
+E: Segmentation is the localised mixing contraction. (Lecture 9: Physiopathology of Digestive System)
+
+Chemical digestion begins in the mouth and involves:
+* Digestive secretions breaking complex molecules into building blocks (e.g. proteins into amino acids)
+- Only mechanical chewing
+- Only water absorption
+- Only bile production
+E: Mechanical digestion increases surface area/mobility. (Lecture 9: Physiopathology of Digestive System)
+
+Most enzymatic digestion and almost all absorption occur in:
+* The small intestine (duodenum, jejunum, ileum)
+- The stomach
+- The large intestine
+- The oesophagus
+E: About 7 m long; bile and pancreatic juice enter the duodenum via the ampulla of Vater. (Lecture 9: Physiopathology of Digestive System)
+
+In the stomach, the bolus is transformed into:
+* Chyme, with gastric emptying regulated by the pyloric sphincter
+- Faeces
+- Bile
+- Amino acids only
+E: The stomach completes mechanical digestion and continues chemical digestion. (Lecture 9: Physiopathology of Digestive System)
+
+The oesophagus moves food mainly by:
+* Peristalsis, not gravity, through upper and lower sphincters, crossing the diaphragm at the oesophageal hiatus
+- Gravity only
+- Ciliary action
+- Segmentation only
+E: About 30 cm, behind trachea and heart. (Lecture 9: Physiopathology of Digestive System)
+
+During the pharyngeal phase of swallowing:
+* The soft palate closes the nasal cavity and the epiglottis closes the trachea as a reflex peristaltic wave drives the bolus
+- The tongue voluntarily pushes food to the stomach
+- The pylorus opens
+- Bile is released
+E: The oral phase is voluntary. (Lecture 9: Physiopathology of Digestive System)
+
+The liver's digestion-related function highlighted is:
+* Producing bile (sent to gallbladder), plus metabolic, toxin/hormone elimination, bilirubin handling, coagulation-factor synthesis and storage roles
+- Producing insulin only
+- Absorbing most nutrients directly
+- Forming faeces
+E: Liver receives portal-vein nutrient blood and hepatic-artery oxygenated blood. (Lecture 9: Physiopathology of Digestive System)
+
+The pancreas exocrine function is to:
+* Secrete pancreatic juice into the duodenum via the pancreatic duct, with bicarbonate neutralising gastric acid
+- Secrete only insulin into blood
+- Store bile
+- Absorb fats into lymph only
+E: Endocrine pancreas secretes insulin, glucagon, somatostatin and pancreatic polypeptide. (Lecture 9: Physiopathology of Digestive System)
+
+Intestinal villi and microvilli serve to:
+* Provide a huge absorption area (about 300 m² in the slides) in the small intestine
+- Produce bile
+- Store faeces
+- Close the ileocaecal valve only
+E: Fats enter lacteal/quiliferous vessels into lymph; other nutrients go via capillaries to the portal vein. (Lecture 9: Physiopathology of Digestive System)
+
+The large intestine mainly:
+* Absorbs water and inorganic ions, forms/eliminates faeces, and hosts bacterial flora synthesising vitamins K and B
+- Performs almost all nutrient absorption
+- Produces pancreatic juice
+- Begins chemical digestion
+E: About 1.5 m long, 6.5 cm diameter. (Lecture 9: Physiopathology of Digestive System)
+
+Faeces are formed from:
+* Non-absorbed food remains (e.g. cellulose), intestinal epithelial cells and intestinal bacteria
+- Only bile pigments
+- Only water and salts
+- Undigested bone fragments normally
+E: Odour is due to putrid protein fermentation; form depends on colon transit time. (Lecture 9: Physiopathology of Digestive System)
+
+@ 10. Physiopathology of Endocrine System
+
+The endocrine system regulates the body by:
+* Glands releasing hormones into the blood to regulate, coordinate and control target organs/cells
+- Only nerve impulses
+- Only mechanical pressure
+- Only lymphatic drainage
+E: It is controlled by the nervous system but also has self-regulation. (Lecture 10: Physiopathology of Endocrine System)
+
+The hypothalamus controls the pituitary by:
+* Releasing hormones such as GHRH, TRH, CRH and GnRH that start/stop pituitary secretion
+- Directly secreting insulin
+- Producing melatonin only
+- Storing calcium
+E: GnRH drives LH/FSH important for puberty. (Lecture 10: Physiopathology of Endocrine System)
+
+The pituitary is called the 'master gland' because:
+* It exerts great influence on other organs/glands of the body
+- It produces all hormones itself
+- It controls digestion directly
+- It replaces the hypothalamus
+E: Its function is complex and important for general well-being. (Lecture 10: Physiopathology of Endocrine System)
+
+The pineal gland hormone melatonin:
+* Helps control circadian/sleep rhythms and can inhibit gonadotropin action
+- Raises blood glucose
+- Stimulates thyroid T3 release directly
+- Increases calcium from bone
+E: As summarised in the lecture. (Lecture 10: Physiopathology of Endocrine System)
+
+Thyroid hormones T3 (triiodothyronine) and T4 primarily control:
+* Metabolism: breaking down/storing food energy and producing waste with energy release
+- Only calcium levels
+- Only blood clotting
+- Only sperm production
+E: Thyroid sits in front of the trachea, below the larynx. (Lecture 10: Physiopathology of Endocrine System)
+
+Parathyroid hormone (PTH) acts to:
+* Raise blood calcium (including taking calcium from bone) when calcium is deficient, controlling calcium/phosphorus for bone formation
+- Lower blood calcium in all cases
+- Secrete insulin
+- Produce melatonin
+E: Four parathyroids lie behind the thyroid. (Lecture 10: Physiopathology of Endocrine System)
+
+If parathyroids are removed during thyroid surgery, low blood calcium can cause:
+* Irregular heartbeat, tingling in hands/feet and possibly shortness of breath
+- Only increased muscle mass
+- Only high fever
+- No symptoms
+E: Excess PTH can cause muscle weakness and fatigue. (Lecture 10: Physiopathology of Endocrine System)
+
+The adrenal cortex produces:
+* Glucocorticoids (e.g. cortisol) for blood-sugar/stress responses, mineralocorticoids (e.g. aldosterone) for salt/fluid and blood pressure, plus some sex hormones
+- Only adrenaline from the medulla
+- Only insulin
+- Only T3/T4
+E: Each adrenal is two organs: outer cortex, inner medulla, above the kidneys. (Lecture 10: Physiopathology of Endocrine System)
+
+Aldosterone helps regulate blood pressure by acting on the kidneys to:
+* Retain enough salt and fluid, controlling blood volume
+- Excrete all sodium
+- Lower cortisol
+- Produce red blood cells
+E: It is a mineralocorticoid. (Lecture 10: Physiopathology of Endocrine System)
+
+Negative feedback (negative self-regulation) in the endocrine system means:
+* When a hormone level is sufficient, the stimulating gland signal is deactivated/switched off to prevent excess
+- Hormones always increase without limit
+- The pituitary is destroyed
+- Target glands never respond
+E: Example given: pituitary-thyroid regulation. (Lecture 10: Physiopathology of Endocrine System)
+
+Diabetes mellitus, in the endocrine lecture, is a disorder of:
+* Blood-glucose regulation involving insulin (pancreatic endocrine function)
+- Only thyroid hormone excess
+- Only PTH deficiency
+- Only melatonin excess
+E: Pancreatic endocrine hormones listed: insulin, glucagon, somatostatin, pancreatic polypeptide. (Lecture 10: Physiopathology of Endocrine System)
+
+Cushing disease/syndrome and obesity are covered in the lecture as:
+* Endocrine pathophysiology topics linked to cortisol/adrenal and metabolic regulation respectively
+- Types of anaemia
+- Forms of lymphoma
+- Grades of sprain
+E: Lecture sequence: glands/hormones summary, diabetes, thyroid diseases, Cushing disease, obesity. (Lecture 10: Physiopathology of Endocrine System)

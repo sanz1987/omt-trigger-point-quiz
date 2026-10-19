@@ -9919,285 +9919,1579 @@
   {
    "id": "patho1",
    "title": "Pathophysiological Foundations I",
-   "desc": "Course organisation, syllabus map, core definitions (limited material so far)",
+   "desc": "Health & disease, inflammation/fever/pain, clinical history & diagnostics, pharmacology, oncology, haematology, MSK, digestive & endocrine — from the 2025-26 lecture slides",
    "topics": [
-    "Course organisation (syllabus)",
-    "Course content map (calendar)",
-    "Core definitions (from Nóra's study pack, not lecture slides)"
+    "1. Health and Disease - Part 1",
+    "2. Health and Disease - Part 2",
+    "3. Clinical History 2025-26",
+    "4. Pharmacology",
+    "5. Main Pharmacological Groups",
+    "6. Fundamental of Oncological Pathophysiology",
+    "7. Benign Hematological Pathophysiology",
+    "8. Physiopathology of the Muscle-skeletal Systems",
+    "9. Physiopathology of Digestive System",
+    "10. Physiopathology of Endocrine System"
    ],
    "questions": [
     {
-     "id": "patho1-a0495539",
-     "topic": "Course organisation (syllabus)",
-     "q": "How is Pathophysiological Foundations I weighted under continuous assessment?",
+     "id": "patho1-bc9c793b",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "According to the WHO definition in the slides, health is:",
      "options": [
-      "Midterm 30%, oral presentation 20%, final exam 50%",
-      "Midterm 40%, final 60%",
-      "Oral presentation 50%, final 50%",
-      "Final exam 100%"
+      "A state of complete physical, mental and social well-being, not merely the absence of disease or infirmity",
+      "Merely the absence of disease",
+      "Normal vital signs at rest",
+      "The ability to work full-time without sick leave"
      ],
      "answer": 0,
-     "explanation": "Syllabus marking criteria. (The intro slides once say 40% for the midterm; the syllabus is authoritative.)"
+     "explanation": "WHO definition quoted in the lecture. (Lecture 1: Health and Disease - Part 1)"
     },
     {
-     "id": "patho1-8fa00d00",
-     "topic": "Course organisation (syllabus)",
-     "q": "The midterm exam consists of:",
+     "id": "patho1-f69a3b88",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "Homeostasis is best defined as:",
      "options": [
-      "40 MCQs (a–e), no negative marking, 90 minutes",
-      "20 short-answer questions",
-      "40 MCQs with negative marking",
-      "An oral exam"
+      "The state of balance between body systems necessary for survival and proper function",
+      "A permanent, unchanging internal state",
+      "The process of cell death after injury",
+      "An increase in body temperature during infection"
      ],
      "answer": 0,
-     "explanation": "No minimum mark is required for the midterm. (Syllabus; presentation)"
+     "explanation": "The body constantly adjusts to internal and external changes to maintain this balance. (Lecture 1: Health and Disease - Part 1)"
     },
     {
-     "id": "patho1-65d1dfc3",
-     "topic": "Course organisation (syllabus)",
-     "q": "When is the midterm exam?",
+     "id": "patho1-5fa63e1f",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "Which organ system is given as the example of water and mineral balance (osmoregulation)?",
      "options": [
-      "27 October 2026",
-      "19 January 2027",
-      "15 December 2026",
-      "2 February 2027"
+      "The kidneys",
+      "The skin",
+      "The pancreas",
+      "The spleen"
      ],
      "answer": 0,
-     "explanation": "Calendar."
+     "explanation": "Slides pair osmoregulation with the kidneys. (Lecture 1: Health and Disease - Part 1)"
     },
     {
-     "id": "patho1-d90e5cdf",
-     "topic": "Course organisation (syllabus)",
-     "q": "The final exam differs from the midterm because it:",
+     "id": "patho1-6f852e90",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "In the slides, glucose regulation is linked mainly to:",
      "options": [
-      "Has negative marking and requires a minimum of 4.5/10",
-      "Has no negative marking",
-      "Is an oral exam",
-      "Has no minimum mark"
+      "The liver and pancreas (insulin production)",
+      "The kidneys and skin",
+      "The thyroid and thymus",
+      "The spleen and bone marrow"
      ],
      "answer": 0,
-     "explanation": "40 MCQs, 90 min; unanswered questions are not penalised. (Syllabus)"
+     "explanation": "Glucose levels regulation: liver and pancreas. (Lecture 1: Health and Disease - Part 1)"
     },
     {
-     "id": "patho1-18a27706",
-     "topic": "Course organisation (syllabus)",
-     "q": "What happens if a student misses their oral presentation?",
+     "id": "patho1-267d8368",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "Aetiology means:",
      "options": [
-      "They are referred directly to the BCE",
-      "They get a 5 automatically",
-      "They present alone the next week",
-      "Nothing"
-     ],
-     "answer": 0,
-     "explanation": "All group members must present; grades are individual. (Syllabus)"
-    },
-    {
-     "id": "patho1-5951e71b",
-     "topic": "Course organisation (syllabus)",
-     "q": "The oral presentation topic must cover:",
-     "options": [
-      "Topics related to the classes and how they influence decision-making and physiotherapy treatment",
-      "Any free topic",
-      "A literature review on pharmacology history only",
-      "A personal case diary"
-     ],
-     "answer": 0,
-     "explanation": "10 groups of 6–7 students; 15 Dec 2026 and 12 Jan 2027. (Syllabus; presentation)"
-    },
-    {
-     "id": "patho1-3ad9e30e",
-     "topic": "Course organisation (syllabus)",
-     "q": "Unique-pathway (non-continuous) students must:",
-     "options": [
-      "Sit a unique exam and present an article solo in PowerPoint on 19 Jan 2027, needing at least 5/10",
-      "Only submit an essay",
-      "Attend all oral presentations",
-      "Pass the midterm only"
-     ],
-     "answer": 0,
-     "explanation": "Requires authorisation from the Course Coordinator. (Syllabus)"
-    },
-    {
-     "id": "patho1-3625c315",
-     "topic": "Course organisation (syllabus)",
-     "q": "How many ECTS is the subject?",
-     "options": [
-      "6",
-      "3",
-      "12",
-      "4.5"
-     ],
-     "answer": 0,
-     "explanation": "Second year, first semester, Tuesdays 9:00–13:00. (Syllabus)"
-    },
-    {
-     "id": "patho1-deea5a33",
-     "topic": "Course organisation (syllabus)",
-     "q": "The syllabus says the course studies medical-surgical pathologies within which model?",
-     "options": [
-      "The psycho-bio-social model",
-      "The purely biomedical model",
-      "The Mulligan concept",
-      "The Maitland concept"
-     ],
-     "answer": 0,
-     "explanation": "Syllabus description."
-    },
-    {
-     "id": "patho1-2a5202c2",
-     "topic": "Course organisation (syllabus)",
-     "q": "Who teaches the subject?",
-     "options": [
-      "Prof. Ivan Leo Bacha, MSc, PT",
-      "Àlex Chicano",
-      "Federica Anasetti",
-      "Renata Kelly da Palma"
-     ],
-     "answer": 0,
-     "explanation": "Syllabus; presentation."
-    },
-    {
-     "id": "patho1-4ce94108",
-     "topic": "Course content map (calendar)",
-     "q": "Which topic is covered on 29 Sept, together with health and disease?",
-     "options": [
-      "Pathophysiological mechanisms of inflammation and fever",
-      "Oncology fundamentals",
-      "Endocrine pathophysiology",
-      "Digestive pathophysiology"
-     ],
-     "answer": 0,
-     "explanation": "Calendar."
-    },
-    {
-     "id": "patho1-d2fcb2c8",
-     "topic": "Course content map (calendar)",
-     "q": "Which session covers clinical history/anamnesis?",
-     "options": [
-      "6 October, together with diagnostic tests",
-      "3 November",
-      "1 December",
-      "22 September"
-     ],
-     "answer": 0,
-     "explanation": "Calendar."
-    },
-    {
-     "id": "patho1-92bf5705",
-     "topic": "Course content map (calendar)",
-     "q": "Pharmacokinetics, pharmacodynamics, bioavailability and drug classification are taught on:",
-     "options": [
-      "13 October",
-      "20 October",
-      "17 November",
-      "24 November"
-     ],
-     "answer": 0,
-     "explanation": "20 Oct: main pharmacological groups, mechanism of action, side effects. (Calendar)"
-    },
-    {
-     "id": "patho1-67691d48",
-     "topic": "Course content map (calendar)",
-     "q": "Which block comes AFTER the midterm?",
-     "options": [
-      "Oncology, benign haematology, musculoskeletal, digestive and endocrine pathophysiology",
-      "Inflammation and fever",
-      "Anamnesis and diagnostic tests",
-      "Pharmacology fundamentals"
-     ],
-     "answer": 0,
-     "explanation": "The midterm covers roughly the first five sessions. (Calendar)"
-    },
-    {
-     "id": "patho1-005ad38a",
-     "topic": "Course content map (calendar)",
-     "q": "Musculoskeletal pathophysiology is scheduled for:",
-     "options": [
-      "17 November",
-      "10 November",
-      "1 December",
-      "29 September"
-     ],
-     "answer": 0,
-     "explanation": "10 Nov benign haematology; 24 Nov digestive; 1 Dec endocrine. (Calendar)"
-    },
-    {
-     "id": "patho1-81410153",
-     "topic": "Core definitions (from Nóra's study pack, not lecture slides)",
-     "q": "The WHO defines health as:",
-     "options": [
-      "A state of complete physical, mental and social well-being, not merely the absence of disease",
-      "The absence of disease",
-      "Normal vital signs",
-      "Physical fitness only"
-     ],
-     "answer": 0,
-     "explanation": "Study pack, week 1 (WHO definition)."
-    },
-    {
-     "id": "patho1-94ef6a70",
-     "topic": "Core definitions (from Nóra's study pack, not lecture slides)",
-     "q": "\"Illness\" refers to:",
-     "options": [
-      "The person's subjective, lived experience of disease",
       "The cause of a disease",
-      "Structural tissue change",
-      "An objective lab finding"
+      "The step-by-step development of a disease",
+      "The structural changes in tissues",
+      "The patient's subjective complaint"
      ],
      "answer": 0,
-     "explanation": "Disease = disrupted structure/function with identifiable aetiology/pathogenesis. (Study pack)"
+     "explanation": "From the Greek for study of cause; one disease can have more than one aetiology. (Lecture 1: Health and Disease - Part 1)"
     },
     {
-     "id": "patho1-9a631d8a",
-     "topic": "Core definitions (from Nóra's study pack, not lecture slides)",
-     "q": "Aetiology is:",
+     "id": "patho1-6375c386",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "Pathogenesis is:",
      "options": [
-      "The cause(s) of a disease",
-      "The sequence of events from cause to lesion",
-      "Structural changes in tissues",
-      "The patient's symptoms"
+      "The series of mechanistic chemical and cellular steps by which a disease develops",
+      "The original cause of a disease",
+      "A laboratory test result",
+      "The final stage of recovery"
      ],
      "answer": 0,
-     "explanation": "Pathogenesis = sequence of cellular/tissue events from cause to lesion; morphology = structural changes. (Study pack)"
+     "explanation": "Slides contrast pathogenesis (mechanism/sequence) with aetiology (cause). (Lecture 1: Health and Disease - Part 1)"
     },
     {
-     "id": "patho1-80bf6720",
-     "topic": "Core definitions (from Nóra's study pack, not lecture slides)",
-     "q": "Which is a SIGN rather than a symptom?",
+     "id": "patho1-c81c8df1",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "The latent (incubation) period is:",
      "options": [
-      "Elevated measured body temperature",
-      "Reported fatigue",
-      "Pain described by the patient",
-      "Nausea felt by the patient"
+      "The interval between exposure to an injurious agent and the first signs and symptoms",
+      "The period of greatest severity",
+      "The first nonspecific symptoms of onset",
+      "The recovery period after treatment"
      ],
      "answer": 0,
-     "explanation": "Signs are objective; symptoms are subjective. (Study pack)"
+     "explanation": "In infectious disease this interval is called the incubation period. (Lecture 1: Health and Disease - Part 1)"
     },
     {
-     "id": "patho1-d432d8ff",
-     "topic": "Core definitions (from Nóra's study pack, not lecture slides)",
-     "q": "Which is often called the \"fifth vital sign\"?",
+     "id": "patho1-f267108d",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "Prodromal symptoms are characteristically:",
      "options": [
-      "Pain",
-      "SpO2",
-      "Weight",
-      "Height"
+      "Early, often nonspecific, e.g. headache, malaise and fever",
+      "Always organ-specific and severe",
+      "Only visible on imaging",
+      "Absent in acute disease"
      ],
      "answer": 0,
-     "explanation": "HR, RR, BP, temperature, SpO2 and pain. (Study pack)"
+     "explanation": "The prodrome marks the first signs indicating onset. (Lecture 1: Health and Disease - Part 1)"
     },
     {
-     "id": "patho1-8b04a347",
-     "topic": "Core definitions (from Nóra's study pack, not lecture slides)",
-     "q": "The biopsychosocial (ICF) frame matters to physiotherapists because:",
+     "id": "patho1-ff6df298",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "An acute condition, as classified in the slides, is one that:",
      "options": [
-      "The same pathology does not mean the same disability",
-      "It ignores the environment",
-      "It only uses imaging",
-      "It replaces clinical reasoning"
+      "Has relatively severe manifestations but runs a short course (hours, days or a few weeks)",
+      "Lasts for months to years",
+      "Has no signs or symptoms",
+      "Is always congenital"
      ],
      "answer": 0,
-     "explanation": "ICF components: body functions/structures, activities, participation, environmental and personal factors. (Study pack)"
+     "explanation": "Chronic conditions, by contrast, last months to years. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-6b215982",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "A sign differs from a symptom because a sign is:",
+     "options": [
+      "Objective evidence perceived by the clinician (e.g. a bruise)",
+      "Only felt by the patient (e.g. pain)",
+      "Always measured in a laboratory",
+      "A cause of disease"
+     ],
+     "answer": 0,
+     "explanation": "Symptoms are subjective and drive the patient to seek care. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-8067453f",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "Pathophysiology includes which four interrelated topics?",
+     "options": [
+      "Aetiology, pathogenesis, clinical manifestations and treatment implications",
+      "Anatomy, embryology, histology and biochemistry",
+      "Inspection, palpation, percussion and auscultation",
+      "Prevention, screening, treatment and rehabilitation"
+     ],
+     "answer": 0,
+     "explanation": "As listed under General Pathophysiological Basis. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-7de219a3",
+     "topic": "1. Health and Disease - Part 1",
+     "q": "The normal human karyotype described in the slides consists of:",
+     "options": [
+      "46 chromosomes: 22 homologous autosomal pairs plus the sex chromosomes",
+      "23 chromosomes in total",
+      "44 chromosomes with no sex chromosomes",
+      "92 chromosomes in every cell"
+     ],
+     "answer": 0,
+     "explanation": "Almost every human cell contains a full diploid genome arranged into 46 chromosomes. (Lecture 1: Health and Disease - Part 1)"
+    },
+    {
+     "id": "patho1-8633b7c7",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "In the illness/disease distinction, patients suffer ___ while doctors diagnose and treat ___.",
+     "options": [
+      "Illnesses; diseases",
+      "Diseases; illnesses",
+      "Symptoms; signs",
+      "Syndromes; symptoms"
+     ],
+     "answer": 0,
+     "explanation": "Illness is the lived experience; disease is the abnormality of structure/function. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-5c5f11d1",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "Which is listed as an organism response of adaptation?",
+     "options": [
+      "Hypertrophy, atrophy and hyperplasia",
+      "Necrosis only",
+      "Fibrosis only",
+      "Metastasis"
+     ],
+     "answer": 0,
+     "explanation": "Adaptation is response 1 in the lecture, alongside inflammation, necrosis and regeneration/fibrosis. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-87c58134",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "The suffix '-itis' (as in dermatitis) indicates:",
+     "options": [
+      "Inflammation",
+      "A tumour",
+      "A bacterial infection only",
+      "Tissue death"
+     ],
+     "answer": 0,
+     "explanation": "Slides give dermatitis as the example. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-a9013a15",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "In acute inflammation, histamine released by mast cells:",
+     "options": [
+      "Dilates capillaries and increases leakiness so phagocytes reach the area",
+      "Constricts all vessels permanently",
+      "Stops phagocyte migration",
+      "Lowers body temperature directly"
+     ],
+     "answer": 0,
+     "explanation": "Bradykinins alert free nerve endings; phagocytes then consume microbes and debris. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-3a4a4e3f",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "Acute and chronic inflammation are distinguished mainly by:",
+     "options": [
+      "Duration and the type of infiltrating inflammatory cells",
+      "The organ affected only",
+      "Whether fever is present",
+      "The patient's age"
+     ],
+     "answer": 0,
+     "explanation": "Stated explicitly in the inflammation slides. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-9cbc839b",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "Necrosis is defined in the slides as:",
+     "options": [
+      "Premature death of cells in living tissue by autolysis (own enzymes, e.g. from lysosomes)",
+      "Programmed, healthy cell renewal",
+      "Growth of new blood vessels",
+      "Reversible cell swelling only"
+     ],
+     "answer": 0,
+     "explanation": "Necrosis is response 3 in the lecture. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-bf2386a8",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "Primary prevention aims to:",
+     "options": [
+      "Prevent the development of disease (e.g. health promotion, education, self-defences)",
+      "Detect disease early by screening",
+      "Restore function after established disease",
+      "Avoid harm from unnecessary medical intervention"
+     ],
+     "answer": 0,
+     "explanation": "Secondary = screening/early detection; tertiary = reduce impact of established disease; quaternary = avoid over-medicalisation harm. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-4168cfe1",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "Fever (pyrexia) is defined as temperature above the normal range due to:",
+     "options": [
+      "An increase in the body's temperature set-point",
+      "Failure of sweating only",
+      "External heating of the skin",
+      "Low hypothalamic activity"
+     ],
+     "answer": 0,
+     "explanation": "Internal temperature is sensed/controlled by the preoptic area of the hypothalamus. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-db89ec36",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "Per the temperature classification in the slides, normal temperature is:",
+     "options": [
+      "36.5-37.5 °C",
+      "35.0-36.0 °C",
+      "37.5-38.5 °C",
+      "38.3-40.0 °C"
+     ],
+     "answer": 0,
+     "explanation": "Hypothermia is <35.0 °C and hyperpyrexia >40.0/41.0 °C in the same table. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-f2957cbb",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "Heat loss by converting water from liquid to gas at skin/respiratory tract is:",
+     "options": [
+      "Evaporation",
+      "Radiation",
+      "Conduction",
+      "Convection"
+     ],
+     "answer": 0,
+     "explanation": "Radiation transfers to objects, conduction needs contact, convection uses moving fluid. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-aecb6f7d",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "Nociceptors are:",
+     "options": [
+      "Free nerve endings that detect painful (noxious) stimuli and alert the nervous system",
+      "Hormones released in fever",
+      "Platelet precursors",
+      "Thyroid cells producing T3"
+     ],
+     "answer": 0,
+     "explanation": "Covered under peripheral aspects of pain / nociceptive system. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-e08f0020",
+     "topic": "2. Health and Disease - Part 2",
+     "q": "Chronic pain differs from acute pain in the slides principally by:",
+     "options": [
+      "Its prolonged duration and persistence beyond the acute episode",
+      "Always having no identifiable stimulus",
+      "Never being assessable by scales",
+      "Being a sign rather than an experience"
+     ],
+     "answer": 0,
+     "explanation": "Lecture contrasts acute vs chronic pain and covers subjective assessment scales and pain control. (Lecture 2: Health and Disease - Part 2)"
+    },
+    {
+     "id": "patho1-98b865e2",
+     "topic": "3. Clinical History 2025-26",
+     "q": "A clinical history (CH) is:",
+     "options": [
+      "The documentary set created to collect the patient's health-care process information",
+      "Only the discharge letter",
+      "A single laboratory report",
+      "The patient's own diary only"
+     ],
+     "answer": 0,
+     "explanation": "It is a legal document for communication between clinical team members. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-f5274e66",
+     "topic": "3. Clinical History 2025-26",
+     "q": "Who is obliged to record their participation in the clinical history?",
+     "options": [
+      "Every professional intervening in the care process, including physiotherapists",
+      "Only the admitting physician",
+      "Only nurses",
+      "Only private-sector staff"
+     ],
+     "answer": 0,
+     "explanation": "Professionals must cooperate in orderly, sequential clinical documentation (Art. 17.3 as cited). (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-10ed6930",
+     "topic": "3. Clinical History 2025-26",
+     "q": "Which belongs in the parts of a medical history?",
+     "options": [
+      "Family and personal antecedents, reason for consultation, exploration/assessment, objectives/treatment and follow-up",
+      "Only vital signs",
+      "Only imaging results",
+      "Only medication list"
+     ],
+     "answer": 0,
+     "explanation": "Slides list these sections plus complementary tests and discharge indications. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-60086277",
+     "topic": "3. Clinical History 2025-26",
+     "q": "A physiotherapeutic assessment in the slides includes:",
+     "options": [
+      "Inspection, palpation, mobility/ROM, muscle strength and special tests, leading to a functional diagnosis",
+      "Only prescribing medication",
+      "Only reading blood tests",
+      "Only discharge planning"
+     ],
+     "answer": 0,
+     "explanation": "Distinguished from medical assessment/clinical diagnosis in the lecture. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-e2d6894d",
+     "topic": "3. Clinical History 2025-26",
+     "q": "Tachypnoea means:",
+     "options": [
+      "Abnormally rapid respiratory rate",
+      "Absent breathing",
+      "Abnormally slow breathing",
+      "Painful breathing only at night"
+     ],
+     "answer": 0,
+     "explanation": "Bradypnoea = slow, apnoea = absent, dyspnoea = difficult breathing. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-8070ce55",
+     "topic": "3. Clinical History 2025-26",
+     "q": "SpO2 measures:",
+     "options": [
+      "Oxygen saturation of arterial blood (pulse oximetry)",
+      "Blood glucose",
+      "Systolic pressure",
+      "Body temperature"
+     ],
+     "answer": 0,
+     "explanation": "Covered with vital signs alongside BP, pulse, respiratory rate, glycaemia and temperature. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-ecffe4f3",
+     "topic": "3. Clinical History 2025-26",
+     "q": "Radiography is best suited, as introduced in diagnostic tests, to:",
+     "options": [
+      "Visualising bones and dense structures with X-rays",
+      "Soft-tissue detail without any radiation in pregnancy",
+      "Real-time tendon movement only",
+      "Blood flow velocity only"
+     ],
+     "answer": 0,
+     "explanation": "Lecture then contrasts CT, MRI and ecography/ultrasound. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-42c7a083",
+     "topic": "3. Clinical History 2025-26",
+     "q": "A key advantage of MRI over CT highlighted in the diagnostic-tests section is:",
+     "options": [
+      "Detailed soft-tissue imaging without ionising X-ray radiation (but with contraindications such as some pacemakers/metal)",
+      "It is always faster and cheaper",
+      "It uses no magnetic field",
+      "It is best for cortical bone only"
+     ],
+     "answer": 0,
+     "explanation": "Slides list MRI indications/contraindications separately from CT. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-362ac5a5",
+     "topic": "3. Clinical History 2025-26",
+     "q": "Ecography (ultrasound) is typically used for:",
+     "options": [
+      "Real-time imaging of soft tissues, tendons and organs without ionising radiation",
+      "Only bone scintigraphy",
+      "Only coronary vessels",
+      "Measuring blood glucose"
+     ],
+     "answer": 0,
+     "explanation": "Listed among diagnostic imaging explorations with its own indications/contraindications. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-e4835ec3",
+     "topic": "3. Clinical History 2025-26",
+     "q": "Bone scintigraphy, angiography and PET are grouped in the lecture as:",
+     "options": [
+      "Other/complementary diagnostic tests beyond routine lab and standard imaging",
+      "Vital signs",
+      "Pharmaceutical forms",
+      "Types of pain scales"
+     ],
+     "answer": 0,
+     "explanation": "PET = positron emission tomography; angiography images vessels. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-877b2383",
+     "topic": "3. Clinical History 2025-26",
+     "q": "In the history of current disease, the physiotherapist should ask about:",
+     "options": [
+      "The cause(s) leading the patient to seek therapy, plus other conditions (visual/hearing, respiratory, cardiac history etc.) even if not currently bothersome",
+      "Only the painful spot today",
+      "Only family occupation",
+      "Nothing beyond imaging"
+     ],
+     "answer": 0,
+     "explanation": "As detailed in the physiotherapeutic CH section. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-903dd509",
+     "topic": "3. Clinical History 2025-26",
+     "q": "Inspection in assessment includes observing:",
+     "options": [
+      "Body posture, skin/bone structure, finger deformities and gait",
+      "Only laboratory values",
+      "Only medication adherence",
+      "Only pain scores"
+     ],
+     "answer": 0,
+     "explanation": "Palpation then examines skin/subcutaneous and soft tissues. (Lecture 3: Clinical History 2025-26)"
+    },
+    {
+     "id": "patho1-b64b7506",
+     "topic": "4. Pharmacology",
+     "q": "Pharmacology is:",
+     "options": [
+      "The science/reasoned study of drugs and substances that modify structures and functions of living organisms",
+      "Only the manufacture of tablets",
+      "Only herbal medicine",
+      "The study of bones and joints"
+     ],
+     "answer": 0,
+     "explanation": "Clinical pharmacology examines drug effects in patients; pharmacotherapy is use for a concrete illness. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-98188a88",
+     "topic": "4. Pharmacology",
+     "q": "Every drug's three names are:",
+     "options": [
+      "Chemical name, generic name and trade (brand) name",
+      "Latin, Greek and English names",
+      "Oral, topical and injectable names",
+      "Adult, paediatric and geriatric names"
+     ],
+     "answer": 0,
+     "explanation": "Example: chemical 2-(4-isobutylphenyl)propanoic acid = generic ibuprofen = trade Motrin. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-8913da41",
+     "topic": "4. Pharmacology",
+     "q": "The generic (INN) name is:",
+     "options": [
+      "The official non-commercial name of a pharmacological substance",
+      "A company marketing name",
+      "The molecular formula",
+      "A patient's nickname for a drug"
+     ],
+     "answer": 0,
+     "explanation": "INN = International Nonproprietary Name; paracetamol (BAN) = acetaminophen (USAN). (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-2ac0c581",
+     "topic": "4. Pharmacology",
+     "q": "Excipients in a pharmaceutical form function to:",
+     "options": [
+      "Accompany the active principle and favour its delivery (binders, fillers, disintegrators, lubricants, coaters, flavours etc.)",
+      "Produce the main therapeutic effect",
+      "Replace the active ingredient",
+      "Prevent any absorption in all cases"
+     ],
+     "answer": 0,
+     "explanation": "The active principle is responsible for the pharmacological effect. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-c7360d8e",
+     "topic": "4. Pharmacology",
+     "q": "Bioavailability is:",
+     "options": [
+      "The rate and amount of unchanged drug reaching systemic circulation/target from its site of administration",
+      "The colour of a tablet",
+      "The time a drug stays in its box",
+      "Only the IV dose fraction by definition in all routes equally"
+     ],
+     "answer": 0,
+     "explanation": "Compared across oral, IV, IM and subcutaneous routes in the slides. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-4d4e36cc",
+     "topic": "4. Pharmacology",
+     "q": "Pharmacokinetics studies:",
+     "options": [
+      "What the body does to the drug over time: absorption, distribution, biotransformation/metabolism and excretion",
+      "What the drug does to the body at receptors only",
+      "Only drug naming",
+      "Only adverse reactions"
+     ],
+     "answer": 0,
+     "explanation": "Pharmacodynamics is the complementary 'what the drug does to the body'. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-54c4a3a4",
+     "topic": "4. Pharmacology",
+     "q": "Pharmacodynamics includes:",
+     "options": [
+      "Physiological/biochemical effects of drugs and their mechanism of action at organ, subcellular and macromolecular levels",
+      "Only excretion by the kidney",
+      "Only tablet disintegration",
+      "Only bioavailability measurement"
+     ],
+     "answer": 0,
+     "explanation": "Contrasted with pharmacokinetics in the lecture. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-f50042f1",
+     "topic": "4. Pharmacology",
+     "q": "Passive drug transport across membranes includes:",
+     "options": [
+      "Simple diffusion and filtration through pores/channels",
+      "Only pinocytosis",
+      "Only carrier proteins against a gradient",
+      "Active transport requiring vesicles only"
+     ],
+     "answer": 0,
+     "explanation": "Specialised transport is carrier-mediated or pinocytosis. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-3dc8a976",
+     "topic": "4. Pharmacology",
+     "q": "Pinocytosis is:",
+     "options": [
+      "Transport across the cell in particulate form by formation of vesicles",
+      "Filtration through a pore",
+      "Simple diffusion down a gradient",
+      "Excretion in urine"
+     ],
+     "answer": 0,
+     "explanation": "Listed under specialised/carrier transport mechanisms. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-b5257ab9",
+     "topic": "4. Pharmacology",
+     "q": "Liberation (release) in pharmacokinetics refers to:",
+     "options": [
+      "Release of the drug from its pharmaceutical form (tablet, capsule, suppository etc.) before absorption",
+      "Release of hormones from glands",
+      "Patient discharge from hospital",
+      "Removal of a drug from the market"
+     ],
+     "answer": 0,
+     "explanation": "It precedes absorption into systemic circulation. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-80d71f0c",
+     "topic": "4. Pharmacology",
+     "q": "Which is a gaseous pharmaceutical form / route example in the slides?",
+     "options": [
+      "Sprays and inhalation",
+      "Suppositories",
+      "Eye drops only",
+      "Syrups"
+     ],
+     "answer": 0,
+     "explanation": "Solids include tablets/capsules; liquids include syrups, injectables and eye drops. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-bf083aa0",
+     "topic": "4. Pharmacology",
+     "q": "Systemic absorption after topical application depends primarily on:",
+     "options": [
+      "Lipid solubility of the drug",
+      "Tablet shape",
+      "The drug's trade name",
+      "Patient height alone"
+     ],
+     "answer": 0,
+     "explanation": "Applies to skin, eye, ear, nose, inhalation and mucosal routes. (Lecture 4: Pharmacology)"
+    },
+    {
+     "id": "patho1-e43777d6",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "NSAIDs are used to treat:",
+     "options": [
+      "Pain, fever and inflammatory processes (antipyretic, anti-inflammatory, analgesic)",
+      "Bacterial infection directly",
+      "Cancer metastasis",
+      "Diabetes only"
+     ],
+     "answer": 0,
+     "explanation": "FDA-approved uses as summarised in the lecture. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-13c9bc2f",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "The main mechanism of action of NSAIDs is:",
+     "options": [
+      "Inhibition of cyclooxygenase (COX), reducing thromboxanes, prostaglandins and prostacyclins from arachidonic acid",
+      "Blocking bacterial cell walls",
+      "Replacing insulin",
+      "Suppressing all lymphocytes permanently"
+     ],
+     "answer": 0,
+     "explanation": "Therapeutic effects are attributed to lack of these eicosanoids. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-17b9430b",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "COX-1, in contrast to COX-2, is:",
+     "options": [
+      "Constitutively expressed, maintaining GI mucosa, kidney function and platelet aggregation",
+      "Only induced during inflammation",
+      "Absent from the stomach",
+      "The sole target of celecoxib"
+     ],
+     "answer": 0,
+     "explanation": "COX-2 is inducibly expressed during inflammatory response. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-b90a0a2b",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "Celecoxib is an example of:",
+     "options": [
+      "A selective COX-2 inhibitor",
+      "A non-acetylated salicylate",
+      "An antibiotic",
+      "A chemotherapy drug"
+     ],
+     "answer": 0,
+     "explanation": "It has a different side-effect profile from nonselective NSAIDs. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-96948c12",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "Gastric adverse effects of NSAIDs are mainly due to:",
+     "options": [
+      "COX-1 inhibition reducing prostaglandins that protect the gastric mucosa",
+      "Increased gastric prostaglandins",
+      "Bacterial overgrowth only",
+      "Low platelet count only"
+     ],
+     "answer": 0,
+     "explanation": "Renal, cardiovascular, hepatic and haematologic effects are also listed. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-d949cc2f",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "Topical NSAIDs (e.g. diclofenac gel) are noted as useful for:",
+     "options": [
+      "Acute tenosynovitis, ankle sprains and soft-tissue injuries",
+      "Systemic hypertension",
+      "Pneumonia",
+      "Leukaemia"
+     ],
+     "answer": 0,
+     "explanation": "Relevant to physiotherapy practice. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-39d97250",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "Bactericidal antibiotics:",
+     "options": [
+      "Kill bacteria directly, regardless of the host immune system",
+      "Only inhibit growth so the immune system can eliminate infection",
+      "Only treat viruses",
+      "Are the same as NSAIDs"
+     ],
+     "answer": 0,
+     "explanation": "Bacteriostatic agents inhibit growth. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-0a782a2b",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "The first antibiotic, penicillin, was discovered by:",
+     "options": [
+      "A. Fleming in 1928",
+      "S. Waksman in 1944",
+      "I. Bacha in 2025",
+      "W. Roentgen in 1895"
+     ],
+     "answer": 0,
+     "explanation": "Waksman discovered streptomycin and proposed the name 'antibiotics'. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-b8d78cc0",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "Antimicrobial agents are:",
+     "options": [
+      "Drugs for the treatment and prevention of infectious diseases",
+      "Only painkillers",
+      "Only hormones",
+      "Only imaging contrast agents"
+     ],
+     "answer": 0,
+     "explanation": "Antibiotic derives from 'antibiosis' = against life. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-31fc3c0d",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "NSAID toxicity can include:",
+     "options": [
+      "Anion-gap metabolic acidosis and acute renal failure (often GI symptoms in acute overdose)",
+      "Only hair loss",
+      "Only hyperglycaemia",
+      "No renal effects ever"
+     ],
+     "answer": 0,
+     "explanation": "Neurologic toxicity may present with tinnitus. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-24472768",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "Which NSAID grouping contains ibuprofen and naproxen?",
+     "options": [
+      "Propionic acids",
+      "Acetic acids (diclofenac, indomethacin)",
+      "Enolic acids (meloxicam, piroxicam)",
+      "Anthranilic acids"
+     ],
+     "answer": 0,
+     "explanation": "From the chemical-structure/selectivity classification. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-89517a2e",
+     "topic": "5. Main Pharmacological Groups",
+     "q": "Immunosuppressive drugs, as a group in this lecture, act by:",
+     "options": [
+      "Suppressing immune responses (used where dampening immunity is therapeutically required)",
+      "Stimulating antibody production in all cases",
+      "Killing bacteria directly",
+      "Replacing coagulation factors"
+     ],
+     "answer": 0,
+     "explanation": "Covered after antibiotics, hormones and chemotherapy drugs. (Lecture 5: Main Pharmacological Groups)"
+    },
+    {
+     "id": "patho1-453e5492",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "Cancer is defined in the slides as diseases in which there is:",
+     "options": [
+      "An uncontrolled process in the division of the cells of the body",
+      "Only benign growth that never spreads",
+      "A bacterial infection of epithelium",
+      "Normal terminal differentiation"
+     ],
+     "answer": 0,
+     "explanation": "Malignancy varies with aggressiveness and biological characteristics. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-4c739be8",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "A benign tumour, compared with a malignant one:",
+     "options": [
+      "Does not spread to other tissues and rarely recurs after excision",
+      "Spreads via lymphatics/blood",
+      "Frequently relapses after excision",
+      "Always metastasises"
+     ],
+     "answer": 0,
+     "explanation": "Malignant tumours spread and relapse frequently. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-9c0d3a16",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "Metastasis is spread principally via:",
+     "options": [
+      "The lymphatic system or the circulatory system, forming new tumours",
+      "Only direct nerve conduction",
+      "Sweat glands",
+      "The digestive lumen only"
+     ],
+     "answer": 0,
+     "explanation": "Also progressive invasion of nearby organs. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-9a855fbb",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "Most cancers are thought to arise as monoclonal, meaning:",
+     "options": [
+      "A single cell accumulates sufficient mutations in key genes to cause uncontrolled proliferation",
+      "Many cells transform simultaneously with no mutations",
+      "No genetic change is involved",
+      "Only environmental factors matter"
+     ],
+     "answer": 0,
+     "explanation": "As cancers progress they may gain mutations and become more heterogeneous. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-5d599020",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "Angiogenesis in solid tumours is initiated largely by tumour release of:",
+     "options": [
+      "VEGF (vascular endothelial growth factor)",
+      "Insulin",
+      "Histamine only",
+      "Melatonin"
+     ],
+     "answer": 0,
+     "explanation": "VEGF is up-regulated in many tumours; hypoxia increases its secretion. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-91f088c3",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "Tumour vasculature is characteristically:",
+     "options": [
+      "Chaotic, irregular, highly permeable, with poor branching/blind ends and lacking normal basement membrane/pericytes",
+      "More regular than normal vessels",
+      "Impermeable to plasma",
+      "Always well innervated"
+     ],
+     "answer": 0,
+     "explanation": "This leads to plasma leakage and high interstitial fluid pressure. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-1fc6a791",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "High interstitial fluid pressure (IFP) in tumours:",
+     "options": [
+      "Disrupts capillary pressure gradients, reducing blood flow/drug delivery and increasing hypoxia",
+      "Improves chemotherapy delivery",
+      "Lowers hypoxia",
+      "Is caused by strong lymphatics"
+     ],
+     "answer": 0,
+     "explanation": "Tumours have leaky vessels and no functional lymphatics. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-6b2b4ac8",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "Chronic tumour hypoxia is mainly due to:",
+     "options": [
+      "Limited oxygen diffusion (cells far from vessels become hypoxic)",
+      "Temporary stoppage of flow only",
+      "Anaemia only",
+      "High carbon monoxide only"
+     ],
+     "answer": 0,
+     "explanation": "Acute/fluctuating hypoxia is from temporary flow stoppages. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-e95ea063",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "The oxygen enhancement ratio (OER) concept means hypoxic cells:",
+     "options": [
+      "May require up to about 3x more radiation to kill the same number of cells",
+      "Are killed more easily by radiation",
+      "Need no oxygen during irradiation ever",
+      "Are unaffected by oxygen levels"
+     ],
+     "answer": 0,
+     "explanation": "Oxygen 'fixes' radiation DNA damage; effect must be present during/right after exposure. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-05f56ce4",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "At least what proportion of cancers is thought preventable, per the slides?",
+     "options": [
+      "At least 50% of cases",
+      "Less than 5%",
+      "About 10%",
+      "Essentially 100%"
+     ],
+     "answer": 0,
+     "explanation": "Primary prevention focuses on modifiable lifestyle/environmental risk factors. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-cb990f10",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "Cancers arising from epithelium are:",
+     "options": [
+      "The most common cancers",
+      "The rarest cancers",
+      "Always benign",
+      "Only found in intestine"
+     ],
+     "answer": 0,
+     "explanation": "Rapidly renewing epithelia must escape sloughing/terminal differentiation. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-deea41c6",
+     "topic": "6. Fundamental of Oncological Pathophysiology",
+     "q": "Physiotherapy in oncology, as introduced in the lecture, must account for:",
+     "options": [
+      "Cancer treatments (e.g. chemotherapy/other drug treatments) and immunosuppression in cancer patients",
+      "Only bone density",
+      "Only sports performance",
+      "No treatment side effects"
+     ],
+     "answer": 0,
+     "explanation": "Lecture includes cancer & physiotherapy and immunosuppression sections. (Lecture 6: Fundamental of Oncological Pathophysiology)"
+    },
+    {
+     "id": "patho1-bbb2c2ca",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "Haematopoiesis is:",
+     "options": [
+      "Production of blood cells (erythropoiesis, leukopoiesis, thrombopoiesis) mainly in bone marrow from haematopoietic stem cells",
+      "Destruction of red cells in spleen only",
+      "Clotting of blood after injury only",
+      "Production of hormones by marrow"
+     ],
+     "answer": 0,
+     "explanation": "Extramedullary haematopoiesis can occur in liver/spleen. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-eb23fae0",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "The myeloid lineage gives rise to:",
+     "options": [
+      "RBCs, granulocytes, monocytes and platelets (innate, first-line defence)",
+      "Only B and T lymphocytes",
+      "Only NK cells",
+      "Only plasma cells"
+     ],
+     "answer": 0,
+     "explanation": "Lymphoid lineage gives B, T and NK cells. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-8d91e755",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "Lymphoid cells are key for:",
+     "options": [
+      "Adaptive immunity: B-cell antibodies, T-cell cellular immunity, NK killing of abnormal cells, with immune memory",
+      "Only immediate non-specific defence",
+      "Platelet production",
+      "Oxygen transport"
+     ],
+     "answer": 0,
+     "explanation": "Myeloid cells drive innate response, inflammation and wound healing. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-5d715e34",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "Anaemia is:",
+     "options": [
+      "Lack of enough healthy red blood cells to carry oxygen, causing fatigue, weakness, pallor and breathlessness",
+      "Excess platelets causing clots",
+      "Low white cells only",
+      "Excess red cells thickening blood"
+     ],
+     "answer": 0,
+     "explanation": "Erythrocytosis is too many RBCs; leukopenia/thrombocytopenia affect other lines. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-d201c610",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "The most common cause of anaemia noted is:",
+     "options": [
+      "Iron deficiency",
+      "Vitamin K excess",
+      "Dehydration only",
+      "High altitude only"
+     ],
+     "answer": 0,
+     "explanation": "Symptoms may include chest pain, palpitations and frequent infections in the slides. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-8500c84d",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "Thrombocytopenia is:",
+     "options": [
+      "Low platelet count, with bleeding risk, from decreased production or increased destruction/use",
+      "High platelet count",
+      "Low haemoglobin only",
+      "Low lymphocytes only"
+     ],
+     "answer": 0,
+     "explanation": "Physiotherapy implications/cautions are specifically covered. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-2f14298b",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "Leukopenia is:",
+     "options": [
+      "Low white blood cell count, increasing infection risk",
+      "High white blood cell count",
+      "Low red cell count",
+      "A type of lymphoma"
+     ],
+     "answer": 0,
+     "explanation": "Contrasted with leukocytosis and discussed vs cancer in the lecture. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-1627457f",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "Leukaemia develops as:",
+     "options": [
+      "A haematological neoplastic disease of white-cell precursors in marrow, affecting blood production and immunity",
+      "A benign iron deficiency",
+      "A platelet-only disorder",
+      "A soft-tissue sarcoma"
+     ],
+     "answer": 0,
+     "explanation": "Types covered: ALL, AML, CLL and CML. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-31b124a2",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "Lymphoma is:",
+     "options": [
+      "A neoplasm of lymphoid tissue/lymphocytes that can spread through the lymphatic system",
+      "Only anaemia of chronic disease",
+      "A benign platelet disorder",
+      "Inflammation of a single joint"
+     ],
+     "answer": 0,
+     "explanation": "Main types, signs/symptoms, diagnosis and treatment are covered. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-c2354fd3",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "In blood cancer, physiotherapy management in the acute phase must consider:",
+     "options": [
+      "Physical impairments, fatigue/weakness and treatment phase, adapting exercise and monitoring closely (including palliative care where appropriate)",
+      "Ignoring platelet/WBC counts",
+      "Only maximal strength testing",
+      "No adaptation during chemotherapy"
+     ],
+     "answer": 0,
+     "explanation": "Comprehensive and palliative physiotherapy management are explicit sections. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-be56ae38",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "Neutrophils, as myeloid cells, primarily:",
+     "options": [
+      "Attack bacteria and drive inflammation as first-line defence",
+      "Make antibodies",
+      "Produce insulin",
+      "Carry oxygen"
+     ],
+     "answer": 0,
+     "explanation": "Macrophages/monocytes engulf pathogens; basophils/eosinophils act in allergy/parasite defence. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-7328ddf2",
+     "topic": "7. Benign Hematological Pathophysiology",
+     "q": "B cells mature/function to:",
+     "options": [
+      "Produce antibodies as part of adaptive immunity",
+      "Clot blood",
+      "Transport CO2 only",
+      "Form bone marrow stroma only"
+     ],
+     "answer": 0,
+     "explanation": "T cells kill infected cells/regulate responses; NK cells destroy abnormal/virus-infected cells. (Lecture 7: Benign Hematological Pathophysiology)"
+    },
+    {
+     "id": "patho1-82e33b61",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "The musculoskeletal system's bone functions include:",
+     "options": [
+      "Support/framework, protection, movement as levers, mineral storage, fat storage, acid-base balance and housing marrow for blood-cell production",
+      "Only protection of the brain",
+      "Only hormone production",
+      "Only digestion"
+     ],
+     "answer": 0,
+     "explanation": "Mechanical, synthetic and metabolic categories. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-b88ec4aa",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "In adults, red marrow capable of haematopoiesis is restricted mainly to:",
+     "options": [
+      "Vertebrae and heads of tibia and femur (with other flat/axial sites), as yellow fatty marrow replaces red marrow with age",
+      "Every long-bone shaft equally",
+      "Only finger bones",
+      "The skull sutures only"
+     ],
+     "answer": 0,
+     "explanation": "In infants, marrow of all long bones can synthesise blood cells. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-4bfbc934",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "Wolff's Law, as presented, states bone responds to mechanical load by:",
+     "options": [
+      "Increasing density/mineralisation with regularly applied load (hypertrophy) and decreasing it when load is reduced (atrophy)",
+      "Never changing after maturity",
+      "Only growing in length",
+      "Losing minerals when exercised"
+     ],
+     "answer": 0,
+     "explanation": "Electrical currents: compression negative charge, traction positive charge (piezoelectricity). (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-c0ee5758",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "A fracture is:",
+     "options": [
+      "Interruption of bone continuity",
+      "Calcium deficiency without break",
+      "Inflammation of a joint",
+      "Rupture of a ligament only"
+     ],
+     "answer": 0,
+     "explanation": "Osteoporosis (calcium deficiency) predisposes to pathological/fatigue fractures. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-d1bdc168",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "Absence of a trauma history:",
+     "options": [
+      "Does NOT exclude fracture (fatigue/pathological fractures can occur without aggression/trauma history)",
+      "Rules out fracture completely",
+      "Proves osteoporosis",
+      "Means imaging is never needed"
+     ],
+     "answer": 0,
+     "explanation": "Clinical signs include deformity, abnormal mobility (not to be provoked) and exposed fracture focus. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-eb12881a",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "Fracture healing management must balance:",
+     "options": [
+      "Mechanical aspect (stability) and biological aspect (vascularisation)",
+      "Only immobilisation forever",
+      "Only early maximal loading",
+      "Neither stability nor blood supply"
+     ],
+     "answer": 0,
+     "explanation": "Physiotherapy aims include controlling inflammation, minimising adhesions and optimising vascularisation. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-fe394dca",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "Synarthroses are joints that:",
+     "options": [
+      "Allow no movement; fibrous joints that absorb loads/shock (e.g. sutures, syndesmoses)",
+      "Are freely mobile synovial joints",
+      "Contain a large joint cavity",
+      "Allow circumduction"
+     ],
+     "answer": 0,
+     "explanation": "Amphiarthroses allow slight movement; diarthroses are freely mobile. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-e059a808",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "A symphysis is an amphiarthrosis where:",
+     "options": [
+      "Thin hyaline cartilage layers separate a fibrocartilage disc from the bones",
+      "Bones are joined only by sutures",
+      "There is a synovial cavity with fluid",
+      "No cartilage is present"
+     ],
+     "answer": 0,
+     "explanation": "Synchondrosis joins bones by thick hyaline cartilage. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-9c8a45ff",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "Diarthroses (synovial joints) are characterised by:",
+     "options": [
+      "Free mobility with a synovial joint structure",
+      "No movement",
+      "Fibrous union only",
+      "Direct bone-to-bone fusion"
+     ],
+     "answer": 0,
+     "explanation": "Lecture covers joint stability and common joint injuries after classification. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-9f23dd61",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "A sprain is an injury to:",
+     "options": [
+      "Ligaments/joint-stabilising structures, graded I-III by severity in the slides",
+      "Only muscle belly",
+      "Only bone cortex",
+      "The skin only"
+     ],
+     "answer": 0,
+     "explanation": "Conservative vs surgical treatment is discussed by grade. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-057acd3e",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "Osteoarthrosis, as a common joint pathology in the lecture, involves:",
+     "options": [
+      "Degenerative joint change affecting cartilage/joint function and causing pain/stiffness",
+      "Acute bacterial infection only",
+      "Benign bone tumour",
+      "Platelet disorder"
+     ],
+     "answer": 0,
+     "explanation": "Listed under common joint injuries and pathologies. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-e2d676f9",
+     "topic": "8. Physiopathology of the Muscle-skeletal Systems",
+     "q": "Physiotherapy after musculoskeletal injury should, per the lecture aims:",
+     "options": [
+      "Encourage isometric/isotonic training minimising muscle/joint loss, restore functional ROM and sensorimotor function, and train use of walking aids",
+      "Keep the limb completely inactive indefinitely",
+      "Ignore vascularisation",
+      "Avoid any movement retraining"
+     ],
+     "answer": 0,
+     "explanation": "Also control inflammatory signs and minimise adhesions. (Lecture 8: Physiopathology of the Muscle-skeletal Systems)"
+    },
+    {
+     "id": "patho1-7ff28db1",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "Ingestion is:",
+     "options": [
+      "Entry of food into the alimentary canal through the mouth, where chewing and saliva begin digestion",
+      "Movement of food by peristalsis only",
+      "Absorption in the small intestine",
+      "Elimination of faeces"
+     ],
+     "answer": 0,
+     "explanation": "Propulsion/peristalsis then moves food through the tract. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-92ae2e9e",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "Peristalsis consists of:",
+     "options": [
+      "Sequential alternating waves of contraction and relaxation of alimentary wall smooth muscle propelling food along",
+      "Localised back-and-forth mixing only",
+      "Voluntary tongue movement only",
+      "Gastric churning only"
+     ],
+     "answer": 0,
+     "explanation": "Segmentation is the localised mixing contraction. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-605eede9",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "Chemical digestion begins in the mouth and involves:",
+     "options": [
+      "Digestive secretions breaking complex molecules into building blocks (e.g. proteins into amino acids)",
+      "Only mechanical chewing",
+      "Only water absorption",
+      "Only bile production"
+     ],
+     "answer": 0,
+     "explanation": "Mechanical digestion increases surface area/mobility. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-9600ce46",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "Most enzymatic digestion and almost all absorption occur in:",
+     "options": [
+      "The small intestine (duodenum, jejunum, ileum)",
+      "The stomach",
+      "The large intestine",
+      "The oesophagus"
+     ],
+     "answer": 0,
+     "explanation": "About 7 m long; bile and pancreatic juice enter the duodenum via the ampulla of Vater. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-23063ee9",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "In the stomach, the bolus is transformed into:",
+     "options": [
+      "Chyme, with gastric emptying regulated by the pyloric sphincter",
+      "Faeces",
+      "Bile",
+      "Amino acids only"
+     ],
+     "answer": 0,
+     "explanation": "The stomach completes mechanical digestion and continues chemical digestion. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-14a38336",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "The oesophagus moves food mainly by:",
+     "options": [
+      "Peristalsis, not gravity, through upper and lower sphincters, crossing the diaphragm at the oesophageal hiatus",
+      "Gravity only",
+      "Ciliary action",
+      "Segmentation only"
+     ],
+     "answer": 0,
+     "explanation": "About 30 cm, behind trachea and heart. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-2a7fe08d",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "During the pharyngeal phase of swallowing:",
+     "options": [
+      "The soft palate closes the nasal cavity and the epiglottis closes the trachea as a reflex peristaltic wave drives the bolus",
+      "The tongue voluntarily pushes food to the stomach",
+      "The pylorus opens",
+      "Bile is released"
+     ],
+     "answer": 0,
+     "explanation": "The oral phase is voluntary. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-3de299d0",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "The liver's digestion-related function highlighted is:",
+     "options": [
+      "Producing bile (sent to gallbladder), plus metabolic, toxin/hormone elimination, bilirubin handling, coagulation-factor synthesis and storage roles",
+      "Producing insulin only",
+      "Absorbing most nutrients directly",
+      "Forming faeces"
+     ],
+     "answer": 0,
+     "explanation": "Liver receives portal-vein nutrient blood and hepatic-artery oxygenated blood. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-fadd9242",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "The pancreas exocrine function is to:",
+     "options": [
+      "Secrete pancreatic juice into the duodenum via the pancreatic duct, with bicarbonate neutralising gastric acid",
+      "Secrete only insulin into blood",
+      "Store bile",
+      "Absorb fats into lymph only"
+     ],
+     "answer": 0,
+     "explanation": "Endocrine pancreas secretes insulin, glucagon, somatostatin and pancreatic polypeptide. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-3275ae95",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "Intestinal villi and microvilli serve to:",
+     "options": [
+      "Provide a huge absorption area (about 300 m² in the slides) in the small intestine",
+      "Produce bile",
+      "Store faeces",
+      "Close the ileocaecal valve only"
+     ],
+     "answer": 0,
+     "explanation": "Fats enter lacteal/quiliferous vessels into lymph; other nutrients go via capillaries to the portal vein. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-091a9fdc",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "The large intestine mainly:",
+     "options": [
+      "Absorbs water and inorganic ions, forms/eliminates faeces, and hosts bacterial flora synthesising vitamins K and B",
+      "Performs almost all nutrient absorption",
+      "Produces pancreatic juice",
+      "Begins chemical digestion"
+     ],
+     "answer": 0,
+     "explanation": "About 1.5 m long, 6.5 cm diameter. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-68437a5d",
+     "topic": "9. Physiopathology of Digestive System",
+     "q": "Faeces are formed from:",
+     "options": [
+      "Non-absorbed food remains (e.g. cellulose), intestinal epithelial cells and intestinal bacteria",
+      "Only bile pigments",
+      "Only water and salts",
+      "Undigested bone fragments normally"
+     ],
+     "answer": 0,
+     "explanation": "Odour is due to putrid protein fermentation; form depends on colon transit time. (Lecture 9: Physiopathology of Digestive System)"
+    },
+    {
+     "id": "patho1-05f1881e",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "The endocrine system regulates the body by:",
+     "options": [
+      "Glands releasing hormones into the blood to regulate, coordinate and control target organs/cells",
+      "Only nerve impulses",
+      "Only mechanical pressure",
+      "Only lymphatic drainage"
+     ],
+     "answer": 0,
+     "explanation": "It is controlled by the nervous system but also has self-regulation. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-af10c275",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "The hypothalamus controls the pituitary by:",
+     "options": [
+      "Releasing hormones such as GHRH, TRH, CRH and GnRH that start/stop pituitary secretion",
+      "Directly secreting insulin",
+      "Producing melatonin only",
+      "Storing calcium"
+     ],
+     "answer": 0,
+     "explanation": "GnRH drives LH/FSH important for puberty. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-14aa92a9",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "The pituitary is called the 'master gland' because:",
+     "options": [
+      "It exerts great influence on other organs/glands of the body",
+      "It produces all hormones itself",
+      "It controls digestion directly",
+      "It replaces the hypothalamus"
+     ],
+     "answer": 0,
+     "explanation": "Its function is complex and important for general well-being. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-2dc3400b",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "The pineal gland hormone melatonin:",
+     "options": [
+      "Helps control circadian/sleep rhythms and can inhibit gonadotropin action",
+      "Raises blood glucose",
+      "Stimulates thyroid T3 release directly",
+      "Increases calcium from bone"
+     ],
+     "answer": 0,
+     "explanation": "As summarised in the lecture. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-a9fbe57d",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "Thyroid hormones T3 (triiodothyronine) and T4 primarily control:",
+     "options": [
+      "Metabolism: breaking down/storing food energy and producing waste with energy release",
+      "Only calcium levels",
+      "Only blood clotting",
+      "Only sperm production"
+     ],
+     "answer": 0,
+     "explanation": "Thyroid sits in front of the trachea, below the larynx. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-bba1ebca",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "Parathyroid hormone (PTH) acts to:",
+     "options": [
+      "Raise blood calcium (including taking calcium from bone) when calcium is deficient, controlling calcium/phosphorus for bone formation",
+      "Lower blood calcium in all cases",
+      "Secrete insulin",
+      "Produce melatonin"
+     ],
+     "answer": 0,
+     "explanation": "Four parathyroids lie behind the thyroid. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-98e1c767",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "If parathyroids are removed during thyroid surgery, low blood calcium can cause:",
+     "options": [
+      "Irregular heartbeat, tingling in hands/feet and possibly shortness of breath",
+      "Only increased muscle mass",
+      "Only high fever",
+      "No symptoms"
+     ],
+     "answer": 0,
+     "explanation": "Excess PTH can cause muscle weakness and fatigue. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-6768e655",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "The adrenal cortex produces:",
+     "options": [
+      "Glucocorticoids (e.g. cortisol) for blood-sugar/stress responses, mineralocorticoids (e.g. aldosterone) for salt/fluid and blood pressure, plus some sex hormones",
+      "Only adrenaline from the medulla",
+      "Only insulin",
+      "Only T3/T4"
+     ],
+     "answer": 0,
+     "explanation": "Each adrenal is two organs: outer cortex, inner medulla, above the kidneys. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-3215a2ad",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "Aldosterone helps regulate blood pressure by acting on the kidneys to:",
+     "options": [
+      "Retain enough salt and fluid, controlling blood volume",
+      "Excrete all sodium",
+      "Lower cortisol",
+      "Produce red blood cells"
+     ],
+     "answer": 0,
+     "explanation": "It is a mineralocorticoid. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-df272704",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "Negative feedback (negative self-regulation) in the endocrine system means:",
+     "options": [
+      "When a hormone level is sufficient, the stimulating gland signal is deactivated/switched off to prevent excess",
+      "Hormones always increase without limit",
+      "The pituitary is destroyed",
+      "Target glands never respond"
+     ],
+     "answer": 0,
+     "explanation": "Example given: pituitary-thyroid regulation. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-b2736dc5",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "Diabetes mellitus, in the endocrine lecture, is a disorder of:",
+     "options": [
+      "Blood-glucose regulation involving insulin (pancreatic endocrine function)",
+      "Only thyroid hormone excess",
+      "Only PTH deficiency",
+      "Only melatonin excess"
+     ],
+     "answer": 0,
+     "explanation": "Pancreatic endocrine hormones listed: insulin, glucagon, somatostatin, pancreatic polypeptide. (Lecture 10: Physiopathology of Endocrine System)"
+    },
+    {
+     "id": "patho1-929fcaec",
+     "topic": "10. Physiopathology of Endocrine System",
+     "q": "Cushing disease/syndrome and obesity are covered in the lecture as:",
+     "options": [
+      "Endocrine pathophysiology topics linked to cortisol/adrenal and metabolic regulation respectively",
+      "Types of anaemia",
+      "Forms of lymphoma",
+      "Grades of sprain"
+     ],
+     "answer": 0,
+     "explanation": "Lecture sequence: glands/hormones summary, diabetes, thyroid diseases, Cushing disease, obesity. (Lecture 10: Physiopathology of Endocrine System)"
     }
    ]
   }

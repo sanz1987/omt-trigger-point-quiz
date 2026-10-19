@@ -17,7 +17,7 @@ CLASSES = [
  ('trauma', 'Pathology of Trauma', 'Orthopaedic trauma by region, fracture management, imaging'),
  ('biomech', 'Biomechanics', 'Kinematics, kinetics, gait analysis, measurement, posture, knee, hip, spine'),
  ('research', 'Research Methodology', 'Scientific method, PICO, hypotheses, objectives, Research Protocol rules'),
- ('patho1', 'Pathophysiological Foundations I', 'Course organisation, syllabus map, core definitions (limited material so far)'),
+ ('patho1', 'Pathophysiological Foundations I', 'Health & disease, inflammation/fever/pain, clinical history & diagnostics, pharmacology, oncology, haematology, MSK, digestive & endocrine — from the 2025-26 lecture slides'),
 ]
 errors = []
 
