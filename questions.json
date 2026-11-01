@@ -5421,7 +5421,12 @@
     "Knee",
     "Ankle & foot",
     "Pediatric & amputations",
-    "Fracture management (Basics)"
+    "Fracture management (Basics)",
+    "Image ID: Intro & imaging",
+    "Image ID: Fractures (general)",
+    "Image ID: Shoulder",
+    "Image ID: Elbow",
+    "Image ID: Wrist & hand"
    ],
    "questions": [
     {
@@ -7685,6 +7690,496 @@
      ],
      "answer": 0,
      "explanation": "Arthroplasty removes damaged bone/cartilage and replaces it with implants; often allows early weight-bearing. (Basics doc)"
+    },
+    {
+     "id": "trauma-c6bd38db",
+     "topic": "Image ID: Intro & imaging",
+     "q": "Which imaging technique produced these images of the lower legs (focal \"hot spot\" in the distal tibia)?",
+     "options": [
+      "Bone scintigraphy",
+      "Plain X-ray",
+      "CT scan",
+      "MRI"
+     ],
+     "answer": 0,
+     "explanation": "Bone scintigraphy: radioactive tracer taken up by metabolically active bone shows abnormalities as \"hot spots\" on gamma-camera images; used for stress/occult fractures. The slide shows a stress fracture of the right distal medial tibia. (Lecture 1, slides 38–39)",
+     "qimg": "trauma/L01_p39_bone-scintigraphy"
+    },
+    {
+     "id": "trauma-df83ac42",
+     "topic": "Image ID: Intro & imaging",
+     "q": "Which imaging technique is shown (humeral head and glenoid)?",
+     "options": [
+      "Ultrasound scan",
+      "MRI",
+      "CT scan",
+      "Bone scintigraphy"
+     ],
+     "answer": 0,
+     "explanation": "Musculoskeletal ultrasound uses sound waves, carries no radiation risk, is low cost and evaluates structures dynamically; effective for joint effusions, cysts, ligaments, muscles and tendons. (Lecture 1, slides 47–48)",
+     "qimg": "trauma/L01_p48_shoulder-ultrasound"
+    },
+    {
+     "id": "trauma-20e91708",
+     "topic": "Image ID: Intro & imaging",
+     "q": "Lateral elbow radiograph. Which term describes the joint injury shown?",
+     "options": [
+      "Dislocation",
+      "Subluxation",
+      "Pseudoarthrosis",
+      "Malunion"
+     ],
+     "answer": 0,
+     "explanation": "Dislocation = complete and persistent loss of contact between the joint surfaces; subluxation = only partial loss of contact with partial congruence. (Lecture 1, slides 10–11)",
+     "qimg": "trauma/L01_p10_elbow-dislocation"
+    },
+    {
+     "id": "trauma-01183c3c",
+     "topic": "Image ID: Fractures (general)",
+     "q": "Distal humerus: classified by fragments, which fracture type is shown?",
+     "options": [
+      "Comminuted fracture",
+      "Incomplete (greenstick) fracture",
+      "Avulsion fracture",
+      "Transverse fracture"
+     ],
+     "answer": 0,
+     "explanation": "Comminuted = bone broken into many pieces (classification by fragments: incomplete, complete, comminuted). Slide example: comminuted distal humerus. (Lecture 2, slides 19, 25, 29)",
+     "qimg": "trauma/L02_p29_comminuted-distal-humerus"
+    },
+    {
+     "id": "trauma-172651c8",
+     "topic": "Image ID: Fractures (general)",
+     "q": "What fracture pattern is shown in the proximal phalanx (arrow)?",
+     "options": [
+      "Oblique, displaced fracture",
+      "Spiral fracture",
+      "Impacted fracture",
+      "Avulsion fracture"
+     ],
+     "answer": 0,
+     "explanation": "The slide shows an oblique, displaced fracture of the proximal phalanx – the fracture line runs at an angle across the shaft. (Lecture 2, slide 28)",
+     "qimg": "trauma/L02_p28_oblique-phalanx"
+    },
+    {
+     "id": "trauma-0733e39f",
+     "topic": "Image ID: Fractures (general)",
+     "q": "Which fracture pattern of the tibia and fibula is shown, typically caused by torsion?",
+     "options": [
+      "Spiral fracture",
+      "Transverse fracture",
+      "Impacted fracture",
+      "Avulsion fracture"
+     ],
+     "answer": 0,
+     "explanation": "Spiral fracture – the fracture line winds around the shaft; mechanism = torsion (twisting). Slide example: tibia and fibula. (Lecture 2, slide 32)",
+     "qimg": "trauma/L02_p32_spiral-tibia"
+    },
+    {
+     "id": "trauma-77c33703",
+     "topic": "Image ID: Fractures (general)",
+     "q": "Distal radius (arrows). Which fracture type is shown?",
+     "options": [
+      "Impacted fracture",
+      "Avulsion fracture",
+      "Spiral fracture",
+      "Comminuted fracture"
+     ],
+     "answer": 0,
+     "explanation": "Impacted fracture = a bone fragment is driven into another bone fragment; mechanism = compression. Slide example: distal radius. (Lecture 2, slide 35)",
+     "qimg": "trauma/L02_p35_impacted-distal-radius"
+    },
+    {
+     "id": "trauma-b41aa84b",
+     "topic": "Image ID: Fractures (general)",
+     "q": "Ankle radiograph. Which fracture type is shown at the malleolus?",
+     "options": [
+      "Avulsion fracture",
+      "Impacted fracture",
+      "Pathologic fracture",
+      "Spiral fracture"
+     ],
+     "answer": 0,
+     "explanation": "Avulsion fracture – mechanism is tension: a fragment of bone is pulled away at a ligament or tendon attachment. (Lecture 2, slide 36)",
+     "qimg": "trauma/L02_p36_avulsion-ankle"
+    },
+    {
+     "id": "trauma-0449718c",
+     "topic": "Image ID: Fractures (general)",
+     "q": "Humerus (arrows). Which type of fracture is shown?",
+     "options": [
+      "Pathologic fracture (bone tumour)",
+      "Stress (fatigue) fracture",
+      "Avulsion fracture",
+      "Greenstick fracture"
+     ],
+     "answer": 0,
+     "explanation": "The slide shows a pathologic fracture of the humerus as a result of a bone tumour – the bone breaks through abnormal, weakened bone. (Lecture 2, slide 33)",
+     "qimg": "trauma/L02_p33_pathologic-humerus"
+    },
+    {
+     "id": "trauma-39c41e51",
+     "topic": "Image ID: Fractures (general)",
+     "q": "Distal phalanx of the thumb. Classified by fragments, this fracture is:",
+     "options": [
+      "Incomplete fracture",
+      "Complete fracture",
+      "Comminuted fracture",
+      "Compound (open) fracture"
+     ],
+     "answer": 0,
+     "explanation": "By fragments, fractures are incomplete (greenstick), complete or comminuted. Slide example of incomplete: distal phalanx of the thumb. (Lecture 2, slides 19, 25)",
+     "qimg": "trauma/L02_p25_incomplete-fracture"
+    },
+    {
+     "id": "trauma-2824ce87",
+     "topic": "Image ID: Fractures (general)",
+     "q": "Hip radiographs after a femoral neck injury. Which complication affects the femoral head?",
+     "options": [
+      "Avascular necrosis",
+      "Osteomyelitis",
+      "Non-union",
+      "Compartment syndrome"
+     ],
+     "answer": 0,
+     "explanation": "Avascular necrosis = death of bone due to interrupted blood supply; the slides show femoral-head AVN and recommend re-evaluation at regular intervals during healing. (Lecture 2, slides 49–50)",
+     "qimg": "trauma/L02_p50_avn-femoral-head"
+    },
+    {
+     "id": "trauma-addeffb9",
+     "topic": "Image ID: Shoulder",
+     "q": "What injury is shown on this shoulder radiograph?",
+     "options": [
+      "Midshaft clavicle fracture",
+      "Acromioclavicular (AC) dislocation",
+      "Proximal humerus fracture",
+      "Anterior glenohumeral dislocation"
+     ],
+     "answer": 0,
+     "explanation": "Clavicle fracture in the middle third – the most common site because it is the thinnest part and not reinforced by muscles/ligaments; 94% result from a direct blow (fall on the side). (Lecture 3, slides 12–16)",
+     "qimg": "trauma/L03_p16_clavicle-fracture"
+    },
+    {
+     "id": "trauma-a3631be3",
+     "topic": "Image ID: Shoulder",
+     "q": "Proximal humerus fracture. Which Neer category is shown?",
+     "options": [
+      "Four-part fracture",
+      "One-part fracture",
+      "Two-part fracture",
+      "Three-part fracture"
+     ],
+     "answer": 0,
+     "explanation": "Neer four-part: all four parts (articular surface, greater tuberosity, lesser tuberosity, shaft) displaced; high risk of AVN, <1% of proximal humeral fractures. (Lecture 3, slides 29–30, 34)",
+     "qimg": "trauma/L03_p34_neer-four-part"
+    },
+    {
+     "id": "trauma-6e8abcb4",
+     "topic": "Image ID: Shoulder",
+     "q": "Proximal humerus fracture through the surgical neck. Which Neer category is shown?",
+     "options": [
+      "Two-part fracture",
+      "One-part fracture",
+      "Three-part fracture",
+      "Four-part fracture"
+     ],
+     "answer": 0,
+     "explanation": "Neer two-part = one \"part\" displaced (here humeral shaft/surgical neck), ~20% of proximal humeral fractures. \"Displaced\" = >1 cm separation or >45° angulation. (Lecture 3, slides 29–30, 32)",
+     "qimg": "trauma/L03_p32_neer-two-part"
+    },
+    {
+     "id": "trauma-04e257e8",
+     "topic": "Image ID: Shoulder",
+     "q": "What injury is shown?",
+     "options": [
+      "Humeral shaft fracture (transverse)",
+      "Proximal humerus (surgical neck) fracture",
+      "Supracondylar humerus fracture",
+      "Clavicle fracture"
+     ],
+     "answer": 0,
+     "explanation": "Humeral shaft fracture – a direct blow to the upper arm typically gives a transverse fracture; indirect twisting gives spiral/oblique fractures. (Lecture 3, slide 39)",
+     "qimg": "trauma/L03_p39_humeral-shaft"
+    },
+    {
+     "id": "trauma-27d4bacc",
+     "topic": "Image ID: Shoulder",
+     "q": "Clinical photo and X-ray after a fall onto the shoulder (arrow). Most likely injury?",
+     "options": [
+      "Acromioclavicular (AC) dislocation",
+      "Midshaft clavicle fracture",
+      "Posterior glenohumeral dislocation",
+      "Hill-Sachs lesion"
+     ],
+     "answer": 0,
+     "explanation": "AC dislocation results from a fall rolling onto the shoulder; the outer end of the clavicle becomes prominent (coracoclavicular damage) and an X-ray rules out fracture. (Lecture 3, slides 47–49)",
+     "qimg": "trauma/L03_p49_ac-dislocation"
+    },
+    {
+     "id": "trauma-cb1c079f",
+     "topic": "Image ID: Shoulder",
+     "q": "Shoulder radiograph after dislocation (circle). Which associated lesion is shown?",
+     "options": [
+      "Bankart lesion",
+      "Hill-Sachs lesion",
+      "SLAP lesion",
+      "Greater tuberosity fracture"
+     ],
+     "answer": 0,
+     "explanation": "Bankart lesion = detachment of the glenoid labrum, anteroinferior lesion on the glenoid rim (bony) or labrum (soft). Hill-Sachs is on the humeral head. (Lecture 3, slides 55, 58)",
+     "qimg": "trauma/L03_p58_bankart"
+    },
+    {
+     "id": "trauma-3725bd65",
+     "topic": "Image ID: Shoulder",
+     "q": "Shoulder radiographs after anterior dislocation. Which humeral-head lesion is shown?",
+     "options": [
+      "Hill-Sachs lesion",
+      "Bankart lesion",
+      "SLAP lesion",
+      "Neer two-part fracture"
+     ],
+     "answer": 0,
+     "explanation": "Hill-Sachs lesion = posterolateral humeral head compression fracture (associated with glenohumeral instability). (Lecture 3, slides 57–58)",
+     "qimg": "trauma/L03_p58_hill-sachs"
+    },
+    {
+     "id": "trauma-ef1956b3",
+     "topic": "Image ID: Elbow",
+     "q": "What condition of the elbow is shown?",
+     "options": [
+      "Olecranon bursitis",
+      "Lateral epicondylitis",
+      "Olecranon fracture",
+      "Cubital tunnel syndrome"
+     ],
+     "answer": 0,
+     "explanation": "Olecranon bursitis = inflammation of the olecranon bursa; mechanism: direct trauma or repeated leaning on the elbow; treatment: compression, ice, aspiration + compressive dressing. (Lecture 4, slides 19–21)",
+     "qimg": "trauma/L04_p19_olecranon-bursitis"
+    },
+    {
+     "id": "trauma-e1a9a841",
+     "topic": "Image ID: Elbow",
+     "q": "Child after a supracondylar humerus fracture. Which complication is shown?",
+     "options": [
+      "Volkmann's contracture",
+      "Cubitus varus (gunstock deformity)",
+      "Dupuytren's contracture",
+      "Ulnar nerve palsy from cubital tunnel syndrome"
+     ],
+     "answer": 0,
+     "explanation": "Volkmann's contracture = ischaemic injury of the brachial artery causing permanent flexion of hand and wrist – a complication of supracondylar humerus fracture (with cubitus varus and nerve damage). (Lecture 4, slide 28)",
+     "qimg": "trauma/L04_p28_volkmann"
+    },
+    {
+     "id": "trauma-4e3b55a0",
+     "topic": "Image ID: Elbow",
+     "q": "AP elbow of a child (arrow). What fracture is shown?",
+     "options": [
+      "Medial epicondyle fracture",
+      "Supracondylar humerus fracture",
+      "Radial head fracture",
+      "Coronoid process fracture"
+     ],
+     "answer": 0,
+     "explanation": "Medial epicondyle fracture – 3rd most common fracture in children; direct trauma or avulsion by excess valgus stress (flexor-pronator mass, UCL); 50% associated with elbow dislocation. (Lecture 4, slide 29)",
+     "qimg": "trauma/L04_p29_medial-epicondyle"
+    },
+    {
+     "id": "trauma-70aab128",
+     "topic": "Image ID: Elbow",
+     "q": "Lateral elbow after a fall on the outstretched hand (arrows). What injury is shown?",
+     "options": [
+      "Radial head/neck fracture",
+      "Olecranon fracture",
+      "Supracondylar humerus fracture",
+      "Monteggia fracture"
+     ],
+     "answer": 0,
+     "explanation": "Radial head fractures (33% of elbow fractures) follow a fall on the outstretched hand with the elbow extended and forearm pronated; they are often undisplaced and subtle on X-ray. Slide example: radial neck fracture. (Lecture 4, slides 31–32)",
+     "qimg": "trauma/L04_p32_radial-neck"
+    },
+    {
+     "id": "trauma-4f2d6c4d",
+     "topic": "Image ID: Elbow",
+     "q": "Lateral elbow after a direct blow (arrow). What fracture is shown?",
+     "options": [
+      "Olecranon fracture",
+      "Radial head fracture",
+      "Coronoid process fracture",
+      "Medial epicondyle fracture"
+     ],
+     "answer": 0,
+     "explanation": "Olecranon fracture – mechanism is a direct blow to the elbow; complication: ulnar nerve alterations. The slide image is a comminuted olecranon fracture. (Lecture 4, slides 36–37)",
+     "qimg": "trauma/L04_p37_olecranon-fracture"
+    },
+    {
+     "id": "trauma-39906e5b",
+     "topic": "Image ID: Elbow",
+     "q": "Forearm radiograph. Which injury is shown?",
+     "options": [
+      "Monteggia fracture",
+      "Galeazzi fracture",
+      "Colles' fracture",
+      "Terrible triad"
+     ],
+     "answer": 0,
+     "explanation": "Monteggia = fracture of the proximal/middle third of the ulna with dislocation of the radial head (children 4–10 y, FOOSH with hyper-pronation). Galeazzi = distal radius fracture + DRUJ dislocation. (Lecture 4, slides 44–45)",
+     "qimg": "trauma/L04_p45_monteggia"
+    },
+    {
+     "id": "trauma-52a301fd",
+     "topic": "Image ID: Elbow",
+     "q": "AP and lateral elbow after a fall on the outstretched hand. Diagnosis?",
+     "options": [
+      "Posterior elbow dislocation",
+      "Supracondylar humerus fracture",
+      "Monteggia fracture",
+      "Radial head subluxation (pulled elbow)"
+     ],
+     "answer": 0,
+     "explanation": "Elbow dislocation – most common dislocated joint in children; FOOSH gives posterolateral dislocation with axial loading; simple (no fracture) vs complex (fracture, vascular/nerve injury). (Lecture 4, slide 48)",
+     "qimg": "trauma/L04_p48_posterior-elbow-dislocation"
+    },
+    {
+     "id": "trauma-d39ec35e",
+     "topic": "Image ID: Elbow",
+     "q": "Lateral elbow after a fall on the outstretched hand. Which injury pattern is shown?",
+     "options": [
+      "Terrible triad of the elbow",
+      "Monteggia fracture",
+      "Isolated coronoid process fracture",
+      "Simple elbow dislocation"
+     ],
+     "answer": 0,
+     "explanation": "Terrible triad = radial head fracture + coronoid process fracture + elbow dislocation, often with collateral ligament injuries; FOOSH with arm in semi-flexion and supination. (Lecture 4, slides 41, 49)",
+     "qimg": "trauma/L04_p49_terrible-triad"
+    },
+    {
+     "id": "trauma-c0d7e246",
+     "topic": "Image ID: Wrist & hand",
+     "q": "What hand condition is shown?",
+     "options": [
+      "Dupuytren's contracture",
+      "Volkmann's contracture",
+      "De Quervain's tenosynovitis",
+      "Carpal tunnel syndrome"
+     ],
+     "answer": 0,
+     "explanation": "Dupuytren's contracture = fibrosis of the palmar fascia, mostly >50 y; starts with a palmar nodule and progresses to cords (types I–III). (Lecture 5, slides 10–11)",
+     "qimg": "trauma/L05_p11_dupuytren"
+    },
+    {
+     "id": "trauma-4527a982",
+     "topic": "Image ID: Wrist & hand",
+     "q": "Lateral wrist of an older patient after a fall on the outstretched hand. Diagnosis?",
+     "options": [
+      "Colles' fracture",
+      "Smith's fracture",
+      "Galeazzi fracture",
+      "Scaphoid fracture"
+     ],
+     "answer": 0,
+     "explanation": "Colles' = transverse distal radius fracture with dorsal deviation of the fragment (\"dinner fork\" deformity), FOOSH, common in osteoporosis; ulnar styloid fracture in >60%. (Lecture 5, slides 23–25)",
+     "qimg": "trauma/L05_p25_colles"
+    },
+    {
+     "id": "trauma-1631b199",
+     "topic": "Image ID: Wrist & hand",
+     "q": "Lateral wrist radiograph after a fall. Which distal radius fracture is shown?",
+     "options": [
+      "Smith's fracture",
+      "Colles' fracture",
+      "Galeazzi fracture",
+      "Bennett fracture"
+     ],
+     "answer": 0,
+     "explanation": "Smith's fracture (reverse Colles') = fall onto a flexed wrist, anterior deviation of the bone fragment; less common than Colles'. (Lecture 5, slides 26–27)",
+     "qimg": "trauma/L05_p27_smith"
+    },
+    {
+     "id": "trauma-7ff5d607",
+     "topic": "Image ID: Wrist & hand",
+     "q": "PA wrist after a fall on the outstretched hand (arrow). Which fracture is shown?",
+     "options": [
+      "Scaphoid fracture",
+      "Triquetral fracture",
+      "Kienböck's disease (lunate)",
+      "Bennett fracture"
+     ],
+     "answer": 0,
+     "explanation": "Scaphoid = most common carpal fracture (FOOSH, wrist hyperextension), snuffbox tenderness; proximal-pole fractures carry the highest non-union/AVN risk. Slide shows a complete fracture. (Lecture 5, slides 29–32)",
+     "qimg": "trauma/L05_p32_scaphoid"
+    },
+    {
+     "id": "trauma-2a737210",
+     "topic": "Image ID: Wrist & hand",
+     "q": "Wrist radiographs (arrows). Which carpal fracture is shown?",
+     "options": [
+      "Triquetral fracture",
+      "Scaphoid fracture",
+      "Kienböck's disease",
+      "Boxer's fracture"
+     ],
+     "answer": 0,
+     "explanation": "Triquetral fracture = 2nd most common carpal fracture (15%), FOOSH in dorsiflexion + ulnar deviation (snowboarding, skateboarding); surgery rarely required. (Lecture 5, slides 34–35)",
+     "qimg": "trauma/L05_p35_triquetral"
+    },
+    {
+     "id": "trauma-b27cbb28",
+     "topic": "Image ID: Wrist & hand",
+     "q": "PA wrist radiograph (arrow). Which condition is shown?",
+     "options": [
+      "Kienböck's disease",
+      "Scaphoid fracture",
+      "Triquetral fracture",
+      "Rolando fracture"
+     ],
+     "answer": 0,
+     "explanation": "Kienböck's disease = avascular necrosis of the lunate, often after wrist trauma; negative ulnar variance may contribute. (Lecture 5, slides 37–40)",
+     "qimg": "trauma/L05_p40_kienbock"
+    },
+    {
+     "id": "trauma-f835c1f2",
+     "topic": "Image ID: Wrist & hand",
+     "q": "Hand radiograph – look at the base of the thumb metacarpal. Which fracture is shown?",
+     "options": [
+      "Bennett fracture",
+      "Rolando fracture",
+      "Boxer's fracture",
+      "Scaphoid fracture"
+     ],
+     "answer": 0,
+     "explanation": "Bennett = intra-articular two-part fracture-dislocation at the base of the 1st metacarpal (forced abduction). Rolando = comminuted, at least 3 parts. (Lecture 5, slides 42, 44)",
+     "qimg": "trauma/L05_p44_bennett"
+    },
+    {
+     "id": "trauma-05556a53",
+     "topic": "Image ID: Wrist & hand",
+     "q": "Hand radiograph – look at the base of the thumb metacarpal (several fragments). Which fracture is shown?",
+     "options": [
+      "Rolando fracture",
+      "Bennett fracture",
+      "Boxer's fracture",
+      "Galeazzi fracture"
+     ],
+     "answer": 0,
+     "explanation": "Rolando = fracture-dislocation with comminuted fracture at the base of the 1st metacarpal (at least 3 parts), forced abduction. (Lecture 5, slides 43–44)",
+     "qimg": "trauma/L05_p44_rolando"
+    },
+    {
+     "id": "trauma-4e5924b8",
+     "topic": "Image ID: Wrist & hand",
+     "q": "Hand radiograph after punching a wall (circle). Which fracture is shown?",
+     "options": [
+      "Boxer's fracture",
+      "Bennett fracture",
+      "Rolando fracture",
+      "Triquetral fracture"
+     ],
+     "answer": 0,
+     "explanation": "Boxer's fracture = transverse fracture of the neck of the 5th metacarpal, the most common metacarpal fracture; axial loading from a clenched-fist blow against a solid surface. (Lecture 5, slides 47–48)",
+     "qimg": "trauma/L05_p48_boxers"
     }
    ]
   },
@@ -11860,6 +12355,251 @@
    "source": "https://commons.wikimedia.org/wiki/File:Gray430.png",
    "license": "Public domain",
    "author": "Henry Vandyke Carter"
+  },
+  "trauma/L01_p10_elbow-dislocation": {
+   "file": "img/trauma/L01_p10_elbow-dislocation.jpg",
+   "title": "L01_p10_elbow-dislocation.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L01 p.10",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L01_p39_bone-scintigraphy": {
+   "file": "img/trauma/L01_p39_bone-scintigraphy.jpg",
+   "title": "L01_p39_bone-scintigraphy.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L01 p.39",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L01_p48_shoulder-ultrasound": {
+   "file": "img/trauma/L01_p48_shoulder-ultrasound.jpg",
+   "title": "L01_p48_shoulder-ultrasound.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L01 p.48",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L02_p25_incomplete-fracture": {
+   "file": "img/trauma/L02_p25_incomplete-fracture.jpg",
+   "title": "L02_p25_incomplete-fracture.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L02 p.25",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L02_p28_oblique-phalanx": {
+   "file": "img/trauma/L02_p28_oblique-phalanx.jpg",
+   "title": "L02_p28_oblique-phalanx.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L02 p.28",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L02_p29_comminuted-distal-humerus": {
+   "file": "img/trauma/L02_p29_comminuted-distal-humerus.jpg",
+   "title": "L02_p29_comminuted-distal-humerus.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L02 p.29",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L02_p32_spiral-tibia": {
+   "file": "img/trauma/L02_p32_spiral-tibia.jpg",
+   "title": "L02_p32_spiral-tibia.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L02 p.32",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L02_p33_pathologic-humerus": {
+   "file": "img/trauma/L02_p33_pathologic-humerus.jpg",
+   "title": "L02_p33_pathologic-humerus.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L02 p.33",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L02_p35_impacted-distal-radius": {
+   "file": "img/trauma/L02_p35_impacted-distal-radius.jpg",
+   "title": "L02_p35_impacted-distal-radius.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L02 p.35",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L02_p36_avulsion-ankle": {
+   "file": "img/trauma/L02_p36_avulsion-ankle.jpg",
+   "title": "L02_p36_avulsion-ankle.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L02 p.36",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L02_p50_avn-femoral-head": {
+   "file": "img/trauma/L02_p50_avn-femoral-head.jpg",
+   "title": "L02_p50_avn-femoral-head.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L02 p.50",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L03_p16_clavicle-fracture": {
+   "file": "img/trauma/L03_p16_clavicle-fracture.jpg",
+   "title": "L03_p16_clavicle-fracture.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L03 p.16",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L03_p32_neer-two-part": {
+   "file": "img/trauma/L03_p32_neer-two-part.jpg",
+   "title": "L03_p32_neer-two-part.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L03 p.32",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L03_p34_neer-four-part": {
+   "file": "img/trauma/L03_p34_neer-four-part.jpg",
+   "title": "L03_p34_neer-four-part.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L03 p.34",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L03_p39_humeral-shaft": {
+   "file": "img/trauma/L03_p39_humeral-shaft.jpg",
+   "title": "L03_p39_humeral-shaft.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L03 p.39",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L03_p49_ac-dislocation": {
+   "file": "img/trauma/L03_p49_ac-dislocation.jpg",
+   "title": "L03_p49_ac-dislocation.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L03 p.49",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L03_p58_bankart": {
+   "file": "img/trauma/L03_p58_bankart.jpg",
+   "title": "L03_p58_bankart.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L03 p.58",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L03_p58_hill-sachs": {
+   "file": "img/trauma/L03_p58_hill-sachs.jpg",
+   "title": "L03_p58_hill-sachs.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L03 p.58",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L04_p19_olecranon-bursitis": {
+   "file": "img/trauma/L04_p19_olecranon-bursitis.jpg",
+   "title": "L04_p19_olecranon-bursitis.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L04 p.19",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L04_p28_volkmann": {
+   "file": "img/trauma/L04_p28_volkmann.jpg",
+   "title": "L04_p28_volkmann.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L04 p.28",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L04_p29_medial-epicondyle": {
+   "file": "img/trauma/L04_p29_medial-epicondyle.jpg",
+   "title": "L04_p29_medial-epicondyle.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L04 p.29",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L04_p32_radial-neck": {
+   "file": "img/trauma/L04_p32_radial-neck.jpg",
+   "title": "L04_p32_radial-neck.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L04 p.32",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L04_p37_olecranon-fracture": {
+   "file": "img/trauma/L04_p37_olecranon-fracture.jpg",
+   "title": "L04_p37_olecranon-fracture.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L04 p.37",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L04_p45_monteggia": {
+   "file": "img/trauma/L04_p45_monteggia.jpg",
+   "title": "L04_p45_monteggia.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L04 p.45",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L04_p48_posterior-elbow-dislocation": {
+   "file": "img/trauma/L04_p48_posterior-elbow-dislocation.jpg",
+   "title": "L04_p48_posterior-elbow-dislocation.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L04 p.48",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L04_p49_terrible-triad": {
+   "file": "img/trauma/L04_p49_terrible-triad.jpg",
+   "title": "L04_p49_terrible-triad.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L04 p.49",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L05_p11_dupuytren": {
+   "file": "img/trauma/L05_p11_dupuytren.jpg",
+   "title": "L05_p11_dupuytren.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L05 p.11",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L05_p25_colles": {
+   "file": "img/trauma/L05_p25_colles.jpg",
+   "title": "L05_p25_colles.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L05 p.25",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L05_p27_smith": {
+   "file": "img/trauma/L05_p27_smith.jpg",
+   "title": "L05_p27_smith.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L05 p.27",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L05_p32_scaphoid": {
+   "file": "img/trauma/L05_p32_scaphoid.jpg",
+   "title": "L05_p32_scaphoid.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L05 p.32",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L05_p35_triquetral": {
+   "file": "img/trauma/L05_p35_triquetral.jpg",
+   "title": "L05_p35_triquetral.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L05 p.35",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L05_p40_kienbock": {
+   "file": "img/trauma/L05_p40_kienbock.jpg",
+   "title": "L05_p40_kienbock.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L05 p.40",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L05_p44_bennett": {
+   "file": "img/trauma/L05_p44_bennett.jpg",
+   "title": "L05_p44_bennett.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L05 p.44",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L05_p44_rolando": {
+   "file": "img/trauma/L05_p44_rolando.jpg",
+   "title": "L05_p44_rolando.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L05 p.44",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
+  },
+  "trauma/L05_p48_boxers": {
+   "file": "img/trauma/L05_p48_boxers.jpg",
+   "title": "L05_p48_boxers.jpg",
+   "source": "Prof. Dr. Renata Kelly da Palma, Pathology of Trauma lecture slides, L05 p.48",
+   "license": "Lecture slide material (study use)",
+   "author": "Prof. Dr. Renata Kelly da Palma"
   }
  },
  "mocks": [

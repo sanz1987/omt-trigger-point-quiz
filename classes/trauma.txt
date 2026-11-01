@@ -1227,3 +1227,289 @@ Arthroplasty differs from ORIF because it:
 - Uses only a cast
 - Is non-invasive
 E: Arthroplasty removes damaged bone/cartilage and replaces it with implants; often allows early weight-bearing. (Basics doc)
+
+# ---- Image-recognition questions (images: Prof. Dr. Renata Kelly da Palma lecture slides L01–L05, 2026) ----
+@ Image ID: Intro & imaging
+IMG: img/trauma/L01_p39_bone-scintigraphy.jpg
+Which imaging technique produced these images of the lower legs (focal "hot spot" in the distal tibia)?
+* Bone scintigraphy
+- Plain X-ray
+- CT scan
+- MRI
+E: Bone scintigraphy: radioactive tracer taken up by metabolically active bone shows abnormalities as "hot spots" on gamma-camera images; used for stress/occult fractures. The slide shows a stress fracture of the right distal medial tibia. (Lecture 1, slides 38–39)
+
+IMG: img/trauma/L01_p48_shoulder-ultrasound.jpg
+Which imaging technique is shown (humeral head and glenoid)?
+* Ultrasound scan
+- MRI
+- CT scan
+- Bone scintigraphy
+E: Musculoskeletal ultrasound uses sound waves, carries no radiation risk, is low cost and evaluates structures dynamically; effective for joint effusions, cysts, ligaments, muscles and tendons. (Lecture 1, slides 47–48)
+
+IMG: img/trauma/L01_p10_elbow-dislocation.jpg
+Lateral elbow radiograph. Which term describes the joint injury shown?
+* Dislocation
+- Subluxation
+- Pseudoarthrosis
+- Malunion
+E: Dislocation = complete and persistent loss of contact between the joint surfaces; subluxation = only partial loss of contact with partial congruence. (Lecture 1, slides 10–11)
+
+@ Image ID: Fractures (general)
+IMG: img/trauma/L02_p29_comminuted-distal-humerus.jpg
+Distal humerus: classified by fragments, which fracture type is shown?
+* Comminuted fracture
+- Incomplete (greenstick) fracture
+- Avulsion fracture
+- Transverse fracture
+E: Comminuted = bone broken into many pieces (classification by fragments: incomplete, complete, comminuted). Slide example: comminuted distal humerus. (Lecture 2, slides 19, 25, 29)
+
+IMG: img/trauma/L02_p28_oblique-phalanx.jpg
+What fracture pattern is shown in the proximal phalanx (arrow)?
+* Oblique, displaced fracture
+- Spiral fracture
+- Impacted fracture
+- Avulsion fracture
+E: The slide shows an oblique, displaced fracture of the proximal phalanx – the fracture line runs at an angle across the shaft. (Lecture 2, slide 28)
+
+IMG: img/trauma/L02_p32_spiral-tibia.jpg
+Which fracture pattern of the tibia and fibula is shown, typically caused by torsion?
+* Spiral fracture
+- Transverse fracture
+- Impacted fracture
+- Avulsion fracture
+E: Spiral fracture – the fracture line winds around the shaft; mechanism = torsion (twisting). Slide example: tibia and fibula. (Lecture 2, slide 32)
+
+IMG: img/trauma/L02_p35_impacted-distal-radius.jpg
+Distal radius (arrows). Which fracture type is shown?
+* Impacted fracture
+- Avulsion fracture
+- Spiral fracture
+- Comminuted fracture
+E: Impacted fracture = a bone fragment is driven into another bone fragment; mechanism = compression. Slide example: distal radius. (Lecture 2, slide 35)
+
+IMG: img/trauma/L02_p36_avulsion-ankle.jpg
+Ankle radiograph. Which fracture type is shown at the malleolus?
+* Avulsion fracture
+- Impacted fracture
+- Pathologic fracture
+- Spiral fracture
+E: Avulsion fracture – mechanism is tension: a fragment of bone is pulled away at a ligament or tendon attachment. (Lecture 2, slide 36)
+
+IMG: img/trauma/L02_p33_pathologic-humerus.jpg
+Humerus (arrows). Which type of fracture is shown?
+* Pathologic fracture (bone tumour)
+- Stress (fatigue) fracture
+- Avulsion fracture
+- Greenstick fracture
+E: The slide shows a pathologic fracture of the humerus as a result of a bone tumour – the bone breaks through abnormal, weakened bone. (Lecture 2, slide 33)
+
+IMG: img/trauma/L02_p25_incomplete-fracture.jpg
+Distal phalanx of the thumb. Classified by fragments, this fracture is:
+* Incomplete fracture
+- Complete fracture
+- Comminuted fracture
+- Compound (open) fracture
+E: By fragments, fractures are incomplete (greenstick), complete or comminuted. Slide example of incomplete: distal phalanx of the thumb. (Lecture 2, slides 19, 25)
+
+IMG: img/trauma/L02_p50_avn-femoral-head.jpg
+Hip radiographs after a femoral neck injury. Which complication affects the femoral head?
+* Avascular necrosis
+- Osteomyelitis
+- Non-union
+- Compartment syndrome
+E: Avascular necrosis = death of bone due to interrupted blood supply; the slides show femoral-head AVN and recommend re-evaluation at regular intervals during healing. (Lecture 2, slides 49–50)
+
+@ Image ID: Shoulder
+IMG: img/trauma/L03_p16_clavicle-fracture.jpg
+What injury is shown on this shoulder radiograph?
+* Midshaft clavicle fracture
+- Acromioclavicular (AC) dislocation
+- Proximal humerus fracture
+- Anterior glenohumeral dislocation
+E: Clavicle fracture in the middle third – the most common site because it is the thinnest part and not reinforced by muscles/ligaments; 94% result from a direct blow (fall on the side). (Lecture 3, slides 12–16)
+
+IMG: img/trauma/L03_p34_neer-four-part.jpg
+Proximal humerus fracture. Which Neer category is shown?
+* Four-part fracture
+- One-part fracture
+- Two-part fracture
+- Three-part fracture
+E: Neer four-part: all four parts (articular surface, greater tuberosity, lesser tuberosity, shaft) displaced; high risk of AVN, <1% of proximal humeral fractures. (Lecture 3, slides 29–30, 34)
+
+IMG: img/trauma/L03_p32_neer-two-part.jpg
+Proximal humerus fracture through the surgical neck. Which Neer category is shown?
+* Two-part fracture
+- One-part fracture
+- Three-part fracture
+- Four-part fracture
+E: Neer two-part = one "part" displaced (here humeral shaft/surgical neck), ~20% of proximal humeral fractures. "Displaced" = >1 cm separation or >45° angulation. (Lecture 3, slides 29–30, 32)
+
+IMG: img/trauma/L03_p39_humeral-shaft.jpg
+What injury is shown?
+* Humeral shaft fracture (transverse)
+- Proximal humerus (surgical neck) fracture
+- Supracondylar humerus fracture
+- Clavicle fracture
+E: Humeral shaft fracture – a direct blow to the upper arm typically gives a transverse fracture; indirect twisting gives spiral/oblique fractures. (Lecture 3, slide 39)
+
+IMG: img/trauma/L03_p49_ac-dislocation.jpg
+Clinical photo and X-ray after a fall onto the shoulder (arrow). Most likely injury?
+* Acromioclavicular (AC) dislocation
+- Midshaft clavicle fracture
+- Posterior glenohumeral dislocation
+- Hill-Sachs lesion
+E: AC dislocation results from a fall rolling onto the shoulder; the outer end of the clavicle becomes prominent (coracoclavicular damage) and an X-ray rules out fracture. (Lecture 3, slides 47–49)
+
+IMG: img/trauma/L03_p58_bankart.jpg
+Shoulder radiograph after dislocation (circle). Which associated lesion is shown?
+* Bankart lesion
+- Hill-Sachs lesion
+- SLAP lesion
+- Greater tuberosity fracture
+E: Bankart lesion = detachment of the glenoid labrum, anteroinferior lesion on the glenoid rim (bony) or labrum (soft). Hill-Sachs is on the humeral head. (Lecture 3, slides 55, 58)
+
+IMG: img/trauma/L03_p58_hill-sachs.jpg
+Shoulder radiographs after anterior dislocation. Which humeral-head lesion is shown?
+* Hill-Sachs lesion
+- Bankart lesion
+- SLAP lesion
+- Neer two-part fracture
+E: Hill-Sachs lesion = posterolateral humeral head compression fracture (associated with glenohumeral instability). (Lecture 3, slides 57–58)
+
+@ Image ID: Elbow
+IMG: img/trauma/L04_p19_olecranon-bursitis.jpg
+What condition of the elbow is shown?
+* Olecranon bursitis
+- Lateral epicondylitis
+- Olecranon fracture
+- Cubital tunnel syndrome
+E: Olecranon bursitis = inflammation of the olecranon bursa; mechanism: direct trauma or repeated leaning on the elbow; treatment: compression, ice, aspiration + compressive dressing. (Lecture 4, slides 19–21)
+
+IMG: img/trauma/L04_p28_volkmann.jpg
+Child after a supracondylar humerus fracture. Which complication is shown?
+* Volkmann's contracture
+- Cubitus varus (gunstock deformity)
+- Dupuytren's contracture
+- Ulnar nerve palsy from cubital tunnel syndrome
+E: Volkmann's contracture = ischaemic injury of the brachial artery causing permanent flexion of hand and wrist – a complication of supracondylar humerus fracture (with cubitus varus and nerve damage). (Lecture 4, slide 28)
+
+IMG: img/trauma/L04_p29_medial-epicondyle.jpg
+AP elbow of a child (arrow). What fracture is shown?
+* Medial epicondyle fracture
+- Supracondylar humerus fracture
+- Radial head fracture
+- Coronoid process fracture
+E: Medial epicondyle fracture – 3rd most common fracture in children; direct trauma or avulsion by excess valgus stress (flexor-pronator mass, UCL); 50% associated with elbow dislocation. (Lecture 4, slide 29)
+
+IMG: img/trauma/L04_p32_radial-neck.jpg
+Lateral elbow after a fall on the outstretched hand (arrows). What injury is shown?
+* Radial head/neck fracture
+- Olecranon fracture
+- Supracondylar humerus fracture
+- Monteggia fracture
+E: Radial head fractures (33% of elbow fractures) follow a fall on the outstretched hand with the elbow extended and forearm pronated; they are often undisplaced and subtle on X-ray. Slide example: radial neck fracture. (Lecture 4, slides 31–32)
+
+IMG: img/trauma/L04_p37_olecranon-fracture.jpg
+Lateral elbow after a direct blow (arrow). What fracture is shown?
+* Olecranon fracture
+- Radial head fracture
+- Coronoid process fracture
+- Medial epicondyle fracture
+E: Olecranon fracture – mechanism is a direct blow to the elbow; complication: ulnar nerve alterations. The slide image is a comminuted olecranon fracture. (Lecture 4, slides 36–37)
+
+IMG: img/trauma/L04_p45_monteggia.jpg
+Forearm radiograph. Which injury is shown?
+* Monteggia fracture
+- Galeazzi fracture
+- Colles' fracture
+- Terrible triad
+E: Monteggia = fracture of the proximal/middle third of the ulna with dislocation of the radial head (children 4–10 y, FOOSH with hyper-pronation). Galeazzi = distal radius fracture + DRUJ dislocation. (Lecture 4, slides 44–45)
+
+IMG: img/trauma/L04_p48_posterior-elbow-dislocation.jpg
+AP and lateral elbow after a fall on the outstretched hand. Diagnosis?
+* Posterior elbow dislocation
+- Supracondylar humerus fracture
+- Monteggia fracture
+- Radial head subluxation (pulled elbow)
+E: Elbow dislocation – most common dislocated joint in children; FOOSH gives posterolateral dislocation with axial loading; simple (no fracture) vs complex (fracture, vascular/nerve injury). (Lecture 4, slide 48)
+
+IMG: img/trauma/L04_p49_terrible-triad.jpg
+Lateral elbow after a fall on the outstretched hand. Which injury pattern is shown?
+* Terrible triad of the elbow
+- Monteggia fracture
+- Isolated coronoid process fracture
+- Simple elbow dislocation
+E: Terrible triad = radial head fracture + coronoid process fracture + elbow dislocation, often with collateral ligament injuries; FOOSH with arm in semi-flexion and supination. (Lecture 4, slides 41, 49)
+
+@ Image ID: Wrist & hand
+IMG: img/trauma/L05_p11_dupuytren.jpg
+What hand condition is shown?
+* Dupuytren's contracture
+- Volkmann's contracture
+- De Quervain's tenosynovitis
+- Carpal tunnel syndrome
+E: Dupuytren's contracture = fibrosis of the palmar fascia, mostly >50 y; starts with a palmar nodule and progresses to cords (types I–III). (Lecture 5, slides 10–11)
+
+IMG: img/trauma/L05_p25_colles.jpg
+Lateral wrist of an older patient after a fall on the outstretched hand. Diagnosis?
+* Colles' fracture
+- Smith's fracture
+- Galeazzi fracture
+- Scaphoid fracture
+E: Colles' = transverse distal radius fracture with dorsal deviation of the fragment ("dinner fork" deformity), FOOSH, common in osteoporosis; ulnar styloid fracture in >60%. (Lecture 5, slides 23–25)
+
+IMG: img/trauma/L05_p27_smith.jpg
+Lateral wrist radiograph after a fall. Which distal radius fracture is shown?
+* Smith's fracture
+- Colles' fracture
+- Galeazzi fracture
+- Bennett fracture
+E: Smith's fracture (reverse Colles') = fall onto a flexed wrist, anterior deviation of the bone fragment; less common than Colles'. (Lecture 5, slides 26–27)
+
+IMG: img/trauma/L05_p32_scaphoid.jpg
+PA wrist after a fall on the outstretched hand (arrow). Which fracture is shown?
+* Scaphoid fracture
+- Triquetral fracture
+- Kienböck's disease (lunate)
+- Bennett fracture
+E: Scaphoid = most common carpal fracture (FOOSH, wrist hyperextension), snuffbox tenderness; proximal-pole fractures carry the highest non-union/AVN risk. Slide shows a complete fracture. (Lecture 5, slides 29–32)
+
+IMG: img/trauma/L05_p35_triquetral.jpg
+Wrist radiographs (arrows). Which carpal fracture is shown?
+* Triquetral fracture
+- Scaphoid fracture
+- Kienböck's disease
+- Boxer's fracture
+E: Triquetral fracture = 2nd most common carpal fracture (15%), FOOSH in dorsiflexion + ulnar deviation (snowboarding, skateboarding); surgery rarely required. (Lecture 5, slides 34–35)
+
+IMG: img/trauma/L05_p40_kienbock.jpg
+PA wrist radiograph (arrow). Which condition is shown?
+* Kienböck's disease
+- Scaphoid fracture
+- Triquetral fracture
+- Rolando fracture
+E: Kienböck's disease = avascular necrosis of the lunate, often after wrist trauma; negative ulnar variance may contribute. (Lecture 5, slides 37–40)
+
+IMG: img/trauma/L05_p44_bennett.jpg
+Hand radiograph – look at the base of the thumb metacarpal. Which fracture is shown?
+* Bennett fracture
+- Rolando fracture
+- Boxer's fracture
+- Scaphoid fracture
+E: Bennett = intra-articular two-part fracture-dislocation at the base of the 1st metacarpal (forced abduction). Rolando = comminuted, at least 3 parts. (Lecture 5, slides 42, 44)
+
+IMG: img/trauma/L05_p44_rolando.jpg
+Hand radiograph – look at the base of the thumb metacarpal (several fragments). Which fracture is shown?
+* Rolando fracture
+- Bennett fracture
+- Boxer's fracture
+- Galeazzi fracture
+E: Rolando = fracture-dislocation with comminuted fracture at the base of the 1st metacarpal (at least 3 parts), forced abduction. (Lecture 5, slides 43–44)
+
+IMG: img/trauma/L05_p48_boxers.jpg
+Hand radiograph after punching a wall (circle). Which fracture is shown?
+* Boxer's fracture
+- Bennett fracture
+- Rolando fracture
+- Triquetral fracture
+E: Boxer's fracture = transverse fracture of the neck of the 5th metacarpal, the most common metacarpal fracture; axial loading from a clenched-fist blow against a solid surface. (Lecture 5, slides 47–48)

@@ -7,9 +7,10 @@
     * correct answer
     - wrong answer          (x3)
     E: explanation (source)
+    IMG: img/<dir>/<file>.jpg  (optional; image shown above the stem, must be in img/attribution.json)
   Blocks are separated by blank lines; lines starting with # are comments.
 Run: python3 build.py   -> writes index.html and questions.json"""
-import json, random, re, hashlib, sys
+import json, random, re, hashlib, sys, os
 random.seed(42)
 CLASSES = [
  ('trigger', 'OMT II · Trigger point muscles', 'Origins, insertions, actions and nerves of the 52 muscles in the Catalyst University trigger-point slides'),
@@ -20,6 +21,7 @@ CLASSES = [
  ('patho1', 'Pathophysiological Foundations I', 'Health & disease, inflammation/fever/pain, clinical history & diagnostics, pharmacology, oncology, haematology, MSK, digestive & endocrine — from the 2025-26 lecture slides'),
 ]
 errors = []
+ATT = json.load(open('img/attribution.json', encoding='utf-8'))
 
 def parse(cid):
     Q, topic = [], 'General'
@@ -30,9 +32,10 @@ def parse(cid):
         while lines and lines[0].startswith('@'):
             topic = lines.pop(0)[1:].strip()
         if not lines: continue
-        q, ok, bad, ex = None, [], [], ''
+        q, ok, bad, ex, img = None, [], [], '', None
         for l in lines:
-            if l.startswith('* '): ok.append(l[2:].strip())
+            if l.startswith('IMG:'): img = l[4:].strip()
+            elif l.startswith('* '): ok.append(l[2:].strip())
             elif l.startswith('- '): bad.append(l[2:].strip())
             elif l.startswith('E:'): ex = l[2:].strip()
             elif q is None: q = l.strip()
@@ -40,8 +43,14 @@ def parse(cid):
         opts = ok + bad
         if len(ok) != 1 or len(bad) < 2 or not q or not ex or len(set(o.lower() for o in opts)) != len(opts):
             errors.append(f'{cid}: bad block: {lines[:2]}'); continue
-        qid = cid + '-' + hashlib.md5(q.encode()).hexdigest()[:8]
-        Q.append({'id': qid, 'topic': topic, 'q': q, 'options': opts, 'answer': 0, 'explanation': ex})
+        qid = cid + '-' + hashlib.md5((q + (img or '')).encode()).hexdigest()[:8]
+        item = {'id': qid, 'topic': topic, 'q': q, 'options': opts, 'answer': 0, 'explanation': ex}
+        if img:
+            key = re.sub(r'^img/|\.\w+$', '', img)
+            if not os.path.exists(img) or key not in ATT or ATT[key]['file'] != img:
+                errors.append(f'{cid}: image missing or not in attribution.json: {img}'); continue
+            item['qimg'] = key
+        Q.append(item)
     return Q
 
 def norm(t):
@@ -112,4 +121,4 @@ html = open('template.html', encoding='utf-8').read().replace('/*__BANK__*/', js
 open('index.html', 'w', encoding='utf-8').write(html)
 for c in bank['classes']: print(f"{c['id']:9} {len(c['questions']):4} questions, {len(c['topics'])} topics")
 for m in bank.get('mocks',[]): print(f"{m['id']:14} {len(m['questions']):4} questions (mock, 5 options)")
-print('images:', len(set(v['file'] for v in imgs.values())), 'files for', len(imgs), 'muscles')
+print('images:', len(set(v['file'] for v in imgs.values())), 'files for', len(imgs), 'image keys')

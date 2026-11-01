@@ -13,7 +13,7 @@ button,select{font:inherit}.btn{display:block;width:100%;min-height:56px;margin:
 .btn:active{background:#eef4fa}.primary{background:#1f5f8b;color:#fff;border-color:#1f5f8b;text-align:center;font-weight:600}
 .secondary{text-align:center;font-weight:600}.ok{background:#e3f6e8;border-color:#2e9d4f}.bad{background:#fde7e7;border-color:#d33}
 .muted{color:#5b6b7a;font-size:15px}.q{font-size:19px;font-weight:600;margin:6px 0 4px}.exp{margin-top:12px;padding:12px;border-radius:10px;background:#f0f5fa;font-size:16px}
-.exp img{display:block;max-width:100%;max-height:320px;margin:10px auto 4px;border-radius:8px;background:#fff}.credit{font-size:12px;color:#5b6b7a;text-align:center}
+.exp img{display:block;max-width:100%;max-height:320px;margin:10px auto 4px;border-radius:8px;background:#fff}.qimg{display:block;width:100%;max-width:640px;max-height:60vh;object-fit:contain;margin:8px auto 4px;border-radius:8px;background:#000;cursor:zoom-in}#zoom{position:fixed;inset:0;background:rgba(0,0,0,.9);display:flex;align-items:center;justify-content:center;z-index:99;cursor:zoom-out}#zoom img{max-width:98vw;max-height:96vh}.credit{font-size:12px;color:#5b6b7a;text-align:center}
 select{width:100%;min-height:52px;padding:10px;border-radius:12px;border:2px solid #c9d6e2;background:#fff;font-size:17px}
 .bar{height:6px;background:#dde6ee;border-radius:3px;overflow:hidden}.bar>div{height:100%;background:#1f5f8b}
 .big{font-size:44px;font-weight:800;text-align:center;margin:10px 0}.sel{background:#dbeafe!important;border-color:#1f5f8b!important;font-weight:700}.qgrid{display:flex;flex-wrap:wrap;gap:6px}.qgrid button{width:44px;height:44px;border-radius:10px;border:2px solid #c9d6e2;background:#fff;cursor:pointer}.qgrid button.done{background:#dbeafe;border-color:#1f5f8b}.qgrid button.cur{outline:3px solid #1f5f8b}
@@ -69,12 +69,17 @@ function start(pool,review){
 function show(){
   const q=st.qs[st.i],n=st.qs.length;
   app.innerHTML=`<div class="card"><div class="muted">${st.review?'Review · ':''}Question ${st.i+1} / ${n} · Score ${st.score} · ${esc(q.topic)}</div>
-  <div class="bar"><div style="width:${100*st.i/n}%"></div></div><p class="q">${esc(q.q)}</p>
+  <div class="bar"><div style="width:${100*st.i/n}%"></div></div>${qImg(q)}<p class="q">${esc(q.q)}</p>
   ${q.o.map((o,k)=>`<button class="btn opt" data-k="${k}">${esc(o.t)}</button>`).join('')}<div id="fb"></div></div>
   <button class="btn secondary" id="quit">Quit to class menu</button>`;
   document.querySelectorAll('.opt').forEach(b=>b.onclick=()=>answer(+b.dataset.k));
   document.getElementById('quit').onclick=menu;window.scrollTo(0,0);
 }
+function qImg(q){
+  const a=q.qimg&&BANK.images[q.qimg];if(!a)return'';
+  return `<img class="qimg" src="${esc(a.file)}" alt="Question image" onclick="zoomImg(this.src)"><div class="credit">Image: ${esc(a.source)} · tap to zoom</div>`;
+}
+function zoomImg(src){const d=document.createElement('div');d.id='zoom';d.innerHTML=`<img src="${esc(src)}" alt="">`;d.onclick=()=>d.remove();document.body.appendChild(d)}
 function imgHtml(q){
   const a=q.img&&BANK.images[q.img];if(!a)return'';
   return `<img src="${esc(a.file)}" alt="${esc(a.title)}" loading="lazy"><div class="credit">Image: ${esc(a.author)} · ${esc(a.license)} · <a href="${esc(a.source)}" target="_blank" rel="noopener">Wikimedia Commons</a></div>`;
@@ -111,7 +116,7 @@ const fmtTime=s=>`${Math.floor(Math.max(0,s)/60)}:${String(Math.max(0,s)%60).pad
 function showMock(){
   const q=st.qs[st.i],n=st.qs.length,done=st.ans.filter(a=>a!==null).length;
   app.innerHTML=`<div class="card"><div class="muted">${esc(st.mock.title)} · Question ${st.i+1} / ${n} · Answered ${done}/${n}${st.timed?` · ⏱ <span id="tmr">${fmtTime(st.left)}</span>`:''}<br>${esc(q.topic)}</div>
-  <div class="bar"><div style="width:${100*done/n}%"></div></div><p class="q">${esc(q.q)}</p>
+  <div class="bar"><div style="width:${100*done/n}%"></div></div>${qImg(q)}<p class="q">${esc(q.q)}</p>
   ${q.o.map((o,k)=>`<button class="btn opt ${st.ans[st.i]===k?'sel':''}" data-k="${k}">${'ABCDE'[k]}. ${esc(o.t)}</button>`).join('')}
   <button class="btn secondary" id="clr">Clear answer (leave blank)</button>
   <div style="display:flex;gap:8px"><button class="btn secondary" id="pv" ${st.i?'':'disabled style="opacity:.5"'}>← Prev</button><button class="btn secondary" id="nx">${st.i===n-1?'Last question →':'Next →'}</button></div>
@@ -148,8 +153,8 @@ function finishMock(){
 function credits(){
   ttl.textContent='Image credits & sources';
   const seen={},rows=[];for(const v of Object.values(BANK.images)){if(seen[v.file])continue;seen[v.file]=1;rows.push(v)}
-  app.innerHTML=`<div class="card"><p>Muscle images are free-licence files from Wikimedia Commons (public-domain Gray's Anatomy plates and CC BY / CC BY-SA works), resized and stored in this repository. Each image keeps its original licence; click a title for the file page.</p>
-  <table>${rows.map(v=>`<tr><td><a href="${esc(v.source)}" target="_blank" rel="noopener">${esc(v.title)}</a></td><td>${esc(v.author)}</td><td>${esc(v.license)}</td></tr>`).join('')}</table>
+  app.innerHTML=`<div class="card"><p>Muscle images are free-licence files from Wikimedia Commons (public-domain Gray's Anatomy plates and CC BY / CC BY-SA works), resized and stored in this repository. Each image keeps its original licence; click a title for the file page.</p><p>Pathology of Trauma image questions use clinical images (X-rays, clinical photos) cropped from Prof. Dr. Renata Kelly da Palma's Pathology of Trauma lecture slides (Lectures 1–5) for study use; each is listed below with its lecture and page.</p>
+  <table>${rows.map(v=>`<tr><td>${/^https?:/.test(v.source)?`<a href="${esc(v.source)}" target="_blank" rel="noopener">${esc(v.title)}</a>`:`${esc(v.title)}<br><span class="muted">${esc(v.source)}</span>`}</td><td>${esc(v.author)}</td><td>${esc(v.license)}</td></tr>`).join('')}</table>
   <p class="muted">Questions are based on Nóra's course materials (lecture slides, syllabi and guidelines); each explanation names its source lecture. Study aid only.</p></div>`;
 }
 addEventListener('hashchange',route);route();
