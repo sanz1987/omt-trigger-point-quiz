@@ -1513,3 +1513,377 @@ Hand radiograph after punching a wall (circle). Which fracture is shown?
 - Rolando fracture
 - Triquetral fracture
 E: Boxer's fracture = transverse fracture of the neck of the 5th metacarpal, the most common metacarpal fracture; axial loading from a clenched-fist blow against a solid surface. (Lecture 5, slides 47–48)
+
+# ===== Past test (QCM Traumato + key; selected QCM LSI items answered from lecture text) =====
+@ Past test: Upper limb
+A patient with shoulder adhesive capsulitis is receiving physical therapy, and measurements of the abduction range of motion at each visit are 81 degrees, 87 degrees, 83 degrees, 86 degrees, and 88 degrees. How long does it typically take for this condition to resolve?
+* Months
+- Weeks
+- More the 3 years
+- Hours
+- Days
+E: Past test Q2 (key A). Adhesive capsulitis ('frozen shoulder') is listed as a complication of proximal humerus fractures (Lecture 3); it resolves slowly over months.
+
+Take into consideration the table: 1) Monteggia, 2) Galeazzi, 3) Colles, 4) Smith; a) fracture of the distal third of the radius with dislocation of the distal radioulnar joint; b) distal fracture of the radius with posterior deviation of the bone fragment; c) fracture of the proximal/middle third of the ulna with dislocation of the proximal head of the radius; d) distal fracture of the radius with anterior deviation of the bone fragment. Choose the option that correctly matches the fractures with their respective descriptions.
+* 1c, 2a, 3b, 4d.
+- 1b, 2d, 3c, 4a.
+- 1d, 2b, 3a, 4c.
+- 1a, 2b, 3c, 4d.
+- 1a, 2c, 3d, 4b.
+E: Past test Q6 (key A). Monteggia = fracture of the proximal/middle third of the ulna with dislocation of the radial head (Lecture 4); Galeazzi = distal-third radius + DRUJ dislocation; Colles = dorsal (posterior) displacement; Smith = volar (anterior) displacement.
+
+Which of the following is NOT a complication of a distal humerus fracture?
+* Bicipital tendinitis.
+- Pseudoarthrosis.
+- Radial nerve injury.
+- Mal union.
+- Brachial artery rupture.
+E: Past test Q8 (key E). Lecture complications around the distal humerus/elbow: malunion (cubitus varus), Volkmann's contracture from brachial artery injury, nerve damage, nonunion (Lecture 4). Bicipital tendinitis is not a fracture complication.
+
+Which bone is affected on Kienböck's disease?
+* Lunate
+- Capitate
+- Scaphoid
+- Hamate
+- Triquetrum
+E: Past test Q9 (key D). Kienböck's disease = avascular necrosis of the lunate bone (Lecture 5).
+
+Lateral epicondylitis (tennis elbow) is a degenerative and inflammatory condition that not only affects tennis players, but the population in general, as it is classified as a work-related upper limb disorder. Which of the following options does NOT represent a clinical feature of tennis elbow?
+* Increased pain on resisted wrist flexion and resisted supination.
+- Normal X-ray images.
+- Normal passive and active elbow mobility.
+- Impairment of activities of daily living.
+- Local pain on the lateral epicondyle that irradiates along the extensor muscles.
+E: Past test Q11 (key B). Tennis elbow is a degenerative/inflammatory condition of the common extensor tendon (ECRB predominantly); pain is provoked by resisted wrist EXTENSION, not flexion (Lecture 4).
+
+Which of the following contains the CORRECT statement in regard to DeQuervain's tenosynovitis?
+* It is characterized by thickening of the abductor pollicis longus and extensor pollicis brevis tendons.
+- The Tinel test is one of the diagnostic methods.
+- It is a traumatic injury to the radial styloid process.
+- This condition frequently requires surgery for treatment.
+- Symptoms include pain and paresthesia on the forearm, wrist and fingers.
+E: Past test Q13 (key C). De Quervain's = swelling of the tendon sheaths causing compression and irritation of extensor pollicis brevis and abductor pollicis longus; pain on the thumb side of the wrist (Lecture 5).
+
+A 46-year-old factory worker presents with left shoulder pain. He has been having pain in the left shoulder for three months, without any specific injury. He performs repetitive motions of his upper extremities at work. His pain gets worse when he tries to raise his left arm above shoulder height. On examination, the patient reports pain with passive shoulder forward flexion beyond 90°. A subacromial lidocaine injection is trialed, which provides the patient with complete pain relief. An MRI of the left shoulder is unremarkable. Given the most likely diagnosis, what further clinical examination finding would be positive on examination?
+* Hawkins test
+- Speed's test
+- Cross-body adduction test
+- O'Brien test
+- Yergason's Test
+E: Past test Q15 (key C). Picture of subacromial impingement; Hawkins(-Kennedy) is the impingement test. Hawkins is not named in the lecture text (shoulder: Lecture 3).
+
+Shoulder instabilities can occur in multiple directions regardless of the mechanism of injury. A traumatic shoulder dislocation can damage the connective tissue ring around the glenoid labrum. This injury is commonly seen in athletes who practice volleyball, handball and people who do repetitive overhead activities. What injury is described above and in which direction it predominantly occurs?
+* Bankart injury; anteroinferior.
+- Hill-Sachs injury; anterosuperior.
+- Adhesive capsulitis; posterolateral.
+- Subacromial bursitis; anteromedial.
+- Frozen shoulder; posteroinferior.
+E: Past test Q17 (key E). Traumatic first dislocation mostly occurs anteriorly; associated lesions include Bankart (labrum), with the inferior glenohumeral ligament an important anteroinferior stabilizer (Lecture 3).
+
+A 20-year-old collegiate tennis player presents wrist pain. She notes her pain is worse with her backhand. She has been working with her coaches on improving her swing. After an exam, you diagnose her with intersection syndrome. What would be an appropriate initial treatment?
+* Rest and modified activities
+- Corticosteroid injection
+- Aggressive strengthening program
+- Ice
+- Splinting
+E: Past test Q19 (key A). Overuse condition: first-line is rest and activity modification. Intersection syndrome is not in the lecture text (wrist & hand: Lecture 5).
+
+Choose the CORRECT statement in regards to Dupuytren's contracture.
+* At stage 3, fingers are bent and unable to straighten.
+- Mostly affects the population under 20s.
+- Swelling in the snuff box can be observed.
+- Characterized by an increased laxity in the metacarpophalangeal ligaments.
+- A tighten cord made by the flexor tendon can be observed at stage 2.
+E: Past test Q21 (key A). Dupuytren's = fibrosis of the palmar fascia, mostly over age 50, nodule then cords (of fascia, not flexor tendon), types I–III with fixed finger flexion at the last stage (Lecture 5).
+
+Subacromial bursitis is the result of inflammation that leads to increased fluid production from the synovial cells that line the bursa. Increased fluid production leads to increased pressure of the bursa, resulting in pain in the glenohumeral joint. Which of the options below contains the INCORRECT answer?
+* Inflammation usually occurs by excessive friction of the infraspinatus tendon with the subacromial bursa.
+- Plumbers, carpenters and athletes are commonly affected by this condition.
+- Ultrasound imaging is frequently used to aid on the diagnosis of bursitis.
+- Impingement caused by a hooked acromion type can coexist with subacromial bursitis.
+- Arthritis and infection are possible complications of subacromial bursitis.
+E: Past test Q24 (key E). The friction is with the SUPRASPINATUS tendon (it runs under the acromion), not infraspinatus. (Shoulder: Lecture 3.)
+
+Choose the CORRECT answer regarding the pronator teres syndrome:
+* The median nerve gets entrapped between the two heads of the pronator teres muscle.
+- It presents higher prevalence than the carpal tunnel syndrome
+- It is an inflammation of the pronator teres tendon at the level of the lateral epicondyle.
+- None of the other options is correct.
+- X-ray imaging is the most used method for diagnosis.
+E: Past test Q25 (key A). Pronator teres syndrome = median nerve compression between the two heads of pronator teres; far less common than carpal tunnel syndrome (elbow/forearm: Lecture 4).
+
+Which of the following does NOT contribute to the static stabilization of the shoulder?
+* Subscapularis.
+- Glenoid labrum.
+- Superior glenohumeral ligament.
+- Medial glenohumeral ligament.
+- Negative intra-articular pressure.
+E: Past test Q28 (key E). Static stabilizers: capsular ligaments (SGHL, MGHL, IGHL), glenoid labrum, negative intra-articular pressure. Subscapularis (rotator cuff) is a dynamic stabilizer (Lecture 3).
+
+A 23-year-old female presents with a complaint of pain her right elbow. She is an amateur tennis player that has been working hard to make the team at the local university. On physical exam, she has pain about the lateral epicondyle. When a resisted wrist extension is performed, she is unable to resist a volar force due to pain. What is the cause of the patient's symptoms?
+* Inflammation of the extensor carpi radialis brevis (ECRB) tendon
+- Ulnar nerve entrapment
+- Injury of the ulnar collateral ligament
+- Inflammation of the flexor carpi radialis and the pronator teres
+- Radial nerve entrapment
+E: Past test Q30 (key B). Tennis elbow involves the common extensor tendon, extensor carpi radialis brevis most predominantly (Lecture 4).
+
+The carpal tunnel syndrome (CTS) is a compression neuropathy due to entrapment of the median nerve in the carpal tunnel of the wrist. Read the statements below and choose the INCORRECT one.
+* If compression persists, hypothenar muscular atrophy can be observed.
+- Symptoms include local pain, tenderness and swelling over the affected tendon.
+- Diagnosis can be done by electromyogram.
+- Numbness and tingling on fingers (except the fifth).
+- Occupational tasks with prolonged exposure to hand-transmitted vibration are at increased risk of developing CTS
+E: Past test Q32 (key D). CTS = median nerve entrapment; numbness/tingling, risk with repetitive occupational tasks (Lecture 5). The median nerve supplies the THENAR muscles, so atrophy is thenar, not hypothenar.
+
+Certain diseases show classic radiological signs that resemble fruits, objects or animals, making interpretation of images funny and didactic. The "pooping duck sign" indicates a fracture to which of the bones listed below?
+* Triquetrum.
+- Fifth metacarpal.
+- Capitate.
+- Scaphoid.
+- Lunate.
+E: Past test Q34 (key A). Pooping duck sign = (dorsal) triquetral fracture, seen on the lateral wrist view (Lecture 5).
+
+Adhesive capsulitis is a painful and disabling disorder that affects the shoulder capsule, predominantly in the 50-60s population. Which of the following is a primary cause of this condition?
+* Idiopathic.
+- Traumatic injuries.
+- Immobilization
+- Diabetes.
+- Cardiac diseases.
+E: Past test Q36 (key B). Primary adhesive capsulitis is idiopathic; trauma, immobilization, diabetes are secondary causes/risk factors (shoulder: Lecture 3).
+
+A 30-year-old male construction worker with no significant past medical history presents to the emergency room six hours after his right arm was trapped between two heavy crates. He states the pain was initially bearable, but within the past hour, the pain has become severe. On physical exam, the forearm is bruised with significant swelling. It feels tense upon palpation. The radial pulse is palpable and strong. On x-ray was identified Supracondylar humerus fracture, what complication will likely result several weeks later?
+* Volkmann's contracture
+- Trigger thumb
+- Rhabdomyolysis
+- Acute compartment syndrome
+- There is no later complication on supracondylar humerus fracture
+E: Past test Q39 (key D). Supracondylar fracture complications include Volkmann's contracture (ischemic injury of the brachial artery, permanent flexion of hand and wrist) (Lecture 4). Compartment syndrome is the acute problem; the contracture follows weeks later.
+
+@ Past test: Spine & hip
+According to Cobb's method, scoliosis can be classified as mild if it has an angle of:
+* 14°.
+- 22°.
+- 51°.
+- 8°.
+- 43°.
+E: Past test Q3 (key D). Cobb: ≥10° = scoliosis diagnosis; 10–20° mild; 20–40° moderate; >40° severe (Lecture 7).
+
+Which of the following options contain the CORRECT definition of kyphosis?
+* Curvature of the spine in the sagittal plane, in which the convexity of the curve is directed posteriorly.
+- None of the other options is correct.
+- Curvature of the spine in the sagittal plane, in which the convexity of the curve is directed anteriorly.
+- Curvature of the spine in the frontal plane, in which the convexity of the curve is directed medially.
+- Curvature of the spine in the coronal plane, in which the convexity of the curve is directed to the right side.
+E: Past test Q5 (key A). Kyphosis = curvature in the sagittal plane with convexity directed posteriorly ("hunchback") (Lecture 7).
+
+Among the different types of spine fractures, which correspond to numbers 2 and 4?
+* Burst fracture and seat-belt fracture.
+- Burst fracture and fracture-dislocation.
+- Spiral fracture and wedge fracture.
+- Compression fracture and wedge fracture.
+- Avulsion fracture and fracture-dislocation.
+IMG: img/trauma/pasttest_q7_spine-fractures.jpg
+E: Past test Q7 (key D). 2 = burst (vertebral body "bursts", anterior + middle columns); 4 = seat-belt (flexion-distraction, horizontal split through the posterior elements) (Lecture 7).
+
+Choose the CORRECT answer regarding spondylolysis:
+* All the other options are correct.
+- Symptoms include unilateral tenderness on palpation and pain aggravated by hyperextension.
+- Sports involving repetitive and forceful hyperextension of the spine are among the mechanism for this condition.
+- In most of the cases occur at the lower lumbar level.
+- The Scottie dog sign can be appreciated in an X-ray in oblique projection.
+E: Past test Q14 (key C, "All the above is correct"). Spondylolysis: pars interarticularis defect, 90% at lower lumbar level (L5), mechanism repetitive forceful hyperextension, unilateral tenderness and pain aggravated by hyperextension; Scottie dog sign on oblique X-ray (Lecture 8).
+
+Femoroacetabular impingement (FAI) is a condition in which bone deformity in the acetabulum and/or the femur does not lead them to fit perfectly together during movement. Choose the CORRECT answer in regards to FAI:
+* In pincer type, there is a prominent acetabulum that does not allow the femoral head to perfectly fit in it.
+- The impingement test is performed in extension, adduction and internal rotation of the affect limb.
+- Pain laterally in the hip is a common symptom.
+- None of the other options is correct
+- Bone scintigraphy is the most sensitive imaging method for diagnosis.
+E: Past test Q16 (key A). Pincer type = excessive acetabular coverage; the FADIR test is FLEXION, adduction, internal rotation (Lecture 9).
+
+Read the statements below about the definitions of three pathological conditions that affect the vertebral column and then choose the most appropiate answer. I – Spondylosis is a defect or stress fracture in the pars interarticularis of the vertebral arch. II – Spondylolisis is a degenerative joint disease that initially affects the facet joints and with progression can affect the vertebral bodies and the neural foramina. III – Spondylolisthesis is a slippage of one vertebra compared to another.
+* Only III is correct.
+- I, II and III are correct.
+- I, II and III are incorrect.
+- I and III are correct.
+- II and III are correct
+E: Past test Q31 (key E). Definitions I and II are swapped: spondyloLYSIS is the pars interarticularis defect/stress fracture; spondylosis is the degenerative condition. Spondylolisthesis = slippage (Lecture 8).
+
+Wry neck is a condition in which neck pain and stiffness occurs, often accompanied by spasm of the surrounding neck muscles. Read the statements below and choose the CORRECT answer. I – Sternocleidomastoid becomes tense and causes the neck to twist away from the painful side. II – Pain may radiate down to the arm if associated radiculopathy is present. III – Acute wry neck can be caused by facet joint dysfunction or intervertebral disc injury
+* I, II and III are correct.
+- Only I and II are correct.
+- Only I is correct.
+- Only II and III are correct
+- Only II is correct.
+E: Past test Q37 (key C). Wry neck is not described in the lecture text; key answer. Facet joint dysfunction and disc pathology are listed among spinal pain causes (Lecture 8).
+
+@ Past test: Lower limb
+In regards to ankle and foot amputations, choose the INCORRECT answer.
+* Lisfranc amputation is a disarticulation of the talonavicular and calcaneocuboid joints.
+- The advantage of a Boyd's amputation is that the patient can bear the weight in the stump during short walks.
+- The great toe amputation does not affect standing or walking at slow/moderate pace.
+- Syme's amputation is a total disarticulation of the ankle, with maleoli removal.
+- In Pirogoff amputation, a removal of the anterior 2/3 of the calcaneous is performed, with further rotation and fixation to the remaining distal tibia
+E: Past test Q1 (key C). Disarticulation through the talonavicular and calcaneocuboid joints is the Chopart level; Lisfranc is a (tarso)metatarsal-level amputation (Lecture 13).
+
+A 16-year-old male is playing a tennis match. When diving for a ball he develops a sudden sharp pain inside of his left knee. Upon presentation, to your emergency department, he states he is able to walk on the knee, but has significant difficulty bearing full weight through his leg and comments that it feels "unstable". On physical examination, you notice there is mild swelling without erythema at the site of the knee. On x-ray imaging, you notice no abnormalities of the knee. What diagnostic maneuver would most accurately elicit this patient's diagnosis?
+* Lachman's test
+- McMurray's test
+- Posterior drawer test
+- Valgus stress testing
+- Varus stress testing
+E: Past test Q12 (key D). Pivoting injury with instability = ACL tear; exam: anterior drawer, Lachman, pivot shift (Lecture 10).
+
+A 75-year-old female presents to your office with left knee pain. She was standing on an airplane waiting to get off when she was accidentally pushed by the person next to her. This caused her to fall into the adjacent seat. Her left foot was planted on the floor at the time of the fall, and her knee sustained a twisting type injury. You perform a full examination of the knee and find it is swollen and tender along the joint line. The Apley grind test is used to assess which of the following?
+* Meniscal tear
+- Patella fracture
+- ACL tear
+- Ligament tear
+- Avascular necrosis of the hip
+E: Past test Q23 (key E). Apley's compression test is listed with the meniscal tests (with Thessaly/McMurray) (Lecture 10).
+
+Choose the INCORRECT statement regarding knee ligament injuries:
+* MCL and LCL injuries can be positively detected by the posterior drawer test and quadriceps active test, respectively.
+- Frequently associated with sports.
+- ACL is the most frequent injured ligament.
+- Pain, swelling and reduced ROM are the typical symptoms.
+- Excessive tibial forward motion in the Lachman and anterior drawer test suggests ACL tear.
+E: Past test Q26 (key B). MCL = valgus stress test, LCL = varus stress test; posterior drawer assesses the PCL. ACL is the most frequently injured ligament; excessive forward tibial motion suggests ACL tear (Lecture 10).
+
+Which of the options below is INCORRECT regarding ankle sprains?
+* Deltoid ligament is the most frequently affected.
+- The mechanism of injury is by overstretching the ligaments.
+- All the other options are correct.
+- Syndesmosis injury could be observed in association with this injury.
+- A sprained ligament contributes for recurrence of other sprains.
+E: Past test Q27 (key B). Lateral sprain (inversion + plantarflexion) injures the ATFL (± CFL) – the lateral complex, not the deltoid, is most often affected; syndesmotic sprains also occur (Lecture 11).
+
+Read the statements below regarding the classifications of fractures and then choose the best option. I – A linear fracture occurs in parallel to the bone axis. II – An oblique fracture is diagonal to the bone axis. III – There is no specific mechanism to occur a comminuted fracture, in which a bone breaks into several pieces. IV – The typical mechanism for tibia spiral fractures with a planted foot and twisted leg.
+* All statements are correct.
+- II, III and IV are correct.
+- I and II are correct.
+- I, II and IV are correct
+- I, II and III are correct.
+E: Past test Q33 (key B). Fracture patterns: transverse, oblique, spiral, comminuted, etc. (Lecture 2); tibial spiral fracture from a twisting force on a planted foot.
+
+Which of the statements below is CORRECT regarding meniscal tears?
+* McMurray and Appley's tests are sensitive for meniscal tears.
+- The outer zone (red) cannot heal from a meniscal tear.
+- Meniscal repairs have good prognostic regardless of the zone in the meniscus.
+- Non-operative treatment is the best option for a white zone tear.
+- Lateral tears are more common than medial tears.
+E: Past test Q35 (key D). McMurray and Apley's compression tests are the meniscal tests (Lecture 10). The vascular red zone CAN heal; medial tears are more common.
+
+What is the best initial care for a minor ankle sprain?
+* Cold compress
+- Physical therapy
+- Warm compress
+- Cast
+- None of the other options
+E: Past test Q38 (key E). Acute management = rest, ice/cold, compression, elevation (ankle sprains: Lecture 11).
+
+A football player stays down after a tackle and is in agonizing pain. After performing the valgus stress test, the healthcare provider is concerned that the athlete has suffered a medial collateral ligament tear with distal avulsion. If the provider is correct, where was the tendon avulsed from the bone?
+* The medial surface of the tibia
+- The lateral surface of the tibia
+- None of the other options
+- The neck of the fibula
+- Articular capsule
+E: Past test Q40 (key C). MCL is tested with valgus stress; it inserts distally on the medial tibia, and avulsion from the femoral/tibial insertion is a surgical indication (Lecture 10).
+
+Diagnosis of a complete rupture of the ACL can be made clinically with which combination of tests?
+* Lachman's, pivot shift, anterior drawer
+- Clark's, McMurray's anterior drawer
+- Clark's, McMurray's, pivot shift
+- Lachman's, McMurray's, anterior drawer
+- Lachman's, pivot shift, posterior drawer
+E: Past test (LSI Q6; no key – answered from lecture). ACL physical exam: anterior drawer, Lachman, pivot shift (Lecture 10).
+
+Regarding mediate collateral ligament (MCL) injuries which of the following is NOT true
+* They usually require surgery
+- Are usually caused by a valgus force to a partially flexed knee
+- For higher grade injuries, a brace to restrict knee extension may be required
+- The MCL is stronger and thicker than the lateral colattoral ligament (LCL)
+- Can be associated with medial meniscus and ACL tears
+E: Past test (LSI Q11; no key – answered from lecture). MCL surgery is reserved for displaced avulsion, combined ACL/MCL with persistent laxity, or multiligament injury; the unhappy triad links MCL with ACL and medial meniscus (Lecture 10).
+
+The most frequent injured ligament in the lateral ankle complex is:
+* the anterior talofibular ligament (ATFL)
+- the posterior inferior tibiofibular ligament (PITFL)
+- the posterior talofibular ligament (PFL)
+- the anterior inferior tibiofibular ligament (AITFL)
+- the calcaneofibular ligament (CFL)
+E: Past test (LSI Q16; no key – answered from lecture). Lateral sprain: inversion + plantarflexion → ATFL (± CFL) (Lecture 11).
+
+What is the most accurate way of excluding a ruptured Achilles as a possible diagnosis?
+* a negative Thompson squeeze test
+- if the patient reports no pain
+- if the patient can plantar flex the ankle against resistance
+- if the patient can heel raise in standing
+- if the patient can walk
+E: Past test (LSI Q17; no key – answered from lecture). Thompson test positive (no plantar flexion on calf squeeze) = rupture; patients may still walk (Lecture 11).
+
+Which of the following is a key subjective feature of plantar fasciitis:
+* morning pain with first steps
+- pain that is relieved with wearing flat shoes
+- pain on the lateral aspect of the calcaneus
+- numbness on the plantar surface of the foot
+- pain that eases with increased walking
+E: Past test (LSI Q19; no key – answered from lecture). Medial heel pain especially with first steps in the morning or after rest (Lecture 11).
+
+With reference to knee injuries, the unhappy triad (where 3 structures are damaged), refers to which structures?
+* ACL, MCL and medial meniscus injury
+- PCL, ACL and MCL injury
+- PCL, ACL and medial meniscus injury
+- medial and lateral meniscus, plus ACL injury
+- ACL, LCL and MCL injury
+E: Past test (LSI Q29; no key – answered from lecture). Unhappy (O'Donoghue's) triad = ACL, MCL and medial meniscus (Lecture 10).
+
+@ Past test: Pediatrics
+A 5-year-old male is brought to the office with hip pain. On examination, he exhibits Trendelenburg's sign. Which muscle is tested with this maneuver?
+* Gluteus medius and minimus
+- Iliopsoas
+- Quadriceps
+- Gluteus maximus
+- Tendoachilles
+E: Past test Q4 (key C). Positive Trendelenburg sign = gluteus medius weakness (Lecture 9).
+
+Flat foot is one of the most frequently reported reasons to seek orthopedic opinion in pediatrics. Which of the following is the most common type of flat foot in children?
+* Asymptomatic flexible flat foot.
+- Asymptomatic rigid flat foot.
+- Symptomatic flexible flat foot.
+- Symptomatic rigid flat foot.
+- Rigid semi-flexible flat foot.
+E: Past test Q10 (key A). Not detailed in the lecture text; key answer (flexible flat foot is mostly physiological and asymptomatic). (Foot: Lecture 11.)
+
+Legg-Calvé-Perthes disease is known as idiopathic juvenile avascular necrosis of the femoral head. This condition predominantly affects children from 2 to 14 years old, with a male:female ratio of 5:1. The options below show the typical clinical features presented in this disease, EXCEPT
+* Weakness/atrophy of hip flexors.
+- Discrepancy in the leg length.
+- Positive Tredelenburg test
+- Limp walking.
+- Hip pain exacerbated by hip or leg movements.
+E: Past test Q18 (key E). Perthes: idiopathic juvenile AVN of the femoral head, M:F 5:1; presents with limp, hip pain, Trendelenburg, leg length discrepancy (Lecture 12).
+
+Osgood-Schlatter disease is also known as apophysitis of the tibial tubercle, and is mainly caused by repetitive microtrauma from overuse of knee extensors. The age at which this condition is most likely to occur is _______________, when the apophysis is formed but not yet fused with the tibial epiphysis. Choose the option which correctly fills the gap in the previous sentence.
+* Between 11 and 14 years old.
+- Over 18 years old.
+- Between 14 and 18 years old.
+- Between 8 and 11 years old.
+- Below 8 years old
+E: Past test Q20 (key A). Tibial tubercle ossification: <11 cartilaginous; 11–14 apophysis formed; 14–18 fuses with the tibial epiphysis; >18 fuses with tibia (Lecture 12).
+
+Read the following sentences and choose the CORRET answer regarding growing pain in children.
+* It is characterized by lower pain threshold
+- None of the other options is correct.
+- Ultrasound scan is the most sensitive method of diagnosis.
+- The most common painful areas are the back and upper limbs.
+- It is an inflammatory musculoskeletal pain syndrome.
+E: Past test Q22 (key B). Growing pains = benign, NON-inflammatory pain syndrome of childhood, normal tests, clinical criteria (Lecture 12). The lecture text does not mention pain threshold; key answer kept.
+
+A 12-year-old girl presents with a two-week history of right knee pain that has worsened acutely over the past three days. The patient is on her high school varsity volleyball team and competes with the team year-round. She has found that non-steroidal anti-inflammatories (NSAIDs) have provided some relief, but the pain is aggravated and worsened after each practice session. On examination, there is tenderness and inflammation of the patellar ligament anterior to its insertion at the tibial tuberosity in the right knee. The range of motion is normal in both knees. Pain is elicited from jumping and jogging on the spot. What is the most likely pathology causing this patient's presentation?
+* Osgood–Schlatter disease
+- Medial collateral ligament sprain
+- Suprapatellar bursitis
+- Prepatellar bursitis
+- Lateral collateral ligament sprain
+E: Past test Q29 (key A). Osgood-Schlatter: repetitive knee-extensor contraction in sport → inflammation of the patellar ligament at the tibial tubercle; girls 8–13 (Lecture 12).
