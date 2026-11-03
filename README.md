@@ -2,7 +2,7 @@
 Mobile MCQ quiz site for Nóra's Year 2 physiotherapy classes. Live: https://sanz1987.github.io/omt-trigger-point-quiz/
 
 Classes (home menu → class): each has 20 random questions per session, a topic filter, and a per-class "Review mistakes" list (stored in the browser).
-- **OMT II · Trigger point muscles**: generated from `muscles.json` (origins, insertions, actions, nerves), checked against the Catalyst University slides (page numbers given in explanations).
+- **OMT II · Trigger point muscles**: generated from `muscles.json` (origins, insertions, actions, nerves, blood supply); Kenhub is primary for O/I/N/blood supply, Catalyst University slides kept where Kenhub is silent (audit: `classes/anatomy_audit_2026-11-03.md`).
 - **OMT II · Techniques**, **Pathology of Trauma**, **Biomechanics**, **Research Methodology**, **Pathophysiological Foundations I**: 120 MCQs in `classes/patho1.txt`, rebuilt 2026-10-19 from the 10 numbered 2025-26 lecture PDFs in the Drive folder 'Pathological bases 1' (each explanation names its source lecture).
 
 ## Editing

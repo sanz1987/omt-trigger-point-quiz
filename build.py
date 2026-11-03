@@ -13,7 +13,7 @@ Run: python3 build.py   -> writes index.html and questions.json"""
 import json, random, re, hashlib, sys, os
 random.seed(42)
 CLASSES = [
- ('trigger', 'OMT II · Trigger point muscles', 'Origins, insertions, actions and nerves of the 52 muscles in the Catalyst University trigger-point slides'),
+ ('trigger', 'OMT II · Trigger point muscles', 'Origins, insertions, actions, nerves and blood supply of the 52 trigger-point muscles (Kenhub-checked; Catalyst University slides)'),
  ('omt2', 'OMT II · Techniques', 'Trigger-point theory, Mulligan, MET, myofascial release, MLD, scars & burns, cupping'),
  ('trauma', 'Pathology of Trauma', 'Orthopaedic trauma by region, fracture management, imaging'),
  ('biomech', 'Biomechanics', 'Kinematics, kinetics, gait analysis, measurement, posture, knee, hip, spine'),
@@ -63,16 +63,17 @@ def trigger():
     for a in list(ex):
         for b in list(ex[a]): ex.setdefault(b, set()).add(a)
     def pool(m, f):
-        c = [o for o in M if o['id'] != m['id'] and o['id'] not in ex[m['id']] and o.get(f) and norm(o[f]) != norm(m[f]) and not (f == 'nerve' and (norm(o[f]) in norm(m[f]) or norm(m[f]) in norm(o[f])))]
+        c = [o for o in M if o['id'] != m['id'] and o['id'] not in ex[m['id']] and o['id'] not in m.get('xf', {}).get(f, []) and m['id'] not in o.get('xf', {}).get(f, []) and o.get(f) and norm(o[f]) != norm(m[f]) and not (f == 'nerve' and (norm(o[f]) in norm(m[f]) or norm(m[f]) in norm(o[f])))]
         s = [o for o in c if o['region'] == m['region']]; t = [o for o in c if o['region'] != m['region']]
         random.shuffle(s); random.shuffle(t); return s + t
     def expl(m):
         e = f"{m['name']} — O: {m['origin']}. I: {m['insertion']}. A: {m['action']}."
         if m.get('nerve'): e += f" N: {m['nerve']}."
-        return e + f" (Catalyst slides, p. {m['page']})"
+        if m.get('blood'): e += f" Blood supply: {m['blood']}."
+        return e + f" (Kenhub for O/I/N/blood supply; Catalyst slides, p. {m['page']})"
     Q = []
     stems = {'origin': 'What is the origin of {}?', 'insertion': 'Where does {} insert?',
-             'action': 'What is the main action of {}?', 'nerve': 'Which nerve innervates {} (per the slides)?'}
+             'action': 'What is the main action of {}?', 'nerve': 'Which nerve innervates {}?'}
     for m in M:
         for f in ('origin', 'insertion', 'action', 'nerve'):
             if not m.get(f): continue
@@ -83,6 +84,9 @@ def trigger():
             if len(wrong) < 3: continue
             Q.append({'id': f"trigger-{m['id']}-{f}", 'topic': m['region'], 'q': stems[f].format(m['name']),
                       'options': [m[f]] + wrong, 'answer': 0, 'explanation': expl(m), 'img': m['id']})
+        if m.get('bx') and m.get('blood'):
+            Q.append({'id': f"trigger-{m['id']}-blood", 'topic': m['region'], 'q': f"Which artery mainly supplies {m['name']} (per Kenhub)?",
+                      'options': [m['blood']] + m['bx'], 'answer': 0, 'explanation': expl(m), 'img': m['id']})
         for f in ('insertion', 'origin'):
             if any(o[f].lower() == m[f].lower() for o in M if o['id'] != m['id']): continue
             wrong = [o['name'] for o in pool(m, f)][:3]
